@@ -1286,7 +1286,7 @@
         <game>
 
         <path>./maximusbat-theme-updater.menu</path>
-        <name>.Maximusbat Theme Updater.</name>
+        <name>@Maximusbat Theme Updater@</name>
         <desc>Script to update Theme Maximusbat.</desc>
         <image>./media/maximusbat-theme-updater-logo.png</image>
         <marquee>./media/maximusbat-theme-updater-logo.png</marquee>
