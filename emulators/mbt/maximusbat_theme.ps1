@@ -29,5 +29,3 @@ if (Test-Path $zipFile) {
 } else {
     Write-Host "Errore nel download del file ZIP."
 }
-# Esegui il file BAT
-Start-Process -FilePath $batFile
