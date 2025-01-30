@@ -13,7 +13,7 @@ $url = "https://github.com/MIKCPU/Maximusbat-theme/archive/refs/heads/main.zip"
 
 $destinationFolder = "R:\retrobat"
 
-$finalFolder = "R:\retrobat"  # La stessa cartella di destinazione 'retrobat'
+$finalFolder = "R:\retrobat"  
 
 $batFile = "R:\retrobat\emulators\mbt\move.bat"
 
