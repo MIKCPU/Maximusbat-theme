@@ -3,34 +3,34 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-
 <view name="splash">
-		<splash name="splash">
-			<backgroundColor>ffffff</backgroundColor>
-		</splash>
+	<splash name="splash">
+		<backgroundColor>222222</backgroundColor>
+	</splash>
 
-		<image name="background">
-			<path>./../Maximusbat/.loading/background.png</path>
-		</image>
+	<image name="background">
+		<path>./../Maximusbat/.loading/background.png</path>
+	</image>
 
+	<image name="progressbarbg" extra="true">
+		<color>F44336</color>
+		<colorEnd>F3EF00</colorEnd>
+		<zIndex>5</zIndex>
+		<padding>0.01</padding>
+	</image>
 
-		<image name="progressbarbg" extra="true">
-			<color>F44336</color>
-			<colorEnd>F3EF00</colorEnd>
-			<zIndex>5</zIndex>
-		</image>
+	<image name="progressbar">
+		<color>F3EF00</color>
+		<colorEnd>F44336</colorEnd>
+		<gradientType>vertical</gradientType>
+		<opacity>0.8</opacity>
+	</image>
 
-
-		<image name="progressbar">
-			<color>F3EF00</color>
-			<colorEnd>F3EF00</colorEnd>
-			</image>
-		
-		<image name="progressbar:active">
-			<color>F44336</color>
-			<colorEnd>F44336</colorEnd>
-			<zIndex>7</zIndex>
-		</image>
+	<image name="progressbar:active">
+		<color>F44336</color>
+		<colorEnd>F44336</colorEnd>
+		<zIndex>7</zIndex>
+	</image>
 
 <!-- 
 		<image name="splashlogo" extra="true">
