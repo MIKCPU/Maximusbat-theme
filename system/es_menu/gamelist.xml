@@ -1351,27 +1351,7 @@
 		<lang>en</lang>
 		<region>wr</region>
 	</game>
-        <game>
-
-        <path>./maximusbat-theme-updater.menu</path>
-        <name>@Maximusbat Theme Updater@</name>
-        <desc>Script to update Theme Maximusbat.</desc>
-        <image>./media/maximusbat-theme-updater-logo.png</image>
-        <marquee>./media/maximusbat-theme-updater-logo.png</marquee>
-        <rating>0</rating>
-        <releasedate />
-        <developer>MIKCPU</developer>
-        <publisher>MIKCPU</publisher>
-        <genre>Script</genre>
-        <playcount />
-        <lastplayed />
-        <gametime />
-        <lang>en</lang>
-        <region>wr</region>
-      </game>    
-      <game>
-
-      <game>
+    <game>
         <path>./pixn-rb-update-service.menu</path>
         <name>.PixN Update Service.</name>
         <desc>Script to update the Team Pixel Nostalgia supplied content.</desc>
@@ -1387,5 +1367,22 @@
         <gametime />
         <lang>en</lang>
         <region>wr</region>
-      </game>
+    </game>
+    <game>
+        <path>./maximusbat-theme-updater.menu</path>
+        <name>@Maximusbat Theme Updater@</name>
+        <desc>Script to update Theme Maximusbat.</desc>
+        <image>./media/maximusbat-theme-updater-logo.png</image>
+        <marquee>./media/maximusbat-theme-updater-logo.png</marquee>
+        <rating>0</rating>
+        <releasedate />
+        <developer>MIKCPU</developer>
+        <publisher>MIKCPU</publisher>
+        <genre>Script</genre>
+        <playcount />
+        <lastplayed />
+        <gametime />
+        <lang>en</lang>
+        <region>wr</region>
+    </game>    
 </gameList>
