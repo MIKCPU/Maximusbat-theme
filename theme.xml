@@ -170,17 +170,25 @@ version         2.1
             <maxSize>0.300 0.226</maxSize>
             <origin>0.5 0.5</origin>
         </image>
-      <video name="md_video">
-         <origin>0.5 0.5</origin>
-         <pos>0.164 0.46</pos>
-         <maxSize>0.22 0.32</maxSize>
-		 <effect>none</effect>
-		 <delay>1.5</delay>
-         <default>./_inc/videos/static.mp4</default>
-         <showSnapshotNoVideo>true</showSnapshotNoVideo>
-         <showSnapshotDelay>true</showSnapshotDelay>
-         <snapshotSource>image</snapshotSource>
-      </video>
+<image name="md_snapshot">
+   <path>{game:snapshot}</path>
+   <pos>0.05 0.3</pos>
+   <size>0.27 0.35</size>
+   <origin>0.5 0.5</origin>
+   <visible>true</visible>
+</image>
+<video name="md_video">
+   <origin>0 0</origin>
+   <pos>0.0286 0.2917</pos>
+   <size>0.27 0.35</size>
+   <effect>none</effect>
+   <delay>1.5</delay>
+   <default>./_inc/videos/static.mp4</default>
+   <showSnapshotNoVideo>true</showSnapshotNoVideo>
+   <showSnapshotDelay>true</showSnapshotDelay>
+   <snapshotSource>image</snapshotSource>
+</video>
+
       <image name="md_marquee">
          <pos>0.1 0.035</pos>
          <origin>0 0</origin>
