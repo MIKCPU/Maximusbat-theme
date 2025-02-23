@@ -37,6 +37,7 @@ version         2.1
 </feature>
 
    <view name="system,basic,detailed,video">
+
       <helpsystem name="help">
          <textColor>777777</textColor>
          <iconColor>77777750</iconColor>
@@ -85,6 +86,7 @@ version         2.1
          <size>1 1</size>
          <path>./_inc/images/backgrounddetail.png</path>
       </image>
+
       <text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount, md_rating, md_developer, md_publisher, md_genre, md_playcount, md_lastplayed">
          <pos>1 1</pos>
       </text>
