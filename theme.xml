@@ -42,6 +42,17 @@ version         2.2
          <textColor>777777</textColor>
          <iconColor>77777750</iconColor>
       </helpsystem>
+   <controllerActivity name="controllerActivity">
+       <pos>0.02 0.02</pos>
+       <size>0.12 0.035</size>
+       <itemSpacing>0.01</itemSpacing>
+       <imagePath>./_inc/images/gamepad.png</imagePath>
+       <gunPath>./_inc/images/gun.png</gunPath>
+       <wheelPath>./_inc/images/wheel.png</wheelPath>
+       <activityColor>FFFFFFFF</activityColor>
+       <hotkeyColor>FF0000</hotkeyColor>
+   </controllerActivity>
+
    </view>
 
    <view name="basic,detailed,video">
@@ -172,6 +183,18 @@ version         2.2
          <maxSize>0.300 0.226</maxSize>
          <origin>0.5 0.5</origin>
       </image>
+<image name="controller_image">
+   <path>./_inc/controllers/${system.theme}.png</path>
+   <pos>0.58 0.80</pos>
+   <origin>0.5 0.5</origin>
+   <maxSize>0.2 0.2</maxSize>
+</image>
+<image name="controller_image" extra="true">
+   <path>./_inc/controllers/${system.theme}-it.png</path>
+   <pos>0.58 0.85</pos>
+   <origin>0.5 0.5</origin>
+   <maxSize>0.2 0.2</maxSize>
+</image>
       <image name="logo" extra="true">
          <path>./_inc/logos/${system.theme}-it.png</path>
          <pos>0.5000 0.100000000</pos>
