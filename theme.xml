@@ -33,15 +33,6 @@ version         2.2
          <fontPath>./_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
 	 <fontSize>0.03</fontSize>
       </text>
-   </view>
-</feature>
-
-   <view name="system,basic,detailed,video">
-
-      <helpsystem name="help">
-         <textColor>777777</textColor>
-         <iconColor>77777750</iconColor>
-      </helpsystem>
    <controllerActivity name="controllerActivity">
        <pos>0.02 0.02</pos>
        <size>0.12 0.035</size>
@@ -52,7 +43,15 @@ version         2.2
        <activityColor>FFFFFFFF</activityColor>
        <hotkeyColor>FF0000</hotkeyColor>
    </controllerActivity>
+   </view>
+</feature>
 
+   <view name="system,basic,detailed,video">
+
+      <helpsystem name="help">
+         <textColor>777777</textColor>
+         <iconColor>77777750</iconColor>
+      </helpsystem>
    </view>
 
    <view name="basic,detailed,video">
