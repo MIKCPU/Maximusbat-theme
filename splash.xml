@@ -32,12 +32,12 @@
 		<zIndex>7</zIndex>
 	</image>
 
-<!-- 
 		<image name="splashlogo" extra="true">
 			<path>./_inc/assets/splashlogo.png</path>
-			<size>0.3216458333333333 0.1666666666666667</size>
-			<pos>0.2213541666666667 0.4166666666666667</pos>
-		</image> -->
+			<size>0.104 0.185</size>
+			<pos>0.0 0.0</pos>
+                        <origin>0 0</origin>
+		</image>
 
 
 		
