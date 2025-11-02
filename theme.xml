@@ -201,7 +201,17 @@ version         2.2
    <origin>0.5 0.5</origin>
    <maxSize>0.2 0.2</maxSize>
 </image>
-      <image name="logo" extra="true">
+<image name="system_device">
+   <path>./_inc/devices/${system.theme}.png</path>
+   <pos>0.165 0.83</pos>
+   <origin>0.5 0.5</origin>
+   <maxSize>0.34 0.23</maxSize>
+</image><image name="system_device" extra="true">
+   <path>./_inc/devices/${system.theme}-it.png</path>
+   <pos>0.165 0.83</pos>
+   <origin>0.5 0.5</origin>
+   <maxSize>0.34 0.23</maxSize>
+</image>      <image name="logo" extra="true">
          <path>./_inc/logos/${system.theme}-it.png</path>
          <pos>0.5000 0.100000000</pos>
          <maxSize>0.300 0.226</maxSize>
