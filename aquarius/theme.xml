@@ -9,6 +9,30 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Mattel Aquarius Home Computer System  is a home computer designed by Radofin and released by Mattel in 1983. It features a Zilog Z80microprocessor, a rubber chiclet keyboard, 4K of RAM, and a subset of Microsoft BASIC in ROM. It connects to a television set for audio and visual output, and uses a cassette tape recorder for secondary data storage. Although less expensive than the TI-99/4A and Commodore VIC-20, the Aquarius had comparatively weak graphics and limited memory. Of the 32 software titles Mattel announced for the unit, only 21 were released, most of which were ports from Mattel's Intellivision game console. 
+Shortly after the release of the Aquarius, Mattel announced plans for another home computer, the Aquarius II. There is evidence that the Aquarius II reached the market in small numbers, but it was never a commercial success.</text>
+			<text lang="es">El Mattel Aquarius Home Computer System es un ordenador doméstico diseñado por Radofin y comercializado por Mattel en 1983. Cuenta con un microprocesador Zilog Z80, un teclado de goma, 4K de RAM y un subconjunto de Microsoft BASIC en ROM. Se conecta a un televisor para la salida de audio y vídeo, y utiliza una grabadora de casete para el almacenamiento secundario de datos. Aunque era menos caro que la TI-99/4A y el Commodore VIC-20, el Aquarius tenía unos gráficos comparativamente débiles y una memoria limitada. De los 32 títulos de software que Mattel anunció para la unidad, sólo se lanzaron 21, la mayoría de los cuales eran adaptaciones de la videoconsola Intellivision de Mattel. 
+Poco después del lanzamiento del Aquarius, Mattel anunció planes para otro ordenador doméstico, el Aquarius II. Hay pruebas de que el Aquarius II llegó al mercado en pequeñas cantidades, pero nunca fue un éxito comercial.</text>
+			<text lang="de">Das Mattel Aquarius Home Computer System ist ein Heimcomputer, der von Radofin entwickelt und von Mattel 1983 herausgegeben wurde. Er verfügt über einen Zilog Z80-Mikroprozessor, eine Gummi-Chiplet-Tastatur, 4K RAM und eine Teilmenge von Microsoft BASIC im ROM. Für die Audio- und Bildausgabe wird er an einen Fernseher angeschlossen, und für die sekundäre Datenspeicherung wird ein Kassettenrekorder verwendet. Der Aquarius war zwar billiger als der TI-99/4A und der Commodore VIC-20, hatte aber eine vergleichsweise schwache Grafik und einen begrenzten Speicher. Von den 32 Software-Titeln, die Mattel für das Gerät angekündigt hatte, wurden nur 21 veröffentlicht, die meisten davon waren Portierungen von Mattels Intellivision-Spielkonsole. 
+Kurz nach der Veröffentlichung des Aquarius kündigte Mattel Pläne für einen weiteren Heimcomputer an, den Aquarius II. Es gibt Hinweise darauf, dass der Aquarius II in kleinen Stückzahlen auf den Markt kam, aber er war nie ein kommerzieller Erfolg.</text>
+			<text lang="fr">Le Mattel Aquarius Home Computer System est un ordinateur domestique conçu par Radofin et commercialisé par Mattel en 1983. Il est équipé d'un microprocesseur Zilog Z80, d'un clavier chiclet en caoutchouc, de 4K de RAM et d'un sous-ensemble de Microsoft BASIC en ROM. Il se connecte à un téléviseur pour les sorties audio et visuelles, et utilise un magnétophone à cassettes pour le stockage secondaire des données. Bien que moins cher que la TI-99/4A et le Commodore VIC-20, l'Aquarius avait des graphismes comparativement faibles et une mémoire limitée. Sur les 32 logiciels annoncés par Mattel pour l'Aquarius, seuls 21 sont sortis, la plupart étant des portages de la console de jeu Intellivision de Mattel. 
+Peu après la sortie de l'Aquarius, Mattel a annoncé des plans pour un autre ordinateur domestique, l'Aquarius II. Il existe des preuves que l'Aquarius II a été commercialisé en petit nombre, mais il n'a jamais été un succès commercial.</text>
+			<text lang="it">Il Mattel Aquarius Home Computer System è un home computer progettato da Radofin e distribuito da Mattel nel 1983. È dotato di un microprocessore Zilog Z80, una tastiera chiclet in gomma, 4K di RAM e un sottoinsieme di Microsoft BASIC in ROM. Si collega a un televisore per l'uscita audio e visiva e utilizza un registratore a cassette per l'archiviazione secondaria dei dati. Sebbene meno costoso del TI-99/4A e del Commodore VIC-20, l'Aquarius aveva una grafica relativamente debole e una memoria limitata. Dei 32 titoli software annunciati da Mattel per l'unità, ne furono rilasciati solo 21, la maggior parte dei quali erano dei porting dalla console Intellivision di Mattel. 
+Poco dopo l'uscita dell'Aquarius, Mattel annunciò i piani per un altro home computer, l'Aquarius II. Ci sono evidenze che l'Aquarius II raggiunse il mercato in piccole quantità, ma non fu mai un successo commerciale.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

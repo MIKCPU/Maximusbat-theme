@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Aleck 64 is the Nintendo 64 design in arcade form, designed by SETA in cooperation with Nintendo, and sold from 1998 to 2003 only in Japan. It essentially consists of a Nintendo 64 board retrofitted with the sound capabilities which are standard for arcade games of the time. Nintendo and SETA began working on their agreement for the board in 1996, hoping to recreate the business model Namco and Sony Computer Entertainment displayed with the Namco System 11, to facilitate conversions of arcade games. Released in 1998, the Aleck 64 was the Nintendo equivalent of the Namco System 11/12 or Sega Titan Video (ST-V). Games were produced for it until 2003/4, possibly making one of them technically the last N64 game.</text>
+			<text lang="es">El Aleck 64 es el diseño de Nintendo 64 en forma arcade, diseñado por SETA en cooperación con Nintendo, y vendido de 1998 a 2003 sólo en Japón. Consiste esencialmente en una placa de Nintendo 64 retroadaptada con las capacidades de sonido habituales en los juegos arcade de la época. Nintendo y SETA empezaron a trabajar en su acuerdo para la placa en 1996, con la esperanza de recrear el modelo de negocio que Namco y Sony Computer Entertainment mostraron con la Namco System 11, para facilitar las conversiones de los juegos arcade. Lanzada en 1998, la Aleck 64 fue el equivalente para Nintendo de la Namco System 11/12 o la Sega Titan Video (ST-V). Se produjeron juegos para ella hasta 2003/4, lo que posiblemente convirtió a uno de ellos técnicamente en el último juego de N64.</text>
+			<text lang="de">Das Aleck 64 ist das Nintendo 64-Design in Arcade-Form, das von SETA in Zusammenarbeit mit Nintendo entwickelt und von 1998 bis 2003 nur in Japan verkauft wurde. Es besteht im Wesentlichen aus einer Nintendo 64-Platine, die mit den für Arcade-Spiele dieser Zeit üblichen Soundfunktionen nachgerüstet wurde. Nintendo und SETA begannen 1996 mit der Ausarbeitung ihrer Vereinbarung für das Board, in der Hoffnung, das Geschäftsmodell, das Namco und Sony Computer Entertainment mit dem Namco System 11 an den Tag legten, nachahmen zu können, um die Konvertierung von Arcade-Spielen zu erleichtern. Das 1998 erschienene Aleck 64 war das Nintendo-Pendant zum Namco System 11/12 oder Sega Titan Video (ST-V). Bis 2003/4 wurden Spiele für das System produziert, von denen eines möglicherweise das technisch letzte N64-Spiel war.</text>
+			<text lang="fr">L'Aleck 64 est le design de la Nintendo 64 sous forme de jeu d'arcade, conçu par SETA en coopération avec Nintendo, et vendu de 1998 à 2003 uniquement au Japon. Il s'agit essentiellement d'une carte Nintendo 64 équipée des fonctionnalités sonores standard pour les jeux d'arcade de l'époque. Nintendo et SETA ont commencé à travailler sur leur accord pour la carte en 1996, dans l'espoir de recréer le modèle commercial que Namco et Sony Computer Entertainment avaient mis en place avec la Namco System 11, afin de faciliter les conversions de jeux d'arcade. Sorti en 1998, l'Aleck 64 était l'équivalent Nintendo de la Namco System 11/12 ou de la Sega Titan Video (ST-V). Des jeux ont été produits pour cette console jusqu'en 2003/4, ce qui pourrait faire de l'un d'entre eux le dernier jeu N64.</text>
+			<text lang="it">Aleck 64 è il design del Nintendo 64 in forma arcade, progettato da SETA in collaborazione con Nintendo e venduto dal 1998 al 2003 solo in Giappone. Consiste essenzialmente in una scheda per Nintendo 64 dotata di funzionalità audio standard per i giochi arcade dell'epoca. Nintendo e SETA iniziarono a lavorare all'accordo per la scheda nel 1996, sperando di ricreare il modello commerciale che Namco e Sony Computer Entertainment avevano messo in piedi con il Namco System 11, per facilitare le conversioni dei giochi arcade. Rilasciato nel 1998, l'Aleck 64 era l'equivalente Nintendo del Namco System 11/12 o del Sega Titan Video (ST-V). I giochi sono stati prodotti fino al 2003/4, il che potrebbe rendere uno di essi tecnicamente l'ultimo gioco per N64.</text>   
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

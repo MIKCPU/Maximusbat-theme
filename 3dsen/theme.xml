@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>3dSen is an emulator that can convert classic 2D games for the Nintendo Entertainment System (NES) into 3D in real-time.The emulator allows to change the camera angles and zoom in and out while playing the game, giving a new perspective on classic games like Super Mario Bros, The Legend of Zelda, Metroid, and Castlevania. It supports both keyboard and controller inputs, and allows to create save states and dynamic skyboxes.</text>
+			<text lang="it">3dSen è un emulatore in grado di convertire i classici giochi 2D per Nintendo Entertainment System (NES) in 3D in tempo reale. L'emulatore permette di cambiare l'angolazione della telecamera e di zoomare durante il gioco, offrendo una nuova prospettiva su giochi classici come Super Mario Bros, The Legend of Zelda, Metroid e Castlevania. Supporta sia gli input da tastiera che da controller e permette di creare stati di salvataggio e skybox dinamici.</text>
+			<text lang="fr">3dSen est un émulateur qui permet de convertir les jeux classiques en 2D de la Nintendo Entertainment System (NES) en 3D en temps réel. L'émulateur permet de changer l'angle de la caméra et de faire des zooms avant et arrière pendant le jeu, ce qui donne une nouvelle perspective aux jeux classiques comme Super Mario Bros, The Legend of Zelda, Metroid et Castlevania. Il prend en charge les entrées au clavier et à la manette, et permet de créer des états de sauvegarde et des skyboxes dynamiques.</text>
+			<text lang="de">3dSen ist ein Emulator, der klassische 2D-Spiele für das Nintendo Entertainment System (NES) in Echtzeit in 3D umwandeln kann. Der Emulator erlaubt es, die Kameraperspektive zu ändern und während des Spielens hinein- und herauszuzoomen, was eine neue Perspektive auf klassische Spiele wie Super Mario Bros, The Legend of Zelda, Metroid und Castlevania ermöglicht. Er unterstützt sowohl Tastatur- als auch Controllereingaben und ermöglicht die Erstellung von Speicherständen und dynamischen Skyboxen.</text>
+			<text lang="es">3dSen es un emulador que puede convertir juegos clásicos en 2D para la Nintendo Entertainment System (NES) en 3D en tiempo real. El emulador permite cambiar los ángulos de la cámara y acercar y alejar la imagen mientras se juega, dando una nueva perspectiva a juegos clásicos como Super Mario Bros, The Legend of Zelda, Metroid y Castlevania. Es compatible tanto con el teclado como con el mando, y permite crear estados de guardado y skyboxes dinámicos.</text>
+         <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
