@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Locomalito is a Spanish developer with a reputation for making polished and nostalgia-inducing games, noted for his distinct philosophy of game making, focusing on challenge, tight design and consistent fun experiences.</text>
+			<text lang="es">Locomalito es un desarrollador español famoso por crear juegos perfeccionados que despiertan la nostalgia. Destaca por su particular filosofía de creación de juegos, centrada en el desafío, un diseño ajustado y experiencias divertidas constantes.</text>
+			<text lang="de">Locomalito ist ein spanischer Entwickler, der dafür bekannt ist, ausgefeilte und nostalgisch anmutende Spiele zu entwickeln. Er ist bekannt für seine ausgeprägte Spielphilosophie, die sich auf Herausforderungen, ein ausgefeiltes Design und konsistente Spielerlebnisse konzentriert.</text>
+			<text lang="fr">Locomalito est un développeur espagnol réputé pour ses jeux soignés et empreints de nostalgie. Il se distingue par sa philosophie de création de jeux, axée sur le défi, une conception rigoureuse et des expériences amusantes et cohérentes.</text>
+			<text lang="it">Locomalito è uno sviluppatore spagnolo famoso per la realizzazione di giochi raffinati e nostalgici, noto per la sua filosofia di gioco che si concentra sulla sfida, sul design accurato e su esperienze di divertimento costanti.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The British Broadcasting Corporation Microcomputer System, or BBC Micro, is a series of home computers produced since 1981 by Acorn Computers for the BBC Computer Literacy Project. Thanks to this microcomputer Great Britain became one of the most computerized countries in the world. The first type Model A BBC Micro had MOS6502 processor clocked at 2 MHz and 16 KB RAM. It could operate in eight graphic modes: from 640×256 (from Model B) in two colors, to 40×25 in eight colors. Although 12 models of the microcomputer were produced, the term BBC Micro is usually used for the first 4 models: Model A, B, B+64 and B+128.</text>
+			<text lang="es">El British Broadcasting Corporation Microcomputer System, o BBC Micro, es una serie de ordenadores domésticos producidos desde 1981 por Acorn Computers para el BBC Computer Literacy Project. Gracias a este microordenador, Gran Bretaña se convirtió en uno de los países más informatizados del mundo. El primer tipo Modelo A BBC Micro tenía un procesador MOS6502 a 2 MHz y 16 KB de RAM. Podía funcionar en ocho modos gráficos: desde 640×256 (del Modelo B) en dos colores, hasta 40×25 en ocho colores. Aunque se fabricaron 12 modelos del microordenador, el término BBC Micro se suele utilizar para los 4 primeros modelos: Modelo A, B, B+64 y B+128.</text>
+			<text lang="de">Das British Broadcasting Corporation Microcomputer System, kurz BBC Micro, ist eine Serie von Heimcomputern, die seit 1981 von Acorn Computers für das BBC Computer Literacy Project hergestellt werden. Dank dieses Mikrocomputers wurde Großbritannien zu einem der am stärksten computerisierten Länder der Welt. Das erste Modell A des BBC Micro hatte einen MOS6502-Prozessor mit einer Taktfrequenz von 2 MHz und 16 KB RAM. Er konnte in acht Grafikmodi arbeiten: von 640×256 (vom Modell B) in zwei Farben bis 40×25 in acht Farben. Obwohl 12 Modelle des Mikrocomputers hergestellt wurden, wird die Bezeichnung BBC Micro gewöhnlich für die ersten 4 Modelle verwendet: Modell A, B, B+64 und B+128.</text>
+			<text lang="fr">Le British Broadcasting Corporation Microcomputer System, ou BBC Micro, est une série d'ordinateurs domestiques produits depuis 1981 par Acorn Computers pour le BBC Computer Literacy Project. Grâce à ce micro-ordinateur, la Grande-Bretagne est devenue l'un des pays les plus informatisés au monde. Le premier modèle A de BBC Micro était équipé d'un processeur MOS6502 cadencé à 2 MHz et d'une mémoire vive de 16 Ko. Il pouvait fonctionner en huit modes graphiques : de 640×256 (à partir du modèle B) en deux couleurs, à 40×25 en huit couleurs. Bien que 12 modèles de micro-ordinateurs aient été produits, le terme BBC Micro est généralement utilisé pour les 4 premiers modèles : Modèle A, B, B+64 et B+128.</text>
+			<text lang="it">Il British Broadcasting Corporation Microcomputer System, o BBC Micro, è una serie di home computer prodotti dal 1981 da Acorn Computers per il BBC Computer Literacy Project. Grazie a questo microcomputer la Gran Bretagna è diventata uno dei Paesi più informatizzati al mondo. Il primo tipo Model A BBC Micro aveva un processore MOS6502 con clock a 2 MHz e 16 KB di RAM. Poteva operare in otto modalità grafiche: da 640×256 (dal Modello B) a due colori, a 40×25 a otto colori. Sebbene siano stati prodotti 12 modelli di microcomputer, il termine BBC Micro viene solitamente utilizzato per i primi 4 modelli: Modello A, B, B+64 e B+128.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
