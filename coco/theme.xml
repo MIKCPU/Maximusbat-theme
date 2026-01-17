@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>TRS-80 Color Computer, also Tandy Color Computer, a series of eight-bit personal computers developed and marketed by Tandy Corporation in the 1980s.The first model was released in 1980, and production ended in 1991 with the Color Computer 3. Despite its name, it was not compatible with the TRS-80 computer. The success of that computer prompted the company to develop new designs, resulting in TRS-80 compatible models as well as completely different models. The company began adding TRS-80 to the name of computers completely unrelated to the first model. Tandy Corporation sold 200,000 copies of the TRS-80 Model I in 1980, making it the best-selling personal computer in the US.</text>
+			<text lang="es">TRS-80 Color Computer, también Tandy Color Computer, una serie de ordenadores personales de ocho bits desarrollados y comercializados por Tandy Corporation en los años 80. El primer modelo salió al mercado en 1980, y la producción finalizó en 1991 con el Color Computer 3. A pesar de su nombre, no era compatible con el ordenador TRS-80. A pesar de su nombre, no era compatible con el ordenador TRS-80. El éxito de ese ordenador impulsó a la empresa a desarrollar nuevos diseños, lo que dio lugar a modelos compatibles con TRS-80, así como a modelos completamente diferentes. La empresa empezó a añadir TRS-80 al nombre de ordenadores completamente ajenos al primer modelo. Tandy Corporation vendió 200.000 copias del TRS-80 Modelo I en 1980, lo que lo convirtió en el ordenador personal más vendido en Estados Unidos.</text>
+			<text lang="de">TRS-80 Color Computer, auch Tandy Color Computer, eine Serie von Acht-Bit-Personalcomputern, die von der Tandy Corporation in den 1980er Jahren entwickelt und vermarktet wurde. 1980 kam das erste Modell auf den Markt, die Produktion endete 1991 mit dem Color Computer 3. Trotz seines Namens war er nicht mit dem TRS-80 Computer kompatibel. Der Erfolg dieses Computers veranlasste das Unternehmen, neue Designs zu entwickeln, die sowohl TRS-80-kompatible Modelle als auch völlig andere Modelle hervorbrachten. Das Unternehmen begann, den Namen von Computern, die nichts mit dem ersten Modell zu tun hatten, um den Zusatz TRS-80 zu ergänzen. Im Jahr 1980 verkaufte die Tandy Corporation 200.000 Exemplare des TRS-80 Model I und machte ihn damit zum meistverkauften Personal Computer in den USA.</text>
+			<text lang="fr">TRS-80 Color Computer, ou Tandy Color Computer, une série d'ordinateurs personnels huit bits développés et commercialisés par Tandy Corporation dans les années 1980. Le premier modèle est sorti en 1980, et la production s'est achevée en 1991 avec le Color Computer 3. Malgré son nom, il n'était pas compatible avec l'ordinateur TRS-80. Le succès de cet ordinateur a incité l'entreprise à développer de nouveaux modèles, ce qui a donné naissance à des modèles compatibles avec le TRS-80 ainsi qu'à des modèles complètement différents. La société a commencé à ajouter TRS-80 au nom d'ordinateurs n'ayant aucun rapport avec le premier modèle. Tandy Corporation a vendu 200 000 exemplaires du TRS-80 Model I en 1980, ce qui en a fait l'ordinateur personnel le plus vendu aux États-Unis.</text>
+			<text lang="it">TRS-80 Color Computer, detta anche Tandy Color Computer, è una serie di personal computer a otto bit sviluppati e commercializzati da Tandy Corporation negli anni '80. Il primo modello è stato rilasciato nel 1980 e la produzione è terminata nel 1991 con il Color Computer 3. Nonostante il nome, non era compatibile con il computer TRS-80. Il successo di questo computer spinse l'azienda a sviluppare nuovi progetti, dando vita a modelli compatibili con il TRS-80 e a modelli completamente diversi. L'azienda iniziò ad aggiungere TRS-80 al nome di computer completamente estranei al primo modello. Nel 1980 Tandy Corporation vendette 200.000 copie del TRS-80 Model I, diventando così il personal computer più venduto negli Stati Uniti.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

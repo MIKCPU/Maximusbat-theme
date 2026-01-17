@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Clone Hero is a freeware music rhythm video game created by Ryan Foster, first released in alpha on March 1, 2017, receiving a full release on November 29, 2022. The game is a clone of the Guitar Hero franchise with nearly identical gameplay. The main draw of the game is its ability to play community-made songs, which has resulted in a large fan community around the game as well as a resurgence in popularity for the genre.</text>
+			<text lang="es">Clone Hero es un videojuego gratuito de ritmo musical creado por Ryan Foster, lanzado por primera vez en alfa el 1 de marzo de 2017, recibiendo un lanzamiento completo el 29 de noviembre de 2022. El juego es un clon de la franquicia Guitar Hero con una jugabilidad casi idéntica. El principal atractivo del juego es su capacidad para reproducir canciones creadas por la comunidad, lo que ha dado lugar a una gran comunidad de fans en torno al juego, así como a un resurgimiento de la popularidad del género.</text>
+			<text lang="de">Clone Hero ist ein Freeware-Musik-Rhythmus-Videospiel von Ryan Foster, das am 1. März 2017 erstmals in der Alpha-Version veröffentlicht wurde und am 29. November 2022 eine Vollversion erhielt. Das Spiel ist ein Klon der Guitar Hero-Franchise mit nahezu identischem Gameplay. Die Hauptattraktion des Spiels ist die Möglichkeit, von der Community erstellte Songs zu spielen, was zu einer großen Fangemeinde rund um das Spiel sowie zu einem Wiederaufleben der Popularität des Genres geführt hat.</text>
+			<text lang="fr">Clone Hero est un jeu vidéo gratuit de rythme musical créé par Ryan Foster, d'abord sorti en alpha le 1er mars 2017, recevant une version complète le 29 novembre 2022. Le jeu est un clone de la franchise Guitar Hero avec un gameplay presque identique. Le principal attrait du jeu est sa capacité à jouer des chansons créées par la communauté, ce qui a donné lieu à une grande communauté de fans autour du jeu ainsi qu'à une résurgence de la popularité du genre.</text>
+			<text lang="it">Clone Hero è un videogioco ritmico musicale freeware creato da Ryan Foster, rilasciato per la prima volta in versione alpha il 1° marzo 2017, per poi ricevere il rilascio completo il 29 novembre 2022. Il gioco è un clone del franchise di Guitar Hero con un gameplay quasi identico. L'attrattiva principale del gioco è la possibilità di suonare canzoni create dalla comunità, che ha portato a una grande comunità di fan intorno al gioco e a una rinascita della popolarità del genere.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

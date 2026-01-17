@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Fairchild Channel F, short for "Channel Fun", was the first programmable ROM cartridge–based video game console, and the first console to use a microprocessor. It was released by Fairchild Semiconductor in November 1976 across North America. It was originally named "Video Entertainment System", but when Atari released its Video Computer System the next year, Fairchild changed the name for its machine, although they continued to use the old name alongside it. By 1977, the Fairchild Channel F had sold about 250,000 units, trailing behind sales of the VCS. In 1983, the production of the system was discontinued.</text>
+			<text lang="es">La Fairchild Channel F, abreviatura de "Channel Fun", fue la primera consola de videojuegos basada en cartuchos ROM programables, y la primera consola en utilizar un microprocesador. Fue lanzada por Fairchild Semiconductor en noviembre de 1976 en Norteamérica. Originalmente se llamaba "Video Entertainment System", pero cuando Atari lanzó su Video Computer System al año siguiente, Fairchild cambió el nombre para su máquina, aunque siguió utilizando el antiguo nombre junto a ella. En 1977, el Fairchild Channel F había vendido unas 250.000 unidades, por detrás de las ventas del VCS. En 1983, se interrumpió la producción del sistema.</text>
+			<text lang="de">Der Fairchild Channel F, kurz für "Channel Fun", war die erste programmierbare Videospielkonsole auf ROM-Kassettenbasis und die erste Konsole, die einen Mikroprozessor verwendete. Sie wurde von Fairchild Semiconductor im November 1976 in Nordamerika auf den Markt gebracht. Ursprünglich trug sie den Namen "Video Entertainment System", aber als Atari im darauf folgenden Jahr sein Video Computer System herausbrachte, änderte Fairchild den Namen für seine Maschine, obwohl sie den alten Namen weiterhin daneben verwendeten. Bis 1977 verkaufte Fairchild Channel F etwa 250.000 Einheiten und blieb damit hinter den Verkäufen des VCS zurück. Im Jahr 1983 wurde die Produktion des Systems eingestellt.</text>
+			<text lang="fr">La Fairchild Channel F, abréviation de "Channel Fun", est la première console de jeux vidéo à cartouche ROM programmable et la première console à utiliser un microprocesseur. Elle a été commercialisée par Fairchild Semiconductor en novembre 1976 en Amérique du Nord. Elle s'appelait à l'origine "Video Entertainment System", mais lorsque Atari a sorti son Video Computer System l'année suivante, Fairchild a changé le nom de sa machine, bien qu'elle ait continué à utiliser l'ancien nom à côté. En 1977, le Fairchild Channel F s'était vendu à environ 250 000 exemplaires, derrière le VCS. En 1983, la production du système a été arrêtée.</text>
+			<text lang="it">Il Fairchild Channel F, abbreviazione di "Channel Fun", è stata la prima console per videogiochi basata su cartucce ROM programmabili e la prima console a utilizzare un microprocessore. Fu messa in commercio da Fairchild Semiconductor nel novembre 1976 in tutto il Nord America. Inizialmente si chiamava "Video Entertainment System", ma quando Atari rilasciò il suo Video Computer System l'anno successivo, Fairchild cambiò il nome della sua macchina, anche se continuò a usare il vecchio nome accanto ad esso. Nel 1977, il Fairchild Channel F aveva venduto circa 250.000 unità, rimanendo indietro rispetto alle vendite del VCS. Nel 1983 la produzione del sistema fu interrotta.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
