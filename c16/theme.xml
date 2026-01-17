@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Commodore 16 is a home computer made by Commodore International with a 6502-compatible 7501 or 8501 CPU, released in 1984 and intended to be an entry-level computer to replace the VIC-20. A cost-reduced version, the Commodore 116, was mostly sold in Europe. The C16 and C116 belong to the same family as the higher-end Plus/4 and are internally very similar to it (albeit with less RAM – 16 KB rather than 64 KB – and lacking the Plus/4's user port and Three plus one software). Software is generally compatible among all three provided it can fit within the C16's smaller RAM and does not utilize the user port on the Plus/4. While the C16 was a failure on the US market, it enjoyed some success in certain European countries and Mexico.</text>
+			<text lang="es">El Commodore 16 es un ordenador doméstico fabricado por Commodore International con una CPU 7501 u 8501 compatible con 6502, lanzado en 1984 con la intención de ser un ordenador básico que sustituyera al VIC-20. Una versión más económica se vendió principalmente en Europa. Una versión más económica, el Commodore 116, se vendió principalmente en Europa. El C16 y el C116 pertenecen a la misma familia que el Plus/4 de gama alta y son internamente muy similares (aunque con menos RAM -16 KB en lugar de 64 KB- y sin el puerto de usuario del Plus/4 ni el software Three plus one). El software es generalmente compatible entre los tres siempre que quepa en la RAM más pequeña del C16 y no utilice el puerto de usuario del Plus/4. Aunque el C16 fue un fracaso en el mercado estadounidense, tuvo cierto éxito en algunos países europeos y en México.</text>
+			<text lang="de">Der Commodore 16 ist ein von Commodore International hergestellter Heimcomputer mit einer 6502-kompatiblen 7501- oder 8501-CPU, der 1984 auf den Markt kam und als Einstiegscomputer den VIC-20 ersetzen sollte. Eine kostenreduzierte Version, der Commodore 116, wurde hauptsächlich in Europa verkauft. Der C16 und der C116 gehören zur gleichen Familie wie der höherwertige Plus/4 und sind ihm intern sehr ähnlich (wenn auch mit weniger RAM - 16 KB statt 64 KB - und ohne die Benutzerschnittstelle des Plus/4 und die Three plus one-Software). Die Software ist in der Regel mit allen drei kompatibel, sofern sie in den kleineren Arbeitsspeicher des C16 passt und nicht den Benutzeranschluss des Plus/4 verwendet. Während das C16 auf dem US-Markt ein Misserfolg war, hatte es in einigen europäischen Ländern und in Mexiko einigen Erfolg.</text>
+			<text lang="fr">Le Commodore 16 est un ordinateur domestique fabriqué par Commodore International avec un processeur 7501 ou 8501 compatible 6502, sorti en 1984 et destiné à être un ordinateur d'entrée de gamme pour remplacer le VIC-20. Une version plus économique, le Commodore 116, a été principalement vendue en Europe. Le C16 et le C116 appartiennent à la même famille que le Plus/4, plus haut de gamme, et lui sont très similaires sur le plan interne (avec toutefois moins de mémoire vive - 16 Ko au lieu de 64 Ko - et sans le port utilisateur du Plus/4 ni le logiciel Three plus one). Les logiciels sont généralement compatibles entre les trois, à condition qu'ils puissent s'adapter à la RAM plus petite du C16 et qu'ils n'utilisent pas le port utilisateur du Plus/4. Si le C16 a été un échec sur le marché américain, il a connu un certain succès dans certains pays européens et au Mexique.</text>
+			<text lang="it">Il Commodore 16 è un home computer prodotto da Commodore International con una CPU 7501 o 8501 compatibile con il 6502, rilasciato nel 1984 e destinato ad essere un computer entry-level per sostituire il VIC-20. Una versione a costo ridotto, il Commodore 116, fu venduta soprattutto in Europa. Il C16 e il C116 appartengono alla stessa famiglia del Plus/4 di fascia alta e sono internamente molto simili a quest'ultimo (anche se con meno RAM - 16 KB anziché 64 KB - e senza la porta utente e il software Three plus one del Plus/4). Il software è generalmente compatibile tra tutti e tre i modelli, a condizione che possa essere inserito nella RAM più piccola del C16 e che non utilizzi la porta utente del Plus/4. Sebbene il C16 sia stato un fallimento sul mercato statunitense, ha riscosso un certo successo in alcuni paesi europei e in Messico.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

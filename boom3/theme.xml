@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Boom 3 is a Doom 3 and Doom 3: Resurrection Of Evil GPL source port, known to work on Windows and Linux. Doom 3 is a sci-fi horror fantasy first-person shooter computer game developed by id Software and published by ActiVision.</text>
+			<text lang="es">Boom 3 es un port de Doom 3 y Doom 3: Resurrection Of Evil GPL source, conocido por funcionar en Windows y Linux. Doom 3 es un juego de disparos en primera persona de ciencia ficción y terror desarrollado por id Software y publicado por ActiVision.</text>
+			<text lang="de">Boom 3 es un port de Doom 3 y Doom 3: Resurrection Of Evil GPL source, conocido por funcionar en Windows y Linux. Doom 3 es un juego de disparos en primera persona de ciencia ficción y terror desarrollado por id Software y publicado por ActiVision.</text>
+			<text lang="fr">Boom 3 est un portage GPL de Doom 3 et Doom 3 : Resurrection Of Evil, connu pour fonctionner sous Windows et Linux. Doom 3 est un jeu de tir à la première personne de science-fiction, d'horreur et de fantaisie développé par id Software et publié par ActiVision.</text>
+			<text lang="it">Boom 3 è un porting di Doom 3 e Doom 3: Resurrection Of Evil con licenza GPL, noto per funzionare su Windows e Linux. Doom 3 è un gioco per computer sparatutto in prima persona di genere fantascientifico e horror sviluppato da id Software e pubblicato da ActiVision.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

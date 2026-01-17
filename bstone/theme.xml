@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Unofficial source port for “Blake Stone” game series: “Aliens Of Gold” and “Planet Strike”.</text>
+			<text lang="it">Port non ufficiale per la serie di giochi "Blake Stone": "Aliens Of Gold" e "Planet Strike".</text>
+			<text lang="fr">Port non officiel pour la série de jeux "Blake Stone" : "Aliens Of Gold" et "Planet Strike".</text>
+			<text lang="de">Inoffizielle Portierung der "Blake Stone"-Spieleserie: "Aliens Of Gold" und "Planet Strike".</text>
+			<text lang="es">Port no oficial de la serie de juegos "Blake Stone": "Aliens Of Gold" y "Planet Strike".</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

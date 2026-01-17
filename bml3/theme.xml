@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Hitachi MB 6890, also known as the BASIC Master Level 3, emerged as a groundbreaking personal computer from Japan during the early 1980s. Notably, it was the first system to display Japanese characters, a significant achievement at the time. Operating on an 8-bit platform, it utilized Extended BASIC, which greatly improved performance and user-friendliness. The machine featured a color display, and optional peripherals included a printer and a mini floppy drive. Beyond individual use, it found applications in education, office work, data search, and simulation. Overall, the Hitachi MB 6890, completed in 1980, played a pivotal role in driving the adoption of personal computers in the business-oriented market.</text>
+			<text lang="it">L'Hitachi MB 6890, noto anche come BASIC Master Level 3, è stato un personal computer innovativo proveniente dal Giappone all'inizio degli anni '80. In particolare, è stato il primo sistema a visualizzare i caratteri giapponesi, un risultato significativo per l'epoca. In particolare, fu il primo sistema a visualizzare i caratteri giapponesi, un risultato significativo per l'epoca. Funzionante su una piattaforma a 8 bit, utilizzava il BASIC esteso, che migliorava notevolmente le prestazioni e la facilità d'uso. La macchina era dotata di un display a colori e le periferiche opzionali includevano una stampante e un mini drive floppy. Al di là dell'uso individuale, ha trovato applicazione nell'istruzione, nel lavoro d'ufficio, nella ricerca di dati e nella simulazione. Nel complesso, l'MB 6890 di Hitachi, completato nel 1980, ha svolto un ruolo fondamentale nell'adozione dei personal computer nel mercato business-oriented.</text>
+			<text lang="fr">Le Hitachi MB 6890, également connu sous le nom de BASIC Master Level 3, est un ordinateur personnel japonais révolutionnaire apparu au début des années 1980. Il a notamment été le premier système à afficher des caractères japonais, ce qui constituait une avancée considérable à l'époque. Fonctionnant sur une plate-forme 8 bits, il utilisait Extended BASIC, qui améliorait considérablement les performances et la convivialité. La machine était dotée d'un écran couleur et les périphériques optionnels comprenaient une imprimante et un mini lecteur de disquettes. Au-delà de l'utilisation individuelle, il a trouvé des applications dans l'éducation, la bureautique, la recherche de données et la simulation. Dans l'ensemble, l'Hitachi MB 6890, achevé en 1980, a joué un rôle essentiel dans l'adoption des ordinateurs personnels sur le marché des entreprises.</text>
+			<text lang="de">Der Hitachi MB 6890, auch bekannt als BASIC Master Level 3, war in den frühen 1980er Jahren ein bahnbrechender Personal Computer aus Japan. Er war das erste System, das japanische Schriftzeichen anzeigen konnte, was zu dieser Zeit eine bedeutende Leistung war. Er lief auf einer 8-Bit-Plattform und nutzte Extended BASIC, das die Leistung und Benutzerfreundlichkeit erheblich verbesserte. Das Gerät verfügte über ein Farbdisplay, und zu den optionalen Peripheriegeräten gehörten ein Drucker und ein Mini-Diskettenlaufwerk. Über den individuellen Gebrauch hinaus fand er Anwendungen in den Bereichen Bildung, Büroarbeit, Datensuche und Simulation. Insgesamt spielte der 1980 fertig gestellte Hitachi MB 6890 eine entscheidende Rolle bei der Einführung von Personal Computern auf dem geschäftsorientierten Markt.</text>
+			<text lang="es">El Hitachi MB 6890, también conocido como BASIC Master Level 3, surgió como un innovador ordenador personal de Japón a principios de la década de 1980. En particular, fue el primer sistema que mostraba caracteres japoneses, todo un logro para la época. Funcionaba en una plataforma de 8 bits y utilizaba el BASIC ampliado, que mejoraba enormemente el rendimiento y la facilidad de uso. La máquina contaba con una pantalla en color y, como periféricos opcionales, incluía una impresora y una minidisquetera. Más allá del uso individual, encontró aplicaciones en educación, trabajo de oficina, búsqueda de datos y simulación. En conjunto, el Hitachi MB 6890, terminado en 1980, desempeñó un papel fundamental en el impulso de la adopción de los ordenadores personales en el mercado orientado a las empresas.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
