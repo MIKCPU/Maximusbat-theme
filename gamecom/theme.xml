@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Game.com is a fifth-generation handheld game console released by Tiger Electronics in August 1997. A smaller version, the Game.com Pocket Pro, was released in mid-1999. The first version of the Game.com can be connected to a 14.4 kbit/s modem for Internet connectivity, hence its name referencing the top level domain .com. It was the first video game console to include a touchscreen and the first handheld console to include Internet connectivity.</text>
+			<text lang="es">La Game.com es una videoconsola portátil de quinta generación lanzada por Tiger Electronics en agosto de 1997. A mediados de 1999 salió al mercado una versión más pequeña, la Game.com Pocket Pro. La primera versión de la Game.com puede conectarse a un módem de 14,4 kbit/s para conectarse a Internet, de ahí que su nombre haga referencia al dominio de primer nivel .com. Fue la primera videoconsola en incluir una pantalla táctil y la primera consola portátil en incluir conectividad a Internet.</text>
+			<text lang="de">Der Game.com ist eine Handheld-Spielkonsole der fünften Generation, die von Tiger Electronics im August 1997 auf den Markt gebracht wurde. Eine kleinere Version, der Game.com Pocket Pro, wurde Mitte 1999 auf den Markt gebracht. Die erste Version des Game.com kann mit einem 14,4 kbit/s-Modem an das Internet angeschlossen werden, daher auch der Name, der sich auf die Top Level Domain .com bezieht. Es war die erste Videospielkonsole mit einem Touchscreen und die erste Handheld-Konsole mit Internet-Anschlussmöglichkeit.</text>
+			<text lang="fr">Le Game.com est une console de jeu portable de cinquième génération lancée par Tiger Electronics en août 1997. Une version plus petite, le Game.com Pocket Pro, a été lancée à la mi-1999. La première version du Game.com peut être connectée à un modem de 14,4 kbit/s pour la connectivité Internet, d'où son nom qui fait référence au domaine de premier niveau .com. C'est la première console de jeux vidéo à inclure un écran tactile et la première console portable à inclure une connectivité Internet.</text>
+			<text lang="it">Game.com è una console portatile di quinta generazione rilasciata da Tiger Electronics nell'agosto 1997. Una versione più piccola, il Game.com Pocket Pro, è stata rilasciata a metà del 1999. La prima versione del Game.com può essere collegata a un modem a 14,4 kbit/s per la connettività a Internet, da cui il nome che fa riferimento al dominio di primo livello .com. È stata la prima console per videogiochi a includere un touchscreen e la prima console portatile a includere la connettività Internet.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

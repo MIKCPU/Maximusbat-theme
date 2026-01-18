@@ -9,6 +9,30 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Game Wave Family Entertainment System, commonly abbreviated as Game Wave, is a hybrid DVD player and home video game console manufactured by ZAPiT Games.
+The Game Wave was packaged with both RCA and S-Video cables, along with 4 IR-based wireless controllers (modeled after typical DVD remote controllers) and a case that holds up to 6 controllers. The case and console are designed to sit side-by-side on a shelf to form a complete wave shape. The primary processor of the system is the Mediamatics 8611, which is coupled with 16 megabytes of SRAM and 2 megabytes of NOR flash memory storage. An Altera MAX II CPLD is also used. An Atmel serial EEPROM is used for save data. The system uses a dedicated 2 channel audio DAC in order to avoid royalties for the one integrated in the Mediamatics processor. Game software for the Game Wave Family Entertainment System is typically scripted in Lua. The system can operate as a typical DVD player.</text>
+			<text lang="es">El Game Wave Family Entertainment System, comúnmente abreviado como Game Wave, es un híbrido de reproductor de DVD y videoconsola doméstica fabricado por ZAPiT Games.
+Game Wave se comercializa con cables RCA y S-Vídeo, 4 mandos inalámbricos por infrarrojos (inspirados en los mandos a distancia de los DVD) y una carcasa con capacidad para 6 mandos. La carcasa y la consola están diseñadas para colocarse una al lado de la otra en una estantería y formar una onda completa. El procesador principal del sistema es el Mediamatics 8611, que se combina con 16 megabytes de SRAM y 2 megabytes de memoria NOR flash. También se utiliza un CPLD MAX II de Altera. Para guardar los datos se utiliza una EEPROM serie de Atmel. El sistema utiliza un DAC de audio dedicado de 2 canales para evitar los derechos de autor del integrado en el procesador Mediamatics. El software de juego para el Sistema de Entretenimiento Familiar Game Wave suele estar programado en Lua. El sistema puede funcionar como un reproductor de DVD típico.</text>
+			<text lang="de">Das Game Wave Family Entertainment System, allgemein als Game Wave abgekürzt, ist ein Hybrid aus DVD-Player und Heimvideospielkonsole, hergestellt von ZAPiT Games.
+Das Game Wave wurde mit Cinch- und S-Video-Kabeln sowie vier kabellosen IR-Controllern (die typischen DVD-Fernbedienungen nachempfunden sind) und einem Gehäuse, das bis zu sechs Controller aufnehmen kann, geliefert. Das Gehäuse und die Konsole sind so konzipiert, dass sie nebeneinander auf einem Regal stehen und eine komplette Wellenform bilden. Der Hauptprozessor des Systems ist der Mediamatics 8611, der mit 16 Megabyte SRAM und 2 Megabyte NOR-Flash-Speicher gekoppelt ist. Außerdem wird ein Altera MAX II CPLD verwendet. Für die Datenspeicherung wird ein serielles EEPROM von Atmel verwendet. Das System verwendet einen eigenen 2-Kanal-Audio-DAC, um Lizenzgebühren für den im Mediamatics-Prozessor integrierten DAC zu vermeiden. Die Spielesoftware für das Game Wave Family Entertainment System ist typischerweise in Lua geschrieben. Das System kann wie ein typischer DVD-Player betrieben werden.</text>
+			<text lang="fr">Le Game Wave Family Entertainment System, communément abrégé en Game Wave, est un lecteur DVD hybride et une console de jeux vidéo de salon fabriqués par ZAPiT Games.
+La Game Wave est livrée avec des câbles RCA et S-Vidéo, ainsi que 4 manettes sans fil à infrarouge (inspirées des télécommandes de DVD) et un boîtier pouvant contenir jusqu'à 6 manettes. Le boîtier et la console sont conçus pour être placés côte à côte sur une étagère afin de former une vague complète. Le processeur principal du système est le Mediamatics 8611, qui est couplé à 16 mégaoctets de SRAM et 2 mégaoctets de mémoire flash NOR. Un CPLD Altera MAX II est également utilisé. Une EEPROM série Atmel est utilisée pour la sauvegarde des données. Le système utilise un DAC audio dédié à 2 canaux afin d'éviter les royalties pour celui intégré dans le processeur Mediamatics. Le logiciel de jeu pour le système de divertissement familial Game Wave est typiquement écrit en Lua. Le système peut fonctionner comme un lecteur DVD classique.</text>
+			<text lang="it">Il Game Wave Family Entertainment System, comunemente abbreviato in Game Wave, è un lettore DVD ibrido e una console per videogiochi prodotta da ZAPiT Games.
+La confezione del Game Wave include cavi RCA e S-Video, 4 controller wireless a infrarossi (sul modello dei tipici controller remoti dei DVD) e una custodia che può contenere fino a 6 controller. La custodia e la console sono state progettate per essere posizionate una accanto all'altra su uno scaffale, in modo da formare una sorta di onda. Il processore principale del sistema è il Mediamatics 8611, abbinato a 16 megabyte di SRAM e 2 megabyte di memoria flash NOR. Viene utilizzato anche un CPLD Altera MAX II. Per il salvataggio dei dati viene utilizzata una EEPROM seriale Atmel. Il sistema utilizza un DAC audio dedicato a 2 canali per evitare le royalties di quello integrato nel processore Mediamatics. Il software di gioco per il Game Wave Family Entertainment System è tipicamente scritto in Lua. Il sistema può funzionare come un tipico lettore DVD.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
