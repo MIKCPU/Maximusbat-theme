@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Commander X16 is a modern 8-bit computer designed by David Murray, also known as &quot;The 8-Bit Guy.&quot; It aims to capture the simplicity and charm of classic 8-bit computers like the Commodore 64 while providing enhanced capabilities and modern conveniences. The X16 features a WDC 65C02 CPU running at 8 MHz, up to 2 MB of RAM, and a VERA video and audio chip that supports high-resolution graphics and advanced sound. It runs a custom version of BASIC and includes a variety of expansion options, making it a versatile platform for retro computing enthusiasts and hobbyists.</text>
+			<text lang="it">Il Commander X16 è un moderno computer a 8 bit progettato da David Murray, noto anche come &quot;The 8-Bit Guy&quot;. Il suo obiettivo è quello di catturare la semplicità e il fascino dei classici computer a 8 bit come il Commodore 64, offrendo al contempo funzionalità avanzate e comodità moderne. L'X16 è dotato di una CPU WDC 65C02 a 8 MHz, fino a 2 MB di RAM e un chip video e audio VERA che supporta grafica ad alta risoluzione e audio avanzato. Esegue una versione personalizzata di BASIC e include una varietà di opzioni di espansione che lo rendono una piattaforma versatile per gli appassionati di retro computing e gli hobbisti.</text>
+			<text lang="fr">Le Commander X16 est un ordinateur 8 bits moderne conçu par David Murray, également connu sous le nom de &quot;The 8-Bit Guy&quot;. Il vise à reproduire la simplicité et le charme des ordinateurs 8 bits classiques tels que le Commodore 64, tout en offrant des capacités améliorées et des commodités modernes. Le X16 est équipé d'un processeur WDC 65C02 cadencé à 8 MHz, de 2 Mo de mémoire vive et d'une puce vidéo et audio VERA qui prend en charge les graphiques haute résolution et les sons avancés. Il exécute une version personnalisée de BASIC et comprend une variété d'options d'extension, ce qui en fait une plate-forme polyvalente pour les amateurs de rétro-informatique et les hobbyistes.</text>
+			<text lang="de">Der Commander X16 ist ein moderner 8-Bit-Computer, der von David Murray, auch bekannt als &quot;The 8-Bit Guy&quot;, entwickelt wurde. Er zielt darauf ab, die Einfachheit und den Charme klassischer 8-Bit-Computer wie dem Commodore 64 einzufangen und gleichzeitig erweiterte Funktionen und moderne Annehmlichkeiten zu bieten. Der X16 verfügt über eine WDC 65C02-CPU mit 8 MHz, bis zu 2 MB RAM und einen VERA-Video- und Audio-Chip, der hochauflösende Grafiken und fortschrittlichen Sound unterstützt. Er läuft mit einer angepassten Version von BASIC und bietet eine Vielzahl von Erweiterungsmöglichkeiten, was ihn zu einer vielseitigen Plattform für Retro-Computing-Enthusiasten und Bastler macht.</text>
+			<text lang="es">El Commander X16 es un moderno ordenador de 8 bits diseñado por David Murray, también conocido como &quot;The 8-Bit Guy&quot;. Su objetivo es capturar la simplicidad y el encanto de los ordenadores clásicos de 8 bits, como el Commodore 64, a la vez que proporciona capacidades mejoradas y comodidades modernas. El X16 incorpora una CPU WDC 65C02 a 8 MHz, hasta 2 MB de RAM y un chip de vídeo y audio VERA que admite gráficos de alta resolución y sonido avanzado. Ejecuta una versión personalizada de BASIC e incluye diversas opciones de expansión, lo que la convierte en una plataforma versátil para los entusiastas y aficionados a la informática retro.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
