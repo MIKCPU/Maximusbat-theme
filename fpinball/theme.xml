@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Future Pinball is a real time Pinball Development System. It uses Advanced Physics to provide the best possible Simulation of a true to life pinball machine. Tables are built up out of Standard components (Plastics, Pegs, Bumpers, Lights etc..) which are placed onto the playfield via the Editor. Objects like Surfaces, Lights and Rubbers are shapeable within the editor and generated real-time when the table is played. Other objects (Bumpers, Flippers, Gates, Triggers, Targets etc..) use pre-made 3d Models, of which there is a nice selection of each type. Full Sound / Music Support is also provided with multiple Music Channels to allow cross fading.</text>
+			<text lang="es">Future Pinball es un Sistema de Desarrollo de Pinball en tiempo real. Utiliza física avanzada para proporcionar la mejor simulación posible de una máquina de pinball real. Las mesas se construyen a partir de componentes estándar (plásticos, clavijas, parachoques, luces, etc.) que se colocan en el campo de juego a través del editor. Objetos como Superficies, Luces y Gomas son modelables dentro del editor y generados en tiempo real cuando la mesa es jugada. Otros objetos (Bumpers, Flippers, Gates, Triggers, Targets etc..) usan Modelos 3d pre-hechos, de los cuales hay una buena selección de cada tipo. También se proporciona soporte completo de Sonido / Música con múltiples Canales de Música para permitir el cross fading.</text>
+			<text lang="de">Future Pinball ist ein Entwicklungssystem für Flipper in Echtzeit. Es verwendet fortschrittliche Physik, um die bestmögliche Simulation eines lebensechten Flipperautomaten zu bieten. Tische werden aus Standardkomponenten (Plastik, Pegs, Bumpers, Lights etc.) aufgebaut, die über den Editor auf dem Spielfeld platziert werden. Objekte wie Oberflächen, Lichter und Gummis sind im Editor formbar und werden in Echtzeit generiert, wenn der Tisch gespielt wird. Andere Objekte (Bumper, Flippers, Gates, Trigger, Targets etc.) verwenden vorgefertigte 3D-Modelle, von denen es eine schöne Auswahl an jedem Typ gibt. Vollständige Sound-/Musikunterstützung mit mehreren Musikkanälen für Überblendungen ist ebenfalls vorhanden.</text>
+			<text lang="fr">Future Pinball est un système de développement de flipper en temps réel. Il utilise la physique avancée pour fournir la meilleure simulation possible d'un flipper réel. Les tables sont construites à partir de composants standards (plastiques, piquets, pare-chocs, lumières, etc.) qui sont placés sur le terrain de jeu par l'intermédiaire de l'éditeur. Les objets tels que les surfaces, les lumières et les caoutchoucs sont modelables dans l'éditeur et générés en temps réel lorsque la table est jouée. D'autres objets (pare-chocs, palmes, portes, déclencheurs, cibles, etc.) utilisent des modèles 3D pré-fabriqués, dont il existe une belle sélection de chaque type. Un support sonore et musical complet est également fourni avec plusieurs canaux musicaux pour permettre un fondu enchaîné.</text>
+			<text lang="it">Future Pinball è un sistema di sviluppo di flipper in tempo reale. Utilizza la fisica avanzata per fornire la migliore simulazione possibile di un flipper reale. I tavoli sono costruiti con componenti standard (plastiche, pioli, paraurti, luci ecc.) che vengono posizionati sul campo di gioco tramite l'editor. Oggetti come superfici, luci e gomme sono modellabili all'interno dell'editor e generati in tempo reale quando il tavolo viene giocato. Gli altri oggetti (Bumpers, Flippers, Gates, Triggers, Targets ecc.) utilizzano modelli 3D preconfezionati, di cui esiste una bella selezione per ogni tipo. È previsto anche il supporto completo per suoni e musica, con canali musicali multipli per consentire la dissolvenza incrociata.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

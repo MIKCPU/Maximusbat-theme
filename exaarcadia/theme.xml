@@ -9,6 +9,26 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>exA-Arcadia is a state-of-the-art cartridge-based arcade video game system. It is available both as a dedicated upright cabinet and as a conversion kit for existing cabinets. The system features a wide variety of games from different genres, including fighters, shooters, action, and music, developed by talented creators from around the world. exA-Arcadia aims to revitalize the global arcade industry by offering high-performance games without the need for online connections, monthly fees, or revenue sharing per play.</text>
+			<text lang="it">exA-Arcadia è un sistema di videogiochi arcade all'avanguardia basato su cartucce. È disponibile sia come cabinet verticale dedicato che come kit di conversione per cabinet esistenti. Il sistema offre un'ampia varietà di giochi di diversi generi, tra cui picchiaduro, sparatutto, azione e musica, sviluppati da creatori di talento provenienti da tutto il mondo. exA-Arcadia mira a rivitalizzare l'industria arcade globale offrendo giochi ad alte prestazioni senza la necessità di connessioni online, canoni mensili o condivisione dei ricavi per gioco.</text>
+			<text lang="fr">exA-Arcadia est un système de jeux vidéo d'arcade à cartouches à la pointe de la technologie. Il est disponible à la fois sous la forme d'un meuble vertical dédié et d'un kit de conversion pour les meubles existants. Le système propose une grande variété de jeux de différents genres, notamment des jeux de combat, des jeux de tir, des jeux d'action et des jeux musicaux, développés par des créateurs talentueux du monde entier. exA-Arcadia vise à revitaliser l'industrie mondiale des salles d'arcade en offrant des jeux de haute performance sans nécessiter de connexions en ligne, de frais mensuels ou de partage des revenus par jeu.</text>
+			<text lang="de">exA-Arcadia ist ein hochmodernes Kassetten-basiertes Arcade-Videospielsystem. Es ist sowohl als eigenständiges Standgerät als auch als Umbausatz für bestehende Geräte erhältlich. Das System bietet eine große Auswahl an Spielen aus verschiedenen Genres, darunter Fighter, Shooter, Action und Musik, die von talentierten Entwicklern aus der ganzen Welt entwickelt wurden. exA-Arcadia hat sich zum Ziel gesetzt, die globale Arcade-Industrie neu zu beleben, indem es leistungsstarke Spiele anbietet, ohne dass Online-Verbindungen, monatliche Gebühren oder eine Umsatzbeteiligung pro Spiel erforderlich sind.</text>
+			<text lang="es">exA-Arcadia es un sistema de videojuegos arcade de última generación basado en cartuchos. Está disponible como mueble vertical dedicado y como kit de conversión para armarios existentes. El sistema ofrece una amplia variedad de juegos de diferentes géneros, como lucha, disparos, acción y música, desarrollados por creadores de talento de todo el mundo. exA-Arcadia pretende revitalizar la industria mundial de los salones recreativos ofreciendo juegos de alto rendimiento sin necesidad de conexiones en línea, cuotas mensuales ni reparto de ingresos por juego.</text>
+</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

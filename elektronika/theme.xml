@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>In the 1980s, computer and electronic games came to the USSR. In 1983, the Soviet industry mastered the production of household computers of the BK (household computer) series, and in 1984, the production of electronic games of the Electronica IM (microprocessor game) series began. Some of the games of this family were unlicensed copies, analogs and variations of electronic toys Game and Watch series "Wide Screen", released by Nintendo in 1981-1982 (EGG, Octopus, Mickey Mouse, Chef and others).</text>
+			<text lang="es">En la década de 1980, los juegos electrónicos y de ordenador llegaron a la URSS. En 1983, la industria soviética dominó la producción de ordenadores domésticos de la serie BK (ordenador doméstico), y en 1984 comenzó la producción de juegos electrónicos de la serie Elektronika IM (juego de microprocesador). Algunos de los juegos de esta familia eran copias sin licencia, análogos y variaciones de los juguetes electrónicos de la serie Game and Watch "Wide Screen" lanzados por Nintendo en 1981-1982 (EGG, Octopus, Mickey Mouse, Chef y otros).</text>
+			<text lang="de">In den 1980er Jahren kamen die Computer- und Elektronikspiele in die UdSSR. Im Jahr 1983 beherrschte die sowjetische Industrie die Produktion von Haushaltscomputern der Serie BK (Haushaltscomputer), und 1984 begann die Produktion von elektronischen Spielen der Serie Elektronika IM (Mikroprozessorspiel). Einige der Spiele dieser Familie waren unlizenzierte Kopien, Analogien und Variationen der elektronischen Spielzeuge der Game and Watch-Serie "Wide Screen", die von Nintendo 1981-1982 herausgebracht wurden (EGG, Octopus, Mickey Mouse, Chef und andere).</text>
+			<text lang="fr">Dans les années 1980, les jeux informatiques et électroniques ont fait leur apparition en URSS. En 1983, l'industrie soviétique a maîtrisé la production d'ordinateurs ménagers de la série BK (ordinateur ménager) et, en 1984, la production de jeux électroniques de la série Elektronika IM (jeu à microprocesseur) a commencé. Certains des jeux de cette famille étaient des copies sans licence, des analogues et des variantes des jouets électroniques de la série Game and Watch "Wide Screen" publiée par Nintendo en 1981-1982 (EGG, Octopus, Mickey Mouse, Chef et autres).</text>
+			<text lang="it">Negli anni '80, i giochi elettronici e per computer arrivano in URSS. Nel 1983, l'industria sovietica si impadronì della produzione di computer domestici della serie BK (household computer) e nel 1984 iniziò la produzione di giochi elettronici della serie Elektronika IM (gioco a microprocessore). Alcuni dei giochi di questa famiglia erano copie senza licenza, analoghe e varianti dei giocattoli elettronici della serie Game and Watch "Wide Screen" pubblicati da Nintendo nel 1981-1982 (EGG, Octopus, Mickey Mouse, Chef e altri).</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

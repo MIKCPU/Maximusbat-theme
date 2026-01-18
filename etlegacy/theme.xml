@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Wolfenstein: Enemy Territory is a free multiplayer first-person shooter. Set during World War II and heavily focused on team work, it was initially released in 2003 by Splash Damage and id Software. More than a decade after its release, after spending countless hours of escorting tanks and trucks, stealing gold and radar parts and transmitting confidential documents, it was time to dust off the game which consistently refused to go down. ET: Legacy is an open source project based on the code of Wolfenstein: Enemy Territory which was released in 2010 under the terms of GPLv3 license.</text>
+			<text lang="it">Wolfenstein: Enemy Territory è uno sparatutto in prima persona multiplayer gratuito. Ambientato durante la Seconda Guerra Mondiale e fortemente incentrato sul lavoro di squadra, è stato inizialmente pubblicato nel 2003 da Splash Damage e id Software. A più di dieci anni dalla sua uscita, dopo aver trascorso innumerevoli ore a scortare carri armati e camion, a rubare oro e pezzi di radar e a trasmettere documenti riservati, è arrivato il momento di rispolverare il gioco che si è sempre rifiutato di andare a fondo. ET: Legacy è un progetto open source basato sul codice di Wolfenstein: Enemy Territory, rilasciato nel 2010 sotto i termini della licenza GPLv3.</text>
+			<text lang="fr">Wolfenstein : Enemy Territory est un jeu de tir à la première personne multijoueur gratuit. Se déroulant pendant la Seconde Guerre mondiale et fortement axé sur le travail d'équipe, il a été initialement publié en 2003 par Splash Damage et id Software. Plus de dix ans après sa sortie, après avoir passé d'innombrables heures à escorter des chars et des camions, à voler de l'or et des pièces de radar et à transmettre des documents confidentiels, il était temps de dépoussiérer le jeu qui refusait constamment de tomber. ET : Legacy est un projet open source basé sur le code de Wolfenstein : Enemy Territory sorti en 2010 sous licence GPLv3.</text>
+			<text lang="de">Wolfenstein: Enemy Territory ist ein kostenloser Multiplayer-Ego-Shooter. Es spielt während des Zweiten Weltkriegs und konzentriert sich stark auf Teamarbeit und wurde ursprünglich 2003 von Splash Damage und id Software veröffentlicht. Mehr als ein Jahrzehnt nach seiner Veröffentlichung war es nach unzähligen Stunden des Eskortierens von Panzern und Lastwagen, des Stehlens von Gold und Radarteilen und des Übermittelns vertraulicher Dokumente an der Zeit, das Spiel, das sich konsequent weigerte, unterzugehen, abzustauben. ET: Legacy ist ein Open-Source-Projekt, das auf dem Code von Wolfenstein: Enemy Territory, das 2010 unter den Bedingungen der GPLv3-Lizenz veröffentlicht wurde.</text>
+			<text lang="es">Wolfenstein: Enemy Territory es un shooter multijugador gratuito en primera persona. Ambientado en la Segunda Guerra Mundial y muy centrado en el trabajo en equipo, fue lanzado inicialmente en 2003 por Splash Damage e id Software. Más de una década después de su lanzamiento, tras pasar incontables horas escoltando tanques y camiones, robando oro y piezas de radar y transmitiendo documentos confidenciales, había llegado el momento de desempolvar el juego que se negaba sistemáticamente a caer. ET: Legacy es un proyecto de código abierto basado en el código de Wolfenstein: Enemy Territory que fue lanzado en 2010 bajo los términos de la licencia GPLv3.</text>
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

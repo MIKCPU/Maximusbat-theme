@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The FM Towns Marty is a fifth-generation home video game console released in 1993 by Fujitsu, exclusively for the Japanese market. It is often claimed to be the first 32-bit CD-based home video game system, although it has a 16-bit data bus, just like the earlier Commodore CDTV and Sega CD, which both have Motorola 68000 processors that is similarly internally 16/32-bit, but with a 16-bit data bus. The console came complete with a built in CD-ROM drive and disk drive. It was based on the earlier FM Towns computer system Fujitsu had released in 1989. The Marty was backward-compatible with older FM Towns games.</text>
+			<text lang="es">La FM Towns Marty es una videoconsola doméstica de quinta generación lanzada en 1993 por Fujitsu, exclusivamente para el mercado japonés. A menudo se afirma que es el primer sistema de videojuegos doméstico basado en CD de 32 bits, aunque tiene un bus de datos de 16 bits, al igual que los anteriores Commodore CDTV y Sega CD, ambos con procesadores Motorola 68000 de 16/32 bits internamente, pero con un bus de datos de 16 bits. La consola se completaba con una unidad de CD-ROM y una unidad de disco. Se basaba en el anterior sistema informático FM Towns que Fujitsu había lanzado en 1989. La Marty era compatible con los juegos anteriores de FM Towns.</text>
+			<text lang="de">Der FM Towns Marty ist eine Heimvideospielkonsole der fünften Generation, die 1993 von Fujitsu exklusiv für den japanischen Markt herausgebracht wurde. Es wird oft behauptet, das erste 32-Bit-CD-basierte Videospielsystem für den Heimgebrauch zu sein, obwohl es einen 16-Bit-Datenbus hat, genau wie das frühere Commodore CDTV und das Sega CD, die beide Motorola 68000-Prozessoren haben, die ähnlich intern 16/32-Bit sind, aber einen 16-Bit-Datenbus haben. Die Konsole wurde komplett mit einem eingebauten CD-ROM-Laufwerk und einem Diskettenlaufwerk geliefert. Sie basierte auf dem früheren Computersystem FM Towns, das Fujitsu 1989 herausgebracht hatte. Der Marty war rückwärtskompatibel mit älteren FM Towns-Spielen.</text>
+			<text lang="fr">La FM Towns Marty est une console de jeu vidéo de salon de cinquième génération commercialisée en 1993 par Fujitsu, exclusivement pour le marché japonais. Elle est souvent considérée comme la première console de jeu vidéo de salon à CD 32 bits, bien qu'elle dispose d'un bus de données 16 bits, tout comme le Commodore CDTV et le Sega CD, qui sont tous deux équipés de processeurs Motorola 68000 16/32 bits en interne, mais avec un bus de données 16 bits. La console était équipée d'un lecteur de CD-ROM et d'un lecteur de disque intégrés. Elle était basée sur le système informatique FM Towns que Fujitsu avait lancé en 1989. La Marty était rétrocompatible avec les anciens jeux FM Towns.</text>
+			<text lang="it">FM Towns Marty è una console per videogiochi domestica di quinta generazione rilasciata nel 1993 da Fujitsu, esclusivamente per il mercato giapponese. Spesso si sostiene che sia il primo sistema di videogiochi domestico basato su CD a 32 bit, anche se ha un bus dati a 16 bit, proprio come i precedenti Commodore CDTV e Sega CD, entrambi dotati di processori Motorola 68000, che internamente sono simili a 16/32 bit, ma con un bus dati a 16 bit. La console era dotata di un lettore CD-ROM e di un'unità disco integrati. Era basata sul precedente sistema informatico FM Towns che Fujitsu aveva rilasciato nel 1989. Il Marty era retrocompatibile con i vecchi giochi FM Towns.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

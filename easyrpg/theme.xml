@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>EasyRPG is a community project to create a free, open source, role playing game creation tool, compatible with RPG Maker 2000/2003 games.</text>
+			<text lang="es">EasyRPG es un proyecto comunitario para crear una herramienta de creación de juegos de rol gratuita y de código abierto, compatible con los juegos RPG Maker 2000/2003.</text>
+			<text lang="de">EasyRPG ist ein Gemeinschaftsprojekt zur Erstellung eines freien, quelloffenen Werkzeugs zur Erstellung von Rollenspielen, das mit RPG Maker 2000/2003 kompatibel ist.</text>
+			<text lang="fr">EasyRPG est un projet communautaire visant à créer un outil de création de jeux de rôle libre et gratuit, compatible avec les jeux RPG Maker 2000/2003.</text>
+			<text lang="it">EasyRPG è un progetto di community per creare uno strumento gratuito e open source per la creazione di giochi di ruolo, compatibile con i giochi RPG Maker 2000/2003.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>DevilutionX is a source port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features.</text>
+			<text lang="es">DevilutionX es un port fuente de Diablo y Hellfire que se esfuerza por simplificar la ejecución del juego a la vez que proporciona mejoras en el motor, correcciones de errores y algunas características opcionales de calidad de vida.</text>
+			<text lang="de">DevilutionX ist eine Quellcode-Portierung von Diablo und Hellfire, die darauf abzielt, die Ausführung des Spiels zu vereinfachen und gleichzeitig Verbesserungen an der Engine, Fehlerbehebungen und einige optionale Lebensqualitätsfunktionen bereitzustellen.</text>
+			<text lang="fr">DevilutionX est un portage source de Diablo et Hellfire qui s'efforce de simplifier l'exécution du jeu tout en apportant des améliorations au moteur, des corrections de bugs et quelques fonctionnalités optionnelles de qualité de vie.</text>
+			<text lang="it">DevilutionX è un porting sorgente di Diablo e Hellfire che si sforza di rendere semplice l'esecuzione del gioco, fornendo al contempo miglioramenti al motore, correzioni di bug e alcune caratteristiche opzionali di qualità della vita.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

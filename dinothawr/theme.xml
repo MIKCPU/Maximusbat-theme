@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Dinothawr is a block pushing puzzle game on slippery surfaces. Our hero is a dinosaur whose friends are trapped in ice. Through puzzles it is your task to free the dinos from their ice prison. The Dinothawr core has been authored by - Themaister (programming, music, some level design) - Runar Heyer (art, level design, some code)</text>
+			<text lang="es">Dinothawr es un juego de puzzle de empujar bloques sobre superficies resbaladizas. Nuestro héroe es un dinosaurio cuyos amigos están atrapados en el hielo. A través de rompecabezas es tu tarea liberar a los dinos de su prisión de hielo. El núcleo de Dinothawr ha sido creado por - Themaister (programación, música, algo de diseño de niveles) - Runar Heyer (arte, diseño de niveles, algo de código)</text>
+			<text lang="de">Dinothawr ist ein Blockschiebe-Puzzlespiel auf rutschigen Oberflächen. Unser Held ist ein Dinosaurier, dessen Freunde im Eis gefangen sind. Durch Puzzles ist es deine Aufgabe, die Dinosaurier aus ihrem Eisgefängnis zu befreien. Der Dinothawr-Kern wurde verfasst von - Themaister (Programmierung, Musik, etwas Leveldesign) - Runar Heyer (Kunst, Leveldesign, etwas Code)</text>
+			<text lang="fr">Dinothawr est un jeu de puzzle qui consiste à pousser des blocs sur des surfaces glissantes. Notre héros est un dinosaure dont les amis sont prisonniers de la glace. À l'aide de puzzles, vous devez libérer les dinosaures de leur prison de glace. Le noyau de Dinothawr a été écrit par - Themaister (programmation, musique, conception de certains niveaux) - Runar Heyer (art, level design, un peu de code)</text>
+			<text lang="it">Dinothawr è un gioco di puzzle a spinta di blocchi su superfici scivolose. Il nostro eroe è un dinosauro i cui amici sono intrappolati nel ghiaccio. Attraverso dei rompicapi, il nostro compito è quello di liberare i dinosauri dalla loro prigione di ghiaccio. Il nucleo di Dinothawr è stato realizzato da - Themaister (programmazione, musica, progettazione di alcuni livelli) - Runar Heyer (arte, progettazione dei livelli, parte del codice)</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

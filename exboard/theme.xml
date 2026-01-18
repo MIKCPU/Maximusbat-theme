@@ -9,6 +9,30 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The eX-Board, introduced in 2008, is a proprietary arcade system board created by Examu. It served as the foundation for their video games. The hardware specifications of eX-Board include a fanless Via C7 NanoBGA2 CPU (based on the X86 architecture), a Via CN700 and VT8237R Plus chipset, 1 GB DDR2 SDRAM (with VRAM sharing), and integrated S3 UniChrome Pro AGP graphics with MPEG-2 decoding acceleration. Initially, Examu developed games specifically for eX-Board, but later shifted their focus to Taito’s NESiCAxLive arcade delivery system.
+Support for eX-Board ceased in December 2013.</text>
+			<text lang="it">La eX-Board, introdotta nel 2008, è una scheda di sistema arcade proprietaria creata da Examu. È servita come base per i loro videogiochi. Le specifiche hardware della eX-Board includono una CPU Via C7 NanoBGA2 senza ventola (basata sull'architettura X86), un chipset Via CN700 e VT8237R Plus, 1 GB di DDR2 SDRAM (con condivisione della VRAM) e grafica integrata S3 UniChrome Pro AGP con accelerazione della decodifica MPEG-2. Inizialmente, Examu sviluppò giochi specifici per eX-Board, ma in seguito spostò la propria attenzione sul sistema di distribuzione arcade NESiCAxLive di Taito.
+Il supporto per eX-Board è cessato nel dicembre 2013.</text>
+			<text lang="fr">L'eX-Board, introduite en 2008, est une carte d'arcade propriétaire créée par Examu. Elle a servi de base à leurs jeux vidéo. Les spécifications matérielles de l'eX-Board comprennent un processeur Via C7 NanoBGA2 sans ventilateur (basé sur l'architecture X86), un chipset Via CN700 et VT8237R Plus, 1 Go de SDRAM DDR2 (avec partage de VRAM), et une carte graphique AGP S3 UniChrome Pro intégrée avec accélération du décodage MPEG-2. Au départ, Examu a développé des jeux spécifiquement pour l'eX-Board, mais s'est ensuite concentré sur le système d'arcade NESiCAxLive de Taito.
+Le support de l'eX-Board a cessé en décembre 2013.</text>
+			<text lang="de">Das 2008 eingeführte eX-Board ist ein proprietäres Arcade-System-Board, das von Examu entwickelt wurde. Es diente als Grundlage für ihre Videospiele. Zu den Hardwarespezifikationen des eX-Boards gehören eine lüfterlose Via C7 NanoBGA2-CPU (basierend auf der X86-Architektur), ein Via CN700- und VT8237R Plus-Chipsatz, 1 GB DDR2-SDRAM (mit VRAM-Sharing) und integrierte S3 UniChrome Pro AGP-Grafik mit MPEG-2-Dekodierungsbeschleunigung. Anfangs entwickelte Examu Spiele speziell für das eX-Board, später verlagerte sich der Schwerpunkt auf das NESiCAxLive Arcade-System von Taito.
+Die Unterstützung für eX-Board wurde im Dezember 2013 eingestellt.</text>
+			<text lang="es">La eX-Board, presentada en 2008, es una placa de sistema arcade patentada creada por Examu. Sirvió de base para sus videojuegos. Las especificaciones de hardware de la eX-Board incluyen una CPU Via C7 NanoBGA2 sin ventilador (basada en la arquitectura X86), un chipset Via CN700 y VT8237R Plus, 1 GB de SDRAM DDR2 (con uso compartido de VRAM) y gráficos integrados S3 UniChrome Pro AGP con aceleración de descodificación MPEG-2. En un principio, Examu desarrolló juegos específicamente para la eX-Board, pero más tarde se centró en el sistema arcade NESiCAxLive de Taito.
+El soporte para eX-Board cesó en diciembre de 2013.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
