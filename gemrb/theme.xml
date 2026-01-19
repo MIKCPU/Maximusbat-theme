@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>GemRB (Game Engine Made with preRendered Background) is a portable, open-source implementation of Bioware’s Infinity Engine. It aims to recreate the engine that powered classic RPGs like Baldur’s Gate, Icewind Dale, and Planescape: Torment. GemRB offers a cleaner design, greater extensibility, and several innovations, making it a robust platform for mod development and gameplay on various modern systems</text>
+			<text lang="it">GemRB (Game Engine Made with preRendered Background) è un'implementazione portatile e open-source dell'Infinity Engine di Bioware. Il suo scopo è ricreare il motore che ha alimentato giochi di ruolo classici come Baldur's Gate, Icewind Dale e Planescape: Torment. GemRB offre un design più pulito, una maggiore estensibilità e diverse innovazioni, che lo rendono una solida piattaforma per lo sviluppo di mod e il gioco su vari sistemi moderni.</text>
+			<text lang="fr">GemRB (Game Engine Made with preRendered Background) est une implémentation portable et open-source de l'Infinity Engine de Bioware. Il vise à recréer le moteur qui a alimenté les RPG classiques comme Baldur's Gate, Icewind Dale et Planescape : Torment. GemRB offre un design plus épuré, une plus grande extensibilité et plusieurs innovations, ce qui en fait une plateforme robuste pour le développement de mods et le jeu sur divers systèmes modernes</text>
+			<text lang="de">GemRB (Game Engine Made with preRendered Background) ist eine portable Open-Source-Implementierung der Infinity Engine von Bioware. Sie zielt darauf ab, die Engine nachzubauen, die klassische RPGs wie Baldur's Gate, Icewind Dale und Planescape angetrieben hat: Torment. GemRB bietet ein übersichtlicheres Design, größere Erweiterbarkeit und mehrere Innovationen, die es zu einer robusten Plattform für die Entwicklung von Mods und das Spielen auf verschiedenen modernen Systemen machen</text>
+			<text lang="es">GemRB (Game Engine Made with preRendered Background) es una implementación portátil y de código abierto del Infinity Engine de Bioware. Su objetivo es recrear el motor que impulsó juegos de rol clásicos como Baldur's Gate, Icewind Dale y Planescape: Torment. GemRB ofrece un diseño más limpio, mayor extensibilidad y varias innovaciones, lo que lo convierte en una plataforma robusta para el desarrollo de mods y el juego en varios sistemas modernos.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

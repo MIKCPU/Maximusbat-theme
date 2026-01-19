@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Game Boy MSU is a modification that enhances Game Boy games by integrating features from the MSU1 chip, originally designed for the Super Nintendo Entertainment System (SNES). This allows Game Boy games to have CD-quality audio and additional data capabilities, creating a richer gaming experience.</text>
+			<text lang="it">Il Game Boy MSU è una modifica che migliora i giochi per Game Boy integrando le funzioni del chip MSU1, originariamente progettato per il Super Nintendo Entertainment System (SNES). Ciò consente ai giochi per Game Boy di avere un audio di qualità CD e funzionalità di dati aggiuntive, creando un'esperienza di gioco più ricca.</text>
+			<text lang="fr">Le Game Boy MSU est une modification qui améliore les jeux Game Boy en intégrant des fonctions de la puce MSU1, conçue à l'origine pour la Super Nintendo Entertainment System (SNES). Cela permet aux jeux Game Boy d'avoir un son de qualité CD et des capacités de données supplémentaires, créant ainsi une expérience de jeu plus riche.</text>
+			<text lang="de">Der Game Boy MSU ist eine Modifikation, die Game Boy-Spiele durch die Integration von Funktionen des MSU1-Chips verbessert, der ursprünglich für das Super Nintendo Entertainment System (SNES) entwickelt wurde. Dadurch können Game Boy-Spiele mit Audio in CD-Qualität und zusätzlichen Datenfunktionen ausgestattet werden, was zu einem reichhaltigeren Spielerlebnis führt.</text>
+			<text lang="es">La Game Boy MSU es una modificación que mejora los juegos de Game Boy integrando funciones del chip MSU1, diseñado originalmente para la Super Nintendo Entertainment System (SNES). Esto permite que los juegos de Game Boy tengan audio con calidad de CD y capacidades de datos adicionales, creando una experiencia de juego más rica.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
