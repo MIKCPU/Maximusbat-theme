@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The PolyGame Master (PGM) is an arcade system board developed by the Taiwanese company IGS and released in 1997. It was designed to compete with SNK’s Neo Geo MVS system in Taiwan. The PGM features several video games, with the most notable titles belonging to the Knights of Valour series. The PGM was succeeded by the IGS PolyGame Master 2 in 2007, which featured fewer games, with the most notable being Knights of Valour 3 from the same series, and the IGS PolyGame Master 3, released in 2012.</text>
+			<text lang="it">Il PolyGame Master (PGM) è una scheda di sistema arcade sviluppata dall'azienda taiwanese IGS e rilasciata nel 1997. È stato progettato per competere con il sistema Neo Geo MVS di SNK a Taiwan. Il PGM è dotato di diversi videogiochi, i cui titoli più importanti appartengono alla serie Knights of Valour. Il PGM è stato succeduto dall'IGS PolyGame Master 2 nel 2007, che presentava un minor numero di giochi, tra cui il più importante è Knights of Valour 3 della stessa serie, e dall'IGS PolyGame Master 3, uscito nel 2012.</text>
+			<text lang="fr">Le PolyGame Master (PGM) est un système d'arcade développé par la société taïwanaise IGS et sorti en 1997. Elle a été conçue pour concurrencer le système Neo Geo MVS de SNK à Taïwan. Le PGM propose plusieurs jeux vidéo, dont les titres les plus connus appartiennent à la série Knights of Valour. Le PGM a été remplacé par le IGS PolyGame Master 2 en 2007, qui proposait moins de jeux, les plus notables étant Knights of Valour 3 de la même série, et le IGS PolyGame Master 3, sorti en 2012.</text>
+			<text lang="de">Der PolyGame Master (PGM) ist ein Spielhallensystem, das von der taiwanesischen Firma IGS entwickelt und 1997 veröffentlicht wurde. Es wurde entwickelt, um mit dem Neo Geo MVS-System von SNK in Taiwan zu konkurrieren. Der PGM bietet mehrere Videospiele, wobei die bekanntesten Titel zur Knights of Valour-Serie gehören. Der PGM wurde 2007 durch den IGS PolyGame Master 2 abgelöst, der weniger Spiele enthielt. Die bekanntesten sind Knights of Valour 3 aus derselben Serie und der IGS PolyGame Master 3, der 2012 veröffentlicht wurde.</text>
+			<text lang="es">El PolyGame Master (PGM) es una placa de sistema arcade desarrollada por la empresa taiwanesa IGS y lanzada al mercado en 1997. Fue diseñada para competir con el sistema Neo Geo MVS de SNK en Taiwán. La PGM incluye varios videojuegos, entre los que destacan los títulos de la serie Knights of Valour. La PGM fue sucedida por la IGS PolyGame Master 2 en 2007, que incluía menos juegos, siendo el más notable Knights of Valour 3 de la misma serie, y la IGS PolyGame Master 3, lanzada en 2012.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

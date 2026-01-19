@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The IBM PCjr (pronounced "PC junior") was a home computer launched in 1984, intended as a cheaper and more advanced version of the IBM PC. It had a wireless keyboard, built-in graphics and sound, ROM cartridge slots, and an infrared wireless keyboard. It used an Intel 8088 CPU and had 64 KB or 128 KB of RAM. The PCjr was compatible with some PC software, but not all. It also had its own software library, including games like King's Quest I. The PCjr's graphics and sound standards were adopted by the Tandy 1000, a more successful clone of the PC. It also influenced the design of the IBM PS/1, another attempt to enter the home market.</text>
+			<text lang="it">L'IBM PCjr (pronunciato "PC junior") è stato un home computer lanciato nel 1984, inteso come versione più economica e avanzata dell'IBM PC. Aveva una tastiera wireless, grafica e audio integrati, slot per cartucce ROM e una tastiera wireless a infrarossi. Utilizzava una CPU Intel 8088 e disponeva di 64 KB o 128 KB di RAM. Il PCjr era compatibile con alcuni software per PC, ma non con tutti. Aveva anche una propria libreria di software, che comprendeva giochi come King's Quest I. Gli standard grafici e sonori del PCjr furono adottati dal Tandy 1000, un clone di maggior successo del PC. Inoltre, influenzò il design dell'IBM PS/1, un altro tentativo di entrare nel mercato domestico.</text>
+			<text lang="fr">L'IBM PCjr (prononcé "PC junior") était un ordinateur domestique lancé en 1984, conçu comme une version moins chère et plus avancée de l'IBM PC. Il disposait d'un clavier sans fil, d'une carte graphique et d'un son intégrés, d'emplacements pour cartouches ROM et d'un clavier sans fil à infrarouge. Il utilisait un processeur Intel 8088 et disposait de 64 ou 128 Ko de mémoire vive. Le PCjr était compatible avec certains logiciels PC, mais pas tous. Il disposait également de sa propre bibliothèque de logiciels, y compris des jeux comme King's Quest I. Les normes graphiques et sonores du PCjr ont été adoptées par le Tandy 1000, un clone plus réussi du PC. Il a également influencé la conception du PS/1 d'IBM, une autre tentative d'entrer sur le marché domestique.</text>
+			<text lang="de">Der IBM PCjr (ausgesprochen "PC junior") war ein Heimcomputer, der 1984 auf den Markt kam und als billigere und fortschrittlichere Version des IBM PC gedacht war. Er verfügte über eine drahtlose Tastatur, eingebaute Grafik- und Soundfunktionen, ROM-Kassettensteckplätze und eine drahtlose Infrarot-Tastatur. Er verwendete eine Intel 8088 CPU und verfügte über 64 KB oder 128 KB RAM. Der PCjr war mit einigen PC-Programmen kompatibel, aber nicht mit allen. Er verfügte auch über eine eigene Software-Bibliothek, darunter Spiele wie King's Quest I. Die Grafik- und Soundstandards des PCjr wurden vom Tandy 1000 übernommen, einem erfolgreicheren Klon des PC. Er beeinflusste auch das Design des IBM PS/1, einem weiteren Versuch, in den Heimcomputermarkt einzusteigen.</text>
+			<text lang="es">El IBM PCjr (pronunciado "PC junior") fue un ordenador doméstico lanzado en 1984, concebido como una versión más barata y avanzada del IBM PC. Disponía de teclado inalámbrico, gráficos y sonido integrados, ranuras para cartuchos ROM y teclado inalámbrico por infrarrojos. Utilizaba una CPU Intel 8088 y tenía 64 KB o 128 KB de RAM. El PCjr era compatible con algunos programas de PC, pero no con todos. También tenía su propia biblioteca de software, que incluía juegos como King's Quest I. Los estándares gráficos y de sonido del PCjr fueron adoptados por el Tandy 1000, un clon más exitoso del PC. También influyó en el diseño del IBM PS/1, otro intento de entrar en el mercado doméstico.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
