@@ -9,6 +9,28 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Konami PC Based is an arcade board created by Konami intended for arcades .
+
+Konami PC Based was launched by Konami in 2004.
+Since it is basically a PC inside an arcade cabinet, the configuration depends a lot on the game it hosts, but it can have an Intel processor and there are also configurations with an AMD processor. At least 15 titles work on this board.</text>
+			<text lang="es">Konami PC Based es una placa arcade creada por Konami destinada a los salones recreativos. Konami PC Based fue lanzada por Konami en 2004. Al tratarse básicamente de un PC dentro de un mueble arcade, la configuración depende mucho del juego que aloje, pero puede tener procesador Intel y también hay configuraciones con procesador AMD. Al menos 15 títulos funcionan en esta placa.</text>
+			<text lang="de">Konami PC Based ist ein Arcade-Spielbrett, das von Konami für Spielhallen entwickelt wurde. Konami PC Based wurde von Konami im Jahr 2004 auf den Markt gebracht. Da es sich im Grunde um einen PC in einem Spielhallengehäuse handelt, hängt die Konfiguration stark von dem Spiel ab, das darauf läuft, aber es kann einen Intel-Prozessor haben und es gibt auch Konfigurationen mit einem AMD-Prozessor. Mindestens 15 Titel laufen auf diesem Board.</text>
+			<text lang="fr">Konami PC Based est une carte d'arcade créée par Konami et destinée aux salles d'arcade. Konami PC Based a été lancé par Konami en 2004. Comme il s'agit en fait d'un PC à l'intérieur d'une borne d'arcade, la configuration dépend beaucoup du jeu qu'elle héberge, mais elle peut avoir un processeur Intel et il y a aussi des configurations avec un processeur AMD. Au moins 15 titres fonctionnent sur cette carte.</text>
+			<text lang="it">Konami PC Based è una scheda arcade creata da Konami e destinata alle sale giochi.Konami PC Based è stato lanciato da Konami nel 2004. Poiché si tratta fondamentalmente di un PC all'interno di un cabinet arcade, la configurazione dipende molto dal gioco che ospita, ma può avere un processore Intel e ci sono anche configurazioni con un processore AMD. Almeno 15 titoli funzionano su questa scheda.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

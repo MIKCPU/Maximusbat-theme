@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Microsoft MakeCode is a free, open source platform for creating engaging computer science learning experiences that support a progression path into real-world programming. Available as a web-based environment for learning to code with physical computing devices such as the micro:bit, it has a handful of novel features all packed into a single web application (web app). No software installation is required: Microsoft MakeCode runs in any modern web browser on most any operating system.</text>
+			<text lang="es">Microsoft MakeCode es una plataforma gratuita de código abierto para crear atractivas experiencias de aprendizaje de informática que facilitan la progresión hacia la programación en el mundo real. Disponible como entorno basado en la web para aprender a programar con dispositivos informáticos físicos como el micro:bit, cuenta con un puñado de características novedosas, todas ellas empaquetadas en una única aplicación web (web app). No es necesario instalar ningún software: Microsoft MakeCode se ejecuta en cualquier navegador web moderno y en casi cualquier sistema operativo.</text>
+			<text lang="de">Microsoft MakeCode ist eine kostenlose Open-Source-Plattform für die Erstellung von ansprechenden Lernerfahrungen im Bereich der Informatik, die den Einstieg in die reale Welt der Programmierung erleichtern. Es ist als webbasierte Umgebung zum Erlernen des Programmierens mit physischen Computergeräten wie dem micro:bit verfügbar und bietet eine Handvoll neuer Funktionen, die alle in einer einzigen Webanwendung (Web-App) zusammengefasst sind. Es ist keine Software-Installation erforderlich: Microsoft MakeCode läuft in jedem modernen Webbrowser auf fast allen Betriebssystemen.</text>
+			<text lang="fr">Microsoft MakeCode est une plateforme gratuite et open source permettant de créer des expériences d'apprentissage de l'informatique attrayantes qui favorisent une progression vers la programmation dans le monde réel. Disponible en tant qu'environnement web pour apprendre à coder avec des appareils informatiques physiques tels que le micro:bit, il possède une poignée de nouvelles fonctionnalités toutes regroupées dans une seule application web (web app). Aucune installation de logiciel n'est nécessaire : Microsoft MakeCode fonctionne dans n'importe quel navigateur web moderne sur la plupart des systèmes d'exploitation.</text>
+			<text lang="it">Microsoft MakeCode è una piattaforma gratuita e open source per la creazione di esperienze di apprendimento dell'informatica coinvolgenti che supportano un percorso di progressione verso la programmazione del mondo reale. Disponibile come ambiente basato sul web per imparare a programmare con dispositivi informatici fisici come il micro:bit, presenta una serie di caratteristiche innovative racchiuse in un'unica applicazione web (web app). Non è richiesta l'installazione di alcun software: Microsoft MakeCode funziona in qualsiasi browser web moderno su quasi tutti i sistemi operativi.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
