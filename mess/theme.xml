@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Multi Emulator Super System (MESS) was an emulator for various consoles and computer systems, based on the MAME core. It used to be a standalone program, but is now integrated into MAME. MESS emulated portable and console gaming systems, computer platforms, and calculators..</text>
+			<text lang="es">Multi Emulator Super System (MESS) era un emulador para varias consolas y sistemas informáticos, basado en el núcleo MAME. Solía ​​ser un programa independiente, pero ahora está integrado en MAME. MESS emuló sistemas de juegos, plataformas informáticas y calculadoras portátiles y de consola.</text>
+			<text lang="de">Multi Emulator Super System (MESS) war ein Emulator für verschiedene Konsolen und Computersysteme, basierend auf dem MAME-Kern. Früher war es ein eigenständiges Programm, jetzt ist es in MAME integriert. MESS emulierte tragbare und Konsolenspielsysteme, Computerplattformen und Taschenrechner.</text>
+			<text lang="fr">Multi Emulator Super System (MESS) était un émulateur pour diverses consoles et systèmes informatiques, basé sur le noyau MAME. Il s'agissait auparavant d'un programme autonome, mais il est désormais intégré à MAME. MESS émulait des systèmes de jeux portables et sur consoles, des plates-formes informatiques et des calculatrices.</text>
+			<text lang="it">Multi Emulator Super System (MESS) era un emulatore per varie console e sistemi informatici, basato sul core MAME. In passato era un programma autonomo, ma ora è integrato in MAME. MESS emulava sistemi di gioco portatili e console, piattaforme di computer e calcolatrici.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

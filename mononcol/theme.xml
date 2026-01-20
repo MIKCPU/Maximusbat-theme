@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Monon Color (梦龙彩色掌机) is a handheld video game console system manufactured and distributed by the Chinese toy company M&amp;D during 2014. Intended to be a low-cost competitor to other handheld systems at the time, the Monon Color used 2D graphics comparable to the Game Boy Advance's performance and had 21 games released for it in total, most of them being licensed by franchises including Dragon Ball, Marvel and Roco Kingdom. The Monon Color is powered by an AX208 SOC, which contains a 8051 derived CPU with 16-bit opcodes clocked at 96 megahertz with additional facilities such as AV decoders. The system is said to have 16 kilobytes of RAM.</text>
+			<text lang="es">La Monon Color (梦龙彩色掌机) es una consola de videojuegos portátil fabricada y distribuida por la empresa juguetera china M&amp;D durante 2014. Destinado a ser un competidor de bajo coste para otros sistemas portátiles de la época, el Monon Color utilizaba gráficos 2D comparables al rendimiento de la Game Boy Advance y tuvo 21 juegos lanzados para él en total, la mayoría de ellos con licencia de franquicias como Dragon Ball, Marvel y Roco Kingdom. El Monon Color funciona con un SOC AX208, que contiene una CPU derivada del 8051 con opcodes de 16 bits a 96 megahercios con funciones adicionales como decodificadores AV. Se dice que el sistema tiene 16 kilobytes de RAM.</text>
+			<text lang="de">Der Monon Color (梦龙彩色掌机) ist ein Handheld-Videospielkonsolensystem, das 2014 von der chinesischen Spielzeugfirma M&amp;D hergestellt und vertrieben wurde. Der Monon Color war als preiswerter Konkurrent zu anderen Handheld-Systemen gedacht, verwendete 2D-Grafiken, die mit der Leistung des Game Boy Advance vergleichbar waren, und hatte insgesamt 21 Spiele, von denen die meisten von Franchises wie Dragon Ball, Marvel und Roco Kingdom lizenziert wurden. Der Monon Color wird von einem AX208 SOC angetrieben, der eine von 8051 abgeleitete CPU mit 16-Bit-Opcodes enthält, die mit 96 Megahertz getaktet ist und zusätzliche Funktionen wie AV-Dekoder enthält. Das System soll über 16 Kilobyte RAM verfügen.</text>
+			<text lang="fr">Le Monon Color (梦龙彩色掌机) est une console de jeu vidéo portable fabriquée et distribuée par la société chinoise de jouets M&amp;D en 2014. Conçue pour être un concurrent bon marché des autres systèmes portables de l'époque, la Monon Color utilisait des graphismes 2D comparables aux performances de la Game Boy Advance et a sorti 21 jeux au total, la plupart d'entre eux étant des licences de franchises telles que Dragon Ball, Marvel et Roco Kingdom. Le Monon Color est alimenté par un SOC AX208, qui contient un CPU dérivé du 8051 avec des opcodes 16 bits cadencés à 96 mégahertz avec des équipements supplémentaires tels que des décodeurs AV. Le système est censé disposer de 16 kilo-octets de mémoire vive.</text>
+			<text lang="it">Il Monon Color (梦龙彩色掌机) è una console portatile per videogiochi prodotta e distribuita dall'azienda cinese di giocattoli M&amp;D nel 2014. Destinato a essere un concorrente a basso costo degli altri sistemi portatili dell'epoca, il Monon Color utilizzava una grafica 2D paragonabile alle prestazioni del Game Boy Advance e aveva 21 giochi rilasciati in totale, la maggior parte dei quali su licenza di franchise come Dragon Ball, Marvel e Roco Kingdom. Il Monon Color è alimentato da un SOC AX208, che contiene una CPU derivata dall'8051 con opcode a 16 bit e clock a 96 megahertz, con funzioni aggiuntive come i decoder AV. Il sistema è dotato di 16 kilobyte di RAM.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

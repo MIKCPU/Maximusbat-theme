@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Mr.Boom is a Bomberman clone for the RetroArch platform ported to the libretro API, converted from DOS assembly using asm2c. Mr.Boom supports up to 8 players and features like netplay, AI bots (new C++ feature), pushing bombs, remote controls and kangaroo riding.</text>
+			<text lang="es">Mr.Boom es un clon de Bomberman para la plataforma RetroArch portado a la API libretro, convertido desde ensamblador DOS usando asm2c. Mr.Boom soporta hasta 8 jugadores y características como netplay, AI bots (nueva característica de C++), empujar bombas, mandos a distancia y montar canguros.</text>
+			<text lang="de">Mr.Boom ist ein Bomberman-Klon für die RetroArch-Plattform, portiert auf die libretro-API, konvertiert aus DOS-Assembler mit asm2c. Mr.Boom unterstützt bis zu 8 Spieler und Funktionen wie Netplay, KI-Bots (neues C++-Feature), Bombenschieben, Fernsteuerung und Känguru-Reiten.</text>
+			<text lang="fr">Mr.Boom est un clone de Bomberman pour la plateforme RetroArch, porté sur l'API libretro, converti à partir de l'assemblage DOS en utilisant asm2c. Mr.Boom supporte jusqu'à 8 joueurs et offre des fonctionnalités telles que le netplay, les robots IA (nouvelle fonctionnalité C++), la poussée des bombes, les télécommandes et la conduite d'un kangourou.</text>
+			<text lang="it">Mr.Boom è un clone di Bomberman per la piattaforma RetroArch, adattato alle API libretro e convertito dall'assembly DOS con asm2c. Mr.Boom supporta fino a 8 giocatori e caratteristiche come il netplay, i bot AI (nuova caratteristica C++), la spinta delle bombe, i controlli remoti e la guida dei canguri.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
