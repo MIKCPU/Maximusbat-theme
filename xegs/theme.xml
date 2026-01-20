@@ -9,6 +9,26 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Atari XE Video Game System (Atari XEGS) is an industrial redesign of the Atari 65XE home computer and the final model in the Atari 8-bit family. It was released by Atari Corporation in 1987 and marketed as a home video game console alongside the Nintendo Entertainment System, Sega's Master System, and Atari's own Atari 7800. The XEGS is compatible with existing Atari 8-bit family hardware and software. Without keyboard, the system operates as a stand-alone game console. With the keyboard, it boots identically to the Atari XE computers. Atari packaged the XEGS as a basic set consisting of only the console and joystick, and as a deluxe set consisting of the console, keyboard, CX40 joystick, and XG-1 light gun. Support for the system was dropped in 1992, along with the rest of Atari's 8-bit computers, the Atari 2600, and the Atari 7800.</text>
+			<text lang="es">El Atari XE Video Game System (Atari XEGS) es un rediseño industrial del ordenador doméstico Atari 65XE y el último modelo de la familia Atari de 8 bits. Fue lanzada por Atari Corporation en 1987 y comercializada como consola de videojuegos doméstica junto con la Nintendo Entertainment System, la Master System de Sega y la propia Atari 7800. La XEGS es compatible con el hardware y el software existentes de la familia de 8 bits de Atari. Sin teclado, el sistema funciona como una videoconsola independiente. Con el teclado, arranca de forma idéntica a los ordenadores Atari XE. Atari comercializó el XEGS como un juego básico compuesto únicamente por la consola y el joystick, y como un juego de lujo compuesto por la consola, el teclado, el joystick CX40 y la pistola de luz XG-1. El sistema dejó de recibir soporte en 1992, junto con el resto de ordenadores de 8 bits de Atari, el Atari 2600 y el Atari 7800.</text>
+			<text lang="de">Das Atari XE Video Game System (Atari XEGS) ist ein industrielles Redesign des Atari 65XE Heimcomputers und das letzte Modell der Atari 8-bit Familie. Es wurde 1987 von der Atari Corporation auf den Markt gebracht und als Heimvideospielkonsole neben dem Nintendo Entertainment System, dem Master System von Sega und dem Atari 7800 vermarktet. Der XEGS ist mit der vorhandenen Hardware und Software der Atari 8-Bit-Familie kompatibel. Ohne Tastatur arbeitet das System wie eine eigenständige Spielkonsole. Mit der Tastatur bootet es identisch zu den Atari XE-Computern. Atari bot den XEGS als Basisset an, das nur aus der Konsole und dem Joystick bestand, und als Luxusset, das aus der Konsole, der Tastatur, dem CX40-Joystick und der XG-1-Lichtpistole bestand. Die Unterstützung für das System wurde 1992 eingestellt, zusammen mit dem Rest der 8-Bit-Computer von Atari, dem Atari 2600 und dem Atari 7800.</text>
+			<text lang="fr">Le système de jeu vidéo Atari XE (Atari XEGS) est une refonte industrielle de l'ordinateur domestique Atari 65XE et le dernier modèle de la famille Atari 8-bit.
+Elle a été lancée par Atari Corporation en 1987 et commercialisée en tant que console de jeux vidéo domestique, aux côtés de la Nintendo Entertainment System, de la Master System de Sega et de l'Atari 7800 d'Atari. Le XEGS est compatible avec le matériel et les logiciels existants de la famille Atari 8 bits. Sans clavier, le système fonctionne comme une console de jeu autonome. Avec le clavier, il démarre de la même manière que les ordinateurs Atari XE. Atari a conditionné le XEGS comme un ensemble de base composé uniquement de la console et du joystick, et comme un ensemble de luxe composé de la console, du clavier, du joystick CX40 et du pistolet lumineux XG-1. Le support du système a été abandonné en 1992, en même temps que le reste des ordinateurs 8 bits d'Atari, l'Atari 2600 et l'Atari 7800.</text>
+			<text lang="it">L'Atari XE Video Game System (Atari XEGS) è una riprogettazione industriale dell'home computer Atari 65XE e il modello finale della famiglia Atari 8-bit. È stato rilasciato da Atari Corporation nel 1987 e commercializzato come console per videogiochi domestici insieme al Nintendo Entertainment System, al Master System di Sega e all'Atari 7800. L'XEGS è compatibile con l'hardware e il software esistenti della famiglia Atari 8-bit. Senza tastiera, il sistema funziona come una console di gioco indipendente. Con la tastiera, si avvia in modo identico ai computer Atari XE. Atari ha confezionato l'XEGS in un set di base che comprende solo la console e il joystick e in un set deluxe che comprende la console, la tastiera, il joystick CX40 e la pistola luminosa XG-1. Il supporto per il sistema fu abbandonato nel 1992, insieme al resto dei computer a 8 bit di Atari, l'Atari 2600 e l'Atari 7800.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
