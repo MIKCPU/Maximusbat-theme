@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Othello Multivision FG-1000 developed by Tsukuda Original was one of the more well-known SC-3000 clones. The console was made of a keyboard with a cartridge slot and a tiny joystick grafted on to the right side of the keyboard. The Multivision could play any SG-1000 or SC-3000 game, but it also came bundled with Othello (hence the name) and had a handful of exclusive games packaged under the Multivision branding. A second model of the Multivision, the FG-2000, was released in 1984 with a built-in directional pad instead of a joystick and a port that allowed a second actual controller, but by then, the Multivision’s fate on the marketplace had been sealed. Both versions sold poorly, and as a result, are incredibly rare.</text>
+			<text lang="es">La Othello Multivision FG-1000 desarrollada por Tsukuda Original fue uno de los clones más conocidos de la SC-3000. La consola estaba formada por un teclado con una ranura para cartuchos y un pequeño joystick injertado en el lado derecho del teclado. La Multivision podía reproducir cualquier juego SG-1000 o SC-3000, pero también venía con Othello (de ahí el nombre) y tenía un puñado de juegos exclusivos empaquetados bajo la marca Multivision. Un segundo modelo de la Multivision, la FG-2000, salió a la venta en 1984 con un pad direccional integrado en lugar de un joystick y un puerto que permitía utilizar un segundo mando, pero para entonces, el destino de la Multivision en el mercado ya estaba sellado. Ambas versiones se vendieron mal y, por ello, son increíblemente raras.</text>
+			<text lang="de">Die Othello Multivision FG-1000, entwickelt von Tsukuda Original, war einer der bekannteren SC-3000-Klone. Die Konsole bestand aus einer Tastatur mit einem Kassettenschacht und einem winzigen Joystick, der an der rechten Seite der Tastatur angebracht war. Die Multivision konnte jedes SG-1000- oder SC-3000-Spiel spielen, wurde aber auch mit Othello (daher der Name) ausgeliefert und hatte eine Handvoll exklusiver Spiele, die unter dem Multivision-Branding verpackt waren. Ein zweites Modell der Multivision, die FG-2000, wurde 1984 mit einem eingebauten Steuerkreuz anstelle eines Joysticks und einem Anschluss für einen zweiten Controller herausgebracht, aber zu diesem Zeitpunkt war das Schicksal der Multivision auf dem Markt bereits besiegelt. Beide Versionen verkauften sich schlecht und sind daher unglaublich selten.</text>
+			<text lang="fr">L'Othello Multivision FG-1000 développée par Tsukuda Original était l'un des clones les plus connus du SC-3000. La console était constituée d'un clavier avec un emplacement pour cartouche et un minuscule joystick greffé sur le côté droit du clavier. La Multivision pouvait jouer à n'importe quel jeu SG-1000 ou SC-3000, mais elle était également livrée avec Othello (d'où son nom) et possédait une poignée de jeux exclusifs emballés sous la marque Multivision. Un deuxième modèle du Multivision, le FG-2000, est sorti en 1984 avec un pavé directionnel intégré au lieu d'un joystick et un port permettant d'installer une deuxième manette, mais à ce moment-là, le sort du Multivision sur le marché était déjà scellé. Les deux versions se sont mal vendues et sont donc extrêmement rares.</text>
+			<text lang="it">L'Othello Multivision FG-1000, sviluppato da Tsukuda Original, è stato uno dei cloni più noti dell'SC-3000. La console era costituita da una tastiera con uno slot per cartucce e un piccolo joystick innestato sul lato destro della tastiera. Il Multivision poteva far girare a qualsiasi gioco SG-1000 o SC-3000, ma fu anche fornito in bundle con Othello (da cui il nome) e aveva una manciata di giochi esclusivi confezionati con il marchio Multivision. Un secondo modello del Multivision, l'FG-2000, fu rilasciato nel 1984 con un pad direzionale incorporato al posto del joystick e una porta che consentiva di utilizzare un secondo controller vero e proprio, ma a quel punto il destino del Multivision sul mercato era ormai segnato. Entrambe le versioni ebbero scarso successo e, di conseguenza, sono incredibilmente rare.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
