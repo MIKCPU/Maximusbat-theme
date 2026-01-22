@@ -9,6 +9,26 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Namco 2x6 is part of Namco's System 2 arcade hardware series, which was prominent during the late 1980s and early 1990s. The "2x6" configuration within this series represents a more advanced setup, capable of handling enhanced graphical and audio performance compared to earlier models. This system was used in several iconic arcade games, leveraging its improved processing power to deliver smoother gameplay and richer visual experiences. The Namco 2x6 helped solidify Namco's reputation for innovation in the arcade industry, supporting the development of more complex and engaging gaming experiences.</text>
+			<text lang="it">Il Namco 2x6 fa parte della serie di hardware arcade System 2 di Namco, che ha avuto un ruolo di primo piano tra la fine degli anni '80 e l'inizio degli anni '90. La configurazione "2x6" di questa serie rappresenta una configurazione più avanzata, in grado di gestire prestazioni grafiche e audio migliori rispetto ai modelli precedenti. Questo sistema è stato utilizzato in diversi giochi arcade iconici, sfruttando la sua migliore potenza di elaborazione per offrire un gameplay più fluido ed esperienze visive più ricche. Il Namco 2x6 ha contribuito a consolidare la reputazione di Namco per l'innovazione nel settore arcade, supportando lo sviluppo di esperienze di gioco più complesse e coinvolgenti.</text>
+			<text lang="fr">Le Namco 2x6 fait partie de la série de matériel d'arcade System 2 de Namco, qui a occupé une place importante à la fin des années 1980 et au début des années 1990. La configuration "2x6" de cette série représente une configuration plus avancée, capable de gérer des performances graphiques et audio supérieures à celles des modèles précédents. Ce système a été utilisé dans plusieurs jeux d'arcade emblématiques, tirant parti de sa puissance de traitement améliorée pour offrir un gameplay plus fluide et des expériences visuelles plus riches. Le Namco 2x6 a contribué à consolider la réputation de Namco en matière d'innovation dans l'industrie des salles d'arcade, en soutenant le développement d'expériences de jeu plus complexes et plus attrayantes.</text>
+			<text lang="de">Der Namco 2x6 ist Teil der System 2 Arcade-Hardware-Serie von Namco, die in den späten 1980er und frühen 1990er Jahren sehr beliebt war. Die "2x6"-Konfiguration innerhalb dieser Serie stellt eine fortschrittlichere Einrichtung dar, die im Vergleich zu früheren Modellen eine verbesserte Grafik- und Audioleistung bietet. Dieses System wurde in mehreren kultigen Arcade-Spielen eingesetzt, wobei die verbesserte Verarbeitungsleistung für ein flüssigeres Gameplay und ein reichhaltigeres visuelles Erlebnis genutzt wurde. Das Namco 2x6 trug dazu bei, Namcos Ruf als innovatives Unternehmen in der Spielhallenbranche zu festigen, indem es die Entwicklung komplexerer und fesselnderer Spielerlebnisse unterstützte.</text>
+			<text lang="es">El Namco 2x6 forma parte de la serie de hardware arcade System 2 de Namco, que destacó a finales de la década de 1980 y principios de la de 1990. La configuración "2x6" dentro de esta serie representa una configuración más avanzada, capaz de manejar un rendimiento gráfico y de audio mejorado en comparación con los modelos anteriores. Este sistema se utilizó en varios juegos arcade emblemáticos, aprovechando su potencia de procesamiento mejorada para ofrecer una jugabilidad más fluida y experiencias visuales más ricas. El Namco 2x6 contribuyó a consolidar la reputación de Namco como empresa innovadora en el sector de los salones recreativos, apoyando el desarrollo de experiencias de juego más complejas y atractivas.</text>
+</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

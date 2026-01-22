@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The My Vision (Japanese: マイビジョン, Hepburn: Mai bijon) is a home video game console developed by Nichibutsu and released in Japan in 1983. The system was dedicated solely to playing video versions of popular board games. My Vision came equipped with the same Texas Instruments graphics chip used in the ColecoVision and allowed both RF &amp; composite video output. The console had no controllers; instead, players used a keyboard on the front of the console to input their actions.</text>
+			<text lang="es">La My Vision (japonés: マイビジョン, Hepburn: Mai bijon) es una videoconsola doméstica desarrollada por Nichibutsu y lanzada en Japón en 1983. El sistema estaba dedicado exclusivamente a reproducir versiones en vídeo de populares juegos de mesa. My Vision estaba equipada con el mismo chip gráfico de Texas Instruments utilizado en la ColecoVision y permitía la salida de vídeo compuesto. La consola no tenía mandos; en su lugar, los jugadores utilizaban un teclado situado en la parte frontal de la consola para introducir sus acciones.</text>
+			<text lang="de">My Vision (japanisch: マイビジョン, Hepburn: Mai bijon) ist eine Videospielkonsole für den Heimgebrauch, die von Nichibutsu entwickelt und 1983 in Japan veröffentlicht wurde. Das System war ausschließlich für das Spielen von Videoversionen beliebter Brettspiele bestimmt. My Vision war mit demselben Grafikchip von Texas Instruments ausgestattet, der auch im ColecoVision verwendet wurde, und ermöglichte sowohl einen RF- als auch einen Composite-Videoausgang. Die Konsole hatte keine Controller; stattdessen benutzten die Spieler eine Tastatur an der Vorderseite der Konsole, um ihre Aktionen einzugeben.</text>
+			<text lang="fr">La My Vision (japonais : マイビジョン, Hepburn : Mai bijon) est une console de jeux vidéo de salon développée par Nichibutsu et commercialisée au Japon en 1983. La console était exclusivement dédiée aux versions vidéo des jeux de société les plus populaires. My Vision était équipée de la même puce graphique Texas Instruments que celle utilisée dans la ColecoVision et permettait une sortie vidéo composite et RF. La console n'avait pas de manettes ; les joueurs utilisaient un clavier situé à l'avant de la console pour saisir leurs actions.</text>
+			<text lang="it">Il My Vision (giapponese: マイビジョン, Hepburn: Mai bijon) è una console per videogiochi domestici sviluppata da Nichibutsu e rilasciata in Giappone nel 1983. Il sistema era dedicato esclusivamente alla riproduzione di versioni video di popolari giochi da tavolo. La console era dotata dello stesso chip grafico Texas Instruments utilizzato nel ColecoVision e consentiva sia l'uscita RF che quella video composita. La console non disponeva di controller; i giocatori utilizzavano invece una tastiera posta sulla parte anteriore della console per inserire le proprie azioni.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Namco System 11 is a 32-bit arcade system board developed jointly by Namco and Sony Computer Entertainment. Released in 1994, the System 11 is based on a prototype of the PlayStation, Sony's first home video game console, using a 512 KB operating system and several custom processors. The Namco System 12 is an upgraded version of the System 11 that was released in 1996, featuring faster processing power.</text>
+			<text lang="es">El Namco System 11 es una placa de sistema arcade de 32 bits desarrollada conjuntamente por Namco y Sony Computer Entertainment. Lanzada en 1994, la System 11 se basa en un prototipo de la PlayStation, la primera videoconsola doméstica de Sony, y utiliza un sistema operativo de 512 KB y varios procesadores personalizados. La Namco System 12 es una versión mejorada de la System 11 que salió a la venta en 1996, con una mayor capacidad de procesamiento.</text>
+			<text lang="de">Das Namco System 11 ist eine 32-Bit-Arcade-Systemplatine, die gemeinsam von Namco und Sony Computer Entertainment entwickelt wurde. Das 1994 veröffentlichte System 11 basiert auf einem Prototyp der PlayStation, Sonys erster Videospielkonsole für den Heimgebrauch, und verwendet ein 512-KB-Betriebssystem und mehrere spezielle Prozessoren. Das Namco System 12 ist eine verbesserte Version des System 11, die 1996 auf den Markt kam und über eine höhere Rechenleistung verfügt.</text>
+			<text lang="fr">Le Namco System 11 est un système d'arcade 32 bits développé conjointement par Namco et Sony Computer Entertainment. Sorti en 1994, le System 11 est basé sur un prototype de la PlayStation, la première console de jeux vidéo de Sony, utilisant un système d'exploitation de 512 Ko et plusieurs processeurs personnalisés. Le Namco System 12 est une version améliorée du System 11 qui est sortie en 1996, avec une puissance de traitement plus élevée.</text>
+			<text lang="it">Il Namco System 11 è una scheda di sistema arcade a 32 bit sviluppata congiuntamente da Namco e Sony Computer Entertainment. Rilasciato nel 1994, il System 11 è basato su un prototipo della PlayStation, la prima console di videogiochi domestica di Sony, e utilizza un sistema operativo da 512 KB e diversi processori personalizzati.Il Namco System 12 è una versione aggiornata del System 11, rilasciata nel 1996 e dotata di una maggiore potenza di elaborazione.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

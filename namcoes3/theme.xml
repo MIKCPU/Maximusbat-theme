@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Namco ES3 arcade platform runs on an nForce2-based motherboard that NVIDIA developed. It is based on a NVIDIA GeForce graphics card, using the OpenGL API. It uses a modified Japanese version of Windows Embedded Standard 7 as the operating system. Namco ES3 games run in an arcade game cabinet designed by Bandai Namco Games.</text>
+			<text lang="es">La plataforma arcade Namco ES3 se ejecuta en una placa base basada en nForce2 que ha desarrollado NVIDIA. Se basa en una tarjeta gráfica NVIDIA GeForce que utiliza la API OpenGL. Utiliza una versión japonesa modificada de Windows Embedded Standard 7 como sistema operativo. Los juegos de Namco ES3 se ejecutan en una máquina recreativa diseñada por Bandai Namco Games.</text>
+			<text lang="de">Die Namco ES3 Arcade-Plattform läuft auf einem nForce2-basierten Motherboard, das von NVIDIA entwickelt wurde. Sie basiert auf einer NVIDIA GeForce-Grafikkarte und verwendet die OpenGL-API. Als Betriebssystem kommt eine modifizierte japanische Version von Windows Embedded Standard 7 zum Einsatz. Namco ES3-Spiele laufen in einem von Bandai Namco Games entworfenen Arcade-Gehäuse.</text>
+			<text lang="fr">La plate-forme d'arcade Namco ES3 fonctionne sur une carte mère nForce2 développée par NVIDIA. Elle est basée sur une carte graphique NVIDIA GeForce, utilisant l'API OpenGL. Elle utilise une version japonaise modifiée de Windows Embedded Standard 7 comme système d'exploitation. Les jeux Namco ES3 tournent dans une borne d'arcade conçue par Bandai Namco Games.</text>
+			<text lang="it">La piattaforma arcade Namco ES3 gira su una scheda madre basata su nForce2 sviluppata da NVIDIA. È basata su una scheda grafica NVIDIA GeForce, che utilizza le API OpenGL. Utilizza una versione giapponese modificata di Windows Embedded Standard 7 come sistema operativo. I giochi Namco ES3 vengono eseguiti in un cabinet di gioco arcade progettato da Bandai Namco Games.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
