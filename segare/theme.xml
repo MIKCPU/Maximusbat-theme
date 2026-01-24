@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Sega Ringedge is an arcade platform developed by Sega as part of their Ring series (the other half being the Sega Ringwide). Both machines are based on PC architecture, using Microsoft Windows Embedded Standard 2009 as their operating system. The Ringedge supports high-definition games and 3D graphics, such as Border Break, Initial D Arcade Stage 7 AA X and Transformers: Human Alliance.</text>
+			<text lang="it">Il Sega Ringedge è una piattaforma arcade sviluppata da Sega come parte della serie Ring (l'altra metà è il Sega Ringwide). Entrambe le macchine sono basate su architettura PC e utilizzano come sistema operativo Microsoft Windows Embedded Standard 2009. Il Ringedge supporta giochi ad alta definizione e grafica 3D, come Border Break, Initial D Arcade Stage 7 AA X e Transformers: Human Alliance.</text>
+			<text lang="fr">Le Sega Ringedge est une plateforme d'arcade développée par Sega dans le cadre de la série Ring (l'autre moitié étant le Sega Ringwide). Les deux machines sont basées sur une architecture PC et utilisent le système d'exploitation Microsoft Windows Embedded Standard 2009. La Ringedge prend en charge les jeux haute définition et les graphiques 3D, tels que Border Break, Initial D Arcade Stage 7 AA X et Transformers : Human Alliance.</text>
+			<text lang="de">Der Sega Ringedge ist eine Arcade-Plattform, die von Sega als Teil der Ring-Serie entwickelt wurde (die andere Hälfte ist der Sega Ringwide). Beide Maschinen basieren auf der PC-Architektur und verwenden Microsoft Windows Embedded Standard 2009 als Betriebssystem. Die Ringedge unterstützt hochauflösende Spiele und 3D-Grafiken, wie Border Break, Initial D Arcade Stage 7 AA X und Transformers: Human Alliance.</text>
+			<text lang="es">La Sega Ringedge es una plataforma arcade desarrollada por Sega como parte de su serie Ring (la otra mitad es la Sega Ringwide). Ambas máquinas se basan en la arquitectura PC y utilizan Microsoft Windows Embedded Standard 2009 como sistema operativo. La Ringedge es compatible con juegos de alta definición y gráficos en 3D, como Border Break, Initial D Arcade Stage 7 AA X y Transformers: Human Alliance.</text>
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

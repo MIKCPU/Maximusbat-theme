@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>A collection of vertical Shump games. The collection is taken from your available games.</text>
+			<text lang="es">Una colección de juegos verticales de Shump. La colección se toma de tus juegos disponibles.</text>
+			<text lang="de">Eine Sammlung vertikaler Shump-Spiele. Die Sammlung wird aus Ihren verfügbaren Spielen übernommen.</text>
+			<text lang="fr">Une collection de jeux Shump verticaux. La collection est extraite de vos jeux disponibles.</text>
+			<text lang="it">Una raccolta di giochi Shump verticali. La raccolta è presa dai tuoi giochi disponibili.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
