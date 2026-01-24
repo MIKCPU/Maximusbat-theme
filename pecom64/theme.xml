@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Pecom 64 was a computer designed for education and home use in Serbia in the mid-1980s. It had a CDP 1802B processor, 32 KB of RAM, and a cassette tape for storage. It could display text and graphics on a TV screen, and produce sound through two channels. It had a programmable character set and a reconfigurable keyboard. It was compatible with some software and hardware from other computers, such as the Cosmac VIP and the Commodore 64. It was one of the first computers made in Yugoslavia.</text>
+			<text lang="it">Il Pecom 64 era un computer progettato per l'istruzione e l'uso domestico in Serbia a metà degli anni Ottanta. Aveva un processore CDP 1802B, 32 KB di RAM e una cassetta per l'archiviazione. Poteva visualizzare testo e grafica su uno schermo televisivo e produrre suoni attraverso due canali. Aveva un set di caratteri programmabili e una tastiera riconfigurabile. Era compatibile con alcuni software e hardware di altri computer, quali il Cosmac VIP e il Commodore 64. È stato uno dei primi computer prodotti in Jugoslavia.</text>
+			<text lang="fr">Le Pecom 64 était un ordinateur conçu pour l'éducation et l'usage domestique en Serbie au milieu des années 1980. Il était équipé d'un processeur CDP 1802B, de 32 Ko de RAM et d'une cassette pour le stockage. Il pouvait afficher du texte et des graphiques sur un écran de télévision et produire du son sur deux canaux. Il disposait d'un jeu de caractères programmable et d'un clavier reconfigurable. Il était compatible avec certains logiciels et matériels d'autres ordinateurs, tels que le Cosmac VIP et le Commodore 64. C'est l'un des premiers ordinateurs fabriqués en Yougoslavie.</text>
+			<text lang="de">Der Pecom 64 war ein Computer, der Mitte der 1980er Jahre in Serbien für den Unterricht und den Heimgebrauch entwickelt wurde. Er hatte einen CDP 1802B-Prozessor, 32 KB RAM und ein Kassettenband zur Speicherung. Er konnte Text und Grafiken auf einem Fernsehbildschirm anzeigen und über zwei Kanäle Ton ausgeben. Er verfügte über einen programmierbaren Zeichensatz und eine rekonfigurierbare Tastatur. Er war mit einiger Soft- und Hardware anderer Computer, wie dem Cosmac VIP und dem Commodore 64, kompatibel. Er war einer der ersten in Jugoslawien hergestellten Computer.</text>
+			<text lang="es">El Pecom 64 fue un ordenador diseñado para uso educativo y doméstico en Serbia a mediados de los años ochenta. Tenía un procesador CDP 1802B, 32 KB de RAM y una cinta de casete para almacenamiento. Podía mostrar texto y gráficos en una pantalla de TV, y producir sonido a través de dos canales. Tenía un juego de caracteres programable y un teclado reconfigurable. Era compatible con algunos programas y equipos de otros ordenadores, como el Cosmac VIP y el Commodore 64. Fue uno de los primeros ordenadores fabricados en Yugoslavia.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Orao (meaning &quot;Eagle&quot; in Croatian) is an 8-bit personal computer developed by PEL Varaždin in 1984. It was primarily used in primary and secondary schools in the former Yugoslavia, particularly in Croatia and Vojvodina, from 1985 to 1991. The Orao was designed by Miroslav Kocijan as a successor to the Galeb computer, with the goal of creating a more advanced yet cost-effective machine. It features a MOS Technology 6502 CPU running at 1 MHz, 16 KB of RAM (expandable to 32 KB), and a graphics resolution of 256x256 pixels. The computer was known for its educational applications and was a staple in Yugoslavian schools during its production years.</text>
+			<text lang="it">Orao (che significa &quot;Aquila&quot; in croato) è un personal computer a 8 bit sviluppato da PEL Varaždin nel 1984. È stato utilizzato principalmente nelle scuole primarie e secondarie dell'ex Jugoslavia, in particolare in Croazia e Vojvodina, dal 1985 al 1991. Orao è stato progettato da Miroslav Kocijan come successore del computer Galeb, con l'obiettivo di creare una macchina più avanzata e allo stesso tempo più economica. È dotato di una CPU MOS Technology 6502 a 1 MHz, 16 KB di RAM (espandibile a 32 KB) e una risoluzione grafica di 256x256 pixel. Il computer era noto per le sue applicazioni didattiche e durante gli anni di produzione era un punto fermo nelle scuole jugoslave.</text>
+			<text lang="fr">L'Orao (qui signifie &quot;Aigle&quot; en croate) est un ordinateur personnel 8 bits développé par PEL Varaždin en 1984. Il a été principalement utilisé dans les écoles primaires et secondaires de l'ex-Yougoslavie, en particulier en Croatie et en Voïvodine, de 1985 à 1991. L'Orao a été conçu par Miroslav Kocijan pour succéder à l'ordinateur Galeb, dans le but de créer une machine plus avancée mais aussi plus économique. Il est équipé d'un processeur MOS Technology 6502 cadencé à 1 MHz, d'une mémoire vive de 16 Ko (extensible à 32 Ko) et d'une résolution graphique de 256x256 pixels. L'ordinateur était connu pour ses applications éducatives et était un élément essentiel dans les écoles yougoslaves pendant ses années de production.</text>
+			<text lang="de">Der Orao (kroatisch für &quot;Adler&quot;) ist ein 8-Bit-Personalcomputer, der 1984 von PEL Varaždin entwickelt wurde. Er wurde von 1985 bis 1991 hauptsächlich in Grund- und Sekundarschulen im ehemaligen Jugoslawien, insbesondere in Kroatien und der Vojvodina, eingesetzt. Der Orao wurde von Miroslav Kocijan als Nachfolger des Galeb-Computers entwickelt, mit dem Ziel, einen fortschrittlicheren und gleichzeitig kostengünstigeren Computer zu schaffen. Er verfügt über eine 6502-CPU von MOS Technology mit einer Taktfrequenz von 1 MHz, 16 KB RAM (erweiterbar auf 32 KB) und eine Grafikauflösung von 256 x 256 Pixeln. Der Computer war für seine pädagogischen Anwendungen bekannt und wurde während seiner Produktionsjahre in jugoslawischen Schulen eingesetzt.</text>
+			<text lang="es">El Orao (que significa &quot;Águila&quot; en croata) es un ordenador personal de 8 bits desarrollado por PEL Varaždin en 1984. Se utilizó principalmente en las escuelas primarias y secundarias de la antigua Yugoslavia, sobre todo en Croacia y Voivodina, de 1985 a 1991. El Orao fue diseñado por Miroslav Kocijan como sucesor del ordenador Galeb, con el objetivo de crear una máquina más avanzada y económica. Incorporaba una CPU MOS Technology 6502 a 1 MHz, 16 KB de RAM (ampliable a 32 KB) y una resolución gráfica de 256x256 píxeles. El ordenador era conocido por sus aplicaciones educativas y fue un elemento básico en las escuelas yugoslavas durante sus años de producción.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

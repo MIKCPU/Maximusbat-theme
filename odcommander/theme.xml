@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>OD commander is a fork of Dingux Commander which is a gamepad-oriented file manager (if you have used some of the weaker SBC handhelds that run Dingoo you may already be familiar with the software). It follows the “x commander” philosophy of having the left panel show the “source” and the right panel show the “destination”, similar to Midnight Commander (which is also already included in Batocera).</text>
+			<text lang="es">OD commander es un fork de Dingux Commander, que es un gestor de archivos orientado al gamepad (si has usado alguno de los dispositivos SBC más débiles que ejecutan Dingoo, puede que ya estés familiarizado con el software). Sigue la filosofía "x commander" de tener el panel izquierdo mostrando el "origen" y el panel derecho mostrando el "destino", similar a Midnight Commander (que también está incluido en Batocera).</text>
+			<text lang="de">OD Commander ist ein Fork von Dingux Commander, einem Gamepad-orientierten Dateimanager (wenn Sie einige der schwächeren SBC-Handhelds benutzt haben, auf denen Dingoo läuft, sind Sie vielleicht schon mit der Software vertraut). Er folgt der "x commander"-Philosophie, bei der das linke Panel die "Quelle" und das rechte Panel das "Ziel" anzeigt, ähnlich wie der Midnight Commander (der auch schon in Batocera enthalten ist).</text>
+			<text lang="fr">OD commander est un fork de Dingux Commander qui est un gestionnaire de fichiers orienté manette de jeu (si vous avez utilisé certains des ordinateurs de poche SBC plus faibles qui exécutent Dingoo, vous êtes peut-être déjà familier avec le logiciel). Il suit la philosophie de "x commander" en ayant le panneau de gauche montrant la "source" et le panneau de droite montrant la "destination", similaire à Midnight Commander (qui est aussi déjà inclus dans Batocera).</text>
+			<text lang="it">OD Commander è un fork di Dingux Commander, un file manager orientato al gamepad (se avete usato alcuni dei palmari SBC più deboli che eseguono Dingoo potreste già conoscere il software). Segue la filosofia di "x commander": il pannello di sinistra mostra la "sorgente" e quello di destra la "destinazione", in modo simile a Midnight Commander (che è anche già incluso in Batocera).</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

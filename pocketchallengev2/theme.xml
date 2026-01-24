@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Pocket Challenge V2 is a handheld console developed by Benesse Corporation, a Japanese company focused on education. Released in 2000, this console features a 16-bit NEC V20 CPU, 512 KB of RAM, and a video resolution of 224 x 144 pixels. It was designed as an educational device, with several games aimed at language learning, leveraging Benesse's ownership of Berlitz Language Schools. The Pocket Challenge V2 is fully compatible with the Bandai WonderSwan, allowing it to play popular games like Final Fantasy and Mobile Suit Gundam</text>
+			<text lang="it">Pocket Challenge V2 è una console portatile sviluppata da Benesse Corporation, un'azienda giapponese che si occupa di istruzione. Rilasciata nel 2000, questa console è dotata di una CPU NEC V20 a 16 bit, 512 KB di RAM e una risoluzione video di 224 x 144 pixel. È stata progettata come dispositivo educativo, con diversi giochi finalizzati all'apprendimento delle lingue, sfruttando la proprietà di Benesse di Berlitz Language Schools. Il Pocket Challenge V2 è pienamente compatibile con il WonderSwan di Bandai, permettendo di giocare a giochi popolari come Final Fantasy e Mobile Suit Gundam.</text>
+			<text lang="fr">Le Pocket Challenge V2 est une console portable développée par Benesse Corporation, une société japonaise spécialisée dans l'éducation. Sortie en 2000, cette console est équipée d'un processeur NEC V20 16 bits, de 512 Ko de mémoire vive et d'une résolution vidéo de 224 x 144 pixels. Elle a été conçue comme un appareil éducatif, avec plusieurs jeux destinés à l'apprentissage des langues, tirant parti de la propriété de Benesse sur les écoles de langues Berlitz. Le Pocket Challenge V2 est entièrement compatible avec le Bandai WonderSwan, ce qui lui permet de jouer à des jeux populaires tels que Final Fantasy et Mobile Suit Gundam.</text>
+			<text lang="de">Die Pocket Challenge V2 ist eine Handheld-Konsole, die von der Benesse Corporation entwickelt wurde, einem japanischen Unternehmen, das sich auf den Bildungsbereich konzentriert. Die im Jahr 2000 erschienene Konsole verfügt über eine 16-Bit NEC V20 CPU, 512 KB RAM und eine Videoauflösung von 224 x 144 Pixeln. Die Konsole wurde als Bildungsgerät konzipiert und enthält mehrere Spiele zum Erlernen von Sprachen, wobei Benesse Eigentümer der Berlitz Sprachschulen ist. Der Pocket Challenge V2 ist vollständig kompatibel mit dem Bandai WonderSwan, so dass er beliebte Spiele wie Final Fantasy und Mobile Suit Gundam spielen kann.</text>
+			<text lang="es">La Pocket Challenge V2 es una consola portátil desarrollada por Benesse Corporation, una empresa japonesa centrada en la educación. Lanzada en 2000, esta consola cuenta con una CPU NEC V20 de 16 bits, 512 KB de RAM y una resolución de vídeo de 224 x 144 píxeles. Se diseñó como dispositivo educativo, con varios juegos orientados al aprendizaje de idiomas, aprovechando que Benesse es propietaria de Berlitz Language Schools. Pocket Challenge V2 es totalmente compatible con Bandai WonderSwan, lo que le permite jugar a juegos populares como Final Fantasy y Mobile Suit Gundam.</text>
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

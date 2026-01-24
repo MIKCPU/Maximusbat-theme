@@ -9,6 +9,26 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>TextDesc" extra="true">
+			<text>NESiCAxLive (Japanese: ネシカ　クロス　ライブ, Hepburn: Neshika Kurosu Raibu) is a digital distribution system for arcade video games made by Taito, similar to the SEGA ALL.Net game distribution system. The NESiCAxLive system consists of an arcade system board combined with a dedicated router to access and download games. The system currently works on the Taito Type X2, Taito Type X Zero, Taito Type X3, and Taito Type X4 arcade boards. Taito introduced the NESiCAxLive 2 platform in June 2017. The upgraded system allows player versus player competition between machines in different locations, as well having improved CPU and GPU performance.</text>
+			<text lang="it">NESiCAxLive (giapponese: ネシカ クロス ライブ, Hepburn: Neshika Kurosu Raibu) è un sistema di distribuzione digitale di videogiochi arcade prodotto da Taito, simile al sistema di distribuzione di giochi SEGA ALL.Net. Il sistema NESiCAxLive consiste in una scheda di sistema arcade combinata con un router dedicato per accedere e scaricare i giochi. Il sistema funziona attualmente sulle schede arcade Taito Type X2, Taito Type X Zero, Taito Type X3 e Taito Type X4. Taito ha introdotto la piattaforma NESiCAxLive 2 nel giugno 2017. Il sistema aggiornato consente la competizione giocatore contro giocatore tra macchine in luoghi diversi, oltre a migliorare le prestazioni di CPU e GPU.</text>
+			<text lang="fr">NESiCAxLive (japonais : ネシカ クロス ライブ, Hepburn : Neshika Kurosu Raibu) est un système de distribution numérique pour les jeux vidéo d'arcade fabriqués par Taito, similaire au système de distribution de jeux ALL.Net de SEGA. Le système NESiCAxLive se compose d'une carte de système d'arcade combinée à un routeur dédié permettant d'accéder aux jeux et de les télécharger. Le système fonctionne actuellement sur les cartes d'arcade Taito Type X2, Taito Type X Zero, Taito Type X3 et Taito Type X4. Taito a introduit la plateforme NESiCAxLive 2 en juin 2017. Le système mis à jour permet une compétition joueur contre joueur entre des machines situées dans des endroits différents, ainsi qu'une amélioration des performances du CPU et du GPU.</text>
+			<text lang="de">NESiCAxLive (japanisch: ネシカ クロス ライブ, Hepburn: Neshika Kurosu Raibu) ist ein digitales Vertriebssystem für Arcade-Videospiele der Firma Taito, ähnlich dem SEGA ALL.Net Game Distribution System. Das NESiCAxLive-System besteht aus einer Spielhallen-Systemplatine in Kombination mit einem speziellen Router für den Zugriff auf und das Herunterladen von Spielen. Das System funktioniert derzeit mit den Spielhallenplatinen Taito Type X2, Taito Type X Zero, Taito Type X3 und Taito Type X4. Im Juni 2017 stellte Taito die NESiCAxLive 2-Plattform vor. Das aufgerüstete System ermöglicht Spieler-gegen-Spieler-Wettkämpfe zwischen Maschinen an verschiedenen Standorten sowie eine verbesserte CPU- und GPU-Leistung.</text>
+			<text lang="es">NESiCAxLive (japonés: ネシカ クロス ライブ, Hepburn: Neshika Kurosu Raibu) es un sistema de distribución digital de videojuegos arcade fabricado por Taito, similar al sistema de distribución de juegos ALL.Net de SEGA. El sistema NESiCAxLive consiste en una placa de sistema arcade combinada con un router dedicado para acceder a los juegos y descargarlos. Actualmente, el sistema funciona con las placas arcade Taito Type X2, Taito Type X Zero, Taito Type X3 y Taito Type X4. Taito presentó la plataforma NESiCAxLive 2 en junio de 2017. El sistema actualizado permite la competición jugador contra jugador entre máquinas de distintas ubicaciones, además de haber mejorado el rendimiento de la CPU y la GPU.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

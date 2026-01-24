@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>A full decompilation project of Perfect Dark from the N64 for modern platforms. Both single-player and split-screen multiplayer modes are fully functional. The following additional features have been implemented: • Mouse look • Support for dual analog controllers • Widescreen resolution support • Customizable field of view • 60 FPS support, including fixes for some framerate-related issues • Fixes for several original bugs and crashes • Basic mod support. And much more.</text>
+			<text lang="es">Un proyecto de descompilación completa de Perfect Dark de la N64 para plataformas modernas. Tanto el modo para un jugador como el multijugador en pantalla dividida funcionan por completo. Se han implementado las siguientes funciones adicionales: • Movimiento con ratón • Soporte para dos controles analógicos • Soporte para resoluciones panorámicas • Campo de visión personalizable • Soporte para 60 FPS, incluyendo correcciones para problemas de velocidad de fotogramas • Corrección de varios errores y fallos originales • Soporte básico para mods. Y mucho más.</text>
+			<text lang="de">Ein vollständiges Dekompilationsprojekt von Perfect Dark (N64) für moderne Plattformen. Der Einzelspieler-Modus und der geteilte Bildschirm-Multiplayer funktionieren vollständig. Folgende zusätzliche Funktionen wurden implementiert: • Maussteuerung • Unterstützung für zwei analoge Controller • Unterstützung für Breitbild-Auflösungen • Anpassbares Sichtfeld • 60 FPS-Unterstützung, inklusive Behebung von Bildratenproblemen • Behebung mehrerer Originalfehler und Abstürze • Grundlegende Mod-Unterstützung. Und vieles mehr.</text>
+			<text lang="fr">Un projet de décompilation complète de Perfect Dark (N64) pour les plateformes modernes. Le mode solo et le multijoueur en écran partagé fonctionnent parfaitement. Les fonctionnalités supplémentaires suivantes ont été implémentées : • Visée à la souris • Prise en charge de deux manettes analogiques • Prise en charge des résolutions widescreen • Champ de vision personnalisable • Prise en charge du 60 FPS, avec corrections des problèmes de fréquence d'images • Correction de plusieurs bugs et plantages d'origine • Support basique des mods. Et bien plus encore.</text>
+			<text lang="it">Un progetto di decompilazione completa di Perfect Dark (N64) per piattaforme moderne. Sia la modalità giocatore singolo che il multiplayer a schermo diviso funzionano perfettamente. Sono state implementate le seguenti funzionalità aggiuntive: • Movimento del mouse • Supporto per due controller analogici • Supporto per risoluzioni widescreen • Campo visivo personalizzabile • Supporto per 60 FPS, inclusi fix per problemi di framerate • Correzioni per diversi bug e crash originali • Supporto base per le mod. E molto altro.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

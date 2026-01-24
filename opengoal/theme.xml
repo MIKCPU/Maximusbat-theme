@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>OpenGOAL is an ambitious project aimed at reviving the GOAL programming language, which was originally used to develop the classic Jak and Daxter series by Naughty Dog. Started in 2020, OpenGOAL has made significant progress in decompiling and recompiling the original game code, allowing for native x86-64 ports of these beloved games. The project focuses on maintaining the original feel and look of the games while enhancing performance, accuracy, and compatibility. Additionally, OpenGOAL supports modifications and custom content, providing a platform for a vibrant modding community</text>
+			<text lang="it">OpenGOAL è un progetto ambizioso che mira a far rivivere il linguaggio di programmazione GOAL, originariamente utilizzato per sviluppare la serie classica Jak and Daxter di Naughty Dog. Avviato nel 2020, OpenGOAL ha compiuto progressi significativi nella decompilazione e ricompilazione del codice di gioco originale, consentendo di realizzare porte native x86-64 di questi amati giochi. Il progetto si concentra sul mantenimento dell'atmosfera e dell'aspetto originali dei giochi, migliorando al contempo le prestazioni, la precisione e la compatibilità. Inoltre, OpenGOAL supporta modifiche e contenuti personalizzati, fornendo una piattaforma per una vivace comunità di modding.</text>
+			<text lang="fr">OpenGOAL est un projet ambitieux visant à faire revivre le langage de programmation GOAL, qui a été utilisé à l'origine pour développer la série classique Jak and Daxter par Naughty Dog. Lancé en 2020, OpenGOAL a réalisé des progrès significatifs dans la décompilation et la recompilation du code du jeu original, ce qui permet de réaliser des portages natifs x86-64 de ces jeux bien-aimés. Le projet se concentre sur le maintien de la sensation et de l'aspect originaux des jeux tout en améliorant les performances, la précision et la compatibilité. En outre, OpenGOAL prend en charge les modifications et le contenu personnalisé, offrant ainsi une plateforme à une communauté de modding dynamique.</text>
+			<text lang="de">OpenGOAL ist ein ehrgeiziges Projekt zur Wiederbelebung der Programmiersprache GOAL, die ursprünglich für die Entwicklung der klassischen Jak-and-Daxter-Reihe von Naughty Dog verwendet wurde. Das im Jahr 2020 gestartete Projekt OpenGOAL hat erhebliche Fortschritte bei der Dekompilierung und Neukompilierung des ursprünglichen Spielcodes gemacht, was eine native x86-64-Portierung dieser beliebten Spiele ermöglicht. Das Projekt konzentriert sich darauf, das ursprüngliche Spielgefühl und Aussehen der Spiele zu erhalten und gleichzeitig die Leistung, Genauigkeit und Kompatibilität zu verbessern. Außerdem unterstützt OpenGOAL Modifikationen und benutzerdefinierte Inhalte und bietet eine Plattform für eine lebendige Modding-Community.</text>
+			<text lang="es">OpenGOAL es un ambicioso proyecto destinado a revivir el lenguaje de programación GOAL, que se utilizó originalmente para desarrollar la clásica serie Jak and Daxter de Naughty Dog. Iniciado en 2020, OpenGOAL ha logrado avances significativos en la descompilación y recompilación del código del juego original, lo que permite ports nativos x86-64 de estos queridos juegos. El proyecto se centra en mantener la sensación y el aspecto originales de los juegos, al tiempo que mejora el rendimiento, la precisión y la compatibilidad. Además, OpenGOAL admite modificaciones y contenidos personalizados, proporcionando una plataforma para una vibrante comunidad de modding.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

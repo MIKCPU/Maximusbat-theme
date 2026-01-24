@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Get ready to tilt into terror. The new horror-inspired pinball platform for fearless players. Prove your skills on the most sinister, gory, and badass tables ever brought to life. Spine-chilling features: - Wrath of the Elder Gods: Director’s Cut - experience the eldritch horror unrestricted for free - A library of brand new, never-before-seen tables filled with fear and carnage - Thrilling competition - Zen Studios’ ultimate pinball simulation. Press start and flip for your life!</text>
+			<text lang="es">Prepárate para el terror. La nueva plataforma de pinball inspirada en el terror para jugadores intrépidos. Demuestra tus habilidades en las mesas más siniestras, sangrientas y malvadas jamás creadas. Características escalofriantes: - Wrath of the Elder Gods: Director's Cut: experimenta el horror sobrenatural sin restricciones y gratis. - Una biblioteca de mesas nuevas, nunca vistas, llenas de miedo y carnicería. - Emocionante competición - La simulación de pinball definitiva de Zen Studios. Pulsa Start y ¡sálvese quien pueda!</text>
+			<text lang="de">Mach dich bereit, in den Terror zu stürzen. Die neue, von Horror inspirierte Flipperplattform für furchtlose Spieler. Beweisen Sie Ihr Können auf den unheimlichsten, blutigsten und krassesten Tischen, die je zum Leben erweckt wurden. Gruselige Features: - Wrath of the Elder Gods: Director's Cut - erlebe das eldritische Grauen uneingeschränkt und kostenlos - Eine Bibliothek mit brandneuen, noch nie zuvor gesehenen Tischen voller Angst und Gemetzel - Spannende Wettkämpfe - Zen Studios' ultimative Flipper-Simulation Drücken Sie auf Start und flippern Sie um Ihr Leben!</text>
+			<text lang="fr">Préparez-vous à basculer dans la terreur. La nouvelle plateforme de flipper inspirée de l'horreur pour les joueurs intrépides. Démontrez vos talents sur les tables les plus sinistres, les plus sanglantes et les plus méchantes jamais créées. Des caractéristiques qui font froid dans le dos : - Wrath of the Elder Gods : Director's Cut - vivez l'horreur sans restriction et gratuitement. - Une bibliothèque de tables inédites, pleines de peur et de carnage. - Une compétition palpitante - L'ultime simulation de flipper de Zen Studios. Appuyez sur le bouton "Start" et jouez pour sauver votre vie !</text>
+			<text lang="it">Preparatevi a fare un salto nel terrore. La nuova piattaforma di flipper ispirata all'horror per giocatori impavidi. Dimostrate le vostre abilità sui tavoli più sinistri, cruenti e cattivi mai portati in vita. Caratteristiche da brivido: - Wrath of the Elder Gods: Director's Cut - l'esperienza dell'orrore infernale è gratuita e senza limiti. - Una libreria di tavoli inediti, mai visti prima, pieni di paura e carneficina - Competizione avvincente - La simulazione di flipper più avanzata di Zen Studios Premete il pulsante di avvio e lanciatevi per la vostra vita!</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

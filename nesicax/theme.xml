@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>NESiCAxLive (Japanese: ネシカ　クロス　ライブ, Hepburn: Neshika Kurosu Raibu) is a digital distribution system for arcade video games made by Taito, similar to the SEGA ALL.Net game distribution system. The NESiCAxLive system consists of an arcade system board combined with a dedicated router to access and download games. The system currently works on the Taito Type X2, Taito Type X Zero, Taito Type X3, and Taito Type X4 arcade boards. Taito uses NESiCAxLive to distribute not only its own games, but also allows other companies to use it as a publication platform. On its introduction SNK, Cave, and Arc System Works had agreed to distribute games on NESiCAxLive.</text>
+			<text lang="es">NESiCAxLive (japonés: ネシカ クロス ライブ, Hepburn: Neshika Kurosu Raibu) es un sistema de distribución digital de videojuegos arcade fabricado por Taito, similar al sistema de distribución de juegos ALL.Net de SEGA. El sistema NESiCAxLive consiste en una placa de sistema arcade combinada con un router dedicado para acceder a los juegos y descargarlos. Actualmente, el sistema funciona con las placas arcade Taito Type X2, Taito Type X Zero, Taito Type X3 y Taito Type X4. Taito utiliza NESiCAxLive para distribuir no sólo sus propios juegos, sino que también permite que otras empresas lo utilicen como plataforma de publicación. En el momento de su introducción, SNK, Cave y Arc System Works habían acordado distribuir juegos en NESiCAxLive.</text>
+			<text lang="de">NESiCAxLive (japanisch: ネシカ クロス ライブ, Hepburn: Neshika Kurosu Raibu) ist ein digitales Vertriebssystem für Arcade-Videospiele der Firma Taito, ähnlich dem SEGA ALL.Net Game Distribution System. Das NESiCAxLive-System besteht aus einer Spielhallen-Systemplatine in Kombination mit einem speziellen Router für den Zugriff auf und das Herunterladen von Spielen. Das System funktioniert derzeit mit den Spielhallenplatinen Taito Type X2, Taito Type X Zero, Taito Type X3 und Taito Type X4. Taito nutzt NESiCAxLive nicht nur für den Vertrieb seiner eigenen Spiele, sondern erlaubt auch anderen Unternehmen, es als Veröffentlichungsplattform zu nutzen. Bei seiner Einführung hatten SNK, Cave und Arc System Works zugestimmt, Spiele auf NESiCAxLive zu vertreiben.</text>
+			<text lang="fr">NESiCAxLive (japonais : ネシカ クロス ライブ, Hepburn : Neshika Kurosu Raibu) est un système de distribution numérique pour les jeux vidéo d'arcade fabriqués par Taito, similaire au système de distribution de jeux ALL.Net de SEGA. Le système NESiCAxLive se compose d'une carte de système d'arcade combinée à un routeur dédié permettant d'accéder aux jeux et de les télécharger. Le système fonctionne actuellement sur les cartes d'arcade Taito Type X2, Taito Type X Zero, Taito Type X3 et Taito Type X4. Taito utilise NESiCAxLive non seulement pour distribuer ses propres jeux, mais aussi pour permettre à d'autres sociétés de l'utiliser comme plate-forme de publication. Lors de son lancement, SNK, Cave et Arc System Works ont accepté de distribuer des jeux sur NESiCAxLive.</text>
+			<text lang="it">NESiCAxLive (giapponese: ネシカ クロス ライブ, Hepburn: Neshika Kurosu Raibu) è un sistema di distribuzione digitale di videogiochi arcade prodotto da Taito, simile al sistema di distribuzione di giochi SEGA ALL.Net. Il sistema NESiCAxLive consiste in una scheda di sistema arcade combinata con un router dedicato per accedere e scaricare i giochi. Il sistema funziona attualmente sulle schede arcade Taito Type X2, Taito Type X Zero, Taito Type X3 e Taito Type X4. Taito utilizza NESiCAxLive per distribuire non solo i propri giochi, ma permette anche ad altre aziende di utilizzarlo come piattaforma di pubblicazione. Al momento della sua introduzione, SNK, Cave e Arc System Works avevano accettato di distribuire giochi su NESiCAxLive.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
