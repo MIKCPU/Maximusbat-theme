@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>REminiscence is a game engine recreation of the 1992/1993 action adventure game Flashback made by Delphine Software. It is the spiritual successor of Another World/Out Of This World and it distinguishes itself with rotoscoped graphics, polygonal cutscenes, and a Prince of Persia-style gameplay system.</text>
+			<text lang="it">REminiscence è una ricreazione con motore di gioco del gioco d'azione e avventura Flashback del 1992/1993, realizzato da Delphine Software. È il successore spirituale di Another World/Out Of This World e si distingue per la grafica rotoscopica, le scene d'intermezzo poligonali e un sistema di gioco in stile Prince of Persia.</text>
+			<text lang="fr">REminiscence est une recréation par moteur de jeu du jeu d'action et d'aventure Flashback (1992/1993) réalisé par Delphine Software. C'est le successeur spirituel de Another World/Out Of This World et il se distingue par des graphismes rotoscopés, des cutscenes polygonales et un système de jeu à la Prince of Persia.</text>
+			<text lang="de">REminiscence ist eine Nachbildung des Action-Adventures Flashback aus dem Jahr 1992/1993 von Delphine Software. Es ist der geistige Nachfolger von Another World/Out Of This World und zeichnet sich durch rotoskopierte Grafiken, polygonale Zwischensequenzen und ein Prince of Persia-ähnliches Gameplay-System aus.</text>
+			<text lang="es">REminiscence es una recreación con motor de juego del juego de acción y aventura Flashback de 1992/1993 realizado por Delphine Software. Es el sucesor espiritual de Another World/Out Of This World y se distingue por sus gráficos rotoscopiados, escenas poligonales y un sistema de juego al estilo Prince of Persia.</text>
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

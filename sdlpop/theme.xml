@@ -9,6 +9,30 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>SDLPoP stands for "Prince of Persia" linked to SDL. It is an open-source port of Prince of Persia that runs natively on Windows and Linux.
+SDLPoP is based on a disassembly of the DOS version, and uses SDL, extending the game with new features.</text>
+			<text lang="es">SDLPoP son las siglas de "Prince of Persia" vinculado a SDL. Se trata de un port de código abierto de Prince of Persia que se ejecuta de forma nativa en Windows y Linux.
+SDLPoP se basa en un desensamblaje de la versión DOS y utiliza SDL, ampliando el juego con nuevas características.</text>
+			<text lang="de">SDLPoP steht für "Prince of Persia" in Verbindung mit SDL. Es handelt sich um eine Open-Source-Portierung von Prince of Persia, die nativ auf Windows und Linux läuft.
+SDLPoP basiert auf einer Disassemblierung der DOS-Version und nutzt SDL, um das Spiel mit neuen Funktionen zu erweitern.</text>
+			<text lang="fr">SDLPoP signifie "Prince of Persia" lié à SDL. Il s'agit d'un portage open-source de Prince of Persia qui fonctionne nativement sous Windows et Linux.
+SDLPoP est basé sur un désassemblage de la version DOS, et utilise SDL, étendant le jeu avec de nouvelles fonctionnalités.</text>
+			<text lang="it">SDLPoP sta per "Prince of Persia" collegato a SDL. È un port open-source di Prince of Persia che gira in modo nativo su Windows e Linux.
+SDLPoP si basa su un disassemblaggio della versione DOS e utilizza SDL, estendendo il gioco con nuove funzionalità.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
