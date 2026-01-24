@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>PlayStation Minis, also known simply as minis, is a line of small, casual games available to download from the PlayStation Store. The series was launched on October 1, 2009 for the PlayStation Portable, specifically for the launch of the digital-only model PSP go. Compatibility with the PlayStation 3 was added on December 17, 2009 with firmware update 3.15 and the PlayStation Vita at the handheld's launch. By July 14, 2010, over 1 million minis had been downloaded worldwide.</text>
+			<text lang="es">PlayStation Minis, también conocido simplemente como minis, es una línea de pequeños juegos casuales disponibles para descargar desde PlayStation Store. La serie se lanzó el 1 de octubre de 2009 para la PlayStation Portable, concretamente con motivo del lanzamiento del modelo PSP go, sólo digital. La compatibilidad con PlayStation 3 se añadió el 17 de diciembre de 2009 con la actualización de firmware 3.15 y con PlayStation Vita en el lanzamiento de la consola portátil. El 14 de julio de 2010 ya se habían descargado más de un millón de minijuegos en todo el mundo.</text>
+			<text lang="de">PlayStation Minis, auch einfach als Minis bekannt, ist eine Reihe von kleinen Gelegenheitsspielen, die im PlayStation Store zum Download angeboten werden. Die Serie wurde am 1. Oktober 2009 für die PlayStation Portable eingeführt, speziell für die Einführung des digitalen Modells PSP go. Die Kompatibilität mit der PlayStation 3 wurde am 17. Dezember 2009 mit dem Firmware-Update 3.15 und der PlayStation Vita bei der Einführung des Handhelds hinzugefügt. Bis zum 14. Juli 2010 wurden weltweit über 1 Million Minis heruntergeladen.</text>
+			<text lang="fr">PlayStation Minis, également connu sous le nom de minis, est une gamme de petits jeux occasionnels disponibles en téléchargement sur le PlayStation Store. La série a été lancée le 1er octobre 2009 pour la PlayStation Portable, spécifiquement pour le lancement du modèle numérique PSP go. La compatibilité avec la PlayStation 3 a été ajoutée le 17 décembre 2009 avec la mise à jour 3.15 du micrologiciel et avec la PlayStation Vita lors du lancement de l'ordinateur de poche. Le 14 juillet 2010, plus d'un million de figurines avaient été téléchargées dans le monde entier.</text>
+			<text lang="it">PlayStation Minis, nota anche semplicemente come minis, è una linea di piccoli giochi casual scaricabili dal PlayStation Store. La serie è stata lanciata il 1° ottobre 2009 per PlayStation Portable, in particolare per il lancio del modello PSP go, solo digitale. La compatibilità con la PlayStation 3 è stata aggiunta il 17 dicembre 2009 con l'aggiornamento firmware 3.15 e con la PlayStation Vita al lancio della console portatile. Al 14 luglio 2010 erano stati scaricati oltre 1 milione di minis in tutto il mondo.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
