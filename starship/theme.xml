@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Harbour Masters, the creators of "Ship of Harkinian" and "2 Ship 2 Harkinian" have branched out from the Zelda universe to the Star Fox universe! "Starship" is a full decompilation of Star Fox 64, available natively for modern platforms. Major improvements include increased resolution, increased framerate, widescreen support, cheats and QoL fixes. Starship is the best possible way to relive an all-time classic.</text>
+			<text lang="it">Harbour Masters, i creatori di "Ship of Harkinian" e "2 Ship 2 Harkinian", hanno abbandonato l'universo di Zelda per quello di Star Fox! "Starship" è una decompilazione completa di Star Fox 64, disponibile per la prima volta nativamente per piattaforme moderne. I miglioramenti principali includono una risoluzione aumentata, un frame rate più alto, il supporto per schermi panoramici, cheat e correzioni per la qualità di vita. Starship è il modo migliore per rivivere un classico senza tempo.</text>
+			<text lang="fr">Harbour Masters, les créateurs de "Ship of Harkinian" et "2 Ship 2 Harkinian", ont quitté l'univers de Zelda pour celui de Star Fox ! "Starship" est une décompilation complète de Star Fox 64, disponible nativement pour les plateformes modernes. Les améliorations majeures incluent une résolution accrue, un taux de rafraîchissement plus élevé, le support des écrans larges, des triches et des corrections de qualité de vie. Starship est la meilleure façon de revivre un classique intemporel.</text>
+			<text lang="de">Harbour Masters, die Schöpfer von "Ship of Harkinian" und "2 Ship 2 Harkinian", haben sich aus dem Zelda-Universum herausgewagt und sind ins Star-Fox-Universum eingetaucht! "Starship" ist eine vollständige Dekompilierung von Star Fox 64, erstmals nativ für moderne Plattformen. Zu den wichtigsten Verbesserungen gehören höhere Auflösung, höhere Bildraten, Unterstützung für Breitbildmonitore, Cheats und Quality-of-Life-Verbesserungen. Starship ist die beste Art und Weise, diesen zeitlosen Klassiker noch einmal zu erleben.</text>
+			<text lang="es">¡Harbour Masters, los creadores de "Ship of Harkinian" y "2 Ship 2 Harkinian", han salido del universo de Zelda para adentrarse en el universo de Star Fox! "Starship" es una descompilación completa de Star Fox 64, disponible por primera vez de forma nativa para plataformas modernas. Las mejoras principales incluyen mayor resolución, mayor tasa de fotogramas, soporte para pantallas anchas, trucos y correcciones de calidad de vida. Starship es la mejor manera posible de revivir un clásico atemporal.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

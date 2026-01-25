@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Sonic 3 AIR - Angel Island Revisited, is a fan-made widescreen remaster of Sonic 3 & Knuckles.</text>
+			<text lang="es">Sonic 3 AIR - Angel Island Revisited, es una remasterización en pantalla ancha de Sonic 3 & Knuckles hecha por fans.</text>
+			<text lang="de">Sonic 3 AIR – Angel Island Revisited ist ein von Fans erstelltes Breitbild-Remaster von Sonic 3 & Knuckles.</text>
+			<text lang="fr">Sonic 3 AIR - Angel Island Revisited, est un remaster grand écran réalisé par des fans de Sonic 3 & Knuckles.</text>
+			<text lang="it">Sonic 3 AIR - Angel Island Revisited, è una rimasterizzazione widescreen realizzata dai fan di Sonic 3 e Knuckles.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

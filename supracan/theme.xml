@@ -9,6 +9,30 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Super A'Can is a home video game console released exclusively in Taiwan in 1995 by Funtech/Dunhuang Technology.
+It is based around the Motorola 68000 microchip, which is also used in the Sega Genesis and Neo Geo. Twelve games have been confirmed to exist for the system.</text>
+			<text lang="es">La Super A'Can es una videoconsola doméstica lanzada exclusivamente en Taiwán en 1995 por Funtech/Dunhuang Technology.
+Está basada en el microchip Motorola 68000, que también se utiliza en la Sega Genesis y la Neo Geo. Se ha confirmado la existencia de doce juegos para este sistema.</text>
+			<text lang="de">Die Super A'Can ist eine Videospielkonsole für den Heimgebrauch, die 1995 von Funtech/Dunhuang Technology exklusiv in Taiwan veröffentlicht wurde.
+Sie basiert auf dem Motorola 68000 Mikrochip, der auch im Sega Genesis und Neo Geo verwendet wird. Zwölf Spiele wurden für das System bestätigt.</text>
+			<text lang="fr">La Super A'Can est une console de jeu vidéo de salon commercialisée exclusivement à Taiwan en 1995 par Funtech/Dunhuang Technology.
+Elle est basée sur la puce Motorola 68000, également utilisée dans la Sega Genesis et la Neo Geo. Douze jeux ont été confirmés pour ce système.</text>
+			<text lang="it">Il Super A'Can è una console per videogiochi domestica rilasciata esclusivamente a Taiwan nel 1995 da Funtech/Dunhuang Technology.
+È basata sul microchip Motorola 68000, utilizzato anche nel Sega Genesis e nel Neo Geo. È stata confermata l'esistenza di dodici giochi per il sistema.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

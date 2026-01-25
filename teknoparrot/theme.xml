@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>TeknoParrot is a software package allowing to run selected PC-based arcade titles, with full support for keyboard and mouse controls, gamepads, steering wheels and joysticks. It currently supports games for various arcade systems, mapping the proprietary add-on hardware found in these systems to commodity PC peripherals, and fixing any other limitations in the game software that prevents them from running on standard Windows systems. TeknoParrot currently supports over 170 arcade titles from a wide variety of arcade hardware, such as Taito Type-X/Type-X2/Type-X3, eX-Board, Namco N2, Namco ES3X, Sega Lindbergh, Sega Europa-R, Sega RingEdge/RingEdge 2/RingWide.</text>
+			<text lang="es">TeknoParrot es un paquete de software que permite ejecutar determinados títulos arcade para PC, con total compatibilidad con controles de teclado y ratón, gamepads, volantes y joysticks. Actualmente soporta juegos para varios sistemas arcade, mapeando el hardware complementario propietario que se encuentra en estos sistemas a periféricos de PC básicos, y corrigiendo cualquier otra limitación en el software del juego que impida su ejecución en sistemas Windows estándar. TeknoParrot soporta actualmente más de 170 títulos arcade de una amplia variedad de hardware arcade, como Taito Type-X/Type-X2/Type-X3, eX-Board, Namco N2, Namco ES3X, Sega Lindbergh, Sega Europa-R, Sega RingEdge/RingEdge 2/RingWide.</text>
+			<text lang="de">TeknoParrot ist ein Softwarepaket, das es ermöglicht, ausgewählte PC-basierte Arcade-Titel zu spielen, mit voller Unterstützung für Tastatur- und Maussteuerung, Gamepads, Lenkräder und Joysticks. Es unterstützt derzeit Spiele für verschiedene Arcade-Systeme, indem es die proprietäre Zusatzhardware dieser Systeme auf handelsübliche PC-Peripheriegeräte abbildet und alle anderen Einschränkungen in der Spielesoftware behebt, die verhindern, dass sie auf Standard-Windows-Systemen laufen. TeknoParrot unterstützt derzeit über 170 Arcade-Titel von einer Vielzahl von Arcade-Hardware, wie Taito Type-X/Type-X2/Type-X3, eX-Board, Namco N2, Namco ES3X, Sega Lindbergh, Sega Europa-R, Sega RingEdge/RingEdge 2/RingWide.</text>
+			<text lang="fr">TeknoParrot est un logiciel permettant d'exécuter des titres d'arcade sélectionnés sur PC, avec une prise en charge complète des commandes au clavier et à la souris, des manettes de jeu, des volants et des joysticks. Il prend actuellement en charge des jeux pour divers systèmes d'arcade, en associant le matériel d'extension propriétaire de ces systèmes à des périphériques PC courants, et en corrigeant toute autre limitation dans le logiciel de jeu qui les empêche de fonctionner sur des systèmes Windows standard. TeknoParrot prend actuellement en charge plus de 170 titres d'arcade provenant d'une grande variété de matériel d'arcade, tels que Taito Type-X/Type-X2/Type-X3, eX-Board, Namco N2, Namco ES3X, Sega Lindbergh, Sega Europa-R, Sega RingEdge/RingEdge 2/RingWide.</text>
+			<text lang="it">TeknoParrot è un pacchetto software che consente di eseguire titoli arcade selezionati basati su PC, con il pieno supporto dei comandi di tastiera e mouse, gamepad, volanti e joystick. Attualmente supporta giochi per vari sistemi arcade, mappando l'hardware aggiuntivo proprietario presente in questi sistemi alle periferiche di base del PC e correggendo qualsiasi altra limitazione nel software di gioco che ne impedisce l'esecuzione su sistemi Windows standard. TeknoParrot supporta attualmente oltre 170 titoli arcade di un'ampia varietà di hardware arcade, come Taito Type-X/Type-X2/Type-X3, eX-Board, Namco N2, Namco ES3X, Sega Lindbergh, Sega Europa-R, Sega RingEdge/RingEdge 2/RingWide.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

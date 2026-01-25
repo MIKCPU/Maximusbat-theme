@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Ship of Harkinian (SoH) – A full decompilation project of The Legend of Zelda: Ocarina of Time from the N64 for modern operating systems. The name "SoH" is a reference to King Harkinian, Zelda's father in the Legend of Zelda CD-i games. The game can now be played at high resolutions and framerates, including support for 120 FPS and ultrawide displays. Other mods are also possible, such as high-resolution texture packs (e.g., Ocarina of Time Reloaded) and quality-of-life improvements like adjustable text speed and camera control mapped to the right stick. There are even mods that replace all textures with the 3DS remake’s assets and include a built-in randomizer for rewards.</text>
+			<text lang="it">Ship of Harkinian (SoH) – Un progetto di decompilazione completa di The Legend of Zelda: Ocarina of Time (N64) per sistemi operativi moderni. Il nome "SoH" è un riferimento a Re Harkinian, padre di Zelda nei giochi Legend of Zelda per CD-i. Ora il gioco può essere eseguito in alta risoluzione e con frame rate elevati, incluso il supporto per 120 FPS e schermi ultra-wide. Altre modifiche sono possibili, come pacchetti di texture ad alta risoluzione (ad esempio Ocarina of Time Reloaded) e miglioramenti alla qualità di vita, come la regolazione della velocità del testo e il controllo della telecamera con il joystick destro. Esistono persino mod che sostituiscono tutte le texture con quelle del remake per 3DS e includono un randomizer di ricompense integrato.</text>
+			<text lang="fr">Ship of Harkinian (SoH) – Un projet de décompilation complète de The Legend of Zelda: Ocarina of Time (N64) pour les systèmes d’exploitation modernes. Le nom « SoH » fait référence au roi Harkinian, père de Zelda dans les jeux Legend of Zelda sur CD-i. Le jeu peut désormais être exécuté en haute résolution et avec un taux de rafraîchissement élevé, incluant le support du 120 FPS et des écrans ultra-larges. D’autres modifications sont également possibles, comme des packs de textures haute résolution (par exemple Ocarina of Time Reloaded) et des améliorations de qualité de vie, comme la vitesse de texte réglable et le contrôle de la caméra sur le stick droit. Il existe même des mods qui remplacent toutes les textures par celles du remake 3DS et incluent un randomiseur de récompenses intégré.</text>
+			<text lang="de">Ship of Harkinian (SoH) – Ein vollständiges Dekompilationsprojekt von The Legend of Zelda: Ocarina of Time (N64) für moderne Betriebssysteme. Der Name „SoH“ bezieht sich auf König Harkinian, Zeldas Vater in den Legend of Zelda-CD-i-Spielen. Das Spiel kann nun in hoher Auflösung und mit hohen Bildraten gespielt werden, einschließlich Unterstützung für 120 FPS und Ultra-Wide-Displays. Weitere Mods sind möglich, z. B. Hochauflösende Texture-Packs (wie Ocarina of Time Reloaded) und Lebensqualitätsverbesserungen wie anpassbare Textgeschwindigkeit und Kamerasteuerung über den rechten Stick. Es gibt sogar Mods, die alle Texturen durch die des 3DS-Remakes ersetzen und einen integrierten Belohnungs-Randomizer enthalten.</text>
+			<text lang="es">Ship of Harkinian (SoH) – Un proyecto de descompilación completa de The Legend of Zelda: Ocarina of Time de N64 para sistemas operativos modernos. El nombre "SoH" hace referencia al Rey Harkinian, padre de Zelda en los juegos de Legend of Zelda para CD-i. Ahora el juego puede ejecutarse en alta resolución y con altas tasas de fotogramas, incluyendo soporte para 120 FPS y pantallas ultrapanorámicas. También son posibles otras modificaciones, como packs de texturas en alta resolución (por ejemplo, Ocarina of Time Reloaded) y mejoras de calidad de vida, como ajustar la velocidad del texto y asignar el control de la cámara al stick derecho. Incluso hay mods que reemplazan todas las texturas por las del remake de 3DS e incluyen un randomizador de recompensas integrado.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Starpath Supercharger (originally called the Arcadia Supercharger) is an expansion peripheral cartridge created by Starpath, for playing cassette-based proprietary games on the Atari 2600 video game console. The device consists of a long cartridge with a handle on the end, and an audio cassette cable. It adds 6 KB to the Atari 2600's 128 bytes of RAM (increasing it 49-fold to 6,272 bytes of RAM), allowing for the creation of specially compatible games which are larger and have higher resolution graphics than normal cartridges. A cable coming out of the side of the cartridge plugs into the earphone jack of any standard cassette player, for loading all Supercharger games from standard audio cassettes.</text>
+			<text lang="it">Lo Starpath Supercharger (originariamente chiamato Arcadia Supercharger) è una cartuccia periferica di espansione creata da Starpath, per la riproduzione di giochi proprietari basati su cassette sulla console per videogiochi Atari 2600. La periferica consiste in una lunga cartuccia con una maniglia all'estremità e un cavo per cassette audio. Aggiunge 6 KB ai 128 byte di RAM dell'Atari 2600 (aumentandoli di 49 volte fino a 6.272 byte di RAM), consentendo la creazione di giochi appositamente compatibili, più grandi e con grafica a risoluzione più elevata rispetto alle normali cartucce. Un cavo che fuoriesce dal lato della cartuccia si inserisce nella presa auricolare di qualsiasi lettore di cassette standard, per caricare tutti i giochi Supercharger da cassette audio standard.</text>
+			<text lang="fr">Le Starpath Supercharger (initialement appelé Arcadia Supercharger) est une cartouche périphérique d'extension créée par Starpath, pour jouer à des jeux propriétaires sur cassette sur la console de jeux vidéo Atari 2600. Le périphérique se compose d'une longue cartouche avec une poignée à l'extrémité et d'un câble pour cassette audio. Il ajoute 6 Ko aux 128 octets de RAM de l'Atari 2600 (ce qui multiplie par 49 le nombre d'octets de RAM pour atteindre 6 272 octets), ce qui permet de créer des jeux spécialement compatibles qui sont plus grands et ont une résolution graphique plus élevée que les cartouches normales. Un câble sortant sur le côté de la cartouche se branche sur la prise écouteur de n'importe quel lecteur de cassettes standard, pour charger tous les jeux Supercharger à partir de cassettes audio standard.</text>
+			<text lang="de">Der Starpath Supercharger (ursprünglich Arcadia Supercharger genannt) ist ein von Starpath entwickeltes Erweiterungsmodul für proprietäre Spiele auf Kassettenbasis für die Videospielkonsole Atari 2600. Das Gerät besteht aus einer langen Kassette mit einem Griff am Ende und einem Audiokassettenkabel. Es erweitert den 128 Byte großen Arbeitsspeicher des Atari 2600 um 6 KB (und erhöht ihn damit um das 49-fache auf 6.272 Byte RAM), was die Erstellung von speziell kompatiblen Spielen ermöglicht, die größer sind und eine höhere Grafikauflösung haben als normale Kassetten. Ein Kabel, das an der Seite der Kassette herauskommt, kann in die Kopfhörerbuchse eines normalen Kassettenspielers eingesteckt werden, um alle Supercharger-Spiele von normalen Audiokassetten zu laden.</text>
+			<text lang="es">El Starpath Supercharger (originalmente llamado Arcadia Supercharger) es un cartucho periférico de expansión creado por Starpath, para jugar a juegos propietarios basados en casetes en la consola de videojuegos Atari 2600. El dispositivo consiste en un cartucho largo con un asa en el extremo y un cable de casete de audio. Añade 6 KB a los 128 bytes de RAM de la Atari 2600 (multiplicándolos por 49 hasta alcanzar los 6.272 bytes de RAM), lo que permite crear juegos especialmente compatibles que son más grandes y tienen gráficos de mayor resolución que los cartuchos normales. Un cable que sale del lateral del cartucho se conecta a la toma de auriculares de cualquier reproductor de casetes estándar, para cargar todos los juegos Supercharger desde casetes de audio estándar.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

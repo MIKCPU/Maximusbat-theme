@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The VTech Socrates is an 8-bit educational home video game console manufactured and released in 1988 by VTech. The console features a robot character Socrates, named after the philosopher. The character is visually similar to Johnny Five from the Short Circuit movies. It was discontinued in the early 1990s. The system features standard wireless controllers that communicated via infrared reception. Yeno distributed the system in Europe. In Germany, under the name Prof. Weiss-Alles, which translates to "Professor Knows-Everything". And in France, as the Professeur Saitout; Jeu Educatif Video, where "Saitout" comes from the french phrase "Sais Tout", meaning "Knows All". VTech also distributed the system in Canada, being sold as the Socrates Saitout; Jeu Educatif Video.</text>
+			<text lang="es">La VTech Socrates es una videoconsola educativa de 8 bits fabricada y lanzada al mercado en 1988 por VTech. La consola cuenta con un personaje robot Sócrates, llamado así por el filósofo. El personaje es visualmente similar a Johnny Five de las películas de Cortocircuito. Se dejó de fabricar a principios de la década de 1990. El sistema cuenta con mandos inalámbricos estándar que se comunicaban mediante recepción de infrarrojos. Yeno distribuyó el sistema en Europa. En Alemania, con el nombre de Prof. Weiss-Alles, que se traduce como "El profesor lo sabe todo". Y en Francia, con el nombre de Professeur Saitout; Jeu Educatif Video, donde "Saitout" procede de la expresión francesa "Sais Tout", que significa "Lo sabe todo". VTech también distribuyó el sistema en Canadá, vendiéndose como Socrates Saitout; Jeu Educatif Video.</text>
+			<text lang="de">Die VTech Socrates ist eine 8-Bit-Videospielkonsole für den Heimgebrauch, die 1988 von VTech hergestellt und veröffentlicht wurde. Die Konsole verfügt über eine Roboterfigur namens Sokrates, benannt nach dem Philosophen. Die Figur ähnelt optisch dem Johnny Five aus den Short Circuit-Filmen. Sie wurde in den frühen 1990er Jahren eingestellt. Das System verfügt über kabellose Standard-Controller, die über Infrarotempfang kommunizierten. Yeno vertrieb das System in Europa. In Deutschland unter dem Namen Prof. Weiss-Alles, was so viel wie "Professor weiß alles" bedeutet. Und in Frankreich unter dem Namen Professeur Saitout; Jeu Educatif Video, wobei "Saitout" von der französischen Redewendung "Sais Tout" stammt, was so viel bedeutet wie "Weiß alles". VTech vertrieb das System auch in Kanada und verkaufte es als Socrates Saitout; Jeu Educatif Video.</text>
+			<text lang="fr">La VTech Socrates est une console de jeu vidéo éducative de 8 bits fabriquée et commercialisée en 1988 par VTech. La console met en scène un robot, Socrate, nommé d'après le philosophe. Le personnage est visuellement similaire à Johnny Five des films Short Circuit. Elle a été abandonnée au début des années 1990. Le système comprend des manettes sans fil standard qui communiquent par réception infrarouge. Yeno a distribué le système en Europe. En Allemagne, sous le nom de Prof. Weiss-Alles, qui se traduit par "Professeur sait tout". Et en France, sous le nom de Professeur Saitout ; Jeu Educatif Video, où "Saitout" vient de l'expression française "Sais Tout", qui signifie "Knows All". VTech a également distribué le système au Canada, sous le nom de Socrates Saitout ; Jeu Educatif Video.</text>
+			<text lang="it">VTech Socrates è una console per videogiochi educativi per uso domestico a 8 bit prodotta e rilasciata nel 1988 da VTech. La console presenta un personaggio robotico, Socrate, che prende il nome dal filosofo. Il personaggio è visivamente simile a Johnny Five dei film Short Circuit. È stata dismessa all'inizio degli anni '90. Il sistema era dotato di controller wireless standard che comunicavano tramite ricezione a infrarossi. Yeno ha distribuito il sistema in Europa. In Germania, con il nome Prof. Weiss-Alles, che si traduce in "Professor Knows-Everything". E in Francia, come Professeur Saitout; Jeu Educatif Video, dove "Saitout" deriva dalla frase francese "Sais Tout", che significa "Sa tutto". VTech ha distribuito il sistema anche in Canada, dove è stato venduto come Socrates Saitout; Jeu Educatif Video.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

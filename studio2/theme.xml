@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The RCA Studio II is a home video game console made by RCA that debuted in January 1977. The graphics of Studio II games were black and white and resembled those of earlier Pong consoles and their clones. The Studio II also did not have joysticks or similar game controllers but instead used two ten-button keypads that were built into the console itself. The console was capable of making simple beep sounds with slight variations in tone and length. The Studio II included five built-in games. The Studio II was not a successful product; the previously released Fairchild Channel F made it obsolete at launch and the Atari 2600, superior to both, was released ten months later. After poor Christmas sales in 1977, RCA discontinued the Studio II.</text>
+			<text lang="es">La RCA Studio II es una videoconsola doméstica fabricada por RCA que debutó en enero de 1977. Los gráficos de los juegos de la Studio II eran en blanco y negro y se parecían a los de las primeras consolas Pong y sus clones. La Studio II tampoco tenía joysticks ni mandos similares, sino que utilizaba dos teclados de diez botones integrados en la propia consola. La consola era capaz de emitir simples pitidos con ligeras variaciones de tono y duración. La Studio II incluía cinco juegos integrados. La Studio II no fue un producto de éxito; la Fairchild Channel F, lanzada anteriormente, la dejó obsoleta en su lanzamiento y la Atari 2600, superior a ambas, salió al mercado diez meses después. Tras las malas ventas navideñas de 1977, RCA dejó de fabricar el Studio II.</text>
+			<text lang="de">Das RCA Studio II ist eine Heimvideospielkonsole von RCA, die im Januar 1977 auf den Markt kam. Die Grafiken der Studio II-Spiele waren schwarz-weiß und ähnelten denen früherer Pong-Konsolen und ihrer Klone. Die Studio II verfügte auch nicht über Joysticks oder ähnliche Spielsteuerungen, sondern verwendete stattdessen zwei Tastaturen mit zehn Tasten, die in die Konsole selbst eingebaut waren. Die Konsole war in der Lage, einfache Pieptöne mit leichten Variationen in Ton und Länge zu erzeugen. Das Studio II enthielt fünf integrierte Spiele. Das Studio II war kein erfolgreiches Produkt; der bereits zuvor erschienene Fairchild Channel F machte es bei der Markteinführung überflüssig, und der Atari 2600, der beiden überlegen war, wurde zehn Monate später veröffentlicht. Nach einem schlechten Weihnachtsgeschäft im Jahr 1977 stellte RCA das Studio II ein.</text>
+			<text lang="fr">La RCA Studio II est une console de jeux vidéo de salon fabriquée par RCA qui a fait ses débuts en janvier 1977. Les graphismes des jeux de la Studio II étaient en noir et blanc et ressemblaient à ceux des anciennes consoles Pong et de leurs clones. La Studio II n'avait pas non plus de joysticks ou de contrôleurs de jeu similaires, mais utilisait deux claviers à dix boutons intégrés à la console elle-même. La console était capable d'émettre de simples bips sonores avec de légères variations de tonalité et de longueur. Le Studio II comprenait cinq jeux intégrés. Le Studio II n'a pas été un produit à succès ; le Fairchild Channel F, sorti précédemment, l'a rendu obsolète dès son lancement et l'Atari 2600, supérieur aux deux, est sorti dix mois plus tard. Après de mauvaises ventes à Noël 1977, RCA a cessé de commercialiser le Studio II.</text>
+			<text lang="it">RCA Studio II è una console per videogiochi per uso domestico prodotta da RCA che ha debuttato nel gennaio 1977. La grafica dei giochi dello Studio II era in bianco e nero e ricordava quella delle precedenti console Pong e dei loro cloni. Inoltre, lo Studio II non disponeva di joystick o di controller di gioco simili, ma utilizzava due tastiere a dieci pulsanti integrate nella console stessa. La console era in grado di emettere semplici segnali acustici con leggere variazioni di tono e lunghezza. Lo Studio II comprendeva cinque giochi integrati. Lo Studio II non fu un prodotto di successo: il Fairchild Channel F, uscito in precedenza, lo rese obsoleto al momento del lancio e l'Atari 2600, superiore a entrambi, uscì dieci mesi dopo. Dopo le scarse vendite del Natale del 1977, RCA smise di produrre lo Studio II.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

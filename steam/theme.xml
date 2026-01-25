@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Steam is a video game digital distribution service and storefront by Valve. It was launched as a software client in September 2003 as a way for Valve to provide automatic updates for their games, and expanded to distributing and offering third-party game publishers' titles in late 2005. Steam offers various features, like digital rights management (DRM), game server matchmaking, anti-cheat measures, social networking and game streaming services. It provides the user with automatic game updating, saved game cloud synchronization, and community features such as friends messaging, in-game chat and a community market.</text>
+			<text lang="es">Steam es un servicio de distribución digital de videojuegos y tienda de Valve. Se lanzó como cliente de software en septiembre de 2003 para que Valve pudiera ofrecer actualizaciones automáticas de sus juegos, y se amplió para distribuir y ofrecer títulos de otros editores a finales de 2005. Steam ofrece varias funciones, como gestión de derechos digitales (DRM), matchmaking de servidores de juegos, medidas antitrampas, redes sociales y servicios de streaming de juegos. Ofrece al usuario actualizaciones automáticas del juego, sincronización de partidas guardadas en la nube y funciones de comunidad, como mensajería entre amigos, chat dentro del juego y un mercado comunitario.</text>
+			<text lang="de">Steam ist ein digitaler Vertriebsdienst für Videospiele und ein Schaufenster von Valve. Es wurde im September 2003 als Software-Client gestartet, um Valve die Möglichkeit zu geben, automatische Updates für ihre Spiele bereitzustellen, und wurde Ende 2005 auf den Vertrieb und das Angebot von Titeln von Drittanbietern erweitert. Steam bietet verschiedene Funktionen wie digitale Rechteverwaltung (DRM), Spieleserver-Matchmaking, Anti-Cheat-Maßnahmen, soziale Netzwerke und Spiele-Streaming-Dienste. Es bietet dem Benutzer automatische Spielaktualisierungen, die Synchronisierung von Spielständen in der Cloud und Community-Funktionen wie Freundesnachrichten, In-Game-Chat und einen Community-Markt.</text>
+			<text lang="fr">Steam est un service de distribution numérique de jeux vidéo et une vitrine de Valve. Il a été lancé en tant que client logiciel en septembre 2003 pour permettre à Valve de fournir des mises à jour automatiques pour ses jeux, et s'est étendu à la distribution et à l'offre de titres d'éditeurs de jeux tiers à la fin de l'année 2005. Steam offre diverses fonctionnalités, telles que la gestion des droits numériques (DRM), le matchmaking sur les serveurs de jeux, des mesures anti-triche, des réseaux sociaux et des services de streaming de jeux. Il offre à l'utilisateur la mise à jour automatique des jeux, la synchronisation des jeux sauvegardés dans le nuage et des fonctions communautaires telles que la messagerie entre amis, le chat dans le jeu et un marché communautaire.</text>
+			<text lang="it">Steam è un servizio di distribuzione digitale di videogiochi e un negozio di Valve. È stato lanciato come client software nel settembre 2003, come modo per Valve di fornire aggiornamenti automatici per i propri giochi, e si è esteso alla distribuzione e all'offerta di titoli di editori di giochi terzi alla fine del 2005. Steam offre diverse funzionalità, come la gestione dei diritti digitali (DRM), il matchmaking dei server di gioco, le misure anti-cheat, il social networking e i servizi di streaming dei giochi. Offre all'utente l'aggiornamento automatico dei giochi, la sincronizzazione dei salvataggi su cloud e funzioni di comunità come la messaggistica con gli amici, la chat di gioco e il mercato della comunità.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

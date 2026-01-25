@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Dick Smith System 80, also known as the Video Genie in Europe and the PMC-80 in North America, was a Zilog Z80-based microcomputer. It gained popularity in Australia and New Zealand during the early 1980s. While its software closely resembled that of the TRS-80 Model 1, the System 80 had its own unique appearance, interfaces, and quirks. In these regions, it was a more affordable alternative to the TRS-80, making it a beloved choice for enthusiasts who were just getting started in the world of computing. The System 80 left a significant mark in microcomputer history, especially Down Under.</text>
+			<text lang="it">Il Dick Smith System 80, noto anche come Video Genie in Europa e PMC-80 in Nord America, era un microcomputer basato su Zilog Z80. Ha guadagnato popolarità in Australia e Nuova Zelanda all'inizio degli anni Ottanta. Sebbene il suo software assomigliasse molto a quello del TRS-80 Model 1, il System 80 aveva un aspetto, delle interfacce e delle stranezze uniche. In queste regioni rappresentava un'alternativa più economica rispetto al TRS-80, e fu quindi una scelta molto apprezzata dagli appassionati che si affacciavano per la prima volta al mondo dell'informatica. Il System 80 ha lasciato un segno significativo nella storia dei microcomputer, soprattutto nel mondo underground.</text>
+			<text lang="fr">Le Dick Smith System 80, également connu sous le nom de Video Genie en Europe et de PMC-80 en Amérique du Nord, était un micro-ordinateur basé sur le Zilog Z80. Il a gagné en popularité en Australie et en Nouvelle-Zélande au début des années 1980. Bien que son logiciel ressemble beaucoup à celui du TRS-80 Model 1, le System 80 avait une apparence, des interfaces et des bizarreries qui lui étaient propres. Dans ces régions, il constituait une alternative plus abordable au TRS-80, ce qui en faisait un choix apprécié des passionnés qui débutaient dans le monde de l'informatique. Le Système 80 a laissé une trace importante dans l'histoire de la micro-informatique, en particulier en Australie.</text>
+			<text lang="de">Das Dick Smith System 80, in Europa auch als Video Genie und in Nordamerika als PMC-80 bekannt, war ein Zilog Z80-basierter Mikrocomputer. Er wurde in den frühen 1980er Jahren in Australien und Neuseeland populär. Während seine Software der des TRS-80 Model 1 sehr ähnlich war, hatte das System 80 sein eigenes Aussehen, seine Schnittstellen und seine Eigenheiten. In diesen Regionen war es eine erschwinglichere Alternative zum TRS-80, was es zu einer beliebten Wahl für Enthusiasten machte, die gerade erst in die Welt der Computer einsteigen wollten. Das System 80 hinterließ einen bedeutenden Eindruck in der Geschichte der Mikrocomputer, vor allem in Down Under.</text>
+			<text lang="es">El Dick Smith System 80, también conocido como Video Genie en Europa y PMC-80 en Norteamérica, era un microordenador basado en el Z80 de Zilog. Ganó popularidad en Australia y Nueva Zelanda a principios de la década de 1980. Aunque su software se parecía mucho al del TRS-80 Modelo 1, el System 80 tenía su propia apariencia, interfaces y peculiaridades. En estas regiones, era una alternativa más asequible que el TRS-80, lo que lo convertía en una opción muy apreciada por los entusiastas que acababan de iniciarse en el mundo de la informática. El System 80 dejó una huella significativa en la historia de los microordenadores, especialmente en Australia.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
