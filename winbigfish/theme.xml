@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Big Fish Games is a casual gaming company based in Seattle, with a regional office in Oakland, California, owned by Aristocrat Leisure. It is a developer and distributor of casual games for computers and mobile devices. Games developed by the various Big Fish studios include: Drawn series (Dark Flight, The Painted Tower, Trail of Shadows), Fairway Solitaire HD, Hidden Expedition series, Mystery Case Files series.</text>
+			<text lang="es">Big Fish Games es una empresa de juegos casuales con sede en Seattle y una oficina regional en Oakland (California), propiedad de Aristocrat Leisure. Desarrolla y distribuye juegos casuales para ordenadores y dispositivos móviles. Entre los juegos desarrollados por los distintos estudios de Big Fish se incluyen: Drawn series (Dark Flight, The Painted Tower, Trail of Shadows), Fairway Solitaire HD, Hidden Expedition series, Mystery Case Files series.</text>
+			<text lang="de">Big Fish Games ist ein Unternehmen für Gelegenheitsspiele mit Sitz in Seattle und einem regionalen Büro in Oakland, Kalifornien, und gehört zu Aristocrat Leisure. Das Unternehmen entwickelt und vertreibt Gelegenheitsspiele für Computer und mobile Geräte. Zu den von den verschiedenen Big Fish-Studios entwickelten Spielen gehören: Drawn-Serie (Dark Flight, The Painted Tower, Trail of Shadows), Fairway Solitaire HD, Hidden Expedition-Serie, Mystery Case Files-Serie.</text>
+			<text lang="fr">Big Fish Games est une société de jeux occasionnels basée à Seattle, avec un bureau régional à Oakland, en Californie, appartenant à Aristocrat Leisure. Elle développe et distribue des jeux occasionnels pour ordinateurs et appareils mobiles. Les jeux développés par les différents studios de Big Fish comprennent : la série Drawn (Dark Flight, The Painted Tower, Trail of Shadows), Fairway Solitaire HD, la série Hidden Expedition, la série Mystery Case Files.</text>
+			<text lang="it">Big Fish Games è una società di giochi casual con sede a Seattle e un ufficio regionale a Oakland, in California, di proprietà di Aristocrat Leisure. Sviluppa e distribuisce giochi casual per computer e dispositivi mobili. I giochi sviluppati dai vari studi di Big Fish includono: Serie Drawn (Dark Flight, The Painted Tower, Trail of Shadows), Fairway Solitaire HD, la serie Hidden Expedition, e la serie Mystery Case Files.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>GOG.com (formerly Good Old Games) is a digital distribution platform for video games and films. It is operated by GOG sp. z o.o., a wholly owned subsidiary of CD Projekt based in Warsaw, Poland. GOG.com delivers DRM-free video games through its digital platform for Microsoft Windows, macOS and Linux. GOG.com works to offer older games as well as new releases to users, with the product lacking any type of digital rights management to give consumers the ability to install the game anywhere and as many times as they want.</text>
+			<text lang="es">GOG.com (antes Good Old Games) es una plataforma de distribución digital de videojuegos y películas. Está gestionada por GOG sp. z o.o., filial al 100% de CD Projekt con sede en Varsovia (Polonia). GOG.com distribuye videojuegos sin DRM a través de su plataforma digital para Microsoft Windows, macOS y Linux. GOG.com trabaja para ofrecer a los usuarios tanto juegos antiguos como nuevos lanzamientos, y el producto carece de cualquier tipo de gestión de derechos digitales para dar a los consumidores la posibilidad de instalar el juego en cualquier lugar y tantas veces como quieran.</text>
+			<text lang="de">GOG.com (früher Good Old Games) ist eine digitale Vertriebsplattform für Videospiele und Filme. Sie wird von GOG sp. z o.o. betrieben, einer hundertprozentigen Tochtergesellschaft von CD Projekt mit Sitz in Warschau, Polen. GOG.com bietet DRM-freie Videospiele über seine digitale Plattform für Microsoft Windows, macOS und Linux an. GOG.com bietet seinen Nutzern sowohl ältere Spiele als auch Neuerscheinungen an, wobei das Produkt ohne jegliche Art von digitalem Rechtemanagement auskommt, damit die Verbraucher das Spiel überall und so oft sie wollen installieren können.</text>
+			<text lang="fr">GOG.com (anciennement Good Old Games) est une plateforme de distribution numérique de jeux vidéo et de films. Elle est exploitée par GOG sp. z o.o., une filiale à 100 % de CD Projekt basée à Varsovie, en Pologne. GOG.com propose des jeux vidéo sans DRM par l'intermédiaire de sa plateforme numérique pour Microsoft Windows, macOS et Linux. GOG.com s'efforce de proposer aux utilisateurs des jeux plus anciens ainsi que de nouvelles versions, le produit étant dépourvu de tout type de gestion des droits numériques afin de permettre aux consommateurs d'installer le jeu n'importe où et autant de fois qu'ils le souhaitent.</text>
+			<text lang="it">GOG.com (ex Good Old Games) è una piattaforma di distribuzione digitale di videogiochi e film. È gestita da GOG sp. z o.o., una società interamente controllata da CD Projekt con sede a Varsavia, in Polonia. GOG.com distribuisce videogiochi senza DRM attraverso la sua piattaforma digitale per Microsoft Windows, macOS e Linux. GOG.com è in grado di offrire agli utenti sia i giochi più vecchi che le nuove uscite; il prodotto è privo di qualsiasi tipo di gestione dei diritti digitali per dare ai consumatori la possibilità di installare il gioco ovunque e tutte le volte che vogliono.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

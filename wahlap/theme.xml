@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Wahlap Technology is a renowned global enterprise specializing in interactive arcade games and indoor entertainment products. With over 30 years of experience, Wahlap has established long-term partnerships with industry giants like Sega, Bandai Namco, and Konami. Their arcade game cabinets are known for their innovative designs and high-quality performance, featuring a variety of game genres including racing, shooting, and sports.</text>
+			<text lang="it">Wahlap Technology è una rinomata azienda globale specializzata in giochi arcade interattivi e prodotti per l'intrattenimento indoor. Con oltre 30 anni di esperienza, Wahlap ha stabilito partnership a lungo termine con giganti del settore come Sega, Bandai Namco e Konami. I loro cabinati arcade sono noti per il design innovativo e le prestazioni di alta qualità, con una varietà di generi di gioco tra cui corse, shooting e sport.</text>
+			<text lang="fr">Wahlap Technology est une entreprise mondiale de renom spécialisée dans les jeux d'arcade interactifs et les produits de divertissement d'intérieur. Avec plus de 30 ans d'expérience, Wahlap a établi des partenariats à long terme avec des géants de l'industrie tels que Sega, Bandai Namco et Konami. Ses consoles de jeux d'arcade sont réputées pour leur conception innovante et leurs performances de haute qualité. Elles proposent une grande variété de jeux, notamment des jeux de course, de tir et de sport.</text>
+			<text lang="de">Wahlap Technology ist ein renommiertes, weltweit tätiges Unternehmen, das sich auf interaktive Arcade-Spiele und Indoor-Unterhaltungsprodukte spezialisiert hat. Mit über 30 Jahren Erfahrung hat Wahlap langfristige Partnerschaften mit Branchenriesen wie Sega, Bandai Namco und Konami aufgebaut. Die Spielhallen von Wahlap sind für ihr innovatives Design und ihre hochwertige Leistung bekannt und bieten eine Vielzahl von Spielgenres wie Rennen, Schießen und Sport.</text>
+			<text lang="es">Wahlap Technology es una empresa mundial de renombre especializada en juegos arcade interactivos y productos de entretenimiento para interiores. Con más de 30 años de experiencia, Wahlap ha establecido asociaciones a largo plazo con gigantes del sector como Sega, Bandai Namco y Konami. Sus recreativas son conocidas por sus diseños innovadores y su rendimiento de alta calidad, y ofrecen una gran variedad de géneros de juego, como carreras, disparos y deportes.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

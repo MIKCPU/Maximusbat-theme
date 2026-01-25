@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Windows 11 is the latest major release of Microsoft's Windows NT operating system, released on October 5, 2021. It was a free upgrade to its predecessor, Windows 10 (2015), and is available for any Windows 10 devices that meet the new Windows 11 system requirements, but can also be installed on unsupported devices by bypassing the restrictions of system requirements.</text>
+			<text lang="es">Windows 11 es la última gran versión del sistema operativo Windows NT de Microsoft, lanzada el 5 de octubre de 2021. Fue una actualización gratuita de su predecesor, Windows 10 (2015), y está disponible para cualquier dispositivo con Windows 10 que cumpla los nuevos requisitos del sistema de Windows 11, aunque también puede instalarse en dispositivos no compatibles saltándose las restricciones de los requisitos del sistema.</text>
+			<text lang="de">Windows 11 ist die neueste Hauptversion des Betriebssystems Windows NT von Microsoft, die am 5. Oktober 2021 veröffentlicht wurde. Es war ein kostenloses Upgrade zu seinem Vorgänger, Windows 10 (2015), und ist für alle Windows 10-Geräte verfügbar, die die neuen Windows 11-Systemanforderungen erfüllen, kann aber auch auf nicht unterstützten Geräten unter Umgehung der Einschränkungen der Systemanforderungen installiert werden.</text>
+			<text lang="fr">Windows 11 est la dernière version majeure du système d'exploitation Windows NT de Microsoft, publiée le 5 octobre 2021. Il s'agit d'une mise à jour gratuite de son prédécesseur, Windows 10 (2015), et est disponible pour tous les appareils Windows 10 qui répondent à la nouvelle configuration requise pour Windows 11, mais peut également être installé sur des appareils non pris en charge en contournant les restrictions de la configuration requise.</text>
+			<text lang="it">Windows 11 è l'ultima major release del sistema operativo Windows NT di Microsoft, rilasciata il 5 ottobre 2021. È stato un aggiornamento gratuito del suo predecessore, Windows 10 (2015), ed è disponibile per tutti i dispositivi Windows 10 che soddisfano i nuovi requisiti di sistema di Windows 11, ma può anche essere installato su dispositivi non supportati aggirando le restrizioni dei requisiti di sistema.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Xbox is a video gaming brand created and owned by Microsoft. It represents a series of video game consoles developed by Microsoft, with three consoles released in the sixth, seventh, and eighth generations, respectively. The brand also represents applications (games), streaming services, an online service by the name of Xbox Live, and the development arm by the name of Xbox Game Studios. The brand was first introduced in the United States in November 2001, with the launch of the original Xbox console.</text>
+			<text lang="es">Xbox es una marca de videojuegos creada y propiedad de Microsoft. Representa una serie de consolas de videojuegos desarrolladas por Microsoft, con tres consolas lanzadas en las generaciones sexta, séptima y octava, respectivamente. La marca también representa aplicaciones (juegos), servicios de streaming, un servicio en línea con el nombre de Xbox Live, y el brazo de desarrollo con el nombre de Xbox Game Studios. La marca se introdujo por primera vez en Estados Unidos en noviembre de 2001, con el lanzamiento de la consola Xbox original.</text>
+			<text lang="de">Xbox ist eine Videospielmarke, die von Microsoft entwickelt wurde und sich im Besitz von Microsoft befindet. Sie steht für eine Reihe von Videospielkonsolen, die von Microsoft entwickelt wurden, wobei drei Konsolen in der sechsten, siebten bzw. achten Generation veröffentlicht wurden. Die Marke steht auch für Anwendungen (Spiele), Streaming-Dienste, einen Online-Dienst namens Xbox Live und die Entwicklungsabteilung Xbox Game Studios. Die Marke wurde in den Vereinigten Staaten erstmals im November 2001 mit der Einführung der ursprünglichen Xbox-Konsole eingeführt.</text>
+			<text lang="fr">Xbox est une marque de jeux vidéo créée et détenue par Microsoft. Elle représente une série de consoles de jeux vidéo développées par Microsoft, avec trois consoles sorties respectivement dans les sixième, septième et huitième générations. La marque représente également des applications (jeux), des services de streaming, un service en ligne appelé Xbox Live et la branche de développement appelée Xbox Game Studios. La marque a été introduite pour la première fois aux États-Unis en novembre 2001, avec le lancement de la console Xbox originale.</text>
+			<text lang="it">Xbox è un marchio di videogiochi creato e di proprietà di Microsoft. Rappresenta una serie di console per videogiochi sviluppate da Microsoft, con tre console rilasciate rispettivamente nella sesta, settima e ottava generazione. Il marchio rappresenta anche applicazioni (giochi), servizi di streaming, un servizio online chiamato Xbox Live e il braccio di sviluppo chiamato Xbox Game Studios. Il marchio è stato introdotto per la prima volta negli Stati Uniti nel novembre 2001, con il lancio della console Xbox originale.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

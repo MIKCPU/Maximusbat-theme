@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>GameHouse is a platform offering a variety of casual games like puzzles, Mahjong, hidden objects, and more. The site also features exclusive games, popular series, and curated recommendations like "most played" or "new arrivals" For extra benefits, you can become a member and unlock even more features.</text>
+			<text lang="it">GameHouse è una piattaforma che offre una varietà di giochi casual come puzzle, mahjong, oggetti nascosti e altro ancora.Il sito offre anche giochi esclusivi, serie popolari e raccomandazioni curate come "i più giocati" o "i nuovi arrivi". Per ottenere ulteriori vantaggi, è possibile diventare membri e sbloccare ancora più funzioni.</text>
+			<text lang="fr">GameHouse est une plateforme offrant une variété de jeux occasionnels tels que les puzzles, le Mahjong, les objets cachés et bien d'autres encore. Le site propose également des jeux exclusifs, des séries populaires et des recommandations comme "les plus joués" ou "les nouveaux arrivants". Pour bénéficier d'avantages supplémentaires, vous pouvez devenir membre et débloquer encore plus de fonctionnalités.</text>
+			<text lang="de">GameHouse ist eine Plattform, die eine Vielzahl von Gelegenheitsspielen wie Puzzles, Mahjong, versteckte Objekte und mehr anbietet. Die Website bietet auch exklusive Spiele, beliebte Serien und Empfehlungen wie "meistgespielt" oder "neu eingetroffen". Um zusätzliche Vorteile zu erhalten, können Sie Mitglied werden und noch mehr Funktionen freischalten.</text>
+			<text lang="es">GameHouse es una plataforma que ofrece una gran variedad de juegos casuales como puzles, Mahjong, objetos ocultos y mucho más. El sitio también ofrece juegos exclusivos, series populares y recomendaciones curadas como "los más jugados" o "los recién llegados". Para obtener ventajas adicionales, puedes hacerte miembro y desbloquear aún más funciones.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

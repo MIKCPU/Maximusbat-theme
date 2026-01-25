@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>WASM-4 is a low-level fantasy game console for building small games with WebAssembly. Game cartridges (ROMs) are small, self-contained .wasm files that can be built with any programming language that compiles to WebAssembly.</text>
+			<text lang="es">WASM-4 es una consola de juegos de fantasía de bajo nivel para construir pequeños juegos con WebAssembly. Los cartuchos de juego (ROM) son pequeños archivos .wasm autocontenidos que pueden construirse con cualquier lenguaje de programación que compile con WebAssembly.</text>
+			<text lang="de">WASM-4 ist eine Low-Level-Fantasy-Spielkonsole zur Erstellung kleiner Spiele mit WebAssembly. Spielkassetten (ROMs) sind kleine, in sich geschlossene .wasm-Dateien, die mit jeder Programmiersprache erstellt werden können, die sich mit WebAssembly kompilieren lässt.</text>
+			<text lang="fr">WASM-4 est une console de jeu fantastique de bas niveau permettant de créer de petits jeux avec WebAssembly. Les cartouches de jeu (ROM) sont de petits fichiers .wasm autonomes qui peuvent être construits avec n'importe quel langage de programmation compilant WebAssembly.</text>
+			<text lang="it">WASM-4 è una console di gioco di fantasia a basso livello per la costruzione di piccoli giochi con WebAssembly. Le cartucce di gioco (ROM) sono piccoli file .wasm autocontenuti che possono essere costruiti con qualsiasi linguaggio di programmazione che compili WebAssembly.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
