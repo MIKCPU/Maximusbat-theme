@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>TIC-80 is a fantasy computer for making, playing and sharing tiny games. There are built-in tools for development: code, sprites, maps, sound editors and the command line, which is enough to create a mini retro game. At the exit you will get a cartridge file, which can be stored and played on the website. Also, the game can be packed into a player that works on all popular platforms and distribute as you wish. To make a retro styled game the whole process of creation takes place under some technical limitations: 240x136 pixels display, 16 color palette, 256 8x8 color sprites, 4 channel sound and etc.</text>
+			<text lang="es">TIC-80 es una computadora fantástica para crear, jugar y compartir minijuegos. Incluye herramientas de desarrollo integradas: código, sprites, mapas, editores de sonido y línea de comandos, suficiente para crear un minijuego retro. Al salir, recibirás un archivo de cartucho que puedes guardar y jugar en el sitio web. Además, puedes empaquetar el juego en un reproductor compatible con todas las plataformas populares y distribuirlo como desees. Para crear un juego de estilo retro, todo el proceso de creación se realiza con ciertas limitaciones técnicas: pantalla de 240x136 píxeles, paleta de 16 colores, 256 sprites de 8x8 colores, sonido de 4 canales, etc.</text>
+			<text lang="de">TIC-80 ist ein Fantasie-Computer zum Erstellen, Spielen und Austauschen kleiner Spiele. Es gibt eingebaute Werkzeuge für die Entwicklung: Code, Sprites, Karten, Sound-Editoren und die Befehlszeile, die ausreicht, um ein Mini-Retro-Spiel zu erstellen. Am Ende erhält man eine Cartridge-Datei, die auf der Website gespeichert und gespielt werden kann. Außerdem kann das Spiel in einen Player gepackt werden, der auf allen gängigen Plattformen funktioniert und nach Belieben verteilt werden kann. Um ein Spiel im Retro-Stil zu erstellen, unterliegt der gesamte Erstellungsprozess einigen technischen Einschränkungen: 240x136 Pixel Bildschirm, 16 Farben, 256 8x8 Farben, 4-Kanal-Sound und so weiter.</text>
+			<text lang="fr">TIC-80 est un ordinateur fantaisiste qui permet de créer, de jouer et de partager des jeux miniatures. Il dispose d'outils de développement intégrés : code, sprites, cartes, éditeurs sonores et ligne de commande, ce qui est suffisant pour créer un mini jeu rétro. À la fin du projet, vous obtiendrez un fichier cartouche, qui peut être stocké et joué sur le site web. Le jeu peut également être intégré dans un lecteur fonctionnant sur toutes les plates-formes courantes et distribué comme vous le souhaitez. Pour créer un jeu de style rétro, l'ensemble du processus de création est soumis à certaines limitations techniques : écran 240x136 pixels, palette de 16 couleurs, 256 sprites de 8x8 couleurs, son à 4 canaux, etc.</text>
+			<text lang="it">TIC-80 è un computer di fantasia per creare, giocare e condividere piccoli giochi. Ci sono strumenti integrati per lo sviluppo: codice, sprite, mappe, editor di suoni e linea di comando, sufficienti per creare un mini gioco retrò. All'uscita si otterrà un file di cartuccia, che potrà essere memorizzato e giocato sul sito web. Inoltre, il gioco può essere inserito in un lettore che funziona su tutte le piattaforme più diffuse e distribuito a piacimento. Per realizzare un gioco in stile retrò, l'intero processo di creazione si svolge con alcune limitazioni tecniche: Display da 240x136 pixel, tavolozza di 16 colori, 256 sprite da 8x8 colori, suono a 4 canali e così via.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
