@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Sega Family Driver (also called Video Driver in the US) is a unique hybrid console developed in collaboration between Sega and Tyco in 1988. This VHS-driven system combines elements of video games and classic toys. It features a tiny toy car that players control using a mechanical steering wheel. The console works by playing a VHS tape that displays a street scene with corners and obstacles on the TV screen, creating the illusion that the toy car is driving on the road. The Video Driver does not need to be connected to the television, making it a charming and innovative blend of analog and digital entertainment</text>
+			<text lang="it">Il Sega Family Driver (chiamato anche Video Driver negli Stati Uniti) è una console ibrida unica nel suo genere, sviluppata in collaborazione tra Sega e Tyco nel 1988. Questo sistema alimentato da VHS combina elementi di videogiochi e giocattoli classici. È dotata di una piccola auto giocattolo che i giocatori controllano con un volante meccanico. La console funziona riproducendo un nastro VHS che visualizza sullo schermo del televisore una scena stradale con angoli e ostacoli, creando l'illusione che la macchinina stia guidando sulla strada. Il Video Driver non ha bisogno di essere collegato al televisore e rappresenta un'affascinante e innovativa combinazione di intrattenimento analogico e digitale.</text>
+			<text lang="fr">Le Sega Family Driver (également appelé Video Driver aux États-Unis) est une console hybride unique développée en collaboration entre Sega et Tyco en 1988. Ce système fonctionnant sur VHS combine des éléments de jeux vidéo et de jouets classiques. Il comporte une petite voiture jouet que les joueurs contrôlent à l'aide d'un volant mécanique. La console fonctionne en diffusant une cassette VHS qui affiche sur l'écran de télévision une scène de rue avec des virages et des obstacles, créant ainsi l'illusion que la petite voiture roule sur la route. Le Video Driver n'a pas besoin d'être connecté à la télévision, ce qui en fait un mélange charmant et innovant de divertissement analogique et numérique.</text>
+			<text lang="de">Der Sega Family Driver (in den USA auch Video Driver genannt) ist eine einzigartige Hybridkonsole, die 1988 in Zusammenarbeit zwischen Sega und Tyco entwickelt wurde. Dieses VHS-gesteuerte System kombiniert Elemente von Videospielen und klassischem Spielzeug. Es verfügt über ein winziges Spielzeugauto, das die Spieler mit einem mechanischen Lenkrad steuern. Die Konsole funktioniert, indem sie eine VHS-Kassette abspielt, die eine Straßenszene mit Kurven und Hindernissen auf dem Fernsehbildschirm anzeigt, so dass die Illusion entsteht, das Spielzeugauto würde auf der Straße fahren. Der Video Driver muss nicht an den Fernseher angeschlossen werden, was ihn zu einer charmanten und innovativen Mischung aus analoger und digitaler Unterhaltung macht.</text>
+			<text lang="es">El Sega Family Driver (también llamado Video Driver en EE.UU.) es una consola híbrida única desarrollada en colaboración entre Sega y Tyco en 1988. Este sistema accionado por VHS combina elementos de videojuegos y juguetes clásicos. Incorpora un pequeño coche de juguete que los jugadores controlan mediante un volante mecánico. La consola funciona reproduciendo una cinta VHS que muestra una escena callejera con esquinas y obstáculos en la pantalla del televisor, creando la ilusión de que el coche de juguete circula por la carretera. El Video Driver no necesita estar conectado al televisor, lo que lo convierte en una encantadora e innovadora mezcla de entretenimiento analógico y digital.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

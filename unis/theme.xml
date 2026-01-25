@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>UNIS Technology is a leading developer and manufacturer of coin-operated arcade games, known for their innovative and engaging designs. With over 30 years of experience, UNIS has created a wide range of arcade games that cater to various interests and age groups.</text>
+			<text lang="it">UNIS Technology è un'azienda leader nello sviluppo e nella produzione di giochi arcade a moneta, noti per il loro design innovativo e coinvolgente. Con oltre 30 anni di esperienza, UNIS ha creato un'ampia gamma di giochi arcade che soddisfano diversi interessi e gruppi di età.</text>
+			<text lang="fr">UNIS Technology est l'un des principaux développeurs et fabricants de jeux d'arcade à pièces, connus pour leurs conceptions innovantes et attrayantes. Avec plus de 30 ans d'expérience, UNIS a créé une large gamme de jeux d'arcade qui répondent à différents intérêts et groupes d'âge.</text>
+			<text lang="de">UNIS Technology ist ein führender Entwickler und Hersteller von münzbetriebenen Arcade-Spielen, die für ihre innovativen und ansprechenden Designs bekannt sind. Mit über 30 Jahren Erfahrung hat UNIS eine breite Palette von Arcade-Spielen entwickelt, die verschiedene Interessen und Altersgruppen ansprechen.</text>
+			<text lang="es">UNIS Technology es uno de los principales desarrolladores y fabricantes de juegos arcade que funcionan con monedas, conocidos por sus diseños innovadores y atractivos. Con más de 30 años de experiencia, UNIS ha creado una amplia gama de juegos arcade que se adaptan a diversos intereses y grupos de edad.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
