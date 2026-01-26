@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>SEGA Europa-R is an arcade system board developed by SEGA Amusements Europe. It is a PC-based design that runs only two games: SEGA Rally 3 and Race Driver: GRID. The board features a Core 2 Duo CPU, a Radeon HD 2600 graphics card, and a 32 GB solid state drive. It supports high-definition video output and surround sound. SEGA Europa-R is one of the latest arcade systems from SEGA, released in 2008</text>
+			<text lang="it">SEGA Europa-R è una scheda di sistema arcade sviluppata da SEGA Amusements Europe. Si tratta di un progetto basato su PC che esegue solo due giochi: SEGA Rally 3 e Race Driver: GRID. La scheda è dotata di una CPU Core 2 Duo, una scheda grafica Radeon HD 2600 e un'unità a stato solido da 32 GB. Supporta l'uscita video ad alta definizione e il suono surround. SEGA Europa-R è uno degli ultimi sistemi arcade di SEGA, rilasciato nel 2008.</text>
+			<text lang="fr">SEGA Europa-R est un système d'arcade développé par SEGA Amusements Europe. Il s'agit d'une conception basée sur PC qui ne fonctionne qu'avec deux jeux : SEGA Rally 3 et Race Driver : GRID. La carte est équipée d'un processeur Core 2 Duo, d'une carte graphique Radeon HD 2600 et d'un disque dur de 32 Go. Elle prend en charge la sortie vidéo haute définition et le son surround. SEGA Europa-R est l'un des derniers systèmes d'arcade de SEGA, sorti en 2008.</text>
+			<text lang="de">SEGA Europa-R ist ein von SEGA Amusements Europe entwickeltes Spielhallen-Systembrett. Es ist ein PC-basiertes Design, auf dem nur zwei Spiele laufen: SEGA Rally 3 und Race Driver: GRID. Das Board verfügt über eine Core 2 Duo-CPU, eine Radeon HD 2600-Grafikkarte und ein 32-GB-Solid-State-Laufwerk. Es unterstützt High-Definition-Videoausgabe und Surround-Sound. SEGA Europa-R ist eines der neuesten Arcade-Systeme von SEGA und wurde 2008 veröffentlicht.</text>
+			<text lang="es">SEGA Europa-R es una placa de sistema arcade desarrollada por SEGA Amusements Europe. Se trata de un diseño basado en PC que ejecuta sólo dos juegos: SEGA Rally 3 y Race Driver: GRID. La placa cuenta con una CPU Core 2 Duo, una tarjeta gráfica Radeon HD 2600 y una unidad de estado sólido de 32 GB. Soporta salida de vídeo de alta definición y sonido envolvente. SEGA Europa-R es uno de los últimos sistemas arcade de SEGA, lanzado en 2008.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
