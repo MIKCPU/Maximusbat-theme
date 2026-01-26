@@ -1,20 +1,33 @@
 <theme>
-    <formatVersion>4</formatVersion>
-    <include>./../theme.xml</include>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
 
-    <view name="system">
-        <image name="systemsnap">
-            <origin>0.5 0.5</origin>
-            <pos>0.5 0.5</pos>
-            <maxSize>0.8 0.7</maxSize>
-            <path>./_inc/systemsnap.png</path>
-        </image>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Here is a collection of all the games, from all the systems you have in your retro collection on this machine.</text>
+			<text lang="es">Aquí tienes una colección de todos los juegos, de todos los sistemas que tienes en tu colección retro en esta máquina.</text>
+			<text lang="de">Hier finden Sie eine Sammlung aller Spiele von allen Systemen, die Sie in Ihrer Retro-Sammlung haben, auf diesem Gerät.</text>
+			<text lang="fr">Voici une collection de tous les jeux, de tous les systèmes que vous avez dans votre collection rétro sur cette machine.</text>
+			<text lang="it">Ecco una raccolta di tutti i giochi, da tutti i sistemi che avete nella vostra collezione retro su questa macchina.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
+	</view>
 
-        <image name="systemsnap" extra="true">
-            <origin>0.5 0.5</origin>
-            <pos>0.5 0.5</pos>
-            <maxSize>0.8 0.7</maxSize>
-            <path>./_inc/systemsnap-it.png</path>
-        </image>
-    </view>
 </theme>

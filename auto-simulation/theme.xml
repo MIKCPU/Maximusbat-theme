@@ -9,6 +9,26 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Here is a collection of all the games of this genre, from all the systems you have on this machine.</text>
+			<text lang="it">Ecco una raccolta di tutti i giochi di questo genere, da tutti i sistemi presenti su questa macchina.</text>
+			<text lang="fr">Voici une collection de tous les jeux de ce genre, de tous les systèmes sur cette machine.</text>
+			<text lang="de">Hier ist eine Sammlung aller Spiele dieses Genres von allen Systemen auf diesem Rechner.</text>
+			<text lang="es">Aquí tienes una recopilación de todos los juegos de este género, de todos los sistemas de esta máquina.</text>
+</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
