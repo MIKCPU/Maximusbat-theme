@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Amazon Games, initially called Amazon Game Studios, is the video game division of Amazon.com. It was founded in 2012. It debuted producing browser games, and planned to produce computer games in 2014. Currently, Amazon Games is developing an untitled MMO game based on J.R.R. Tolkien's The Lord of the Rings, licensed by Middle-earth Enterprises. This game will be equivalent to Turbine Inc.'s The Lord of the Rings Online MMO.</text>
+         <text lang="it">Amazon Games, inizialmente chiamata Amazon Game Studios, è la divisione videogiochi di Amazon.com. Fondata nel 2012, ha debuttato producendo giochi per browser e ha pianificato di produrre giochi per computer nel 2014. Attualmente, Amazon Games sta sviluppando un gioco MMO (Multiplayer Online MMO) senza titolo basato su "Il Signore degli Anelli" di J.R.R. Tolkien, concesso in licenza da Middle-earth Enterprises. Questo gioco sarà equivalente all'MMO online "Il Signore degli Anelli" di Turbine Inc.</text>
+         <text lang="de">Amazon Games, ursprünglich Amazon Game Studios, ist die Videospielsparte von Amazon.com. Sie wurde 2012 gegründet und begann mit der Entwicklung von Browserspielen. Ab 2014 sollten auch Computerspiele erscheinen. Aktuell entwickelt Amazon Games ein noch unbetiteltes MMO-Spiel basierend auf J.R.R. Tolkiens „Der Herr der Ringe“, lizenziert von Middle-earth Enterprises. Dieses Spiel soll vergleichbar mit dem MMO „Der Herr der Ringe Online“ von Turbine Inc. sein.</text>
+         <text lang="fr">Amazon Games, initialement appelé Amazon Game Studios, est la division jeux vidéo d'Amazon.com. Fondée en 2012, elle a débuté avec des jeux par navigateur et prévoyait de se lancer dans les jeux PC en 2014. Actuellement, Amazon Games développe un MMORPG sans titre basé sur l'univers du Seigneur des Anneaux de J.R.R. Tolkien, sous licence Middle-earth Enterprises. Ce jeu sera l'équivalent du MMORPG Le Seigneur des Anneaux Online de Turbine Inc.</text>
+         <text lang="es">Amazon Games, inicialmente llamada Amazon Game Studios, es la división de videojuegos de Amazon.com. Se fundó en 2012. Debutó con la producción de juegos de navegador y planeaba producir juegos de computadora en 2014. Actualmente, Amazon Games está desarrollando un juego MMO aún sin título basado en El Señor de los Anillos de J.R.R. Tolkien, con licencia de Middle-earth Enterprises. Este juego será equivalente al MMO online de El Señor de los Anillos de Turbine Inc.</text>
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

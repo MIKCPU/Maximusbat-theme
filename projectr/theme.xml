@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>ProjectR is an unofficial, native port of the arcade games San Francisco Rush: The Rock and San Francisco Rush 2049 to Windows, macOS, and Linux. NOTE: This project is a work-in-progress without a finish date. It will always be free to play and share. If you were charged money for this or any future version, seek a refund immediately. ProjectR is a passion project out of love for the Rush series.</text>
+         <text lang="it">ProjectR è un porting nativo non ufficiale dei giochi arcade San Francisco Rush: The Rock e San Francisco Rush 2049 per Windows, macOS e Linux. NOTA: questo progetto è in fase di sviluppo e non ha una data di fine. Sarà sempre gratuito da giocare e condividere. Se ti è stato addebitato un costo per questa o una versione futura, richiedi immediatamente un rimborso. ProjectR è un progetto nato dalla passione per la serie Rush.</text>
+         <text lang="de">ProjectR ist eine inoffizielle, native Portierung der Arcade-Spiele San Francisco Rush: The Rock und San Francisco Rush 2049 für Windows, macOS und Linux. HINWEIS: Dieses Projekt befindet sich noch in der Entwicklung und hat kein festgelegtes Fertigstellungsdatum. Es wird immer kostenlos spielbar und teilbar sein. Falls Ihnen für diese oder eine zukünftige Version Geld berechnet wurde, fordern Sie bitte umgehend eine Rückerstattung an. ProjectR ist ein Herzensprojekt aus Liebe zur Rush-Reihe.</text>
+         <text lang="fr">ProjectR est un portage non officiel des jeux d'arcade San Francisco Rush: The Rock et San Francisco Rush 2049 sur Windows, macOS et Linux. REMARQUE : Ce projet est en cours de développement et sa date de sortie n'est pas encore fixée. Il restera toujours gratuit. Si vous avez payé pour cette version ou une version ultérieure, demandez un remboursement immédiatement. ProjectR est un projet réalisé par passion pour la série Rush.</text>
+         <text lang="es">ProjectR es una versión nativa no oficial de los juegos arcade San Francisco Rush: The Rock y San Francisco Rush 2049 para Windows, macOS y Linux. NOTA: Este proyecto está en desarrollo y no tiene fecha de finalización. Siempre será gratuito para jugar y compartir. Si se te cobró por esta o cualquier versión futura, solicita un reembolso de inmediato. ProjectR es un proyecto apasionado por la serie Rush.</text>
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

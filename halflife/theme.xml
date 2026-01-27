@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Half-Life, stylized as HλLF-LIFE, is a science fiction first-person shooter developed and published by Valve. The player takes the perspective of the scientist Gordon Freeman who struggles to escape an underground research facility after a failed experiment causes a massive alien invasion through a dimensional rift, AKA a resonance cascade. Designed initially for Microsoft Windows and later brought to other platforms such as PS2 and OS X, the game uses the GoldSrc[1][3] engine, a considerably modified version of Quake's engine with some code from other games in the Quake series, including QuakeWorld and Quake II.</text>
+         <text lang="it">Half-Life, stilizzato come HλLF-LIFE, è uno sparatutto in prima persona di fantascienza sviluppato e pubblicato da Valve. Il giocatore assume la prospettiva dello scienziato Gordon Freeman che lotta per fuggire da un centro di ricerca sotterraneo dopo che un esperimento fallito provoca una massiccia invasione aliena attraverso una frattura dimensionale, nota anche come cascata di risonanza. Progettato inizialmente per Microsoft Windows e successivamente portato su altre piattaforme come PS2 e OS X, il gioco utilizza il motore GoldSrc[1][3], una versione notevolmente modificata del motore di Quake con parte del codice di altri giochi della serie Quake, tra cui QuakeWorld e Quake II.</text>
+         <text lang="de">Half-Life (stilisiert als HλLF-LIFE) ist ein Science-Fiction-Ego-Shooter, entwickelt und veröffentlicht von Valve. Der Spieler schlüpft in die Rolle des Wissenschaftlers Gordon Freeman, der nach einem fehlgeschlagenen Experiment, das eine massive Alien-Invasion durch einen Dimensionsriss (auch Resonanzkaskade genannt) auslöst, aus einer unterirdischen Forschungseinrichtung zu fliehen versucht. Ursprünglich für Microsoft Windows entwickelt und später auf andere Plattformen wie PS2 und OS X portiert, nutzt das Spiel die GoldSrc-Engine[1][3], eine stark modifizierte Version der Quake-Engine, die Code aus anderen Spielen der Quake-Reihe, darunter QuakeWorld und Quake II, enthält.</text>
+         <text lang="fr">Half-Life, stylisé HλLF-LIFE, est un jeu de tir à la première personne de science-fiction développé et édité par Valve. Le joueur incarne le scientifique Gordon Freeman, qui tente de s'échapper d'un laboratoire souterrain après qu'une expérience ratée a provoqué une invasion extraterrestre massive à travers une faille dimensionnelle, également appelée cascade de résonance. Conçu initialement pour Microsoft Windows, puis porté sur d'autres plateformes comme la PS2 et macOS, le jeu utilise le moteur GoldSrc[1][3], une version considérablement modifiée du moteur de Quake intégrant du code provenant d'autres jeux de la série Quake, notamment QuakeWorld et Quake II.</text>
+         <text lang="es">Half-Life, conocido como HλLF-LIFE, es un juego de disparos en primera persona de ciencia ficción desarrollado y publicado por Valve. El jugador asume la perspectiva del científico Gordon Freeman, quien lucha por escapar de un centro de investigación subterráneo después de que un experimento fallido provocara una invasión alienígena masiva a través de una grieta dimensional, también conocida como cascada de resonancia. Diseñado inicialmente para Microsoft Windows y posteriormente adaptado a otras plataformas como PS2 y OS X, el juego utiliza el motor GoldSrc[1][3], una versión considerablemente modificada del motor de Quake con código de otros juegos de la serie Quake, como QuakeWorld y Quake II.</text>
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

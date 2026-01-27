@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>REDRIVER2 is an open-source, reverse-engineered native PC port of the 2000 PlayStation 1 open-world car combat game, Driver 2. It improves upon the original by offering increased draw distances, a stable 30 FPS, widescreen support, bug fixes, and reincorporated cut content. The project allows for native play on Windows and Linux, utilizing original game assets.</text>
+         <text lang="it">REDRIVER2 è una versione nativa per PC open source e sottoposta a reverse engineering del gioco di combattimento automobilistico open-world del 2000 per PlayStation 1, Driver 2. Migliora l'originale offrendo una maggiore distanza di visualizzazione, 30 FPS stabili, supporto widescreen, correzioni di bug e contenuti tagliati reintegrati. Il progetto consente il gioco nativo su Windows e Linux, utilizzando le risorse di gioco originali.</text>
+         <text lang="de">REDRIVER2 ist eine Open-Source-Portierung des PlayStation-1-Open-World-Autokampfspiels Driver 2 aus dem Jahr 2000, die auf Reverse Engineering basiert und für den PC entwickelt wurde. Sie verbessert das Original durch eine höhere Sichtweite, stabile 30 FPS, Breitbildunterstützung, Fehlerbehebungen und die Wiedereinführung zuvor entfernter Inhalte. Das Projekt ermöglicht das native Spielen unter Windows und Linux und verwendet dabei die Original-Spieldaten.</text>
+         <text lang="fr">REDRIVER2 est un portage PC natif, open source et rétro-ingénierisé, du jeu de combat automobile en monde ouvert Driver 2, sorti sur PlayStation 1 en 2000. Il améliore le jeu original en proposant une distance d'affichage accrue, un affichage stable à 30 images par seconde, la compatibilité écran large, des corrections de bugs et la réintégration de contenu initialement coupé. Le projet permet de jouer nativement sous Windows et Linux, en utilisant les ressources du jeu original.</text>
+         <text lang="es">REDRIVER2 es una versión nativa para PC de código abierto y con ingeniería inversa del juego de combate de coches de mundo abierto para PlayStation 1 del año 2000, Driver 2. Mejora el original ofreciendo mayores distancias de dibujo, 30 FPS estables, compatibilidad con pantalla panorámica, corrección de errores y reincorporación de contenido eliminado. El proyecto permite jugar de forma nativa en Windows y Linux, utilizando recursos originales del juego.</text>
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

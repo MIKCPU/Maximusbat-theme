@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Electronic Arts Inc. (EA) is a leading global developer and publisher of games for consoles, PC, and mobile, founded in 1982 and headquartered in Redwood City, California. Known for high-quality, immersive, and social interactive entertainment, EA develops major franchises like EA SPORTS FC (formerly FIFA), Battlefield, The Sims, Apex Legends, and Need for Speed.</text>
+         <text lang="it">Electronic Arts Inc. (EA) è uno sviluppatore e publisher leader a livello mondiale di giochi per console, PC e dispositivi mobili, fondato nel 1982 e con sede a Redwood City, California. Nota per l'intrattenimento di alta qualità, immersivo e socialmente interattivo, EA sviluppa franchise importanti come EA SPORTS FC (ex FIFA), Battlefield, The Sims, Apex Legends e Need for Speed.</text>
+         <text lang="de">Electronic Arts Inc. (EA) ist ein weltweit führender Entwickler und Publisher von Spielen für Konsolen, PC und Mobilgeräte. Das Unternehmen wurde 1982 gegründet und hat seinen Hauptsitz in Redwood City, Kalifornien. EA ist bekannt für hochwertige, immersive und interaktive Unterhaltung und entwickelt große Spieleserien wie EA SPORTS FC (ehemals FIFA), Battlefield, Die Sims, Apex Legends und Need for Speed.</text>
+         <text lang="fr">Electronic Arts Inc. (EA) est un leader mondial du développement et de l'édition de jeux vidéo pour consoles, PC et appareils mobiles. Fondée en 1982 et basée à Redwood City, en Californie, l'entreprise est reconnue pour ses jeux interactifs de haute qualité, immersifs et sociaux. EA développe des franchises majeures telles que EA SPORTS FC (anciennement FIFA), Battlefield, Les Sims, Apex Legends et Need for Speed.</text>
+         <text lang="es">Electronic Arts Inc. (EA) es una empresa líder mundial en desarrollo y publicación de juegos para consolas, PC y dispositivos móviles, fundada en 1982 y con sede en Redwood City, California. Conocida por su entretenimiento interactivo, inmersivo y social de alta calidad, EA desarrolla importantes franquicias como EA SPORTS FC (anteriormente FIFA), Battlefield, Los Sims, Apex Legends y Need for Speed.</text>
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

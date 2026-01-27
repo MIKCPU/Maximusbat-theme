@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>DICE (Discrete Integrated Circuit Emulator)is an emulator designed for arcade systems that lack a CPU, instead relying solely on discrete logic components. It runs via dice-libretro, a core within RetroArch that allows for the accurate emulation of these specialized, non-CPU-based, or early discrete-logic, arcade games.</text>
+         <text lang="it">DICE (Discrete Integrated Circuit Emulator) è un emulatore progettato per sistemi arcade privi di CPU, che si basano esclusivamente su componenti logici discreti. Funziona tramite dice-libretro, un core di RetroArch che consente l'emulazione accurata di questi giochi arcade specializzati, non basati su CPU o dei primi giochi a logica discreta.</text>
+         <text lang="de">DICE (Discrete Integrated Circuit Emulator) ist ein Emulator für Arcade-Systeme ohne CPU, der ausschließlich auf diskreten Logikbausteinen basiert. Er läuft über dice-libretro, einen Kern innerhalb von RetroArch, der die präzise Emulation dieser speziellen, CPU-losen oder frühen Arcade-Spiele mit diskreter Logik ermöglicht.</text>
+         <text lang="fr">DICE (Discrete Integrated Circuit Emulator) est un émulateur conçu pour les systèmes d'arcade dépourvus de processeur, utilisant exclusivement des composants logiques discrets. Il fonctionne grâce à dice-libretro, un noyau de RetroArch permettant l'émulation précise de ces jeux d'arcade spécialisés, sans processeur ou utilisant des circuits logiques discrets.</text>
+         <text lang="es">DICE (Emulador de Circuitos Integrados Discretos) es un emulador diseñado para sistemas arcade que no utilizan CPU y que dependen exclusivamente de componentes de lógica discreta. Se ejecuta mediante dice-libretro, un núcleo de RetroArch que permite la emulación precisa de estos juegos arcade especializados, sin CPU o de lógica discreta temprana.</text>
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>

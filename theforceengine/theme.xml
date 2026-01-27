@@ -9,6 +9,25 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>The Force Engine is an open-source project that reverse-engineers the Jedi Engine to run Dark Forces and (eventually) Outlaws on modern systems. It enables high resolutions, widescreen support, mouse-look, and quick-saving, offering a native experience superior to DOSBox.</text>
+         <text lang="it">Force Engine è un progetto open source che sfrutta il reverse engineering del Jedi Engine per far girare Dark Forces e (in futuro) Outlaws sui sistemi moderni. Permette risoluzioni elevate, supporto widescreen, mouse-look e salvataggio rapido, offrendo un'esperienza nativa superiore a quella di DOSBox.</text>
+         <text lang="de">Die Force Engine ist ein Open-Source-Projekt, das die Jedi Engine nachbaut, um Dark Forces und (zukünftig) Outlaws auf modernen Systemen auszuführen. Sie ermöglicht hohe Auflösungen, Breitbildunterstützung, Maussteuerung und schnelles Speichern und bietet damit ein natives Spielerlebnis, das DOSBox überlegen ist.</text>
+         <text lang="fr">Force Engine est un projet open source qui utilise la rétro-ingénierie du Jedi Engine pour faire tourner Dark Forces et (à terme) Outlaws sur les systèmes modernes. Il prend en charge les hautes résolutions, le format écran large, la visée à la souris et la sauvegarde rapide, offrant une expérience native supérieure à celle de DOSBox.</text>
+         <text lang="es">Force Engine es un proyecto de código abierto que aplica ingeniería inversa al Jedi Engine para ejecutar Dark Forces y (eventualmente) Outlaws en sistemas modernos. Permite altas resoluciones, compatibilidad con pantalla panorámica, vista con el ratón y guardado rápido, ofreciendo una experiencia nativa superior a la de DOSBox.</text>
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
 	</view>
 
 </theme>
