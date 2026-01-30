@@ -1,0 +1,33 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>OpenJK is a community effort to maintain and improve the game and engine powering Jedi Academy and Jedi Outcast, while maintaining full backwards compatibility with the existing games and mods. This project does not intend to add major features, rebalance, or otherwise modify core gameplay. • Improve the stability of the engine by fixing bugs and improving performance. • Support more hardware (x86_64, Arm, Apple Silicon) and software platforms (Linux, macOS) • Provide a clean base from which new code modifications can be made.</text>
+			<text lang="it">OpenJK è uno sforzo della comunità per mantenere e migliorare il gioco e il motore che alimentano Jedi Academy e Jedi Outcast, garantendo la piena compatibilità con i giochi e le mod esistenti. Questo progetto non intende aggiungere funzionalità importanti, riequilibrare o modificare il gameplay principale. • Migliorare la stabilità del motore, correggendo bug e ottimizzando le prestazioni. • Supportare più hardware (x86_64, Arm, Apple Silicon) e piattaforme software (Linux, macOS). • Fornire una base pulita da cui poter sviluppare nuove modifiche al codice.</text>
+			<text lang="fr">OpenJK est un effort communautaire visant à maintenir et améliorer le jeu et le moteur qui alimentent Jedi Academy et Jedi Outcast, tout en conservant une rétrocompatibilité totale avec les jeux et mods existants. Ce projet n'a pas pour but d'ajouter des fonctionnalités majeures, de rééquilibrer ou de modifier le gameplay de base. • Améliorer la stabilité du moteur en corrigeant les bugs et en optimisant les performances. • Prendre en charge plus de matériels (x86_64, Arm, Apple Silicon) et de plateformes logicielles (Linux, macOS). • Fournir une base propre permettant de développer de nouvelles modifications du code.</text>
+			<text lang="de">OpenJK ist eine Gemeinschaftsinitiative zur Pflege und Verbesserung der Spiel- und Engine-Technologie von Jedi Academy und Jedi Outcast, wobei die volle Abwärtskompatibilität mit bestehenden Spielen und Mods erhalten bleibt. Dieses Projekt zielt nicht darauf ab, große Funktionen hinzuzufügen, das Spiel auszubalancieren oder das Kerngameplay zu verändern. • Die Stabilität der Engine durch Fehlerbehebungen und Leistungsverbesserungen erhöhen. • Unterstützung für weitere Hardware (x86_64, Arm, Apple Silicon) und Softwareplattformen (Linux, macOS). • Eine saubere Basis für neue Code-Modifikationen bereitstellen.</text>
+			<text lang="es">OpenJK es un esfuerzo comunitario para mantener y mejorar el juego y el motor que impulsan Jedi Academy y Jedi Outcast, manteniendo la compatibilidad total con los juegos y mods existentes. Este proyecto no pretende añadir funciones importantes, reequilibrar o modificar la jugabilidad principal. • Mejorar la estabilidad del motor corrigiendo errores y optimizando el rendimiento. • Compatibilidad con más hardware (x86_64, Arm, Apple Silicon) y plataformas de software (Linux, macOS). • Proporcionar una base limpia para realizar nuevas modificaciones de código.</text>
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
+	</view>
+
+</theme>

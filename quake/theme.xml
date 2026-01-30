@@ -1,0 +1,33 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>TyrQuake's goal is to port and maintain the Quake game on modern systems. It allows map designers to create larger and/or more detailed maps than the original game allowed while maintaining the original character of the game. Quake is a first-person shooter video game developed by id Software and published by GT Interactive in 1996. In the game, players must find their way through various medieval maze-like environments, fighting various monsters with different weapons. The overall atmosphere is dark and gritty, with lots of stone textures and rusty, large fonts. Quake, the successor to id Software's Doom series, was based on the technology and gameplay of its predecessor.</text>
+			<text lang="es">El objetivo de TyrQuake es portar y mantener el juego Quake en sistemas modernos. Permite a los diseñadores de mapas crear mapas más grandes y/o detallados de lo que permitía el juego original, manteniendo el carácter original del juego. Quake es un videojuego de disparos en primera persona desarrollado por id Software y publicado por GT Interactive en 1996. En el juego, los jugadores deben encontrar su camino a través de varios laberintos medievales, luchando contra varios monstruos con diferentes armas. La atmósfera general es oscura y arenosa, con muchas texturas de piedra y fuentes grandes y oxidadas. Quake, el sucesor de la serie Doom de id Software, se basó en la tecnología y la jugabilidad de su predecesor.</text>
+			<text lang="de">Das Ziel von TyrQuake ist es, das Quake-Spiel auf moderne Systeme zu portieren und zu erhalten. Es erlaubt Kartendesignern, größere und/oder detailliertere Karten zu erstellen, als es das Originalspiel erlaubte, während der ursprüngliche Charakter des Spiels erhalten bleibt. Quake ist ein Ego-Shooter-Videospiel, das von id Software entwickelt und 1996 von GT Interactive veröffentlicht wurde. In dem Spiel müssen sich die Spieler einen Weg durch verschiedene mittelalterliche, labyrinthartige Umgebungen bahnen und verschiedene Monster mit unterschiedlichen Waffen bekämpfen. Die Gesamtatmosphäre ist dunkel und düster, mit vielen Steintexturen und rostigen, großen Schriftarten. Quake, der Nachfolger der Doom-Reihe von id Software, basierte auf der Technologie und dem Gameplay seines Vorgängers.</text>
+			<text lang="fr">L'objectif de TyrQuake est de porter et de maintenir le jeu Quake sur les systèmes modernes. Il permet aux concepteurs de cartes de créer des cartes plus grandes et/ou plus détaillées que ne le permettait le jeu original, tout en conservant le caractère original du jeu. Quake est un jeu vidéo de tir à la première personne développé par id Software et publié par GT Interactive en 1996. Dans ce jeu, les joueurs doivent se frayer un chemin dans des environnements médiévaux ressemblant à des labyrinthes, en combattant divers monstres à l'aide de différentes armes. L'atmosphère générale est sombre et grinçante, avec de nombreuses textures de pierre et de grandes polices rouillées. Quake, le successeur de la série Doom d'id Software, est basé sur la technologie et le gameplay de son prédécesseur.</text>
+			<text lang="it">L'obiettivo di TyrQuake è quello di portare e mantenere il gioco Quake sui sistemi moderni. Consente ai progettisti di mappe di creare mappe più grandi e/o più dettagliate rispetto a quelle consentite dal gioco originale, pur mantenendo il carattere originale del gioco. Quake è un videogioco sparatutto in prima persona sviluppato da id Software e pubblicato da GT Interactive nel 1996. Nel gioco, i giocatori devono farsi strada attraverso vari ambienti medievali simili a labirinti, combattendo vari mostri con armi diverse. L'atmosfera generale è cupa e grintosa, con molte texture di pietra e caratteri grandi e arrugginiti. Quake, il successore della serie Doom di id Software, si basa sulla tecnologia e sul gameplay del suo predecessore.</text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
+	</view>
+
+</theme>

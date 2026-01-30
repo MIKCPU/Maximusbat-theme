@@ -1,0 +1,33 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>Fallout Community Edition is a fully working re-implementation of Fallout 1 and 2, with the same original gameplay, engine bugfixes, and some quality of life improvements, that works (mostly) hassle-free on multiple platforms. Fallout is a series of post-apocalyptic computer role-playing games published by Interplay Entertainment, Black Isle Studios, Micro Forté, Bethesda Softworks and Obsidian Entertainment. The action takes place after a nuclear war in the United States, which has been turned into a radioactive wasteland and is plagued by anarchy. Although the events are set in the distant future, decades after the nuclear conflict, Fallout features a distinctive retro-futuristic style inspired by the mass culture of the 1940s-50s. With a large open world, the games in the main series allow you to freely explore a variety of locations and solve problems in different ways.</text>
+			<text lang="es">Fallout Community Edition es una reimplementación totalmente funcional de Fallout 1 y 2, con la misma jugabilidad original, correcciones de errores del motor y algunas mejoras en la calidad de vida, que funciona (en su mayor parte) sin problemas en múltiples plataformas. Fallout es una serie de juegos de rol postapocalípticos para ordenador publicados por Interplay Entertainment, Black Isle Studios, Micro Forté, Bethesda Softworks y Obsidian Entertainment. La acción se desarrolla tras una guerra nuclear en Estados Unidos, que ha quedado convertido en un páramo radiactivo y asolado por la anarquía. Aunque ambientado en un futuro lejano, décadas después del conflicto nuclear, Fallout presenta un característico estilo retrofuturista inspirado en la cultura de masas de los años 40-50. Con un gran mundo abierto, los juegos de la serie principal permiten explorar libremente diversos lugares y resolver problemas de diversas maneras.</text>
+			<text lang="de">Die Fallout Community Edition ist eine voll funktionsfähige Neuimplementierung von Fallout 1 und 2, mit demselben Original-Gameplay, Bugfixes für die Engine und einigen Verbesserungen der Lebensqualität, die (größtenteils) problemlos auf mehreren Plattformen funktioniert. Fallout ist eine Reihe von postapokalyptischen Computer-Rollenspielen, die von Interplay Entertainment, Black Isle Studios, Micro Forté, Bethesda Softworks und Obsidian Entertainment veröffentlicht wurden. Die Handlung spielt nach einem Atomkrieg in den Vereinigten Staaten, die sich in ein radioaktives Ödland verwandelt haben und von Anarchie geplagt sind. Obwohl Fallout in der fernen Zukunft, Jahrzehnte nach dem Atomkonflikt, angesiedelt ist, zeichnet es sich durch einen unverwechselbaren retrofuturistischen Stil aus, der von der Massenkultur der 1940er bis 50er Jahre inspiriert ist. Die Spiele der Hauptserie bieten eine große offene Welt, in der Sie eine Vielzahl von Orten frei erkunden und Probleme auf unterschiedliche Weise lösen können.</text>
+			<text lang="fr">Fallout Community Edition est une réimplémentation entièrement fonctionnelle de Fallout 1 et 2, avec le même gameplay original, des corrections de bogues du moteur et quelques améliorations de la qualité de vie, qui fonctionne (en grande partie) sans problème sur de multiples plateformes. Fallout est une série de jeux de rôle post-apocalyptiques publiés par Interplay Entertainment, Black Isle Studios, Micro Forté, Bethesda Softworks et Obsidian Entertainment. L'action se déroule après une guerre nucléaire aux États-Unis, qui ont été transformés en un désert radioactif et sont en proie à l'anarchie. Bien qu'il se déroule dans un futur lointain, des décennies après le conflit nucléaire, Fallout présente un style rétro-futuriste distinctif inspiré de la culture de masse des années 1940-50. Avec un vaste monde ouvert, les jeux de la série principale vous permettent d'explorer librement une variété de lieux et de résoudre des problèmes de différentes manières.</text>
+			<text lang="it">Fallout Community Edition è una reimplementazione perfettamente funzionante di Fallout 1 e 2, con lo stesso gameplay originale, la correzione dei bug del motore e alcuni miglioramenti della qualità della vita, che funziona (per lo più) senza problemi su più piattaforme. Fallout è una serie di giochi di ruolo post-apocalittici per computer pubblicati da Interplay Entertainment, Black Isle Studios, Micro Forté, Bethesda Softworks e Obsidian Entertainment. L'azione si svolge dopo una guerra nucleare negli Stati Uniti, trasformati in una landa radioattiva e afflitti dall'anarchia. Sebbene sia ambientato in un futuro lontano, decenni dopo il conflitto nucleare, Fallout presenta un caratteristico stile retro-futuristico ispirato alla cultura di massa degli anni 1940-50. Con un vasto mondo aperto, i giochi della serie principale permettono di esplorare liberamente una varietà di luoghi e di risolvere i problemi in vari modi.</text>
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
+	</view>
+
+</theme>
