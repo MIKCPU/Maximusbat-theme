@@ -1,0 +1,33 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+         <text>A collection of settings and a file manager for your retro system.</text>
+			<text lang="es">Una colección de ajustes y un gestor de archivos para tu sistema retro.</text>
+			<text lang="de">Eine Sammlung von Einstellungen und ein Dateimanager für dein Retro-System.</text>
+			<text lang="fr">Une collection de paramètres et un gestionnaire de fichiers pour votre système rétro.</text>
+			<text lang="it">Una raccolta di impostazioni e un file manager per il tuo sistema retrò.</text>
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+      </text>
+	</view>
+
+</theme>
