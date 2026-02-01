@@ -34,11 +34,11 @@ version         2.3
 	 <fontSize>0.03</fontSize>
       </text>
       <text name="system_title" extra="true">
-         <pos>0.2 0.01</pos>
-         <origin>1 0</origin>
-         <alignment>right</alignment>
+         <pos>0.01 0.01</pos>
+         <origin>0 0</origin>
+         <alignment>left</alignment>
          <fontPath>./_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.03</fontSize>
+         <fontSize>0.04</fontSize>
          <color>FFFFFF</color>
          <text>${system.name}</text>
       </text>
