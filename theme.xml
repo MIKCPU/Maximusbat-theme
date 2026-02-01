@@ -34,7 +34,7 @@ version         2.3
 	 <fontSize>0.03</fontSize>
       </text>
       <text name="system_title" extra="true">
-         <pos>0.1 0.01</pos>
+         <pos>0.2 0.01</pos>
          <origin>1 0</origin>
          <alignment>right</alignment>
          <fontPath>./_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
