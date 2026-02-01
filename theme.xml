@@ -33,6 +33,15 @@ version         2.3
          <fontPath>./_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
 	 <fontSize>0.03</fontSize>
       </text>
+      <text name="system_title" extra="true">
+         <pos>0.2 0.01</pos>
+         <origin>1 0</origin>
+         <alignment>right</alignment>
+         <fontPath>./_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontSize>0.03</fontSize>
+         <color>FFFFFF</color>
+         <text>SISTEMA: ${system.name}</text>
+      </text>
    <controllerActivity name="controllerActivity">
        <pos>0.02 0.02</pos>
        <size>0.12 0.035</size>
@@ -51,6 +60,8 @@ version         2.3
       <helpsystem name="help">
          <textColor>777777</textColor>
          <iconColor>77777750</iconColor>
+         <fontPath>./_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+	 <fontSize>0.03</fontSize>
       </helpsystem>
    </view>
 
