@@ -26,6 +26,14 @@ version         2.3
          <path>./_inc/images/backgroundmenu.png</path>
       </image>
 
+      <image name="sysbar" extra="true">
+         <origin>1 0</origin>
+         <pos>0.98 0.8</pos>
+         <size>0.95 0.1</size>
+         <path>./_inc/images/sysbar.png</path>
+      </image>
+
+
       <text name="systemInfo">
          <pos>0.3 0.940</pos>
          <backgroundColor>00000000</backgroundColor>
@@ -33,7 +41,7 @@ version         2.3
          <fontPath>./_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
 	 <fontSize>0.03</fontSize>
       </text>
-       <text name="system_title" extra="true">
+      <text name="system_title" extra="true">
          <pos>0.01 0.01</pos>
          <origin>0 0</origin>
          <alignment>left</alignment>
@@ -46,6 +54,22 @@ version         2.3
          <text lang="fr">Système: ${system.name}</text>
          <text lang="de">System: ${system.name}</text>
       </text>
+      <text name="systemDesc" extra="true">
+         <pos>0.95 0.8</pos>
+         <origin>1 0</origin>
+         <size>0.90 0.1</size>
+         <backgroundColor>00000000</backgroundColor>
+         <color>F5F5F5</color>
+         <fontPath>./_inc/fonts/DS-DIGI.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>
+				<multiLine>false</multiLine>
+				<autoScrollDelay>3000</autoScrollDelay>
+				<singleLineScroll>true</singleLineScroll>
+                                <text>${system.description}</text>
+      </text>
+
    <controllerActivity name="controllerActivity">
        <pos>0.02 0.02</pos>
        <size>0.12 0.035</size>

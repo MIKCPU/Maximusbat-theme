@@ -7,7 +7,7 @@
                    <origin>0.5 0.5</origin>
                    <pos>0.5 0.5</pos>
                    <maxSize>0.8 0.7</maxSize>
-                   <path>./_inc/systemsnap.png</path>
+                   <path>./_inc/systemsnap-it.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
          <pos>0.95 0.8</pos>
