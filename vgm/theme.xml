@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Films based on video games abound in interesting events and take on unusual stories, effectively piquing the interest of viewers. Action-packed stories offer enjoyable entertainment, and work well as a good movie for the evening. Among the numerous adaptations, there are several titles that are particularly noteworthy. This is a collection of theatrical films based on video games and films that made video games.</text>
 			<text lang="es">Las películas basadas en videojuegos abundan en acontecimientos interesantes y abordan historias inusuales, despertando eficazmente el interés de los espectadores. Las historias llenas de acción ofrecen un entretenimiento agradable, y funcionan bien como una buena película para pasar la tarde. Entre las numerosas adaptaciones, hay varios títulos especialmente destacables. Se trata de una colección de películas teatrales basadas en videojuegos y películas que hicieron videojuegos.</text>
 			<text lang="de">Filme, die auf Videospielen basieren, sind reich an interessanten Ereignissen und bieten ungewöhnliche Geschichten, die das Interesse der Zuschauer wecken. Die actiongeladenen Geschichten bieten angenehme Unterhaltung und eignen sich gut als Film für den Abend. Unter den zahlreichen Verfilmungen gibt es einige Titel, die besonders erwähnenswert sind. Dies ist eine Sammlung von Kinofilmen, die auf Videospielen basieren, und von Filmen, die zu Videospielen gemacht wurden.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

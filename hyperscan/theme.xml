@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The HyperScan is a home video game console from the toy company Mattel. It is unique in that it includes a 13.56 MHz radio-frequency identification (RFID) scanner that reads and writes to the "cards" which, in turn, activate features in and save data from the game. Players are able to enhance the abilities of their characters by scanning cards. The games for the system were sold as "Game Packs", which consisted of a game disc accompanied by six game cards (seven for Spider-Man). Additional cards which contained characters, abilities, moves and levels when scanned were part of a six-card "Booster Pack". As with most trading card packs, the cards were randomized, meaning a player looking for a certain card to unlock that element of the game may have had to buy multiple Booster Packs in order to get it (while getting multiple cards for another aspect of the game), or trade it for another with a friend, as was likely intended by the Hyperscan's card aspect. Multiple booster packs were intended for certain games. X-Men intended to have 102 cards to unlock parts of the game in separate "red" and "black" series; the latter went unreleased due to the console's cancellation.</text>
 			<text lang="es">El HyperScan es una videoconsola doméstica de la empresa juguetera Mattel. Es única porque incluye un escáner de identificación por radiofrecuencia (RFID) de 13,56 MHz que lee y escribe en las "tarjetas" que, a su vez, activan funciones y guardan datos del juego. Los jugadores pueden mejorar las habilidades de sus personajes escaneando las tarjetas. Los juegos para el sistema se vendían como "Packs de Juego", que consistían en un disco de juego acompañado de seis tarjetas de juego (siete para Spider-Man). Las cartas adicionales que contenían personajes, habilidades, movimientos y niveles al ser escaneadas formaban parte de un "Booster Pack" de seis cartas. Como en la mayoría de los packs de cartas coleccionables, las cartas eran aleatorias, lo que significa que un jugador que buscara una carta determinada para desbloquear ese elemento del juego podría haber tenido que comprar varios Booster Packs para conseguirla (a la vez que obtenía varias cartas para otro aspecto del juego), o cambiarla por otra con un amigo, como probablemente pretendía el aspecto de las cartas de Hyperscan. Para algunos juegos se crearon varios sobres. X-Men pretendía tener 102 cartas para desbloquear partes del juego en series separadas "roja" y "negra"; esta última no salió a la venta debido a la cancelación de la consola.</text>
 			<text lang="de">Der HyperScan ist eine Heimvideospielkonsole des Spielzeugherstellers Mattel. Das Besondere daran ist, dass sie einen 13,56-MHz-Radiofrequenz-Identifikations-Scanner (RFID) enthält, der die "Karten" liest und beschreibt, die wiederum Funktionen im Spiel aktivieren und Daten speichern. Die Spieler können die Fähigkeiten ihrer Charaktere durch das Scannen von Karten verbessern. Die Spiele für das System wurden als "Game Packs" verkauft, die aus einer Spiel-Disc und sechs Spielkarten (sieben für Spider-Man) bestanden. Zusätzliche Karten, die Charaktere, Fähigkeiten, Bewegungen und Stufen enthielten, wenn sie eingescannt wurden, waren Teil eines "Booster Packs" mit sechs Karten. Wie bei den meisten Sammelkartenspielen waren die Karten zufällig verteilt, was bedeutete, dass ein Spieler, der eine bestimmte Karte suchte, um dieses Spielelement freizuschalten, möglicherweise mehrere Booster Packs kaufen musste, um sie zu bekommen (während er gleichzeitig mehrere Karten für einen anderen Aspekt des Spiels erhielt), oder sie mit einem Freund gegen eine andere tauschen musste, wie es wahrscheinlich durch den Kartenaspekt des Hyperscan beabsichtigt war. Für bestimmte Spiele waren mehrere Boosterpacks vorgesehen. X-Men sollte 102 Karten enthalten, um Teile des Spiels in separaten "roten" und "schwarzen" Serien freizuschalten; letztere wurden aufgrund der Stornierung der Konsole nicht veröffentlicht.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

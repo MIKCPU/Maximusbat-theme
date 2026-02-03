@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Apogee BK-01, also known as Apogey BK-01, is a Soviet 8-bit personal computer that was built on the Radio 86RK basis and released in 1988. It features a KR580VM80A microprocessor with a clock speed of 1.78 MHz, 64 kB of memory (including 56.25 kB user-available RAM), and a text mode video display. The later version, Apogee BK-01C, introduced color support. This computer was primarily used for educational purposes and basic computing tasks, and it supported a variety of software, including games and applications for advanced mathematics and statistics.</text>
 			<text lang="it">L'Apogee BK-01, noto anche come Apogey BK-01, è un personal computer sovietico a 8 bit costruito sulla base del Radio 86RK e rilasciato nel 1988. È dotato di un microprocessore KR580VM80A con una velocità di clock di 1,78 MHz, 64 kB di memoria (compresi 56,25 kB di RAM disponibile per l'utente) e un display video in modalità testo. La versione successiva, Apogee BK-01C, ha introdotto il supporto del colore. Questo computer veniva utilizzato principalmente per scopi didattici e per attività di calcolo di base e supportava una serie di software, tra cui giochi e applicazioni per la matematica avanzata e la statistica.</text>
 			<text lang="fr">L'Apogee BK-01, également connu sous le nom d'Apogey BK-01, est un ordinateur personnel soviétique de 8 bits construit sur la base du Radio 86RK et commercialisé en 1988. Il est équipé d'un microprocesseur KR580VM80A cadencé à 1,78 MHz, d'une mémoire de 64 Ko (dont 56,25 Ko de RAM disponible pour l'utilisateur) et d'un écran vidéo en mode texte. La version ultérieure, Apogee BK-01C, a introduit la prise en charge de la couleur. Cet ordinateur était principalement utilisé à des fins éducatives et pour des tâches informatiques de base, et il prenait en charge une variété de logiciels, y compris des jeux et des applications pour les mathématiques avancées et les statistiques.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

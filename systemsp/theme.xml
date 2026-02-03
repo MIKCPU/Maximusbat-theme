@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Sega System SP, also known as the Aurora, is an arcade system board developed by Sega. It is essentially a “Dreamcast-on-a-chip,” featuring the same SH-4 CPU and PowerVR2 GPU as the Sega Dreamcast console. This system was designed to be versatile, supporting various arcade game formats and configurations. It was used in a range of arcade games, including some that involved gambling, ticket redemption, and children’s attractions. The Sega System SP was manufactured until 2014 and is notable for its compact and efficient design.</text>
 			<text lang="it">Il Sega System SP, noto anche come Aurora, è una scheda di sistema arcade sviluppata da Sega. Si tratta essenzialmente di un &quot;Dreamcast-on-a-chip&quot;, dotato della stessa CPU SH-4 e GPU PowerVR2 della console Sega Dreamcast. Questo sistema è stato progettato per essere versatile e per supportare diversi formati e configurazioni di giochi arcade. È stato utilizzato per una serie di giochi arcade, tra cui alcuni che prevedevano il gioco d'azzardo, la riscossione di biglietti e attrazioni per bambini. Il Sega System SP è stato prodotto fino al 2014 e si distingue per il suo design compatto ed efficiente.</text>
 			<text lang="fr">Le Sega System SP, également connu sous le nom d'Aurora, est un système d'arcade développé par Sega. Il s'agit essentiellement d'un &quot;Dreamcast sur puce&quot;, doté du même processeur SH-4 et du même GPU PowerVR2 que la console Sega Dreamcast. Ce système a été conçu pour être polyvalent et prendre en charge différents formats et configurations de jeux d'arcade. Il a été utilisé pour toute une série de jeux d'arcade, dont certains comportaient des jeux d'argent, des billets d'entrée et des attractions pour enfants. Le Sega System SP a été fabriqué jusqu'en 2014 et se distingue par son design compact et efficace.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

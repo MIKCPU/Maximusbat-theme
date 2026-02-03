@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Fairchild Channel F, short for "Channel Fun", was the first programmable ROM cartridge–based video game console, and the first console to use a microprocessor. It was released by Fairchild Semiconductor in November 1976 across North America. It was originally named "Video Entertainment System", but when Atari released its Video Computer System the next year, Fairchild changed the name for its machine, although they continued to use the old name alongside it. By 1977, the Fairchild Channel F had sold about 250,000 units, trailing behind sales of the VCS. In 1983, the production of the system was discontinued.</text>
 			<text lang="es">La Fairchild Channel F, abreviatura de "Channel Fun", fue la primera consola de videojuegos basada en cartuchos ROM programables, y la primera consola en utilizar un microprocesador. Fue lanzada por Fairchild Semiconductor en noviembre de 1976 en Norteamérica. Originalmente se llamaba "Video Entertainment System", pero cuando Atari lanzó su Video Computer System al año siguiente, Fairchild cambió el nombre para su máquina, aunque siguió utilizando el antiguo nombre junto a ella. En 1977, el Fairchild Channel F había vendido unas 250.000 unidades, por detrás de las ventas del VCS. En 1983, se interrumpió la producción del sistema.</text>
 			<text lang="de">Der Fairchild Channel F, kurz für "Channel Fun", war die erste programmierbare Videospielkonsole auf ROM-Kassettenbasis und die erste Konsole, die einen Mikroprozessor verwendete. Sie wurde von Fairchild Semiconductor im November 1976 in Nordamerika auf den Markt gebracht. Ursprünglich trug sie den Namen "Video Entertainment System", aber als Atari im darauf folgenden Jahr sein Video Computer System herausbrachte, änderte Fairchild den Namen für seine Maschine, obwohl sie den alten Namen weiterhin daneben verwendeten. Bis 1977 verkaufte Fairchild Channel F etwa 250.000 Einheiten und blieb damit hinter den Verkäufen des VCS zurück. Im Jahr 1983 wurde die Produktion des Systems eingestellt.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

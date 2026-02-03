@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The PocketCDG core is a karaoke player that supports MP3+CDG file combinations. By placing files with both .mp3 and .cdg extensions in the same folder, the core can load and display lyrics onscreen, highlighting the text in sync with the music. This makes it perfect for hosting karaoke nights at home. The core supports various input devices like joypads and keyboards.</text>
 			<text lang="it">Il core PocketCDG è un lettore karaoke che supporta combinazioni di file MP3+CDG. Inserendo nella stessa cartella file con estensione .mp3 e .cdg, il core può caricare e visualizzare i testi sullo schermo, evidenziando il testo in sincronia con la musica. Questo lo rende perfetto per organizzare serate di karaoke a casa. Il core supporta diversi dispositivi di input come joypad e tastiere.</text>
 			<text lang="fr">Le core PocketCDG est un lecteur de karaoké qui prend en charge les combinaisons de fichiers MP3+CDG. En plaçant les fichiers avec les extensions .mp3 et .cdg dans le même dossier, le noyau peut charger et afficher les paroles à l'écran, en surlignant le texte en synchronisation avec la musique. Il est donc parfait pour organiser des soirées karaoké à la maison. Le noyau prend en charge divers périphériques d'entrée tels que les joypads et les claviers.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

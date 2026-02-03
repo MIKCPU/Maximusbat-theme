@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Adrenaline Arcade offers a thrilling collection of arcade games designed to deliver high-energy entertainment for all ages. Their games feature innovative concepts, vibrant graphics, and immersive experiences that keep players engaged and coming back for more.</text>
 			<text lang="it">Adrenaline Arcade offre un'emozionante collezione di giochi arcade progettati per offrire un intrattenimento ad alta energia per tutte le età. I loro giochi sono caratterizzati da concetti innovativi, grafiche vivaci ed esperienze coinvolgenti che impegnano i giocatori e li spingono a tornare.</text>
 			<text lang="fr">Adrenaline Arcade propose une collection palpitante de jeux d'arcade conçus pour offrir un divertissement plein d'énergie à tous les âges. Leurs jeux se caractérisent par des concepts innovants, des graphismes éclatants et des expériences immersives qui captent l'attention des joueurs et les incitent à revenir.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

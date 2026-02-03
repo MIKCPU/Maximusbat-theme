@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>iOS (formerly iPhone OS or iPhone Operating System) is a mobile operating system created and developed by Apple Inc. exclusively for its hardware. It is the operating system that powers many of the company's mobile devices, including the iPhone and iPod Touch; the term also included the versions running on iPads until iPadOS was introduced in 2019. It is the world's second-most widely installed mobile operating system, after Android. It is the basis for three other operating systems made by Apple: iPadOS, tvOS, and watchOS. It is proprietary software, although some parts of it are open source under the Apple Public Source License and other licenses.</text>
 			<text lang="es">iOS (anteriormente iPhone OS o iPhone Operating System) es un sistema operativo móvil creado y desarrollado por Apple Inc. exclusivamente para su hardware. Es el sistema operativo que impulsa muchos de los dispositivos móviles de la compañía, incluidos el iPhone y el iPod Touch; el término también incluyó las versiones que se ejecutan en iPads hasta que se introdujo iPadOS en 2019. Es el segundo sistema operativo móvil más instalado del mundo, después de Android. Es la base de otros tres sistemas operativos fabricados por Apple: iPadOS, tvOS y watchOS. Es software propietario, aunque algunas partes son de código abierto bajo la licencia Apple Public Source License y otras licencias.</text>
 			<text lang="de">iOS (früher iPhone OS oder iPhone Operating System) ist ein mobiles Betriebssystem, das von Apple Inc. ausschließlich für seine Hardware entwickelt wurde. Es ist das Betriebssystem, mit dem viele der mobilen Geräte des Unternehmens betrieben werden, darunter das iPhone und der iPod Touch; der Begriff umfasste auch die Versionen, die auf iPads liefen, bis iPadOS im Jahr 2019 eingeführt wurde. Es ist nach Android das weltweit am zweithäufigsten installierte mobile Betriebssystem. Es ist die Grundlage für drei weitere Betriebssysteme von Apple: iPadOS, tvOS und watchOS. Es handelt sich um proprietäre Software, obwohl einige Teile davon unter der Apple Public Source License und anderen Lizenzen als Open Source verfügbar sind.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

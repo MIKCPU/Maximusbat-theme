@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The EACA EG2000 Colour Genie was a computer produced by Hong Kong-based manufacturer EACA. It was introduced in Germany in August 1982 by Tromeschläger Computer Service and Schmidtke Electronic. This computer followed their earlier Video Genie I and II models and was released around the same time as the business-oriented Video Genie. The Colour Genie featured a Zilog Z80 CPU running at 2.2 MHz, 16 KB RAM (expandable to 32 KB), and 16 colors for graphics. It had a 40×24 text display and 160×96 graphics resolution. The sound hardware included a General Instruments AY-3-8910 chip with 3 sound channels and 1 noise channel. The Colour Genie was not compatible with Tandy's newer TRS-80 Color Computer due to architectural differences. Approximately 190 games were published for this system in English and German.</text>
 			<text lang="it">L'EACA EG2000 Colour Genie era un computer prodotto dal produttore EACA di Hong Kong. Fu introdotto in Germania nell'agosto 1982 da Tromeschläger Computer Service e Schmidtke Electronic. Questo computer seguiva i precedenti modelli Video Genie I e II e fu commercializzato all'incirca nello stesso periodo del Video Genie orientato al business. Il Colour Genie era dotato di una CPU Zilog Z80 a 2,2 MHz, 16 KB di RAM (espandibile a 32 KB) e 16 colori per la grafica. Aveva un display di testo 40×24 e una risoluzione grafica di 160×96. L'hardware audio comprendeva un chip General Instruments AY-3-8910 con 3 canali audio e 1 canale di rumore. Il Colour Genie non era compatibile con il più recente TRS-80 Color Computer di Tandy a causa delle differenze architettoniche. Per questo sistema furono pubblicati circa 190 giochi in inglese e tedesco.</text>
 			<text lang="fr">L'EACA EG2000 Colour Genie était un ordinateur produit par le fabricant EACA basé à Hong Kong. Il a été introduit en Allemagne en août 1982 par Tromeschläger Computer Service et Schmidtke Electronic. Cet ordinateur faisait suite aux modèles Video Genie I et II et a été commercialisé à peu près en même temps que le Video Genie destiné aux entreprises. Le Colour Genie était équipé d'un processeur Zilog Z80 cadencé à 2,2 MHz, d'une mémoire vive de 16 Ko (extensible à 32 Ko) et de 16 couleurs pour les graphiques. Il disposait d'un écran texte de 40×24 et d'une résolution graphique de 160×96. Le matériel audio comprenait une puce General Instruments AY-3-8910 avec 3 canaux sonores et 1 canal de bruit. Le Colour Genie n'était pas compatible avec le TRS-80 Color Computer de Tandy, plus récent, en raison de différences architecturales. Environ 190 jeux ont été publiés pour ce système en anglais et en allemand.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Final Burn Neo (aka FBNeo) is the new official branch of the Final Burn Alpha emulator, which is compatible with hundreds of arcade and console games. The libretro core of FBNeo brings its library of compatible titles to RetroArch, where the core's tight integration with the libretro API allows it to work with RetroArch's advanced time-bending features like rollback-based netplay and runahead latency reduction. It includes input presets for automatic mapping of buttons for different games, including fighting game layouts for both modern and old-school arcade controls (aka fightsticks).</text>
 <text lang="es">Final Burn Neo (también conocido como FBNeo) es la nueva rama oficial del emulador Final Burn Alpha, compatible con cientos de juegos arcade y de consola. El núcleo libretro de FBNeo lleva su biblioteca de títulos compatibles a RetroArch, donde la estrecha integración del núcleo con la API libretro le permite trabajar con las funciones avanzadas de retroceso de RetroArch, como el juego en red basado en rollback y la reducción de latencia runahead. Incluye preajustes de entrada para el mapeado automático de botones para diferentes juegos, incluyendo diseños de juegos de lucha para controles arcade modernos y de la vieja escuela (también conocidos como fightsticks).</text>
 			<text lang="de">Final Burn Neo (alias FBNeo) ist der neue offizielle Zweig des Final Burn Alpha-Emulators, der mit Hunderten von Arcade- und Konsolenspielen kompatibel ist. Der libretro-Kern von FBNeo bringt seine Bibliothek kompatibler Titel nach RetroArch, wo die enge Integration des Kerns in die libretro-API es ermöglicht, mit den fortschrittlichen Zeitverschiebungsfunktionen von RetroArch wie Rollback-basiertem Netplay und Runahead-Latenzreduzierung zu arbeiten. Es enthält Eingabevoreinstellungen für die automatische Zuordnung von Tasten für verschiedene Spiele, einschließlich Kampfspiel-Layouts für moderne und Old-School-Arcade-Steuerungen (aka Fightsticks).</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Philips Videopac+ G7400 is a third-generation home video game console released in limited quantities in 1983, and only in Europe; an American release as the Odyssey³ Command Center was planned but never occurred. The G7400 was the successor to the Philips Videopac G7000, the European counterpart to the American Magnavox Odyssey². The system featured excellently tailored background and foreground graphics. The G7400 could play three types of games: all normal G7000 games, special G7000 games with additional high-res background graphics that would appear only when played on the G7400, and G7400-only games with high-res sprites and backgrounds.</text>
 			<text lang="es">La Philips Videopac+ G7400 es una videoconsola doméstica de tercera generación lanzada en cantidades limitadas en 1983, y sólo en Europa; se planeó un lanzamiento americano como Odyssey³ Command Center, pero nunca se produjo. La G7400 fue la sucesora de la Philips Videopac G7000, homóloga europea de la Magnavox Odyssey² estadounidense. El sistema ofrecía gráficos de fondo y primer plano excelentemente adaptados. El G7400 podía reproducir tres tipos de juegos: todos los juegos normales del G7000, juegos especiales del G7000 con gráficos de fondo de alta resolución adicionales que sólo aparecían cuando se jugaba en el G7400, y juegos exclusivos del G7400 con sprites y fondos de alta resolución.</text>
 			<text lang="de">Der Philips Videopac+ G7400 ist eine Heimvideospielkonsole der dritten Generation, die 1983 in begrenzter Stückzahl und nur in Europa auf den Markt kam; eine amerikanische Veröffentlichung als Odyssey³ Command Center war geplant, kam aber nie zustande. Das G7400 war der Nachfolger des Philips Videopac G7000, des europäischen Gegenstücks zum amerikanischen Magnavox Odyssey². Das System zeichnete sich durch exzellent abgestimmte Hintergrund- und Vordergrundgrafiken aus. Auf dem G7400 konnten drei Arten von Spielen gespielt werden: alle normalen G7000-Spiele, spezielle G7000-Spiele mit zusätzlicher hochauflösender Hintergrundgrafik, die nur auf dem G7400 erschien, und reine G7400-Spiele mit hochauflösenden Sprites und Hintergründen.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

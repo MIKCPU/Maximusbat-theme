@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Steam is a video game digital distribution service and storefront by Valve. It was launched as a software client in September 2003 as a way for Valve to provide automatic updates for their games, and expanded to distributing and offering third-party game publishers' titles in late 2005. Steam offers various features, like digital rights management (DRM), game server matchmaking, anti-cheat measures, social networking and game streaming services. It provides the user with automatic game updating, saved game cloud synchronization, and community features such as friends messaging, in-game chat and a community market.</text>
 			<text lang="es">Steam es un servicio de distribución digital de videojuegos y tienda de Valve. Se lanzó como cliente de software en septiembre de 2003 para que Valve pudiera ofrecer actualizaciones automáticas de sus juegos, y se amplió para distribuir y ofrecer títulos de otros editores a finales de 2005. Steam ofrece varias funciones, como gestión de derechos digitales (DRM), matchmaking de servidores de juegos, medidas antitrampas, redes sociales y servicios de streaming de juegos. Ofrece al usuario actualizaciones automáticas del juego, sincronización de partidas guardadas en la nube y funciones de comunidad, como mensajería entre amigos, chat dentro del juego y un mercado comunitario.</text>
 			<text lang="de">Steam ist ein digitaler Vertriebsdienst für Videospiele und ein Schaufenster von Valve. Es wurde im September 2003 als Software-Client gestartet, um Valve die Möglichkeit zu geben, automatische Updates für ihre Spiele bereitzustellen, und wurde Ende 2005 auf den Vertrieb und das Angebot von Titeln von Drittanbietern erweitert. Steam bietet verschiedene Funktionen wie digitale Rechteverwaltung (DRM), Spieleserver-Matchmaking, Anti-Cheat-Maßnahmen, soziale Netzwerke und Spiele-Streaming-Dienste. Es bietet dem Benutzer automatische Spielaktualisierungen, die Synchronisierung von Spielständen in der Cloud und Community-Funktionen wie Freundesnachrichten, In-Game-Chat und einen Community-Markt.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

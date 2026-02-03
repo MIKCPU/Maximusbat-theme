@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Magnavox Odyssey 2 (stylized as Magnavox Odyssey²), also known as Philips Odyssey 2, is a second generation home video game console that was released in 1978. It was sold in Europe as the Philips Videopac G7000, in Brazil as the Philips Odyssey and in Japan as Odyssey2 (オデッセイ2 odessei2). The Odyssey 2 was one of the major three home consoles prior to the 1983 video game market crash, along with Atari 2600 and Intellivision. In the early 1970s, Magnavox pioneered the home video game industry by successfully bringing the first home console to market, the Odyssey, which was quickly followed by a number of later models, each with a few technological improvements. In 1978, Magnavox, now a subsidiary of North American Philips, decided to release an all-new successor, Odyssey 2. In 2009, the video game website IGN named the Odyssey 2 the 21st greatest video game console, out of its list of 25.</text>
 			<text lang="es">La Magnavox Odyssey 2 (estilizada como Magnavox Odyssey²), también conocida como Philips Odyssey 2, es una videoconsola doméstica de segunda generación que salió a la venta en 1978. Se vendió en Europa como Philips Videopac G7000, en Brasil como Philips Odyssey y en Japón como Odyssey2 (オデッセイ2 odessei2). La Odyssey 2 fue una de las tres principales consolas domésticas antes de la caída del mercado de los videojuegos en 1983, junto con la Atari 2600 y la Intellivision. A principios de la década de 1970, Magnavox fue pionera en la industria de los videojuegos domésticos al sacar al mercado con éxito la primera consola doméstica, la Odyssey, a la que siguieron rápidamente varios modelos posteriores, cada uno con algunas mejoras tecnológicas. En 1978, Magnavox, ahora filial de la norteamericana Philips, decidió lanzar una sucesora totalmente nueva, la Odyssey 2. En 2009, el sitio web de videojuegos IGN nombró a la Odyssey 2 la 21ª mejor videoconsola, de su lista de 25.</text>
 			<text lang="de">Die Magnavox Odyssey 2 (stilisiert als Magnavox Odyssey²), auch bekannt als Philips Odyssey 2, ist eine Heimvideospielkonsole der zweiten Generation, die 1978 veröffentlicht wurde. Sie wurde in Europa als Philips Videopac G7000, in Brasilien als Philips Odyssey und in Japan als Odyssey2 (オデッセイ2 odessei2) verkauft. Der Odyssey 2 war neben dem Atari 2600 und dem Intellivision eine der drei wichtigsten Heimkonsolen vor dem Zusammenbruch des Videospielmarktes 1983. Anfang der 1970er Jahre leistete Magnavox Pionierarbeit in der Heimvideospielbranche, indem es die erste Heimkonsole, die Odyssey, auf den Markt brachte, auf die bald eine Reihe weiterer Modelle folgten, die jeweils einige technische Verbesserungen enthielten. 1978 beschloss Magnavox, inzwischen eine Tochtergesellschaft von North American Philips, ein völlig neues Nachfolgemodell, Odyssey 2, auf den Markt zu bringen. Im Jahr 2009 wurde die Odyssey 2 von der Videospiel-Website IGN als 21. von 25 besten Videospielkonsolen bezeichnet.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

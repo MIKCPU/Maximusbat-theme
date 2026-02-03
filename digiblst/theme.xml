@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Digiblast - Personal Media Center (stylized digiBLAST personal media center) is a portable console built, developed and produced by three separate companies: Nikko Europe B.V. in the Netherlands, Grey Innovation in Australia and Vivid Imaginations in the United Kingdom.	It was launched in 2005 mainly as a gaming console, but it can also use special cartridges that allow you to watch cartoons in RealPlayer format and, with a special add-on, you can transfer and listen to audio files in MP3 format from your PC. The console consists of a 2.7-inch LCD screen with 4096 colors. It is also equipped with a stand on the back of the case that allows it to stand on its own while watching, for example, a cartoon among those in the catalog. Another add-on allows you to connect the console to a TV, incompatible with some games and of poor quality, as they and all the elements on the screen are displayed in a tiny window. There was also a last add-on with the ability to take pictures at 1.3 megapixel resolution, which never saw its release in stores.</text>
 			<text lang="it">Digiblast - Personal Media Center (stilizzato digiBLAST personal media center) è una console portatile costruita, sviluppata e prodotta da tre società distinte: Nikko Europe B.V. nei Paesi Bassi, Grey Innovation in Australia e Vivid Imaginations nel Regno Unito.	È stata lanciata nel 2005 principalmente come console di gioco, ma può anche utilizzare speciali cartucce che consentono di guardare cartoni animati in formato RealPlayer e, con uno speciale add-on, di trasferire e ascoltare file audio in formato MP3 dal PC. La console è dotata di uno schermo LCD da 2,7 pollici a 4096 colori. È inoltre dotata di un supporto sul retro della custodia che le permette di stare in piedi da sola mentre si guarda, ad esempio, un cartone animato tra quelli presenti nel catalogo.
 Un altro componente aggiuntivo permette di collegare la console a un televisore, incompatibile con alcuni giochi e di scarsa qualità, in quanto essi e tutti gli elementi sullo schermo vengono visualizzati in una minuscola finestra. C'era anche un ultimo componente aggiuntivo con la possibilità di scattare foto a 1,3 megapixel di risoluzione, che non ha mai visto la sua uscita nei negozi.</text>
@@ -30,5 +22,4 @@ Un altro componente aggiuntivo permette di collegare la console a un televisore,
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

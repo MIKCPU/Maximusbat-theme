@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Electronika BK is a series of 16-bit PDP-11-compatible home computers developed under the Electronika brand by NPO Scientific Center, then the leading microcomputer design team in the Soviet Union. It is also the predecessor of the more powerful UKNC and DVK micros. This machine features a 16-bit K1801VM1 CPU, compatible with DEC's LSI-11 line. It has onboard DRAM, video memory, and supports two graphic video modes. Sound is initially basic but can be enhanced with an AY-3-8910 chip. It also includes a universal parallel port for peripherals and can have a floppy drive controller added. BK-0010 is the first model (originally released in 1983, the serial production since 1985). It has a full-travel keyboard, 32 KiB RAM, 8 KiB ROM with BIOS (chip K1801RE2-017), 8 KiB ROM with FOCAL interpreter (K1801RE2-018), 8 KiB ROM with debugger (K1801RE2-019) and a conventional and a Vilnius BASIC p-code compiler in the ROM; its CPU is clocked at 3 MHz. A tape recorder is used for data storage in the factory configuration.
 </text>
 			<text lang="it">L'Electronika BK è una serie di home computer a 16 bit compatibili con il PDP-11 sviluppati con il marchio Electronika dall'NPO Scientific Center, all'epoca il principale gruppo di progettazione di microcomputer dell'Unione Sovietica. È anche il predecessore dei più potenti micro UKNC e DVK. Questa macchina è dotata di una CPU K1801VM1 a 16 bit, compatibile con la linea LSI-11 di DEC. Dispone di DRAM e memoria video integrate e supporta due modalità video grafiche. Il suono è inizialmente di base, ma può essere migliorato con un chip AY-3-8910. Include anche una porta parallela universale per le periferiche e può essere dotato di un controller per unità floppy. BK-0010 è il primo modello (originariamente rilasciato nel 1983, la produzione in serie dal 1985). Dispone di una tastiera full-travel, 32 KiB di RAM, 8 KiB di ROM con BIOS (chip K1801RE2-017), 8 KiB di ROM con interprete FOCAL (K1801RE2-018), 8 KiB di ROM con debugger (K1801RE2-019) e un compilatore p-code Vilnius BASIC convenzionale e uno nella ROM; la CPU ha un clock di 3 MHz. Nella configurazione di fabbrica viene utilizzato un registratore a nastro per la memorizzazione dei dati.</text>
@@ -30,5 +22,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

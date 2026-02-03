@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>In the 1980s, computer and electronic games came to the USSR. In 1983, the Soviet industry mastered the production of household computers of the BK (household computer) series, and in 1984, the production of electronic games of the Electronica IM (microprocessor game) series began. Some of the games of this family were unlicensed copies, analogs and variations of electronic toys Game and Watch series "Wide Screen", released by Nintendo in 1981-1982 (EGG, Octopus, Mickey Mouse, Chef and others).</text>
 			<text lang="es">En la década de 1980, los juegos electrónicos y de ordenador llegaron a la URSS. En 1983, la industria soviética dominó la producción de ordenadores domésticos de la serie BK (ordenador doméstico), y en 1984 comenzó la producción de juegos electrónicos de la serie Elektronika IM (juego de microprocesador). Algunos de los juegos de esta familia eran copias sin licencia, análogos y variaciones de los juguetes electrónicos de la serie Game and Watch "Wide Screen" lanzados por Nintendo en 1981-1982 (EGG, Octopus, Mickey Mouse, Chef y otros).</text>
 			<text lang="de">In den 1980er Jahren kamen die Computer- und Elektronikspiele in die UdSSR. Im Jahr 1983 beherrschte die sowjetische Industrie die Produktion von Haushaltscomputern der Serie BK (Haushaltscomputer), und 1984 begann die Produktion von elektronischen Spielen der Serie Elektronika IM (Mikroprozessorspiel). Einige der Spiele dieser Familie waren unlizenzierte Kopien, Analogien und Variationen der elektronischen Spielzeuge der Game and Watch-Serie "Wide Screen", die von Nintendo 1981-1982 herausgebracht wurden (EGG, Octopus, Mickey Mouse, Chef und andere).</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

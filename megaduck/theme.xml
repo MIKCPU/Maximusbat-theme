@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Mega Duck was released by Creatronic, Videojet and Timlex in 1993 mainly in Germany and France. Looks alike a Game Boy with the monochrome green screen, it's "start", "Select", "A" and "B" buttons and directional pad but that's were the similiraties ends. The carts are about 2 1/8 inchs by 2 1/2 inchs with 36 pins to connect with the cartridge slot of the Mega Duck (unlike the 32-pins of the Game Boy or the 40-pins of the Supervision).</text>
 			<text lang="es">El Mega Duck fue lanzado por Creatronic, Videojet y Timlex en 1993, principalmente en Alemania y Francia. Se parece a una Game Boy por la pantalla verde monocroma, sus botones "start", "Select", "A" y "B" y el pad direccional, pero ahí acaban las similitudes. Los cartuchos miden aproximadamente 2 1/8 pulgadas por 2 1/2 pulgadas y tienen 36 clavijas para conectar con la ranura de cartuchos de la Mega Duck (a diferencia de las 32 clavijas de la Game Boy o las 40 clavijas de la Supervision).</text>
 			<text lang="de">Der Mega Duck wurde 1993 von Creatronic, Videojet und Timlex hauptsächlich in Deutschland und Frankreich veröffentlicht. Er sieht mit dem monochromen grünen Bildschirm, den "Start"-, "Select"-, "A"- und "B"-Tasten und dem Steuerkreuz wie ein Game Boy aus, aber damit enden die Ähnlichkeiten auch schon. Die Carts sind etwa 2 1/8 Zoll mal 2 1/2 Zoll groß und haben 36 Pins zum Anschluss an den Cartridge-Slot des Mega Duck (im Gegensatz zu den 32 Pins des Game Boy oder den 40 Pins des Supervision).</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

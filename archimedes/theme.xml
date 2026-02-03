@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Acorn Archimedes is a family of personal computers designed by Acorn Computers of Cambridge, England. The systems are based on Acorn's own ARM architecture processors and the proprietary operating systems Arthur and RISC OS. The first models were introduced in 1987, and systems in the Archimedes family were sold until the mid-1990s. ARM's RISC design, a 32-bit CPU (using 26-bit addressing), running at 8 MHz, was stated as achieving 4.5+ MIPS, which provided a significant upgrade from 8-bit home computers, such as Acorn's previous machines. Claims of being the fastest micro in the world and running at 18 MIPS were also made during tests. The name "Acorn Archimedes" is commonly used to describe any of Acorn's contemporary designs based on the same architecture. This architecture can be broadly characterised as involving the ARM CPU and the first generation chipset consisting of MEMC (MEMory Controller), VIDC (VIDeo and sound Controller) and IOC (Input Output Controller).</text>
 			<text lang="es">Acorn Archimedes es una familia de ordenadores personales diseñados por Acorn Computers de Cambridge, Inglaterra. Los sistemas se basan en procesadores de arquitectura ARM propios de Acorn y en los sistemas operativos propietarios Arthur y RISC OS. Los primeros modelos se presentaron en 1987, y los sistemas de la familia Archimedes se vendieron hasta mediados de la década de 1990. El diseño RISC de ARM, una CPU de 32 bits (con direccionamiento de 26 bits) que funcionaba a 8 MHz, alcanzaba más de 4,5 MIPS, lo que suponía una mejora significativa con respecto a los ordenadores domésticos de 8 bits, como las máquinas anteriores de Acorn. Durante las pruebas también se afirmó que era el micro más rápido del mundo y que funcionaba a 18 MIPS. El nombre "Acorn Archimedes" se utiliza comúnmente para describir cualquiera de los diseños contemporáneos de Acorn basados en la misma arquitectura. A grandes rasgos, esta arquitectura incluye la CPU ARM y el chipset de primera generación compuesto por MEMC (MEMory Controller), VIDC (VIDeo and sound Controller) e IOC (Input Output Controller).</text>
 			<text lang="de">Acorn Archimedes ist eine Familie von Personal Computern, die von Acorn Computers in Cambridge, England, entwickelt wurde. Die Systeme basieren auf Acorns eigenen Prozessoren der ARM-Architektur und den proprietären Betriebssystemen Arthur und RISC OS. Die ersten Modelle wurden 1987 auf den Markt gebracht, und die Systeme der Archimedes-Familie wurden bis Mitte der 1990er Jahre verkauft. Das RISC-Design von ARM, eine 32-Bit-CPU (mit 26-Bit-Adressierung), die mit 8 MHz läuft, erreichte nach eigenen Angaben 4,5+ MIPS, was eine erhebliche Verbesserung gegenüber 8-Bit-Heimcomputern wie den früheren Acorn-Maschinen darstellte. In Tests wurde auch behauptet, dass er der schnellste Mikrocomputer der Welt sei und mit 18 MIPS laufe. Der Name "Acorn Archimedes" wird üblicherweise verwendet, um alle zeitgenössischen Designs von Acorn zu beschreiben, die auf derselben Architektur basieren. Diese Architektur lässt sich grob so charakterisieren, dass sie die ARM-CPU und den Chipsatz der ersten Generation umfasst, der aus MEMC (MEMory Controller), VIDC (VIDeo and sound Controller) und IOC (Input Output Controller) besteht.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

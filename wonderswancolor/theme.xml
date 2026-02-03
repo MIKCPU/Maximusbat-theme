@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The WonderSwan is a handheld game console released in Japan by Bandai. It was developed by Gunpei Yokoi's company Koto Laboratory and Bandai, and was the last piece of hardware Yokoi developed before his death in 1997. Released in 1999 in the fifth generation of video game consoles, the WonderSwan and its two later models, the WonderSwan Color and SwanCrystal were officially supported until being discontinued by Bandai in 2003. During its lifespan, no variation of the WonderSwan was released outside of Japan.</text>
 			<text lang="es">WonderSwan es una videoconsola portátil lanzada en Japón por Bandai. Fue desarrollada por Koto Laboratory, la empresa de Gunpei Yokoi, y Bandai, y fue la última pieza de hardware desarrollada por Yokoi antes de su muerte en 1997. Lanzada en 1999 en la quinta generación de consolas de videojuegos, la WonderSwan y sus dos modelos posteriores, la WonderSwan Color y la SwanCrystal, fueron compatibles oficialmente hasta que Bandai las dejó de fabricar en 2003. Durante su vida útil, no se lanzó ninguna variante de la WonderSwan fuera de Japón.</text>
 			<text lang="de">Der WonderSwan ist eine Handheld-Spielkonsole, die in Japan von Bandai veröffentlicht wurde. Er wurde von Gunpei Yokois Firma Koto Laboratory und Bandai entwickelt und war die letzte Hardware, die Yokoi vor seinem Tod im Jahr 1997 entwickelte. Der WonderSwan und seine beiden späteren Modelle, der WonderSwan Color und der SwanCrystal, wurden 1999 in der fünften Generation von Videospielkonsolen veröffentlicht und bis zu ihrer Einstellung durch Bandai im Jahr 2003 offiziell unterstützt. Während seiner Lebensdauer wurde keine Variante des WonderSwan außerhalb von Japan veröffentlicht.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

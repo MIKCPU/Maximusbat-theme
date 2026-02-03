@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>A source port of Majora's Mask. 2Ship2Harkinian (aka SoH2) features extensive and significant enhancements over the original game, such as improved performance, increased frame-rate, native ultra-widescreen support, and extensive mod support (especially compared to emulated versions of the original), among other features.</text>
 			<text lang="it">Un porting sorgente di Majora's Mask. 2Ship2Harkinian (noto anche come SoH2) presenta miglioramenti significativi ed estesi rispetto al gioco originale, come prestazioni migliorate, frame rate aumentato, supporto nativo ultra-widescreen e ampio supporto mod (soprattutto rispetto alle versioni emulate dell'originale), tra le altre caratteristiche.</text>
 			<text lang="de">Ein Source-Port von Majora's Mask. 2Ship2Harkinian (auch bekannt als SoH2) bietet umfangreiche und bedeutende Verbesserungen gegenüber dem Originalspiel, wie z. B. eine verbesserte Performance, eine höhere Bildrate, native Unterstützung für Ultra-Breitbildformate und umfangreiche Mod-Unterstützung (insbesondere im Vergleich zu emulierten Versionen des Originals), neben anderen Funktionen.</text> 
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

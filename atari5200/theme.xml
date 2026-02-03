@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Atari 5200 SuperSystem or simply Atari 5200 is a home video game console introduced in 1982 by Atari, Inc. as a higher-end complement for the popular Atari Video Computer System. The VCS was renamed to the Atari 2600 at the time of the 5200's launch. The 5200 was created to compete with the Intellivision, but wound up a direct competitor of the ColecoVision shortly after its release. While the Coleco system shipped with the first home version of Nintendo's Donkey Kong, the pack-in game for the 5200 was 1978's Super Breakout which had already appeared on the Atari VCS and Atari 8-bit computers in 1978 and 1979 respectively. The 5200's internal hardware is almost identical to that of Atari's Atari 8-bit family, although software is not directly compatible between the two systems. The 5200's controllers have an analog joystick and a numeric keypad along with start, pause, and reset buttons. The 360-degree non-centering joystick was touted as offering more control than the eight-way Atari CX40 joystick of the 2600, but it was a focal point for criticism. On May 21, 1984, during a press conference at which the Atari 7800 was introduced, company executives revealed that the 5200 had been discontinued after just two years on the market. Total sales of the 5200 were reportedly in excess of 1 million units, far short of its predecessor's sales of over 30 million.</text>
 			<text lang="es">El Atari 5200 SuperSystem o simplemente Atari 5200 es una videoconsola doméstica introducida en 1982 por Atari, Inc. como complemento de gama alta para el popular Atari Video Computer System. El VCS pasó a llamarse Atari 2600 en el momento del lanzamiento de la 5200. La 5200 se creó para competir con la Intellivision, pero acabó siendo competidora directa de la ColecoVision poco después de su lanzamiento. Mientras que la consola Coleco incluía la primera versión doméstica de Donkey Kong de Nintendo, el juego incluido en el pack de la 5200 era Super Breakout de 1978, que ya había aparecido en la Atari VCS y en los ordenadores Atari de 8 bits en 1978 y 1979 respectivamente. El hardware interno del 5200 es casi idéntico al de la familia Atari de 8 bits, aunque el software no es directamente compatible entre los dos sistemas. Los mandos del 5200 tienen un joystick analógico y un teclado numérico junto con botones de inicio, pausa y reinicio. El joystick de 360 grados sin centrado se promocionó por ofrecer más control que el joystick Atari CX40 de ocho direcciones de la 2600, pero fue un foco de críticas. El 21 de mayo de 1984, durante una conferencia de prensa en la que se presentó la Atari 7800, los ejecutivos de la compañía revelaron que la 5200 había sido descatalogada tras sólo dos años en el mercado. Según los informes, las ventas totales de la 5200 superaron el millón de unidades, muy lejos de los más de 30 millones de su predecesora.</text>
 			<text lang="de">Das Atari 5200 SuperSystem oder einfach Atari 5200 ist eine Heimvideospielkonsole, die 1982 von Atari, Inc. als höherwertige Ergänzung zum beliebten Atari Video Computer System eingeführt wurde. Das VCS wurde zum Zeitpunkt der Markteinführung des 5200 in Atari 2600 umbenannt. Das 5200 wurde entwickelt, um mit dem Intellivision zu konkurrieren, wurde aber kurz nach seiner Veröffentlichung zu einem direkten Konkurrenten des ColecoVision. Während das Coleco-System mit der ersten Heimversion von Nintendos Donkey Kong ausgeliefert wurde, lag dem 5200 das Spiel Super Breakout aus dem Jahr 1978 bei, das bereits 1978 und 1979 auf dem Atari VCS und dem Atari 8-Bit-Computer erschienen war. Die interne Hardware des 5200 ist fast identisch mit der der Atari 8-Bit-Familie, auch wenn die Software nicht direkt zwischen den beiden Systemen kompatibel ist. Die Controller des 5200 verfügen über einen analogen Joystick und ein numerisches Tastenfeld sowie Start-, Pause- und Reset-Tasten. Der 360-Grad-Joystick ohne Zentrierung wurde damit angepriesen, dass er mehr Kontrolle als der Acht-Wege-Atari-CX40-Joystick des 2600 biete, aber er war ein Brennpunkt der Kritik. Am 21. Mai 1984, während einer Pressekonferenz, auf der der Atari 7800 vorgestellt wurde, gaben die Verantwortlichen des Unternehmens bekannt, dass der 5200 nach nur zwei Jahren auf dem Markt eingestellt worden war. Die Gesamtverkäufe des 5200 betrugen Berichten zufolge mehr als 1 Million Stück, was weit hinter den Verkäufen seines Vorgängers von über 30 Millionen zurückblieb.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

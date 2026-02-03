@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Atomiswave is a custom arcade system board and cabinet from Sammy Corporation. It is based on Sega's NAOMI system board (thus it is common to see the "Sega" logo on its boot up screen). The Atomiswave uses interchangeable game cartridges and the cabinet's control panel can be easily switched out with different control sets, including dual joysticks, dual light guns and a steering wheel.With the retirement of the aging Neo Geo MVS system, SNK Playmore chose the Atomiswave as its next system to develop games for. In a contract with Sammy, SNK Playmore agreed to develop five games for the Atomiswave system. Metal Slug 6 was SNK Playmore's fifth game for the Atomiswave, after which SNK moved on to a Taito Type X2 arcade board.</text>
 			<text lang="es">El Atomiswave es un sistema arcade personalizado de Sammy Corporation. Se basa en la placa del sistema NAOMI de Sega (por lo que es habitual ver el logotipo de "Sega" en su pantalla de arranque). El Atomiswave utiliza cartuchos de juego intercambiables y el panel de control del gabinete se puede cambiar fácilmente con diferentes conjuntos de control, incluyendo joysticks duales, pistolas de luz duales y un volante. Tras la retirada de Neo Geo MVS, SNK Playmore eligió Atomiswave como su próximo sistema para desarrollar juegos. En un contrato con Sammy, SNK Playmore acordó desarrollar cinco juegos para el sistema Atomiswave. Metal Slug 6 fue el quinto juego de SNK Playmore para el Atomiswave, tras lo cual SNK pasó a una placa arcade Taito Type X2.</text>
 			<text lang="de">Der Atomiswave ist ein kundenspezifisches Arcade-System-Board und -Gehäuse der Sammy Corporation. Es basiert auf der NAOMI-Systemplatine von Sega (daher sieht man häufig das "Sega"-Logo auf dem Startbildschirm). Das Atomiswave verwendet austauschbare Spielkassetten, und das Bedienfeld des Gehäuses kann leicht mit verschiedenen Steuersätzen ausgetauscht werden, darunter zwei Joysticks, zwei Lichtpistolen und ein Lenkrad. Mit der Ausmusterung des alternden Neo Geo MVS-Systems wählte SNK Playmore das Atomiswave als nächstes System, für das Spiele entwickelt werden sollten. In einem Vertrag mit Sammy stimmte SNK Playmore zu, fünf Spiele für das Atomiswave-System zu entwickeln. Metal Slug 6 war das fünfte Spiel von SNK Playmore für das Atomiswave-System, woraufhin SNK auf ein Taito Type X2 Arcade Board umstieg.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

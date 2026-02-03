@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The FM Towns Marty is a fifth-generation home video game console released in 1993 by Fujitsu, exclusively for the Japanese market. It is often claimed to be the first 32-bit CD-based home video game system, although it has a 16-bit data bus, just like the earlier Commodore CDTV and Sega CD, which both have Motorola 68000 processors that is similarly internally 16/32-bit, but with a 16-bit data bus. The console came complete with a built in CD-ROM drive and disk drive. It was based on the earlier FM Towns computer system Fujitsu had released in 1989. The Marty was backward-compatible with older FM Towns games.</text>
 			<text lang="es">La FM Towns Marty es una videoconsola doméstica de quinta generación lanzada en 1993 por Fujitsu, exclusivamente para el mercado japonés. A menudo se afirma que es el primer sistema de videojuegos doméstico basado en CD de 32 bits, aunque tiene un bus de datos de 16 bits, al igual que los anteriores Commodore CDTV y Sega CD, ambos con procesadores Motorola 68000 de 16/32 bits internamente, pero con un bus de datos de 16 bits. La consola se completaba con una unidad de CD-ROM y una unidad de disco. Se basaba en el anterior sistema informático FM Towns que Fujitsu había lanzado en 1989. La Marty era compatible con los juegos anteriores de FM Towns.</text>
 			<text lang="de">Der FM Towns Marty ist eine Heimvideospielkonsole der fünften Generation, die 1993 von Fujitsu exklusiv für den japanischen Markt herausgebracht wurde. Es wird oft behauptet, das erste 32-Bit-CD-basierte Videospielsystem für den Heimgebrauch zu sein, obwohl es einen 16-Bit-Datenbus hat, genau wie das frühere Commodore CDTV und das Sega CD, die beide Motorola 68000-Prozessoren haben, die ähnlich intern 16/32-Bit sind, aber einen 16-Bit-Datenbus haben. Die Konsole wurde komplett mit einem eingebauten CD-ROM-Laufwerk und einem Diskettenlaufwerk geliefert. Sie basierte auf dem früheren Computersystem FM Towns, das Fujitsu 1989 herausgebracht hatte. Der Marty war rückwärtskompatibel mit älteren FM Towns-Spielen.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

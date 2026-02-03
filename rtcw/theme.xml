@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>RealRTCW is a global mod for the classic Wolfenstein, based on the ioRTCW port, which provides support for widescreen resolutions and 64 bit systems. It includes a new graphical renderer, expanded arsenal, reimagined shooting mechanics, new high quality models, textures and sounds. • Expanded arsenal including 12 new weapon • New HD models for the original weapons • HD textures for the environment and characters, preserving the style and atmosphere of the original. • Support for weather effects - rain and snow • New items for inventory - adrenaline and bandages • Real recoil system • Updated weapon characteristics • Improved AI • New high quality sounds • New interface • New difficulty level system • Subtitle support • Integration with Steam Workshop for custom maps and modifications • Steam achievements support • Restored content including a training level and unused soundtrack.</text>
 			<text lang="es">RealRTCW es un mod global para el clásico Wolfenstein, basado en el port ioRTCW, que proporciona soporte para resoluciones panorámicas y sistemas de 64 bits. Incluye un nuevo renderizador gráfico, arsenal ampliado, mecánica de disparo reimaginada, nuevos modelos de alta calidad, texturas y sonidos. • Arsenal ampliado con 12 nuevas armas • Nuevos modelos HD para las armas originales • Texturas HD para el entorno y los personajes, conservando el estilo y la atmósfera del original. • Soporte para efectos meteorológicos - lluvia y nieve • Nuevos objetos para el inventario: adrenalina y vendas. • Sistema de retroceso real • Características actualizadas de las armas • IA mejorada • Nuevos sonidos de alta calidad • Nueva interfaz • Nuevo sistema de niveles de dificultad • Soporte para subtítulos • Integración con Steam Workshop para mapas personalizados y modificaciones • Compatibilidad con logros de Steam • Contenido restaurado que incluye un nivel de entrenamiento y una banda sonora sin usar.</text>
 			<text lang="de">RealRTCW ist ein globaler Mod für den Klassiker Wolfenstein, der auf der ioRTCW-Portierung basiert, die Unterstützung für Breitbildauflösungen und 64-Bit-Systeme bietet. Sie enthält einen neuen grafischen Renderer, ein erweitertes Arsenal, eine überarbeitete Schießmechanik, neue hochwertige Modelle, Texturen und Sounds. • Erweitertes Arsenal mit 12 neuen Waffen • Neue HD-Modelle für die Originalwaffen • HD-Texturen für die Umgebung und die Charaktere, die den Stil und die Atmosphäre des Originals beibehalten. • Unterstützung für Wettereffekte - Regen und Schnee • Neue Gegenstände für das Inventar - Adrenalin und Bandagen • Echtes Rückstoßsystem • Aktualisierte Waffeneigenschaften • Verbesserte KI • Neue, hochwertige Sounds • Neue Benutzeroberfläche • Neues Schwierigkeitsgradsystem • Unterstützung von Untertiteln • Integration mit Steam Workshop für eigene Karten und Modifikationen • Unterstützung von Steam-Erfolgen • Wiederhergestellte Inhalte einschließlich eines Trainingslevels und eines nicht verwendeten Soundtracks.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

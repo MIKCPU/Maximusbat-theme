@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Electronic Arts Inc. (EA) is a leading global developer and publisher of games for consoles, PC, and mobile, founded in 1982 and headquartered in Redwood City, California. Known for high-quality, immersive, and social interactive entertainment, EA develops major franchises like EA SPORTS FC (formerly FIFA), Battlefield, The Sims, Apex Legends, and Need for Speed.</text>
          <text lang="it">Electronic Arts Inc. (EA) è uno sviluppatore e publisher leader a livello mondiale di giochi per console, PC e dispositivi mobili, fondato nel 1982 e con sede a Redwood City, California. Nota per l'intrattenimento di alta qualità, immersivo e socialmente interattivo, EA sviluppa franchise importanti come EA SPORTS FC (ex FIFA), Battlefield, The Sims, Apex Legends e Need for Speed.</text>
          <text lang="de">Electronic Arts Inc. (EA) ist ein weltweit führender Entwickler und Publisher von Spielen für Konsolen, PC und Mobilgeräte. Das Unternehmen wurde 1982 gegründet und hat seinen Hauptsitz in Redwood City, Kalifornien. EA ist bekannt für hochwertige, immersive und interaktive Unterhaltung und entwickelt große Spieleserien wie EA SPORTS FC (ehemals FIFA), Battlefield, Die Sims, Apex Legends und Need for Speed.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

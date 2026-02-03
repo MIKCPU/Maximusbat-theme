@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,15 +9,7 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>AVGN is the main character of the video show of the same name, a series of video game reviews for video game consoles of the past years. The reviews are dedicated to criticizing low-quality video games in a humorous style.
-
 The video series is created by James D. Rolfe, who plays the role of the main character. The show gained popularity through the publication of the first videos on YouTube. The videos were then published on the ScrewAttack website and later, along with two other exclusive series, were given to the GameTrailers website, where they were published until the site was shut down. According to GameTrailers, the episodes posted there had between half a million and two million views. The show was subsequently published exclusively on Cinemassacre's YouTube channel. At the time of its appearance, the show was called The Angry Nintendo Nerd. In episode 15, the name was changed so as not to infringe on Nintendo's trademark and to start doing reviews of games from other companies' game consoles in the future.</text>
 		<text lang="es">AVGN es el protagonista del programa de vídeo del mismo nombre, una serie de críticas de videojuegos para videoconsolas de los últimos años. Las reseñas se dedican a criticar videojuegos de baja calidad en clave de humor. La serie de vídeo está creada por James D. Rolfe, que interpreta el papel del protagonista. El programa ganó popularidad con la publicación de los primeros vídeos en YouTube. A continuación, los vídeos se publicaron en el sitio web ScrewAttack y, más tarde, junto con otras dos series exclusivas, se cedieron al sitio web GameTrailers, donde se publicaron hasta el cierre del sitio. Según GameTrailers, los episodios publicados allí tuvieron entre medio millón y dos millones de visitas. Posteriormente, el programa se publicó en exclusiva en el canal de YouTube de Cinemassacre. En el momento de su aparición, el programa se llamaba The Angry Nintendo Nerd. En el episodio 15, se cambió el nombre para no infringir la marca registrada de Nintendo y empezar a hacer reseñas de juegos de videoconsolas de otras compañías en el futuro.</text>
 			<text lang="de">AVGN ist die Hauptfigur der gleichnamigen Videoshow, einer Serie von Videospielkritiken für Videospielkonsolen der letzten Jahre. Die Kritiken widmen sich der Kritik an minderwertigen Videospielen in einem humorvollen Stil. Die Videoserie wurde von James D. Rolfe geschaffen, der die Rolle der Hauptfigur spielt. Bekanntheit erlangte die Show durch die Veröffentlichung der ersten Videos auf YouTube. Die Videos wurden dann auf der Website ScrewAttack veröffentlicht und später, zusammen mit zwei anderen exklusiven Serien, der Website GameTrailers zur Verfügung gestellt, wo sie bis zur Schließung der Website veröffentlicht wurden. Nach Angaben von GameTrailers wurden die dort eingestellten Episoden zwischen einer halben und zwei Millionen Mal angesehen. Die Sendung wurde anschließend exklusiv auf dem YouTube-Kanal von Cinemassacre veröffentlicht. Zum Zeitpunkt ihres Erscheinens trug die Sendung den Namen The Angry Nintendo Nerd. In Folge 15 wurde der Name geändert, um das Markenzeichen von Nintendo nicht zu verletzen und um in Zukunft auch Spiele von anderen Konsolenherstellern zu testen.</text>
@@ -31,5 +22,4 @@ The video series is created by James D. Rolfe, who plays the role of the main ch
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

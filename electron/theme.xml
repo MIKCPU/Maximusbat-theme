@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Acorn Electron (nicknamed the Elk inside Acorn and beyond) was a budget version of the BBC Micro educational/home computer introduced by Acorn Computers Ltd on 25 August 1983. It had 32 kilobytes of RAM, and its ROM includes BBC BASIC v2 along with its operating system. The Electron was able to save and load programs onto audio cassette via a supplied converter cable that connected it to any standard tape recorder that had the correct sockets. It was capable of basic graphics, and could display onto either a television set, a colour (RGB) monitor or a monochrome monitor. For a short period, the Electron was reportedly the best selling micro in the United Kingdom, with an estimated 200,000 to 250,000 machines sold over its entire commercial lifespan.</text>
 			<text lang="es">El Acorn Electron (apodado Elk dentro de Acorn y más allá) fue una versión económica del ordenador educativo/doméstico BBC Micro presentado por Acorn Computers Ltd el 25 de agosto de 1983. Tenía 32 kilobytes de RAM, y su ROM incluye BBC BASIC v2 junto con su sistema operativo. El Electron era capaz de guardar y cargar programas en casetes de audio a través de un cable convertidor suministrado que lo conectaba a cualquier grabadora de cinta estándar que tuviera las tomas correctas. Era capaz de realizar gráficos básicos y podía mostrarlos en un televisor, un monitor en color (RGB) o un monitor monocromo. Durante un breve periodo, el Electron fue el micro más vendido en el Reino Unido, con unas 200.000 a 250.000 unidades vendidas durante toda su vida comercial.</text>
 			<text lang="de">Der Acorn Electron (innerhalb von Acorn und darüber hinaus auch Elk genannt) war eine preisgünstige Version des BBC Micro, der am 25. August 1983 von Acorn Computers Ltd. eingeführt wurde. Er hatte 32 Kilobyte RAM und sein ROM enthielt BBC BASIC v2 zusammen mit seinem Betriebssystem. Der Electron konnte über ein mitgeliefertes Konverterkabel, mit dem er an jedes handelsübliche Tonbandgerät mit den entsprechenden Anschlüssen angeschlossen werden konnte, Programme auf Audiokassette speichern und laden. Er war in der Lage, einfache Grafiken darzustellen und konnte entweder auf einem Fernsehgerät, einem Farbmonitor (RGB) oder einem Monochrommonitor angezeigt werden. Für eine kurze Zeit war der Electron Berichten zufolge der meistverkaufte Mikrocomputer im Vereinigten Königreich, mit schätzungsweise 200.000 bis 250.000 verkauften Geräten während seiner gesamten Lebensdauer.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

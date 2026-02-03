@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The CP System II (CPシステムII, shīpī shisutemu tsū) or CPS-2 is an arcade system board that Capcom first used in 1993 for Super Street Fighter II. It was the successor to their previous CP System and Capcom Power System Changer arcade hardware and was succeeded by the CP System III hardware in 1996, of which the CPS-2 would outlive by over four years. The arcade system had new releases for it until the end of 2003, ending with Hyper Street Fighter II.</text>
 			<text lang="es">El CP System II (CPシステムII, shīpī shisutemu tsū) o CPS-2 es una placa de sistema arcade que Capcom utilizó por primera vez en 1993 para Super Street Fighter II. Fue la sucesora de su anterior hardware arcade CP System y Capcom Power System Changer y fue sucedida por el hardware CP System III en 1996, del que la CPS-2 sobreviviría más de cuatro años. El sistema arcade tuvo nuevas versiones hasta finales de 2003, terminando con Hyper Street Fighter II.</text>
 			<text lang="de">Das CP System II (CPシステムII, shīpī shisutemu tsū) oder CPS-2 ist ein Arcade-System-Board, das Capcom erstmals 1993 für Super Street Fighter II verwendete. Es war der Nachfolger der früheren CP System- und Capcom Power System Changer-Arcade-Hardware und wurde 1996 von der CP System III-Hardware abgelöst, die das CPS-2 um mehr als vier Jahre überleben sollte. Für das Arcade-System gab es bis Ende 2003 neue Versionen, die mit Hyper Street Fighter II endeten.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

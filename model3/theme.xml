@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Sega Model 3 is an arcade platform released in 1996 as the successor to Sega Model 2. Model 3 continued several arcade games series established on previous Sega arcade boards, with games such as; Daytona USA 2, Sega Rally 2, Virtua Fighter 3 and Star Wars Trilogy Arcade. Upon release, the Model 3 board was significantly more powerful than any other arcade platform on the market as well as any home console or computer at the time, with graphical fidelity roughly to par with Dreamcast or even some early PlayStation 2 titles; it took several years for home systems to catch-up. It had an IBM-Motorola PowerPC 603e CPU that could run at 66, 100 or 166 MHz, 33 MB of RAM and two Lockheed Martin Real3D/Pro-1000 GPUs. Model 3 was followed by Sega Naomi in 1998 which uses a similar architecture to the Sega Dreamcast.
 	</text>
 			<text lang="es">Sega Model 3 es una plataforma arcade lanzada en 1996 como sucesora de Sega Model 2. El Model 3 continuó varias series de juegos arcade establecidas en anteriores placas arcade de Sega, con juegos como; Daytona USA 2, Sega Rally 2, Virtua Fighter 3 y Star Wars Trilogy Arcade. En el momento de su lanzamiento, la placa Model 3 era significativamente más potente que cualquier otra plataforma arcade del mercado, así como que cualquier consola doméstica u ordenador de la época, con una fidelidad gráfica aproximadamente a la par que Dreamcast o incluso algunos de los primeros títulos de PlayStation 2; los sistemas domésticos tardaron varios años en ponerse a la altura. Tenía una CPU IBM-Motorola PowerPC 603e que podía funcionar a 66, 100 o 166 MHz, 33 MB de RAM y dos GPU Lockheed Martin Real3D/Pro-1000. Al Model 3 le siguió el Sega Naomi en 1998, que utiliza una arquitectura similar a la del Sega Dreamcast.</text>
@@ -30,5 +22,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

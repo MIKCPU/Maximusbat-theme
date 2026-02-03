@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>MSU-MD is a driver that allows CD quality music for properly patched Sega Megadrive games, mimicing the behavior of the CD hardware. Instead of basing the work on proprietary APIs like md+, MSU-MD is developed as a nice tiny driver which makes interfacing with the Sega CD hardware easier and all using official bios calls. This means that these hacks could run also on official unmodified hardware.</text>
 			<text lang="es">MSU-MD es un controlador que permite reproducir música con calidad de CD para juegos de Sega Megadrive debidamente parcheados, imitando el comportamiento del hardware de CD. En lugar de basar el trabajo en APIs propietarias como md+, MSU-MD se ha desarrollado como un pequeño y bonito driver que facilita la interfaz con el hardware de Sega CD y todo ello usando llamadas a la bios oficiales. Esto significa que estos hacks podrían ejecutarse también en hardware oficial no modificado.</text>
 			<text lang="de">MSU-MD ist ein Treiber, der Musik in CD-Qualität für korrekt gepatchte Sega Megadrive-Spiele ermöglicht und das Verhalten der CD-Hardware nachahmt. Anstatt auf proprietären APIs wie md+ zu basieren, wurde MSU-MD als netter kleiner Treiber entwickelt, der das Zusammenspiel mit der Sega-CD-Hardware vereinfacht und die offiziellen Bios-Aufrufe verwendet. Das bedeutet, dass diese Hacks auch auf offizieller, nicht modifizierter Hardware laufen könnten.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The TV-Computer (or TVC) is an 8-bit home computer manufactured by Videoton in 1986.
 It was based on the Enterprise and had a built-in BASIC interpreter. Programs could be loaded via tape or floppy. The TVC had three graphical modes: 128×240/16 colors, 256×240/4 colors, and 512×240/2 colors (black and white). It had two tape ports, 1 A/V, 1 RGB monitor, 1 RF connector, 1 centronics printer port, 1 side (for program-modules - game cartridges) and 4 upper expansion ports and 2 joystick ports. The TVC was versatile due to its four upper expansion ports. Current enhancements using these ports are: SD card reader, sound card (with 3 different sound chips), game card (+2 joy ports +SN76489 sound chip + 4 built-in games), HDMI output with several FPGA cores (ofc including TVC), USB/PS2 mouse handling (and an unreleased gamecard with SID and sprite support) and many more.</text>
 			<text lang="it">Il TV-Computer (o TVC) è un home computer a 8 bit prodotto da Videoton nel 1986. Era basato sull'Enterprise e aveva un interprete BASIC incorporato. I programmi potevano essere caricati tramite nastro o floppy. Il TVC aveva tre modalità grafiche: 128×240/16 colori, 256×240/4 colori e 512×240/2 colori (bianco e nero). Disponeva di due porte nastro, 1 A/V, 1 monitor RGB, 1 connettore RF, 1 porta stampante centronics, 1 laterale (per moduli di programma - cartucce di gioco) e 4 porte di espansione superiori e 2 porte joystick. Il TVC era versatile grazie alle sue quattro porte di espansione superiori. I miglioramenti attuali che utilizzano queste porte sono: Lettore di schede SD, scheda audio (con 3 diversi chip sonori), scheda di gioco (+2 porte joy + chip sonoro SN76489 + 4 giochi integrati), uscita HDMI con diversi core FPGA (incluso ovviamente il TVC), gestione di mouse USB/PS2 (e una scheda di gioco inedita con supporto SID e sprite) e molto altro ancora.</text>
@@ -30,5 +22,4 @@ It was based on the Enterprise and had a built-in BASIC interpreter. Programs co
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

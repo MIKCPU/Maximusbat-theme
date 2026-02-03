@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>In the late 1980s, Nintendo’s Game &amp; Watch handheld devices had already established themselves as popular portable gaming gadgets. Konami, known for its arcade hits and console games, recognized the potential of the handheld market. To challenge Nintendo’s dominance, Konami decided to create its own line of handheld LCD games. They wanted to reach a broader audience beyond arcades and consoles. Their LCD games featured licensed characters, sports themes, and unique scenarios. Titles like “Teenage Mutant Ninja Turtles” and “Top Gun” showcased their commitment to quality. While they didn’t surpass Nintendo’s Game &amp; Watch in sales, Konami’s handheld LCD games left a lasting impact. They added diversity and excitement to the portable gaming landscape, contributing to the overall growth of handheld gaming.</text>
 			<text lang="it">Alla fine degli anni '80, i dispositivi portatili Game &amp; Watch di Nintendo si erano già affermati come popolari gadget di gioco portatili. Konami, nota per i suoi successi arcade e per i giochi per console, riconobbe il potenziale del mercato delle console portatili. Per sfidare il dominio di Nintendo, Konami decise di creare una propria linea di giochi LCD portatili. Voleva raggiungere un pubblico più ampio al di là delle sale giochi e delle console. I loro giochi LCD presentavano personaggi su licenza, temi sportivi e scenari unici. Titoli come "Teenage Mutant Ninja Turtles" e "Top Gun" dimostrano il loro impegno per la qualità. Pur non avendo superato il Game &amp; Watch di Nintendo in termini di vendite, i giochi LCD portatili di Konami hanno lasciato un impatto duraturo. Hanno aggiunto diversità ed eccitazione al panorama dei giochi portatili, contribuendo alla crescita complessiva dei giochi portatili.</text>
 			<text lang="fr">À la fin des années 1980, les appareils portables Game &amp; Watch de Nintendo s'étaient déjà imposés comme des gadgets de jeu portables très populaires. Konami, connu pour ses jeux d'arcade et ses jeux de console, a reconnu le potentiel du marché des appareils portables. Pour contester la domination de Nintendo, Konami a décidé de créer sa propre ligne de jeux LCD portables. La société souhaitait toucher un public plus large que celui des salles d'arcade et des consoles. Leurs jeux LCD présentaient des personnages sous licence, des thèmes sportifs et des scénarios uniques. Des titres comme "Teenage Mutant Ninja Turtles" et "Top Gun" témoignent de leur engagement en faveur de la qualité. Bien qu'ils n'aient pas dépassé le Game &amp; Watch de Nintendo en termes de ventes, les jeux LCD portables de Konami ont laissé un impact durable. Ils ont ajouté de la diversité et de l'enthousiasme au paysage des jeux portables, contribuant ainsi à la croissance globale de ce type de jeux.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

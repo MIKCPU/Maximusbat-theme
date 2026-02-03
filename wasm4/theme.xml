@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>WASM-4 is a low-level fantasy game console for building small games with WebAssembly. Game cartridges (ROMs) are small, self-contained .wasm files that can be built with any programming language that compiles to WebAssembly.</text>
 			<text lang="es">WASM-4 es una consola de juegos de fantasía de bajo nivel para construir pequeños juegos con WebAssembly. Los cartuchos de juego (ROM) son pequeños archivos .wasm autocontenidos que pueden construirse con cualquier lenguaje de programación que compile con WebAssembly.</text>
 			<text lang="de">WASM-4 ist eine Low-Level-Fantasy-Spielkonsole zur Erstellung kleiner Spiele mit WebAssembly. Spielkassetten (ROMs) sind kleine, in sich geschlossene .wasm-Dateien, die mit jeder Programmiersprache erstellt werden können, die sich mit WebAssembly kompilieren lässt.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

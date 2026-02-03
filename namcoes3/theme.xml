@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Namco ES3 arcade platform runs on an nForce2-based motherboard that NVIDIA developed. It is based on a NVIDIA GeForce graphics card, using the OpenGL API. It uses a modified Japanese version of Windows Embedded Standard 7 as the operating system. Namco ES3 games run in an arcade game cabinet designed by Bandai Namco Games.</text>
 			<text lang="es">La plataforma arcade Namco ES3 se ejecuta en una placa base basada en nForce2 que ha desarrollado NVIDIA. Se basa en una tarjeta gráfica NVIDIA GeForce que utiliza la API OpenGL. Utiliza una versión japonesa modificada de Windows Embedded Standard 7 como sistema operativo. Los juegos de Namco ES3 se ejecutan en una máquina recreativa diseñada por Bandai Namco Games.</text>
 			<text lang="de">Die Namco ES3 Arcade-Plattform läuft auf einem nForce2-basierten Motherboard, das von NVIDIA entwickelt wurde. Sie basiert auf einer NVIDIA GeForce-Grafikkarte und verwendet die OpenGL-API. Als Betriebssystem kommt eine modifizierte japanische Version von Windows Embedded Standard 7 zum Einsatz. Namco ES3-Spiele laufen in einem von Bandai Namco Games entworfenen Arcade-Gehäuse.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

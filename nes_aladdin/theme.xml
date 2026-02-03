@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Aladdin Deck Enhancer is a system-enhancing adaptor to use Compact Cartridges on the Nintendo Entertainment System. It was produced by Camerica and developed by Codemasters but not licensed by Nintendo. The Aladdin Deck Enhancer contains a bypass Security Circuit Chip, a Memory Control Chip, and a Graphics Chip, which work with the lock-out chip and other features inside the NES. First, the Compact Cartridge is inserted into the Aladdin Deck Enhancer, which is shaped the same as a standard NES cartridge, and then this is inserted into the Control Deck. Inside the slot where the Compact Cartridge is placed is a recessed switch, which changes the Security/Region settings from position A to position B. It contains 8 kilobytes of RAM for graphics use, and provides a cheaper means with which to make the game cartridges, mainly because each cartridge requires its own 10NES lock-out chip, RAM, and extra circuitry.</text>
 			<text lang="es">El Aladdin Deck Enhancer es un adaptador que mejora la consola para utilizar cartuchos compactos en la Nintendo Entertainment System. Fue producido por Camerica y desarrollado por Codemasters, pero no tiene licencia de Nintendo. El Aladdin Deck Enhancer contiene un chip de circuito de seguridad de derivación, un chip de control de memoria y un chip gráfico, que funcionan con el chip de bloqueo y otras funciones de la NES. Primero se inserta el cartucho compacto en el Aladdin Deck Enhancer, que tiene la misma forma que un cartucho estándar de NES, y luego se inserta en el Control Deck. Dentro de la ranura donde se coloca el Cartucho Compacto hay un interruptor empotrado, que cambia la configuración de Seguridad/Región de la posición A a la posición B. Contiene 8 kilobytes de RAM para uso gráfico, y proporciona un medio más barato con el que fabricar los cartuchos de juego, principalmente porque cada cartucho requiere su propio chip de bloqueo 10NES, RAM y circuitería extra.</text>
 			<text lang="de">Der Aladdin Deck Enhancer ist ein systemverbessernder Adapter zur Verwendung von Compact Cartridges auf dem Nintendo Entertainment System. Er wurde von Camerica produziert und von Codemasters entwickelt, aber nicht von Nintendo lizenziert. Der Aladdin Deck Enhancer enthält einen Bypass Security Circuit Chip, einen Memory Control Chip und einen Grafikchip, die mit dem Lock-Out Chip und anderen Funktionen des NES zusammenarbeiten. Zuerst wird die Compact Cartridge in den Aladdin Deck Enhancer eingelegt, der die gleiche Form wie eine normale NES-Cartridge hat, und dann wird diese in das Control Deck eingelegt. In dem Schlitz, in den die Compact Cartridge eingesetzt wird, befindet sich ein versenkter Schalter, mit dem die Sicherheits-/Regionseinstellungen von Position A auf Position B geändert werden. Die Compact Cartridge enthält 8 Kilobyte RAM für Grafikzwecke und ermöglicht eine kostengünstigere Herstellung von Spielkassetten, da für jede Kassette ein eigener 10NES-Lockout-Chip, RAM und zusätzliche Schaltkreise erforderlich sind.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,15 +9,7 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Konami PC Based is an arcade board created by Konami intended for arcades .
-
 Konami PC Based was launched by Konami in 2004.
 Since it is basically a PC inside an arcade cabinet, the configuration depends a lot on the game it hosts, but it can have an Intel processor and there are also configurations with an AMD processor. At least 15 titles work on this board.</text>
 			<text lang="es">Konami PC Based es una placa arcade creada por Konami destinada a los salones recreativos. Konami PC Based fue lanzada por Konami en 2004. Al tratarse básicamente de un PC dentro de un mueble arcade, la configuración depende mucho del juego que aloje, pero puede tener procesador Intel y también hay configuraciones con procesador AMD. Al menos 15 títulos funcionan en esta placa.</text>
@@ -32,5 +23,4 @@ Since it is basically a PC inside an arcade cabinet, the configuration depends a
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

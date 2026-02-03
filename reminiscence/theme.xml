@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>REminiscence is a game engine recreation of the 1992/1993 action adventure game Flashback made by Delphine Software. It is the spiritual successor of Another World/Out Of This World and it distinguishes itself with rotoscoped graphics, polygonal cutscenes, and a Prince of Persia-style gameplay system.</text>
 			<text lang="it">REminiscence è una ricreazione con motore di gioco del gioco d'azione e avventura Flashback del 1992/1993, realizzato da Delphine Software. È il successore spirituale di Another World/Out Of This World e si distingue per la grafica rotoscopica, le scene d'intermezzo poligonali e un sistema di gioco in stile Prince of Persia.</text>
 			<text lang="fr">REminiscence est une recréation par moteur de jeu du jeu d'action et d'aventure Flashback (1992/1993) réalisé par Delphine Software. C'est le successeur spirituel de Another World/Out Of This World et il se distingue par des graphismes rotoscopés, des cutscenes polygonales et un système de jeu à la Prince of Persia.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

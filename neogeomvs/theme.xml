@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Neo Geo MVS, stylised as NEO•GEO MVS, also written as NEOGEO MVS, is a coin-operated arcade machine released in 1990 by Japanese game company SNK Corporation. Its CPU is technically a 16/32-bit 68000-based system with an 8/16-bit Z80 coprocessor, while its GPU chipset has a 24-bit graphics data bus. The MVS offers owners the ability to put up to six different cartridges into a single cabinet, a unique feature that was also a key economic consideration for operators with limited floorspace, as well as saving money long-term. With its games stored on self-contained cartridges, a game cabinet can be exchanged for a different game title by swapping the game's ROM cartridge and cabinet artwork. The Neo Geo MVS was a worldwide commercial success upon release in arcades, becoming one of the highest-earning machines at various arcades across markets. A home console version was also made, called Advanced Entertainment System (AES). Unlike earlier systems, the Neo Geo AES was intended to reproduce the same quality of game as the arcade MVS system.
 </text>
 			<text lang="es">La Neo Geo MVS, estilizada como NEO-GEO MVS, también escrita como NEOGEO MVS, es una máquina recreativa de monedas lanzada en 1990 por la compañía japonesa de juegos SNK Corporation. Su CPU es técnicamente un sistema basado en 68000 de 16/32 bits con un coprocesador Z80 de 8/16 bits, mientras que su chipset GPU tiene un bus de datos gráficos de 24 bits. La MVS ofrece a los propietarios la posibilidad de colocar hasta seis cartuchos diferentes en un solo armario, una característica única que también era una consideración económica clave para los operadores con espacio limitado, además de ahorrar dinero a largo plazo. Con sus juegos almacenados en cartuchos independientes, un mueble de juego puede cambiarse por otro título intercambiando el cartucho ROM del juego y la carátula del mueble. La Neo Geo MVS fue un éxito comercial en todo el mundo tras su lanzamiento en los salones recreativos, convirtiéndose en una de las máquinas con mayores ganancias en los salones de todos los mercados. También se fabricó una versión para consolas domésticas, llamada Advanced Entertainment System (AES). A diferencia de los sistemas anteriores, el Neo Geo AES pretendía reproducir la misma calidad de juego que el sistema arcade MVS.</text>
@@ -30,5 +22,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

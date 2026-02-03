@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The MSX Turbo R is the last generation of MSX computers that was put to market by a household electronic brand. Only Panasonic was brave enough to put faith in the standard once again, by releasing two different models: the Panasonic FS-A1ST and the Panasonic FS-A1GT. MSX Turbo R computers were produced until 1994. New features include: a new PCM sound chip which can produce digitized sound up to 44 KHz (in assembly language) and a new Z80 downward compatible R800 processor. The user can select the CPU (Z80 or R800) by software. According to Kay Nishi, the R on the MSX Turbo R stands for RISC (Reduced instruction set computing). There is not a lot of software specific for the MSX Turbo R, although a lot of MSX games can run smoother and/or faster on an MSX Turbo R. As with the MSX2+, some software uses the optional scroll features or higher screens.</text>
 			<text lang="es">El MSX Turbo R es la última generación de ordenadores MSX que sacó al mercado una marca de electrónica doméstica. Sólo Panasonic fue lo suficientemente valiente como para volver a confiar en el estándar, lanzando dos modelos diferentes: el Panasonic FS-A1ST y el Panasonic FS-A1GT. Los ordenadores MSX Turbo R se produjeron hasta 1994.
 Las nuevas características incluyen: un nuevo chip de sonido PCM que puede producir sonido digitalizado hasta 44 KHz (en lenguaje ensamblador) y un nuevo procesador R800 compatible con Z80 descendente. El usuario puede seleccionar la CPU (Z80 o R800) por software. Según Kay Nishi, la R del MSX Turbo R significa RISC (Reduced instruction set computing). No hay mucho software específico para el MSX Turbo R, aunque muchos juegos de MSX pueden ejecutarse de forma más fluida y/o rápida en un MSX Turbo R. Al igual que con el MSX2+, algunos programas utilizan las funciones de desplazamiento opcionales o pantallas más altas.</text>
@@ -33,5 +25,4 @@ Le nuove caratteristiche includono: un nuovo chip audio PCM in grado di produrre
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Atari 7800 ProSystem, or simply the Atari 7800, is a home video game console officially released by Atari Corporation in 1986 as the successor to both the Atari 2600 and Atari 5200. It is able to run almost all Atari 2600 cartridges, making it the first console with built-in backward compatibility. It shipped with a different model of joystick from the 2600-standard CX40 and Pole Position II as the pack-in game. Most of the announced titles at launch were ports of 1980–83 arcade games. Designed by General Computer Corporation, the 7800 has significantly improved graphics hardware over Atari's previous consoles, but the same Television Interface Adapter chip that launched with the 2600 in 1977 is used to generate audio. In an effort to prevent the flood of poor quality games that contributed to the video game crash of 1983, cartridges had to be digitally signed by Atari. The Atari 7800 was first announced on May 21, 1984, but a general release was shelved due to the sale of the company. Atari dropped support for the 7800, along with the 2600 and the Atari 8-bit family, on January 1, 1992.</text>
 			<text lang="es">La Atari 7800 ProSystem, o simplemente Atari 7800, es una videoconsola doméstica lanzada oficialmente por Atari Corporation en 1986 como sucesora de la Atari 2600 y la Atari 5200. Es capaz de ejecutar casi todos los cartuchos de Atari 2600, lo que la convierte en la primera consola con retrocompatibilidad integrada. Se comercializó con un modelo de joystick distinto del CX40 estándar de la 2600 y con Pole Position II como juego incluido. La mayoría de los títulos anunciados en el lanzamiento eran adaptaciones de juegos arcade de 1980-83. Diseñada por General Computer Corporation, la 7800 cuenta con un hardware gráfico significativamente mejorado con respecto a las anteriores consolas de Atari, pero para generar el audio se utiliza el mismo chip Television Interface Adapter que se lanzó con la 2600 en 1977. En un esfuerzo por evitar la avalancha de juegos de mala calidad que contribuyó al crack de los videojuegos de 1983, los cartuchos tuvieron que ser firmados digitalmente por Atari. La Atari 7800 se anunció por primera vez el 21 de mayo de 1984, pero su lanzamiento general se aplazó debido a la venta de la empresa. Atari dejó de dar soporte a la 7800, junto con la 2600 y la familia Atari de 8 bits, el 1 de enero de 1992.</text>
 			<text lang="de">Das Atari 7800 ProSystem, oder einfach Atari 7800, ist eine Videospielkonsole für den Heimgebrauch, die 1986 offiziell von der Atari Corporation als Nachfolger des Atari 2600 und des Atari 5200 herausgebracht wurde. Es ist in der Lage, fast alle Atari 2600-Cartridges zu verwenden, was es zur ersten Konsole mit eingebauter Abwärtskompatibilität macht. Es wurde mit einem anderen Joystick-Modell als dem 2600-Standard CX40 und dem Spiel Pole Position II ausgeliefert. Die meisten der zum Start angekündigten Titel waren Portierungen von Arcade-Spielen aus den Jahren 1980-83. Der 7800 wurde von der General Computer Corporation entwickelt und verfügt über eine deutlich verbesserte Grafikhardware im Vergleich zu den früheren Atari-Konsolen. Für die Audiogenerierung wird jedoch derselbe Television Interface Adapter-Chip verwendet, der 1977 mit dem 2600 eingeführt wurde. Um die Flut minderwertiger Spiele zu verhindern, die zum Videospiel-Crash von 1983 beitrug, mussten die Cartridges von Atari digital signiert werden. Der Atari 7800 wurde erstmals am 21. Mai 1984 angekündigt, aber eine allgemeine Veröffentlichung wurde aufgrund des Verkaufs des Unternehmens aufgeschoben. Am 1. Januar 1992 stellte Atari die Unterstützung für den 7800 zusammen mit dem 2600 und der Atari 8-Bit-Familie ein.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

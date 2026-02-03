@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>I.K.E.M.E.N (short for Itsumademo Kanseishinai Eienni Mikansei ENgine) is a free and open-source fighting game engine designed to be compatible with M.U.G.E.N content, while also expanding on its feature set to allow for more flexible customization. The engine is notable for introducing stage zoom prior to the release of the M.U.G.E.N 1.1 beta, and for allowing netplay matches, a feature that is not supported in any official build of M.U.G.E.N. Unlike M.U.G.E.N, the engine is open source, which allows users to modify the engine outside of simple content additions, as well as the addition of new features, such as new state controllers and menus.</text>
 			<text lang="es">I.K.E.M.E.N (abreviatura de Itsumademo Kanseishinai Eienni Mikansei ENgine) es un motor de juegos de lucha gratuito y de código abierto diseñado para ser compatible con el contenido de M.U.G.E.N, al tiempo que amplía sus características para permitir una personalización más flexible. El motor destaca por haber introducido el zoom de escenarios antes del lanzamiento de la beta 1.1 de M.U.G.E.N y por permitir combates en red, una función que no está disponible en ninguna versión oficial de M.U.G.E.N. A diferencia de M.U.G.E.N, el motor es de código abierto, lo que permite a los usuarios modificarlo al margen de simples añadidos de contenido, así como la adición de nuevas características, como nuevos controladores de estado y menús.</text>
 			<text lang="de">I.K.E.M.E.N (kurz für Itsumademo Kanseishinai Eienni Mikansei ENgine) ist eine freie und quelloffene Kampfspiel-Engine, die entwickelt wurde, um mit M.U.G.E.N-Inhalten kompatibel zu sein, während sie gleichzeitig dessen Funktionsumfang erweitert, um eine flexiblere Anpassung zu ermöglichen. Die Engine zeichnet sich dadurch aus, dass sie noch vor der Veröffentlichung der M.U.G.E.N 1.1-Beta den Stage-Zoom einführt und Netplay-Matches ermöglicht, eine Funktion, die in keinem offiziellen Build von M.U.G.E.N. unterstützt wird. Im Gegensatz zu M.U.G.E.N. ist die Engine quelloffen, was es den Nutzern erlaubt, die Engine über einfache Inhaltserweiterungen hinaus zu modifizieren und neue Features wie neue Zustandsregler und Menüs hinzuzufügen.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Apple II (stylized as apple ][) is an 8-bit home computer and one of the world's first highly successful mass-produced microcomputer products. It was designed primarily by Steve Wozniak; Steve Jobs oversaw the development of the Apple II's foam-molded plastic case and Rod Holt developed the switching power supply. It was introduced by Jobs and Wozniak at the 1977 West Coast Computer Faire and marks Apple's first launch of a personal computer aimed at a consumer market—branded toward American households rather than businessmen or computer hobbyists. The three computers that Byte Magazine referred to as the "1977 Trinity" of home computing: the Commodore PET 2001, the Apple II, and the TRS-80 Model I.
 Byte magazine referred to the Apple II, Commodore PET 2001 and the TRS-80 as the "1977 Trinity." The Apple II had the defining feature of being able to display color graphics, and this was why the Apple logo was redesigned to have a spectrum of colors. The Apple II is the first model in the Apple II series, followed by the Apple II+, Apple IIe, Apple IIc, and the 16-bit Apple IIgs–all of which remained compatible. Production of the last available model, the Apple IIe, ceased in November 1993.</text>
 			<text lang="es">El Apple II (estilizado como manzana ][) es un ordenador doméstico de 8 bits y uno de los primeros microordenadores de gran éxito producidos en masa. Fue diseñado principalmente por Steve Wozniak; Steve Jobs supervisó el desarrollo de la carcasa de plástico moldeada con espuma del Apple II y Rod Holt desarrolló la fuente de alimentación conmutada. Fue presentado por Jobs y Wozniak en la West Coast Computer Faire de 1977 y marca el primer lanzamiento por parte de Apple de un ordenador personal dirigido a un mercado de consumo -dirigido a los hogares estadounidenses en lugar de a hombres de negocios o aficionados a la informática. Los tres ordenadores a los que Byte Magazine se refería como la "Trinidad de 1977" de la informática doméstica: el Commodore PET 2001, el Apple II y el TRS-80 Model I.
@@ -34,5 +26,4 @@ La rivista Byte si riferiva all'Apple II, al Commodore PET 2001 e al TRS-80 come
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

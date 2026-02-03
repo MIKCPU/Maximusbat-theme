@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Sega System 32 is the name of an arcade platform released by Sega that debuted in 1990. It was a successor to the Sega System 16, Sega System 24 and Sega Y Boards, and contains a 32-bit RISC processor at 16 MHz, hence its name. It was the last board to be released under the "Sega System" naming scheme, and was the last of the Sega System and Super Scaler series of arcade hardware – the "Sega Model" series would begin in 1992 with the Sega Model 1. Whereas Model 1 hardware was designed specifically with 3D polygon games in mind, System 32 primarily catered for sprite-based games, including 2D games and 3D sprite-scaling games. Like the Sega X Board and Sega Y Board, it is capable of scaling and rotating many sprites/textures in real-time, resulting in graphics ranging from a "pseudo-3D" look to a 3D texture-mapped look.</text>
 			<text lang="es">Sega System 32 es el nombre de una plataforma arcade lanzada por Sega que debutó en 1990. Fue sucesora de Sega System 16, Sega System 24 y Sega Y Boards, y contiene un procesador RISC de 32 bits a 16 MHz, de ahí su nombre. Fue la última placa que se lanzó bajo el esquema de nomenclatura "Sega System", y fue la última de las series Sega System y Super Scaler de hardware arcade - la serie "Sega Model" comenzaría en 1992 con la Sega Model 1. Mientras que el Model 1 se diseñó específicamente para juegos poligonales en 3D, el System 32 se centró principalmente en juegos basados en sprites, tanto en 2D como en 3D. Al igual que la Sega X Board y la Sega Y Board, es capaz de escalar y rotar muchos sprites/texturas en tiempo real, lo que da como resultado gráficos que van desde un aspecto "pseudo-3D" a un aspecto de mapa de texturas 3D.</text>
 			<text lang="de">Sega System 32 ist der Name einer Spielhallenplattform von Sega, die 1990 auf den Markt kam. Es war ein Nachfolger des Sega System 16, Sega System 24 und Sega Y Boards und enthält einen 32-Bit-RISC-Prozessor mit 16 MHz, daher der Name. Es war das letzte Board, das unter dem Namen "Sega System" veröffentlicht wurde, und das letzte der Sega System- und Super Scaler-Serie von Arcade-Hardware - die "Sega Model"-Serie begann 1992 mit dem Sega Model 1. Während die Model 1-Hardware speziell für 3D-Polygon-Spiele entwickelt wurde, war das System 32 in erster Linie für Sprite-basierte Spiele gedacht, einschließlich 2D-Spiele und 3D-Sprite-Scaler-Spiele. Wie das Sega X Board und das Sega Y Board ist es in der Lage, viele Sprites/Texturen in Echtzeit zu skalieren und zu drehen, was zu Grafiken führt, die von einem "Pseudo-3D"-Look bis zu einem 3D-Textur-Mapping-Look reichen.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

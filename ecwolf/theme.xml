@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>ECWolf is an advanced source port for Wolfenstein 3D, Spear of Destiny, and Super 3D Noah's Ark based off of the Wolf4SDL code base. ECWolf pulls a substantial amount of code from ZDoom and aims to provide a wide array of mod editing capabilities without the need to modify the source code. Expanding upon Wolf4SDL, ECWolf opens up yet even more possibilities for the world of Wolfenstein modding. Starting in 2015, numerous sets have been released exclusively for the ECWolf port, most notably projects by AstroCreep and Executor.</text>
 			<text lang="es">ECWolf es un port de código avanzado para Wolfenstein 3D, Spear of Destiny y Super 3D Noah's Ark basado en el código Wolf4SDL. ECWolf extrae una cantidad sustancial de código de ZDoom y tiene como objetivo proporcionar una amplia gama de capacidades de edición de mods sin necesidad de modificar el código fuente. Ampliando Wolf4SDL, ECWolf abre aún más posibilidades para el mundo del modding de Wolfenstein. A partir de 2015, se han lanzado numerosos sets en exclusiva para el port ECWolf, entre los que destacan los proyectos de AstroCreep y Executor.</text>
 			<text lang="de">ECWolf ist eine erweiterte Quellcode-Portierung für Wolfenstein 3D, Spear of Destiny und Super 3D Noah's Ark, die auf der Wolf4SDL-Codebasis basiert. ECWolf zieht eine beträchtliche Menge an Code aus ZDoom und zielt darauf ab, eine breite Palette von Mod-Bearbeitungsmöglichkeiten zu bieten, ohne die Notwendigkeit, den Quellcode zu ändern. Durch die Erweiterung von Wolf4SDL eröffnet ECWolf noch mehr Möglichkeiten für die Welt des Wolfenstein-Modding. Seit 2015 wurden zahlreiche Sets exklusiv für die ECWolf-Portierung veröffentlicht, vor allem die Projekte von AstroCreep und Executor.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

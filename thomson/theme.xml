@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Thomson MO5 is a home computer introduced in France in June 1984 to compete against systems such as the ZX Spectrum and Commodore 64. At the same time, Thomson also released the up-market Thomson TO7/70 machine. The MO5 was not sold in vast quantities outside France and was largely discontinued in favour of the improved Thomson MO6 in 1986. MO5s were used as educational tools in French schools for a period. The computer boots directly to the built-in Microsoft BASIC interpreter (MO5 Basic 1.0). The Thomson MO5 runs on a Motorola 6809E processor clocked at 1 MHz. It originally featured 48 KB of RAM, a EFGJ03L gate array generating a 40×25 text display. Around 200 pieces of software are known to exist for the MO5.</text>
 			<text lang="es">El Thomson MO5 es un ordenador doméstico presentado en Francia en junio de 1984 para competir con sistemas como el ZX Spectrum y el Commodore 64. Al mismo tiempo, Thomson también lanzó al mercado el Thomson TO7/70. El MO5 no se vendió en grandes cantidades fuera de Francia y se dejó de fabricar en 1986 en favor del Thomson MO6 mejorado. Los MO5 se utilizaron como herramientas educativas en las escuelas francesas durante un tiempo. El ordenador arranca directamente con el intérprete Microsoft BASIC integrado (MO5 Basic 1.0). El Thomson MO5 funciona con un procesador Motorola 6809E a 1 MHz. Originalmente contaba con 48 KB de RAM, una matriz de puertas EFGJ03L que generaba una pantalla de texto de 40×25. Se conocen unos 200 programas para el MO5.</text>
 			<text lang="de">Der Thomson MO5 ist ein Heimcomputer, der im Juni 1984 in Frankreich eingeführt wurde, um gegen Systeme wie den ZX Spectrum und den Commodore 64 anzutreten. Zur gleichen Zeit brachte Thomson auch den gehobenen Thomson TO7/70 auf den Markt. Der MO5 wurde außerhalb Frankreichs nicht in großen Mengen verkauft und 1986 zugunsten des verbesserten Thomson MO6 weitgehend eingestellt. MO5s wurden eine Zeit lang in französischen Schulen als Lehrmittel eingesetzt. Der Computer bootet direkt zum eingebauten Microsoft BASIC-Interpreter (MO5 Basic 1.0). Der Thomson MO5 läuft mit einem Motorola 6809E Prozessor, der mit 1 MHz getaktet ist. Ursprünglich verfügte er über 48 KB Arbeitsspeicher, ein EFGJ03L-Gate-Array, das ein 40×25 großes Textdisplay erzeugte. Für den MO5 sind rund 200 Softwareprogramme bekannt.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Tesla Ondra is an 8-bit personal computer developed in 1985 by Tesla Liberec in Czechoslovakia. Designed primarily for educational purposes and home use, it features a U880D microprocessor (an East German clone of the Zilog Z80) running at 2 MHz, 64 KB of RAM, and 4 KB of ROM. The computer supports a monochrome display with a resolution of 320x255 pixels and offers basic sound capabilities. The Ondra was intended to be an affordable and reliable system for schools and households, but only around 2,000 units were produced.</text>
 			<text lang="it">Il Tesla Ondra è un personal computer a 8 bit sviluppato nel 1985 da Tesla Liberec in Cecoslovacchia. Progettato principalmente per scopi didattici e per uso domestico, è dotato di un microprocessore U880D (un clone della Germania Est dello Zilog Z80) funzionante a 2 MHz, 64 KB di RAM e 4 KB di ROM. Il computer supporta un display monocromatico con una risoluzione di 320x255 pixel e offre funzionalità audio di base. L'Ondra doveva essere un sistema economico e affidabile per le scuole e le famiglie, ma ne sono state prodotte solo circa 2.000 unità.</text>
 			<text lang="fr">Le Tesla Ondra est un ordinateur personnel 8 bits développé en 1985 par Tesla Liberec en Tchécoslovaquie. Conçu principalement à des fins éducatives et pour un usage domestique, il est équipé d'un microprocesseur U880D (un clone est-allemand du Zilog Z80) cadencé à 2 MHz, de 64 Ko de RAM et de 4 Ko de ROM. L'ordinateur est doté d'un écran monochrome d'une résolution de 320x255 pixels et offre des capacités sonores de base L'Ondra devait être un système abordable et fiable pour les écoles et les ménages, mais il n'a été produit qu'à environ 2 000 exemplaires.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Visual Pinball is a freeware and source available video game engine for pinball tables and similar games such as pachinko machines. The software is composed of an editor and the simulator part itself. It runs on Microsoft Windows. The program is also able to operate with Visual PinMAME, an emulator for ROM images from real pinball machines. Players can choose between faithful recreations of existing pinball machines with or without ROM emulation and original pinball simulations based on licensed themes or completely self-designed tables. Visual Pinball's scripting capabilities can also be used to create pinball-like games (such as pitch-and-bat baseball, pinball bingo, bowling, cue sports, and pachinko). Visual Pinball can be used to play the simulations on a common desktop PC and monitor, but also allows for cabinet support, including different monitors and TVs (to display the playfield and backbox similar to a real pinball machine, including the option to use 3D televisions), giving the illusion of playing real pinball.</text>
 			<text lang="es">Visual Pinball es un motor de videojuegos gratuito y de código fuente disponible para mesas de pinball y juegos similares, como las máquinas pachinko. El software se compone de un editor y de la parte del simulador propiamente dicha. Funciona en Microsoft Windows. El programa también puede funcionar con Visual PinMAME, un emulador de imágenes ROM de máquinas de pinball reales. Los jugadores pueden elegir entre recreaciones fieles de máquinas de pinball existentes, con o sin emulación de ROM, y simulaciones originales de pinball basadas en temas con licencia o en mesas completamente diseñadas por ellos mismos. Las capacidades de scripting de Visual Pinball también pueden utilizarse para crear juegos similares a los pinballs (como béisbol de lanzamiento y bateo, bingo pinball, bolos, deportes de taco y pachinko). Visual Pinball se puede utilizar para jugar a las simulaciones en un PC de sobremesa y un monitor comunes, pero también permite la compatibilidad con armarios, incluidos diferentes monitores y televisores (para mostrar el campo de juego y la caja trasera de forma similar a una máquina de pinball real, incluida la opción de utilizar televisores 3D), dando la ilusión de estar jugando al pinball real.</text>
 			<text lang="de">Visual Pinball ist eine Freeware und quelloffene Videospiel-Engine für Flippertische und ähnliche Spiele wie Pachinko-Maschinen. Die Software besteht aus einem Editor und dem eigentlichen Simulatorteil. Sie läuft unter Microsoft Windows. Das Programm ist auch in der Lage, mit Visual PinMAME zu arbeiten, einem Emulator für ROM-Images von echten Flipperautomaten. Der Spieler hat die Wahl zwischen originalgetreuen Nachbildungen bestehender Flipper mit oder ohne ROM-Emulation und originellen Flipper-Simulationen, die auf lizenzierten Themen oder komplett selbst entworfenen Tischen basieren. Die Skriptfunktionen von Visual Pinball können auch zum Erstellen von flipperähnlichen Spielen (wie Pitch-and-Bat-Baseball, Flipper-Bingo, Bowling, Queue-Sport und Pachinko) verwendet werden. Visual Pinball kann verwendet werden, um die Simulationen auf einem gewöhnlichen Desktop-PC und Monitor zu spielen, ermöglicht aber auch die Unterstützung von Schaltschränken, einschließlich verschiedener Monitore und Fernseher (um das Spielfeld und die Backbox ähnlich wie bei einem echten Flipperautomaten darzustellen, einschließlich der Möglichkeit, 3D-Fernseher zu verwenden), wodurch die Illusion entsteht, echten Flipper zu spielen.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

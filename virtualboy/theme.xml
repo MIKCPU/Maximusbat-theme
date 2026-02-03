@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Virtual Boy is a 32-bit tabletop portable video game console developed and manufactured by Nintendo. Released in 1995, it was marketed as the first console capable of displaying stereoscopic "3D" graphics. The player uses the console like a head-mounted display, placing the head against the eyepiece to see a red monochrome display. The games use a parallax effect to create the illusion of depth. Sales failed to meet targets, and Nintendo ceased distribution and game development in 1996, having released only 22 games for the system.</text>
 			<text lang="es">Virtual Boy es una videoconsola portátil de sobremesa de 32 bits desarrollada y fabricada por Nintendo. Lanzada en 1995, se comercializó como la primera consola capaz de mostrar gráficos "3D" estereoscópicos. El jugador utiliza la consola como una pantalla montada en la cabeza, colocando la cabeza contra el ocular para ver una pantalla monocroma roja. Los juegos utilizan un efecto de paralaje para crear la ilusión de profundidad. Las ventas no alcanzaron los objetivos y Nintendo dejó de distribuir y desarrollar juegos en 1996, tras haber lanzado sólo 22 juegos para la consola.</text>
 			<text lang="de">Der Virtual Boy ist eine von Nintendo entwickelte und hergestellte tragbare 32-Bit-Videospielkonsole. Er kam 1995 auf den Markt und wurde als die erste Konsole vermarktet, die stereoskopische "3D"-Grafiken darstellen konnte. Der Spieler benutzt die Konsole wie ein Head-Mounted-Display, indem er den Kopf gegen das Okular hält, um ein rotes Monochrom-Display zu sehen. Die Spiele nutzen einen Parallaxen-Effekt, um die Illusion von Tiefe zu erzeugen. Die Verkaufszahlen blieben hinter den Erwartungen zurück, und Nintendo stellte 1996 den Vertrieb und die Entwicklung von Spielen ein, nachdem nur 22 Spiele für das System veröffentlicht worden waren.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

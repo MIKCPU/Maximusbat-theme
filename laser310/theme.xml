@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>VTech Laser 310 (also known as VZ-310). It is an all-in-one computer with a Z80, 3.54 MHz microprocessor. VTech (short for Video Technology Ltd.) was a Hong Kong electronics company that also sold the Laser in other countries through various retail chains. The Laser 310 was sold by Dick Smith Electronics , for example, so instead of VTech the Laser 310 was then called the Dick Smith Laser VZ-310 or VZ-310 for short (sold from 1983 to 1989). The Laser 310 is comparable to the previous model Laser200 (VZ-200), except for a modified keyboard and a rather unusual memory size of 18 KiB (2 KiB of which is video RAM) and is fully compatible with it. The machine ran basic games on the cartridge, such as Hoppy (Frogger's version), Cosmic Rescue (Scramble), VZ Invaders (Space Invaders), Dawn Patrol (Chopper) and Moon Patrol. Technical specifications: - Processor: Z80A processor, 3.54 MHz - RAM: 16KiB - RAM: 2KiB - Motorola 6807 video processor - Text resolution: 32 x 16 characters (8 colors) - Graphics resolution: 128 x 64 pixels (4 colors).</text>
 			<text lang="es">VTech Laser 310 (también conocido como VZ-310). Se trata de un ordenador todo en uno con un microprocesador Z80 de 3,54 MHz. VTech (abreviatura de Video Technology Ltd.) era una empresa de electrónica de Hong Kong que también vendía el Laser en otros países a través de varias cadenas minoristas. El Laser 310 fue vendido por Dick Smith Electronics , por ejemplo, por lo que en lugar de VTech el Laser 310 se llamó entonces Dick Smith Laser VZ-310 o VZ-310 para abreviar (vendido de 1983 a 1989). El Laser 310 es comparable al modelo anterior Laser200 (VZ-200), excepto por un teclado modificado y un tamaño de memoria bastante inusual de 18 KiB (2 KiB de los cuales son RAM de vídeo) y es totalmente compatible con él. La máquina ejecutaba juegos básicos en el cartucho, como Hoppy (versión de Frogger), Cosmic Rescue (Scramble), VZ Invaders (Space Invaders), Dawn Patrol (Chopper) y Moon Patrol. Especificaciones técnicas: - Procesador: Procesador Z80A, 3,54 MHz - RAM: 16KiB - RAM: 2KiB - Procesador de vídeo Motorola 6807 - Resolución de texto: 32 x 16 caracteres (8 colores) - Resolución gráfica: 128 x 64 píxeles (4 colores)</text>
 			<text lang="de">VTech Laser 310 (auch bekannt als VZ-310). Er ist ein All-in-One-Computer mit einem Z80-Mikroprozessor mit 3,54 MHz. VTech (kurz für Video Technology Ltd.) war ein Elektronikunternehmen aus Hongkong, das den Laser auch in anderen Ländern über verschiedene Einzelhandelsketten vertrieb. Der Laser 310 wurde z. B. von Dick Smith Electronics verkauft, so dass der Laser 310 statt VTech dann Dick Smith Laser VZ-310 oder kurz VZ-310 genannt wurde (verkauft von 1983 bis 1989). Der Laser 310 ist mit dem Vorgängermodell Laser200 (VZ-200) vergleichbar, abgesehen von einer geänderten Tastatur und einer eher ungewöhnlichen Speichergröße von 18 KiB (davon 2 KiB Video-RAM), und ist voll kompatibel mit diesem. Auf dem Gerät liefen einfache Spiele auf der Kassette, wie Hoppy (Frogger-Version), Cosmic Rescue (Scramble), VZ Invaders (Space Invaders), Dawn Patrol (Chopper) und Moon Patrol. Technische Daten: - Prozessor: Z80A-Prozessor, 3,54 MHz - Arbeitsspeicher: 16KiB - Arbeitsspeicher: 2KiB - Motorola 6807 Videoprozessor - Textauflösung: 32 x 16 Zeichen (8 Farben) - Grafikauflösung: 128 x 64 Pixel (4 Farben)</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

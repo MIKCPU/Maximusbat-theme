@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Inspired by the epic Turrican game series, Hurrican stays by all means true to the original game while still being highly innovative. Blast your way through myriads of enemies, explore the secrets of nine massive worlds and collect tons of powerups to increase your firepower in this highly explosive Run and Gun arcade game. Hurrican is THE ultimate “Turrican Mega-Mix”, taking ideas from several installements of the original franchise while at the same time expanding on it’s universe.</text>
 			<text lang="es">Inspirado en la épica serie de juegos Turrican, Hurrican se mantiene fiel al juego original sin dejar de ser altamente innovador. Ábrete paso a través de miríadas de enemigos, explora los secretos de nueve enormes mundos y recoge montones de potenciadores para aumentar tu potencia de fuego en este explosivo juego arcade de correr y disparar. Hurrican es LA "Mega-Mezcla" definitiva de Turrican, que toma ideas de varias entregas de la franquicia original a la vez que amplía su universo.</text>
 			<text lang="de">Inspiriert von der epischen Turrican-Spielserie bleibt Hurrican dem Originalspiel auf jeden Fall treu und ist dennoch höchst innovativ. Blast euch den Weg durch Myriaden von Feinden frei, erforscht die Geheimnisse von neun riesigen Welten und sammelt tonnenweise Powerups, um eure Feuerkraft in diesem hochexplosiven Run-and-Gun-Arcade-Spiel zu erhöhen. Hurrican ist DER ultimative "Turrican-Mega-Mix", der Ideen aus mehreren Teilen der Original-Franchise aufgreift und gleichzeitig sein Universum erweitert.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

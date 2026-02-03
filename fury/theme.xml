@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Ion Fury is a new Build Engine game from the creators of the EDuke32 source port. 3D Realms and Voidpoint are proud to bring back the Build engine, which powered Duke Nukem 3D, Blood, and Shadow Warrior, in all of its hand-crafted pixelated glory. They’ve spent a lot of time tinkering under the hood to take advantage of new technology and techniques. Bigger levels, hundreds of new colors, and morphing maps that transform mid-level are all just a few of the advancements made to the engine.</text>
 			<text lang="es">Ion Fury es un nuevo juego de Build Engine de los creadores del port fuente EDuke32. 3D Realms y Voidpoint se enorgullecen de traer de vuelta el motor Build, que impulsó Duke Nukem 3D, Blood y Shadow Warrior, en toda su gloria pixelada hecha a mano. Han pasado mucho tiempo retocando el motor para aprovechar las nuevas tecnologías y técnicas. Niveles más grandes, cientos de colores nuevos y mapas morphing que se transforman a mitad de nivel son sólo algunos de los avances realizados en el motor.</text>
 			<text lang="de">Ion Fury ist ein neues Build-Engine-Spiel von den Machern der EDuke32-Quellcode-Portierung. 3D Realms und Voidpoint sind stolz darauf, die Build-Engine, die Duke Nukem 3D, Blood und Shadow Warrior angetrieben hat, in all ihrer handgefertigten, pixeligen Pracht wieder aufleben zu lassen. Sie haben viel Zeit damit verbracht, unter der Haube zu tüfteln, um die Vorteile neuer Technologien und Techniken zu nutzen. Größere Levels, Hunderte neuer Farben und Morphing-Maps, die sich in der Mitte des Levels verwandeln, sind nur einige der Verbesserungen, die an der Engine vorgenommen wurden.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

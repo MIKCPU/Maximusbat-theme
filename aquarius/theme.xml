@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Mattel Aquarius Home Computer System  is a home computer designed by Radofin and released by Mattel in 1983. It features a Zilog Z80microprocessor, a rubber chiclet keyboard, 4K of RAM, and a subset of Microsoft BASIC in ROM. It connects to a television set for audio and visual output, and uses a cassette tape recorder for secondary data storage. Although less expensive than the TI-99/4A and Commodore VIC-20, the Aquarius had comparatively weak graphics and limited memory. Of the 32 software titles Mattel announced for the unit, only 21 were released, most of which were ports from Mattel's Intellivision game console. 
 Shortly after the release of the Aquarius, Mattel announced plans for another home computer, the Aquarius II. There is evidence that the Aquarius II reached the market in small numbers, but it was never a commercial success.</text>
 			<text lang="es">El Mattel Aquarius Home Computer System es un ordenador doméstico diseñado por Radofin y comercializado por Mattel en 1983. Cuenta con un microprocesador Zilog Z80, un teclado de goma, 4K de RAM y un subconjunto de Microsoft BASIC en ROM. Se conecta a un televisor para la salida de audio y vídeo, y utiliza una grabadora de casete para el almacenamiento secundario de datos. Aunque era menos caro que la TI-99/4A y el Commodore VIC-20, el Aquarius tenía unos gráficos comparativamente débiles y una memoria limitada. De los 32 títulos de software que Mattel anunció para la unidad, sólo se lanzaron 21, la mayoría de los cuales eran adaptaciones de la videoconsola Intellivision de Mattel. 
@@ -34,5 +26,4 @@ Poco dopo l'uscita dell'Aquarius, Mattel annunciò i piani per un altro home com
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

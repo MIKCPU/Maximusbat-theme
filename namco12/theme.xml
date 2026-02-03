@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Namco System 12 is an arcade motherboard developed by Namco and released in late 1996. It is an upgrade of the previous System 11, based on Sony’s PlayStation, featuring a MIPS R3000A microprocessor that is 50% faster and a new Hitachi H8/3002 sound processor. This hardware powered iconic titles like Tekken 3, Soulcalibur, and Mr. Driller, renowned for their advanced 3D graphics and smooth gameplay.</text>
 			<text lang="it">Il Namco System 12 è una scheda madre arcade sviluppata da Namco e rilasciata alla fine del 1996. Si tratta di un aggiornamento della precedente System 11, basata sulla PlayStation di Sony, con un microprocessore MIPS R3000A più veloce del 50% e un nuovo processore audio Hitachi H8/3002. Questo hardware ha alimentato titoli iconici come Tekken 3, Soulcalibur e Mr. Driller, rinomati per la loro grafica 3D avanzata e la fluidità di gioco.</text>
 			<text lang="fr">Le Namco System 12 est une carte mère d'arcade développée par Namco et sortie fin 1996. Il s'agit d'une mise à jour du précédent System 11, basé sur la PlayStation de Sony, avec un microprocesseur MIPS R3000A 50% plus rapide et un nouveau processeur de son Hitachi H8/3002. Ce matériel a alimenté des titres emblématiques tels que Tekken 3, Soulcalibur et Mr. Driller, réputés pour leurs graphismes 3D avancés et leur fluidité de jeu.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

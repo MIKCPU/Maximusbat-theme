@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The iQue Player is a handheld TV game version of the Nintendo 64 console that was manufactured by iQue, a joint venture between Nintendo and Taiwanese-American scientist Wei Yen after China had banned the sale of home video games. Its Chinese name is Shén Yóu Ji (神游机), literally "Divine Gaming Machine". Shényóu (神游) is a double entendre as "to make a mental journey". It was never released in any English-speaking countries, but the name "iQue Player" appears in the instruction manual. The console and its controller are one unit, plugging directly into the television. A box accessory allows multiplayer gaming.</text>
 			<text lang="es">El iQue Player es una versión portátil de la consola Nintendo 64 fabricada por iQue, una empresa conjunta de Nintendo y el científico estadounidense de origen taiwanés Wei Yen, después de que China prohibiera la venta de videojuegos domésticos. Su nombre chino es Shén Yóu Ji (神游机), literalmente "Máquina de juego divina". Shényóu (神游) es un doble sentido como "hacer un viaje mental". Nunca salió a la venta en ningún país de habla inglesa, pero el nombre "iQue Player" aparece en el manual de instrucciones. La consola y su mando son una sola unidad, que se conecta directamente al televisor. Un accesorio en forma de caja permite el juego multijugador.</text>
 			<text lang="de">Der iQue Player ist eine tragbare TV-Spielversion der Nintendo 64-Konsole, die von iQue, einem Joint Venture zwischen Nintendo und dem taiwanesisch-amerikanischen Wissenschaftler Wei Yen, hergestellt wurde, nachdem China den Verkauf von Heimvideospielen verboten hatte. Ihr chinesischer Name ist Shén Yóu Ji (神游机), wörtlich "Göttliche Spielmaschine". Shényóu (神游) ist eine Doppeldeutigkeit im Sinne von "eine mentale Reise machen". Es wurde nie in englischsprachigen Ländern veröffentlicht, aber der Name "iQue Player" erscheint in der Bedienungsanleitung. Die Konsole und ihr Controller bilden eine Einheit, die direkt an den Fernseher angeschlossen wird. Eine Zubehörbox ermöglicht Multiplayer-Spiele.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

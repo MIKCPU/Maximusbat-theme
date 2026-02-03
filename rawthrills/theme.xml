@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Raw Thrills, Inc. is an arcade video game entertainment company based in Skokie, Illinois. It is best known for developing arcade games based on films. Raw Thrills was founded in 2001 by Eugene Jarvis, Deepak Deo, and Andrew Eloff. Early on, the staff also consisted largely of other former Midway Games employees. At the beginning, the company made game designs for IGT including Super Times Pay Poker, Multi-Play Blackjack, and Turbo Reelette. Raw Thrills' first independent coin-op game was Target: Terror, a light-gun shooter game which was later upgraded to Target: Terror Gold (also known as Target: Force) featuring bonus levels, end-of-round awards, and other performance enhancements. Target: Terror was the first gun game designed under the direction of Eugene Jarvis.</text>
 			<text lang="es">Raw Thrills, Inc. es una empresa de videojuegos arcade con sede en Skokie, Illinois. Es conocida sobre todo por desarrollar juegos arcade basados en películas. Raw Thrills fue fundada en 2001 por Eugene Jarvis, Deepak Deo y Andrew Eloff. Al principio, la plantilla estaba formada en gran parte por otros antiguos empleados de Midway Games. Al principio, la empresa diseñaba juegos para IGT, como Super Times Pay Poker, Multi-Play Blackjack y Turbo Reelette. El primer juego independiente de Raw Thrills fue Target: Terror, un juego de disparos con armas ligeras que más tarde se convirtió en Target: Terror Gold (también conocido como Target: Force), con niveles de bonificación, premios al final de la ronda y otras mejoras de rendimiento. Target: Terror fue el primer juego de disparos diseñado bajo la dirección de Eugene Jarvis.</text>
 			<text lang="de">Raw Thrills, Inc. ist ein Unternehmen für Arcade-Videospielunterhaltung mit Sitz in Skokie, Illinois. Das Unternehmen ist vor allem für die Entwicklung von Arcade-Spielen bekannt, die auf Filmen basieren. Raw Thrills wurde im Jahr 2001 von Eugene Jarvis, Deepak Deo und Andrew Eloff gegründet. Zu Beginn bestand die Belegschaft größtenteils auch aus anderen ehemaligen Midway Games-Mitarbeitern. Zu Beginn entwickelte das Unternehmen Spiele für IGT, darunter Super Times Pay Poker, Multi-Play Blackjack und Turbo Reelette. Das erste unabhängige Münzspiel von Raw Thrills war Target: Terror, ein Light-Gun-Shooter-Spiel, das später zu Target erweitert wurde: Terror Gold (auch bekannt als Target: Force) mit Bonuslevels, Auszeichnungen am Ende der Runde und anderen Leistungsverbesserungen. Target: Terror war das erste Pistolenspiel, das unter der Leitung von Eugene Jarvis entwickelt wurde.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

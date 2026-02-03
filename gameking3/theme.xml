@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>GameKing is a brand of handheld game consoles, designed and developed by Timetop and manufactured by Guangzhou Panyu Gaoming Electronics Co.,Ltd, for the Hong Kong consumer market. The 'GameKing III' or GM-220 was released in 2005. While early advertisements showed the GameKing III with the same "false color" background picture as the GameKing I and II, which indicated that the system was black and white like the previous GameKing models, the GM-220 is full colour. Another distinction of the GM-220 is that unlike its predecessors, the Gameking I and II, which were promoted and marketed worldwide, the Gameking III was not distributed outside of Asia, making it much less common than the earlier models. The resolution doesn't seem enhanced compared to an original GameKing, and "classic" GameKing cartridges are automatically colorized, while games especially developed for it allegedly make use of the full color palette.</text>
 			<text lang="es">GameKing es una marca de videoconsolas portátiles, diseñada y desarrollada por Timetop y fabricada por Guangzhou Panyu Gaoming Electronics Co.,Ltd, para el mercado de consumo de Hong Kong. La GameKing III o GM-220 salió a la venta en 2005. Mientras que los primeros anuncios mostraban la GameKing III con la misma imagen de fondo en "falso color" que las GameKing I y II, lo que indicaba que la consola era en blanco y negro como los modelos GameKing anteriores, la GM-220 es a todo color. Otra distinción de la GM-220 es que, a diferencia de sus predecesoras, las Gameking I y II, que se promocionaron y comercializaron en todo el mundo, la Gameking III no se distribuyó fuera de Asia, lo que la hizo mucho menos común que los modelos anteriores. La resolución no parece mejorada en comparación con una GameKing original, y los cartuchos GameKing "clásicos" se colorean automáticamente, mientras que los juegos especialmente desarrollados para ella supuestamente hacen uso de toda la paleta de colores.</text>
 			<text lang="de">GameKing ist eine Marke von Handheld-Spielkonsolen, die von Timetop entworfen und entwickelt und von Guangzhou Panyu Gaoming Electronics Co.,Ltd. für den Verbrauchermarkt in Hongkong hergestellt werden. Der "GameKing III" oder GM-220 wurde 2005 auf den Markt gebracht. Während frühe Werbungen den GameKing III mit demselben "Falschfarben"-Hintergrundbild wie den GameKing I und II zeigten, was darauf hindeutete, dass das System wie die vorherigen GameKing-Modelle schwarz-weiß war, ist der GM-220 vollfarbig. Ein weiteres Unterscheidungsmerkmal des GM-220 ist, dass das Gameking III im Gegensatz zu seinen Vorgängermodellen, dem Gameking I und II, die weltweit beworben und vermarktet wurden, nicht außerhalb Asiens vertrieben wurde, so dass es weit weniger verbreitet war als die früheren Modelle. Die Auflösung scheint im Vergleich zu einem originalen GameKing nicht verbessert zu sein, und "klassische" GameKing-Kassetten sind automatisch koloriert, während speziell für ihn entwickelte Spiele angeblich die volle Farbpalette nutzen.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

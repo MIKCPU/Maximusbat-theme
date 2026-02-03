@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>SEGA Europa-R is an arcade system board developed by SEGA Amusements Europe. It is a PC-based design that runs only two games: SEGA Rally 3 and Race Driver: GRID. The board features a Core 2 Duo CPU, a Radeon HD 2600 graphics card, and a 32 GB solid state drive. It supports high-definition video output and surround sound. SEGA Europa-R is one of the latest arcade systems from SEGA, released in 2008</text>
 			<text lang="it">SEGA Europa-R è una scheda di sistema arcade sviluppata da SEGA Amusements Europe. Si tratta di un progetto basato su PC che esegue solo due giochi: SEGA Rally 3 e Race Driver: GRID. La scheda è dotata di una CPU Core 2 Duo, una scheda grafica Radeon HD 2600 e un'unità a stato solido da 32 GB. Supporta l'uscita video ad alta definizione e il suono surround. SEGA Europa-R è uno degli ultimi sistemi arcade di SEGA, rilasciato nel 2008.</text>
 			<text lang="fr">SEGA Europa-R est un système d'arcade développé par SEGA Amusements Europe. Il s'agit d'une conception basée sur PC qui ne fonctionne qu'avec deux jeux : SEGA Rally 3 et Race Driver : GRID. La carte est équipée d'un processeur Core 2 Duo, d'une carte graphique Radeon HD 2600 et d'un disque dur de 32 Go. Elle prend en charge la sortie vidéo haute définition et le son surround. SEGA Europa-R est l'un des derniers systèmes d'arcade de SEGA, sorti en 2008.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

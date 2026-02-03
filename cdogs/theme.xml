@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>C-Dogs, the sequel to Cyberdogs, is a shoot'em up video game where players work cooperatively during missions, and against each other in "dogfight" deathmatch mode.
 C-Dogs made changes and improvements on the original Cyberdogs game mechanics. The single-player/cooperative gameplay is separated into campaigns, each comprising many missions. Usually, each level involves the player(s) killing enemies (while avoiding harming civilians and teammates) using a variety of pre-selected weapons; collecting keys to unlock special rooms; and picking up required items to fulfill the mission objectives. The "dog fight" gameplay is the typical deathmatch: players attempt to kill each other for points, in order to gain victory. Only two players can play against each other, by sitting at the same computer and using the keyboard, joysticks or gamepads.</text>
 			<text lang="es">C-Dogs, la secuela de Cyberdogs, es un videojuego de disparos en el que los jugadores trabajan de forma cooperativa durante las misiones, y unos contra otros en el modo "dogfight" deathmatch. C-Dogs introdujo cambios y mejoras en la mecánica original de Cyberdogs. El modo de juego individual/cooperativo se divide en campañas, cada una de las cuales comprende muchas misiones. Por lo general, cada nivel implica que el jugador o jugadores maten a los enemigos (evitando dañar a los civiles y compañeros de equipo) utilizando una variedad de armas preseleccionadas, recogiendo llaves para desbloquear habitaciones especiales y recogiendo los objetos necesarios para cumplir los objetivos de la misión. El modo de juego "pelea de perros" es el típico deathmatch: los jugadores intentan matarse unos a otros a cambio de puntos, para conseguir la victoria. Sólo pueden enfrentarse dos jugadores, sentados frente al mismo ordenador y utilizando el teclado, los joysticks o los gamepads.</text>
@@ -31,5 +23,4 @@ In C-Dogs wurden Änderungen und Verbesserungen an der ursprünglichen Cyberdogs
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

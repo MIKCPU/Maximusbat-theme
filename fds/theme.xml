@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Family Computer Disk System is a peripheral for Nintendo's Family Computer home video game console, released only in Japan on February 21, 1986. It uses proprietary floppy disks called "Disk Cards" for cheaper data storage and it adds a new high-fidelity sound channel for supporting Disk System games. Fundamentally, the Disk System serves simply to enhance some aspects already inherent to the base Famicom system, with better sound and cheaper games—though with the disadvantages of high initial price, slow speed, and lower reliability. However, this boost to the market of affordable and writable mass storage temporarily served as an enabling technology for the creation of new types of video games. This includes the vast, open world, progress-saving adventures of the best-selling The Legend of Zelda (1986) and Metroid (1986), games with a cost-effective and swift release such as the best-selling Super Mario Bros. 2, and nationwide leaderboards and contests via the in-store Disk Fax kiosks, which are considered to be forerunners of today's online achievement and distribution systems.</text>
 			<text lang="es">El Family Computer Disk System es un periférico para la videoconsola doméstica Family Computer de Nintendo, lanzado sólo en Japón el 21 de febrero de 1986. Utiliza disquetes patentados llamados "Disk Cards" para un almacenamiento de datos más barato y añade un nuevo canal de sonido de alta fidelidad para los juegos de Disk System. Fundamentalmente, el Disk System sirve simplemente para mejorar algunos aspectos ya inherentes al sistema base Famicom, con mejor sonido y juegos más baratos, aunque con las desventajas de un elevado precio inicial, lentitud y menor fiabilidad. Sin embargo, este impulso al mercado del almacenamiento masivo asequible y grabable sirvió temporalmente como tecnología facilitadora para la creación de nuevos tipos de videojuegos. Entre ellos se encuentran las aventuras de mundo abierto y progreso salvable de los superventas The Legend of Zelda (1986) y Metroid (1986), juegos con un lanzamiento económico y rápido como el superventas Super Mario Bros. 2, y tablas de clasificación y concursos a escala nacional a través de los quioscos Disk Fax de las tiendas, considerados precursores de los actuales sistemas de logros y distribución en línea.</text>
 			<text lang="de">Das Family Computer Disk System ist ein Peripheriegerät für Nintendos Heimvideospielkonsole Family Computer, das am 21. Februar 1986 nur in Japan veröffentlicht wurde. Es verwendet proprietäre Disketten, genannt "Disk Cards", für billigere Datenspeicherung und fügt einen neuen High-Fidelity-Soundkanal zur Unterstützung von Disk System-Spielen hinzu. Im Grunde genommen dient das Disk System nur dazu, einige Aspekte des Famicom-Basissystems zu verbessern, mit besserem Sound und billigeren Spielen - allerdings mit den Nachteilen des hohen Anschaffungspreises, der langsamen Geschwindigkeit und der geringeren Zuverlässigkeit. Dennoch diente dieser Aufschwung auf dem Markt für erschwingliche und beschreibbare Massenspeicher vorübergehend als Grundlage für die Entwicklung neuer Arten von Videospielen. Dazu gehören die riesigen Abenteuer mit offener Welt und Fortschrittsanzeige der Bestseller The Legend of Zelda (1986) und Metroid (1986), Spiele mit kostengünstiger und schneller Veröffentlichung wie der Bestseller Super Mario Bros. 2 und landesweite Bestenlisten und Wettbewerbe über die Disk-Fax-Kioske in den Geschäften, die als Vorläufer der heutigen Online-Leistungs- und Vertriebssysteme gelten.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>GZDoom is a 3D-accelerated Doom source port based on ZDoom coded and maintained by Christoph Oelckers. GZDoom features an OpenGL renderer and lots of new features, among them: - Sloped 3D floors - Light effects, including dynamic lights, brightmaps, and glowing flats. - Quake2-style skyboxes - True color support - Model support - It was originally based on the 2.0.96x community build but is now based on official versions of ZDoom, occasionally using slightly newer Git code. The source is of course available.</text>
 			<text lang="es">GZDoom es un port fuente de Doom acelerado en 3D basado en ZDoom codificado y mantenido por Christoph Oelckers. GZDoom cuenta con un renderizador OpenGL y un montón de nuevas características, entre ellas: - Suelos 3D inclinados - Efectos de luz, incluyendo luces dinámicas, brightmaps y planos brillantes. - Skyboxes estilo Quake2 - Soporte de color verdadero - Soporte de modelos - Originalmente se basaba en la versión 2.0.96x de la comunidad, pero ahora se basa en las versiones oficiales de ZDoom, utilizando ocasionalmente código Git ligeramente más reciente. El código fuente está disponible.</text>
 			<text lang="de">GZDoom ist eine 3D-beschleunigte Doom-Quellcode-Portierung auf der Basis von ZDoom, die von Christoph Oelckers programmiert und gepflegt wird. GZDoom bietet einen OpenGL-Renderer und viele neue Funktionen, darunter: - Schräge 3D-Böden - Lichteffekte, einschließlich dynamischer Lichter, Brightmaps und glühender Flächen. - Skyboxen im Quake2-Stil - Unterstützung für echte Farben - Unterstützung von Modellen - Ursprünglich basierte es auf dem 2.0.96x Community-Build, aber jetzt basiert es auf offiziellen Versionen von ZDoom, wobei gelegentlich etwas neuerer Git-Code verwendet wird. Der Quellcode ist natürlich verfügbar.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

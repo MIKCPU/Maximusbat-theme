@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Starpath Supercharger (originally called the Arcadia Supercharger) is an expansion peripheral cartridge created by Starpath, for playing cassette-based proprietary games on the Atari 2600 video game console. The device consists of a long cartridge with a handle on the end, and an audio cassette cable. It adds 6 KB to the Atari 2600's 128 bytes of RAM (increasing it 49-fold to 6,272 bytes of RAM), allowing for the creation of specially compatible games which are larger and have higher resolution graphics than normal cartridges. A cable coming out of the side of the cartridge plugs into the earphone jack of any standard cassette player, for loading all Supercharger games from standard audio cassettes.</text>
 			<text lang="it">Lo Starpath Supercharger (originariamente chiamato Arcadia Supercharger) è una cartuccia periferica di espansione creata da Starpath, per la riproduzione di giochi proprietari basati su cassette sulla console per videogiochi Atari 2600. La periferica consiste in una lunga cartuccia con una maniglia all'estremità e un cavo per cassette audio. Aggiunge 6 KB ai 128 byte di RAM dell'Atari 2600 (aumentandoli di 49 volte fino a 6.272 byte di RAM), consentendo la creazione di giochi appositamente compatibili, più grandi e con grafica a risoluzione più elevata rispetto alle normali cartucce. Un cavo che fuoriesce dal lato della cartuccia si inserisce nella presa auricolare di qualsiasi lettore di cassette standard, per caricare tutti i giochi Supercharger da cassette audio standard.</text>
 			<text lang="fr">Le Starpath Supercharger (initialement appelé Arcadia Supercharger) est une cartouche périphérique d'extension créée par Starpath, pour jouer à des jeux propriétaires sur cassette sur la console de jeux vidéo Atari 2600. Le périphérique se compose d'une longue cartouche avec une poignée à l'extrémité et d'un câble pour cassette audio. Il ajoute 6 Ko aux 128 octets de RAM de l'Atari 2600 (ce qui multiplie par 49 le nombre d'octets de RAM pour atteindre 6 272 octets), ce qui permet de créer des jeux spécialement compatibles qui sont plus grands et ont une résolution graphique plus élevée que les cartouches normales. Un câble sortant sur le côté de la cartouche se branche sur la prise écouteur de n'importe quel lecteur de cassettes standard, pour charger tous les jeux Supercharger à partir de cassettes audio standard.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

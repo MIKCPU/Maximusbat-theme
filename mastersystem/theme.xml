@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Sega Master System is a third-generation 8-bit home video game console manufactured by Sega. It was originally a remodeled export version of the Sega Mark III, the third iteration of the SG-1000 series of consoles, which was released in Japan in 1985 and featured enhanced graphical capabilities over its predecessors. The Master System launched in North America in 1986, followed by Europe in 1987, and Brazil in 1989. A Japanese version of the Master System was also launched in 1987, which features a few enhancements over the export models (and by proxy the original Mark III): a built-in FM audio chip, a rapid-fire switch, and a dedicated port for the 3D glasses. The Master System II, a cheaper model, was released in 1990 in North America and Europe. The original Master System models use both cartridges and a credit card-sized format known as Sega Cards. Accessories for the consoles include a light gun and 3D glasses that work with a range of specially designed games. The later Master System II redesign removed the card slot, turning it into a strictly cartridge-only system and is incompatible with the 3D glasses.</text>
 			<text lang="es">La Sega Master System es una videoconsola doméstica de 8 bits de tercera generación fabricada por Sega. Originalmente, era una versión de exportación remodelada de la Sega Mark III, la tercera iteración de la serie SG-1000 de consolas, que se lanzó en Japón en 1985 y presentaba capacidades gráficas mejoradas con respecto a sus predecesoras. La Master System se lanzó en Norteamérica en 1986, seguida de Europa en 1987 y Brasil en 1989. En 1987 también se lanzó una versión japonesa de la Master System, que incorporaba algunas mejoras con respecto a los modelos de exportación (y, por poder, a la Mark III original): un chip de audio FM integrado, un interruptor de disparo rápido y un puerto dedicado para las gafas 3D. La Master System II, un modelo más barato, salió a la venta en 1990 en Norteamérica y Europa. Los modelos originales de Master System utilizan tanto cartuchos como un formato del tamaño de una tarjeta de crédito conocido como Sega Cards. Entre los accesorios de las consolas se incluyen una pistola de luz y gafas 3D que funcionan con una serie de juegos especialmente diseñados. El posterior rediseño de Master System II eliminó la ranura para tarjetas, convirtiéndola en un sistema estrictamente de cartuchos, y es incompatible con las gafas 3D.</text>
 			<text lang="de">Das Sega Master System ist eine 8-Bit-Heimvideospielkonsole der dritten Generation, die von Sega hergestellt wurde. Ursprünglich war es eine umgestaltete Exportversion des Sega Mark III, der dritten Generation der SG-1000-Konsolenreihe, die 1985 in Japan auf den Markt kam und im Vergleich zu ihren Vorgängern über verbesserte grafische Möglichkeiten verfügte. Das Master System kam 1986 in Nordamerika auf den Markt, gefolgt von Europa im Jahr 1987 und Brasilien im Jahr 1989. Eine japanische Version des Master System wurde ebenfalls 1987 auf den Markt gebracht, die gegenüber den Exportmodellen (und damit auch gegenüber dem ursprünglichen Mark III) einige Verbesserungen aufwies: einen eingebauten FM-Audio-Chip, einen Schnellfeuerschalter und einen eigenen Anschluss für die 3D-Brille. Das Master System II, ein günstigeres Modell, wurde 1990 in Nordamerika und Europa veröffentlicht. Die ursprünglichen Master System-Modelle verwenden sowohl Cartridges als auch ein kreditkartengroßes Format, die so genannten Sega Cards. Das Zubehör für die Konsolen umfasst eine Lichtpistole und eine 3D-Brille, die mit einer Reihe von speziell entwickelten Spielen funktioniert. Bei der späteren Überarbeitung des Master System II wurde der Kartensteckplatz entfernt, wodurch es zu einem reinen Kassettensystem wurde, das nicht mit der 3D-Brille kompatibel ist.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

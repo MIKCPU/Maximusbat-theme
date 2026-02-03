@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Palm was a line of personal digital assistants (PDAs) and mobile phones developed by California-based Palm, Inc., originally called Palm Computing, Inc. Palm devices are often remembered as the first wildly popular handheld computers, responsible for ushering in the smartphone era. The first Palm device, the PalmPilot 1000, was released in 1996 and proved to be popular. It led a growing market for portable computing devices where previous attempts such as Apple's Newton failed or others like Hewlett-Packard's 200LX only serving a niche target market. Most of Palm's PDAs and mobile phones ran the in-house Palm OS software which was later also licensed to other OEMs.
 </text>
 			<text lang="es">Palm fue una línea de asistentes personales digitales (PDA) y teléfonos móviles desarrollada por la empresa californiana Palm, Inc, originalmente llamada Palm Computing, Inc. Los dispositivos Palm se recuerdan a menudo como los primeros ordenadores de mano tremendamente populares, responsables del inicio de la era de los smartphones. El primer dispositivo Palm, el PalmPilot 1000, salió al mercado en 1996 y demostró su popularidad. Encabezó un mercado creciente de dispositivos informáticos portátiles donde intentos anteriores como el Newton de Apple fracasaron u otros como el 200LX de Hewlett-Packard sólo sirvieron a un nicho de mercado objetivo. La mayoría de las PDA y teléfonos móviles de Palm funcionaban con el software Palm OS, que más tarde se licenció a otros fabricantes.</text>
@@ -30,5 +22,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

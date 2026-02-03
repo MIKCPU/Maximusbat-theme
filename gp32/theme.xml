@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The GP32 (GamePark 32) is a handheld game console developed by the South Korean company Game Park. It was released on November 23, 2001, in South Korea and distributed in some parts of Europe.
 The overall design is not unlike the original version of the Game Boy Advance. The GP32 is based on a 133 MHz ARM 9 CPU and 8 MB of SDRAM. Unlike other handheld gaming systems, which tend to be proprietary cartridge-based, the GP32 uses SmartMedia cards (SMC) for storing programs and data, making it accessible for amateur developers as no further development hardware is required. The console has a eight-way microswitch based mini-joystick controller, two main buttons ('A' and 'B'), two shoulder buttons on each side of the SMC slot ('L' and 'R') and two other menu buttons on each side of the screen ('SELECT' and 'START'), made from a softer, translucent rubber. The console also has a USB 1.1 port for connection with a host computer, a serial expansion port, a 3.3 V power adapter input, a headphone connector and a rear compartment that holds two AA-sized batteries.</text>
 			<text lang="es">La GP32 (GamePark 32) es una videoconsola portátil desarrollada por la empresa surcoreana Game Park. Salió a la venta el 23 de noviembre de 2001 en Corea del Sur y se distribuyó en algunas partes de Europa.
@@ -34,5 +26,4 @@ Il design generale non è dissimile dalla versione originale del Game Boy Advanc
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Microvision (aka Milton Bradley Microvision or MB Microvision) was the first handheld game console that used interchangeable cartridges and in that sense is reprogrammable. Unlike most later consoles, the Microvision did not contain an onboard processor (CPU). Instead, each game included its own processor contained within the removable cartridge. This meant that the console itself effectively consisted of the controls, LCD panel and LCD controller. The Microvision was designed by Jay Smith, the engineer who would later design the Vectrex gaming console. Its combination of portability and a cartridge-based system led to moderate success. However, very few cartridges, a small screen, and a lack of support from established home video game companies led to its demise in 1981.</text>
 			<text lang="es">La Microvision (también conocida como Milton Bradley Microvision o MB Microvision) fue la primera videoconsola portátil que utilizaba cartuchos intercambiables y, en ese sentido, era reprogramable. A diferencia de la mayoría de las consolas posteriores, la Microvision no contenía un procesador integrado (CPU). En su lugar, cada juego incluía su propio procesador dentro del cartucho extraíble. Esto significaba que la consola en sí estaba formada por los mandos, el panel LCD y el controlador LCD. La Microvision fue diseñada por Jay Smith, el ingeniero que más tarde diseñaría la videoconsola Vectrex. Su combinación de portabilidad y sistema basado en cartuchos tuvo un éxito moderado. Sin embargo, la escasez de cartuchos, el tamaño reducido de la pantalla y la falta de apoyo de las empresas de videojuegos domésticos la hicieron desaparecer en 1981.</text>
 			<text lang="de">Die Microvision (auch bekannt als Milton Bradley Microvision oder MB Microvision) war die erste tragbare Spielkonsole, die austauschbare Kassetten verwendete und in diesem Sinne reprogrammierbar war. Anders als die meisten späteren Konsolen enthielt die Microvision keinen eingebauten Prozessor (CPU). Stattdessen verfügte jedes Spiel über einen eigenen Prozessor, der in der austauschbaren Kassette enthalten war. Dies bedeutete, dass die Konsole selbst praktisch nur aus der Steuerung, dem LCD-Panel und dem LCD-Controller bestand. Die Microvision wurde von Jay Smith entworfen, dem Ingenieur, der später die Vectrex-Spielkonsole entwickeln sollte. Die Kombination aus Tragbarkeit und einem Kassettensystem führte zu einem mäßigen Erfolg. Die geringe Anzahl von Kassetten, der kleine Bildschirm und die mangelnde Unterstützung durch etablierte Videospielhersteller führten jedoch 1981 zum Aus für das System.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

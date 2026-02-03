@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Pinball FX 2 is a pinball video game for Xbox 360, Xbox One, and Microsoft Windows (XP and higher) and is the sequel to Pinball FX. It was developed by Zen Studios and published by Microsoft Studios. It was released on October 27, 2010, via the Xbox Live Arcade service. The game includes several new features, such as local multiplayer and the ability to tweak table settings. Players can also import all of the tables from Pinball FX they had previously purchased. The Windows 8 version of Pinball FX 2 was released on the Windows Store on October 27, 2012, two years after the original XBLA release. The game was subsequently released for other Windows platforms via Steam on May 10, 2013. Pinball FX 2 was announced for Windows Phone in February 2012. A sequel, Pinball FX 3 was released in September 2017.</text>
 			<text lang="es">Pinball FX 2 es un videojuego de pinball para Xbox 360, Xbox One y Microsoft Windows (XP y superior) y es la secuela de Pinball FX. Fue desarrollado por Zen Studios y publicado por Microsoft Studios. Salió a la venta el 27 de octubre de 2010 a través del servicio Xbox Live Arcade. El juego incluye varias características nuevas, como multijugador local y la posibilidad de ajustar la configuración de las mesas. Los jugadores también pueden importar todas las mesas de Pinball FX que hayan comprado anteriormente. La versión para Windows 8 de Pinball FX 2 se lanzó en la Windows Store el 27 de octubre de 2012, dos años después del lanzamiento original en XBLA. El juego se lanzó posteriormente para otras plataformas Windows a través de Steam el 10 de mayo de 2013. Pinball FX 2 se anunció para Windows Phone en febrero de 2012. La secuela, Pinball FX 3, se lanzó en septiembre de 2017.</text>
 			<text lang="de">Pinball FX 2 ist ein Flipper-Videospiel für Xbox 360, Xbox One und Microsoft Windows (XP und höher) und ist der Nachfolger von Pinball FX. Es wurde von Zen Studios entwickelt und von Microsoft Studios veröffentlicht. Es wurde am 27. Oktober 2010 über den Xbox Live Arcade-Dienst veröffentlicht. Das Spiel enthält mehrere neue Funktionen, wie z. B. den lokalen Mehrspielermodus und die Möglichkeit, die Tischeinstellungen zu verändern. Die Spieler können auch alle Tische aus Pinball FX importieren, die sie zuvor erworben haben. Die Windows 8-Version von Pinball FX 2 wurde am 27. Oktober 2012 im Windows Store veröffentlicht, zwei Jahre nach der ursprünglichen XBLA-Version. Das Spiel wurde anschließend am 10. Mai 2013 für andere Windows-Plattformen über Steam veröffentlicht. Pinball FX 2 wurde im Februar 2012 für Windows Phone angekündigt. Eine Fortsetzung, Pinball FX 3, wurde im September 2017 veröffentlicht.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

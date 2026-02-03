@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The VG5000 μ is a computer created by Philips in 1984. It was manufactured in Le Mans by Radiotechnique (RTS) and marketed under the Philips, Radiola and Schneider brands. Not compatible with any other machines, it offered VG5000 BASIC (derived from Microsoft BASIC-80) as the operating system upon boot. Graphic ability was limited to a semigraphic symbol display, with the equivalent resolution of 320 x 250 in 8 colors. There are about forty games available for the system.</text>
 			<text lang="es">El VG5000 μ es un ordenador creado por Philips en 1984. Fue fabricado en Le Mans por Radiotechnique (RTS) y comercializado bajo las marcas Philips, Radiola y Schneider. No era compatible con ninguna otra máquina y ofrecía VG5000 BASIC (derivado de Microsoft BASIC-80) como sistema operativo al arrancar. La capacidad gráfica se limitaba a una pantalla semigráfica de símbolos, con una resolución equivalente de 320 x 250 en 8 colores. Hay unos cuarenta juegos disponibles para el sistema.</text>
 			<text lang="de">Der VG5000 μ ist ein Computer, der 1984 von Philips entwickelt wurde. Er wurde in Le Mans von Radiotechnique (RTS) hergestellt und unter den Marken Philips, Radiola und Schneider vertrieben. Er war nicht mit anderen Rechnern kompatibel und bot beim Booten VG5000 BASIC (abgeleitet von Microsoft BASIC-80) als Betriebssystem. Die grafischen Möglichkeiten beschränkten sich auf eine semigrafische Symbolanzeige mit einer Auflösung von 320 x 250 in 8 Farben. Es sind etwa vierzig Spiele für das System verfügbar.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Arduboy is a handheld game console with open source software, based on the Arduino hardware platform. The original version of the Arduboy was 1.6 millimetres (0.063 in) thick, with the height and width of a credit card, and was initially designed by Kevin Bates as an electronic business card. In preparation for a consumer version, the developer moved to Shenzhen, China to work on the Arduboy at the HAX accelerator. Later consumer versions replaced the first version's touch-sensitive panels by physical buttons, and include a protective plastic case, raising the thickness to 5 millimetres (0.20 in).
 A non-production smaller formfactor "Arduboy Mini" was demonstrated in 2019. Another non-production system, the "Arduboy Nano" was demonstrated in 2021 with an smaller formfactor than the Arduboy Mini.</text>
 			<text lang="es">El Arduboy es una videoconsola portátil con software de código abierto, basada en la plataforma de hardware Arduino. La versión original del Arduboy tenía un grosor de 1,6 milímetros (0,063 pulgadas), con la altura y la anchura de una tarjeta de crédito, y fue diseñada inicialmente por Kevin Bates como una tarjeta de visita electrónica. Para preparar una versión de consumo, el desarrollador se trasladó a Shenzhen (China) para trabajar en el Arduboy en el acelerador HAX. Las versiones de consumo posteriores sustituyeron los paneles táctiles de la primera versión por botones físicos e incluyeron una carcasa protectora de plástico, lo que elevó su grosor a 5 milímetros (0,20 pulgadas).
@@ -31,5 +23,4 @@ En 2019 se hizo una demostración de un "Arduboy Mini" no destinado a la producc
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

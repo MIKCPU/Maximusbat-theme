@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Gabinete Electrónico Consultivo, S.A., is a trademark and better known as Gaelco, S.A.. It is a Spanish company that develops and publishes arcade games and video games. Since 2007, Gaelco also develops electronic dart machines under the name "Gaelco Darts".</text>
 			<text lang="es">Gabinete Electrónico Consultivo, S.A., es una marca comercial y más conocida como Gaelco, S.A.. Es una empresa española que desarrolla y edita juegos arcade y videojuegos. Desde 2007, Gaelco también desarrolla máquinas de dardos electrónicos bajo el nombre "Gaelco Darts".</text>
 			<text lang="de">Gabinete Electrónico Consultivo, S.A., ist eine Marke und besser bekannt als Gaelco, S.A.. Es handelt sich um ein spanisches Unternehmen, das Arcade-Spiele und Videospiele entwickelt und herausgibt. Seit 2007 entwickelt Gaelco auch elektronische Dartautomaten unter dem Namen "Gaelco Darts".</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

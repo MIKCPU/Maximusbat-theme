@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The 32X is an add-on for the Sega Mega Drive/Genesis video game console. Codenamed "Project Mars", the 32X was designed to expand the power of the Mega Drive/Genesis and serve as a transitional console into the 32-bit era until the release of the Sega Saturn. Independent of the console, the 32X uses its own ROM cartridges and has its own library of games. It was distributed under the name Super 32X in Japan, Genesis 32X in North America, Mega Drive 32X in the PAL region, and Mega 32X in Brazil. Unveiled by Sega at June 1994's Consumer Electronics Show, the 32X was presented as a low-cost option for consumers looking to play 32-bit games. It was developed in response to the Atari Jaguar and concerns that the Saturn would not make it to market by the end of 1994. Though it was conceived as an entirely new console, at the suggestion of Sega of America executive Joe Miller and his team, it was converted into an add-on for the Genesis and made more powerful. The final design contained two 32-bit central processing units and a 3D graphics processor.</text>
 			<text lang="es">La 32X es un complemento para la videoconsola Sega Mega Drive/Genesis. Con el nombre en clave de "Proyecto Marte", la 32X fue diseñada para ampliar la potencia de la Mega Drive/Genesis y servir como consola de transición a la era de los 32 bits hasta el lanzamiento de la Sega Saturn. Independiente de la consola, la 32X utiliza sus propios cartuchos ROM y tiene su propia biblioteca de juegos. Se distribuyó con el nombre de Super 32X en Japón, Genesis 32X en Norteamérica, Mega Drive 32X en la región PAL y Mega 32X en Brasil. Presentada por Sega en el Consumer Electronics Show de junio de 1994, la 32X se presentaba como una opción de bajo coste para los consumidores que quisieran jugar a juegos de 32 bits. Se desarrolló como respuesta a la Atari Jaguar y a la preocupación de que la Saturn no llegara al mercado a finales de 1994. Aunque se concibió como una consola completamente nueva, a sugerencia del ejecutivo de Sega of America Joe Miller y su equipo, se convirtió en un complemento para la Genesis y se hizo más potente. El diseño final contenía dos unidades centrales de procesamiento de 32 bits y un procesador de gráficos 3D.</text>
 			<text lang="de">Der 32X ist ein Zusatzgerät für die Videospielkonsole Sega Mega Drive/Genesis. Unter dem Codenamen "Project Mars" wurde der 32X entwickelt, um die Leistung des Mega Drive/Genesis zu erweitern und als Übergangskonsole in die 32-Bit-Ära bis zur Veröffentlichung des Sega Saturn zu dienen. Unabhängig von der Konsole verwendet der 32X seine eigenen ROM-Cartridges und verfügt über eine eigene Spielebibliothek. Es wurde unter dem Namen Super 32X in Japan, Genesis 32X in Nordamerika, Mega Drive 32X in der PAL-Region und Mega 32X in Brasilien vertrieben. Der 32X wurde von Sega auf der Consumer Electronics Show im Juni 1994 vorgestellt und war eine preisgünstige Option für Verbraucher, die 32-Bit-Spiele spielen wollten. Es wurde als Antwort auf den Atari Jaguar und die Befürchtung entwickelt, dass der Saturn bis Ende 1994 nicht auf den Markt kommen würde. Obwohl sie als völlig neue Konsole konzipiert war, wurde sie auf Vorschlag von Joe Miller, dem Geschäftsführer von Sega of America, und seinem Team in ein Add-on für die Genesis umgewandelt und leistungsstärker gemacht. Das endgültige Design enthielt zwei 32-Bit-Zentraleinheiten und einen 3D-Grafikprozessor.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Microsoft Windows, commonly referred to as Windows, is a group of several proprietary graphical operating system families, all of which are developed and marketed by Microsoft. Each family caters to a certain sector of the computing industry. Active Microsoft Windows families include Windows NT and Windows IoT; these may encompass subfamilies, e.g. Windows Server or Windows Embedded Compact (Windows CE). Defunct Microsoft Windows families include Windows 9x, Windows Mobile and Windows Phone.</text>
 			<text lang="es">Microsoft Windows, comúnmente conocido como Windows, es un grupo de varias familias de sistemas operativos gráficos patentados, todos ellos desarrollados y comercializados por Microsoft. Cada familia se dirige a un determinado sector de la industria informática. Las familias activas de Microsoft Windows incluyen Windows NT y Windows IoT; éstas pueden englobar subfamilias, por ejemplo, Windows Server o Windows Embedded Compact (Windows CE). Las familias de Microsoft Windows desaparecidas son Windows 9x, Windows Mobile y Windows Phone.</text>
 			<text lang="de">Microsoft Windows, gemeinhin als Windows bezeichnet, ist eine Gruppe von mehreren proprietären grafischen Betriebssystemfamilien, die alle von Microsoft entwickelt und vermarktet werden. Jede Familie ist auf einen bestimmten Bereich der Computerindustrie ausgerichtet. Zu den aktiven Microsoft Windows-Familien gehören Windows NT und Windows IoT; diese können Unterfamilien umfassen, z. B. Windows Server oder Windows Embedded Compact (Windows CE). Zu den nicht mehr existierenden Microsoft Windows-Familien gehören Windows 9x, Windows Mobile und Windows Phone.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

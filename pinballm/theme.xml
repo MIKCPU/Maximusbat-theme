@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Get ready to tilt into terror. The new horror-inspired pinball platform for fearless players. Prove your skills on the most sinister, gory, and badass tables ever brought to life. Spine-chilling features: - Wrath of the Elder Gods: Director’s Cut - experience the eldritch horror unrestricted for free - A library of brand new, never-before-seen tables filled with fear and carnage - Thrilling competition - Zen Studios’ ultimate pinball simulation. Press start and flip for your life!</text>
 			<text lang="es">Prepárate para el terror. La nueva plataforma de pinball inspirada en el terror para jugadores intrépidos. Demuestra tus habilidades en las mesas más siniestras, sangrientas y malvadas jamás creadas. Características escalofriantes: - Wrath of the Elder Gods: Director's Cut: experimenta el horror sobrenatural sin restricciones y gratis. - Una biblioteca de mesas nuevas, nunca vistas, llenas de miedo y carnicería. - Emocionante competición - La simulación de pinball definitiva de Zen Studios. Pulsa Start y ¡sálvese quien pueda!</text>
 			<text lang="de">Mach dich bereit, in den Terror zu stürzen. Die neue, von Horror inspirierte Flipperplattform für furchtlose Spieler. Beweisen Sie Ihr Können auf den unheimlichsten, blutigsten und krassesten Tischen, die je zum Leben erweckt wurden. Gruselige Features: - Wrath of the Elder Gods: Director's Cut - erlebe das eldritische Grauen uneingeschränkt und kostenlos - Eine Bibliothek mit brandneuen, noch nie zuvor gesehenen Tischen voller Angst und Gemetzel - Spannende Wettkämpfe - Zen Studios' ultimative Flipper-Simulation Drücken Sie auf Start und flippern Sie um Ihr Leben!</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

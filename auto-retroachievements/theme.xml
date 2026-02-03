@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The RetroAchievements project was created by Scott Breen in 2012 . He hacked several open source emulators to add the RetroAchievements feature and coded the entire backend/website, mostly by himself. In early 2018, Scott opened source the backend/website, which was a turning point in the development history of the entire RetroAchievements project. RetroAchievements allows you to earn achievements for old retro games such as Mario, Sonic, etc., on several home gaming systems, as well as some arcade games using FBNeo (RetroAchievements is not supported in MAME). This is very similar to achievements or trophies on the Xbox 360 or PS3/PS4, and you can keep track of what you've unlocked on your own dedicated website. The best thing about it is that it is a free service.</text>
 			<text lang="es">El proyecto RetroAchievements fue creado por Scott Breen en 2012. Hackeó varios emuladores de código abierto para añadir la función RetroAchievements y codificó todo el backend/sitio web, principalmente él solo. A principios de 2018, Scott abrió el código fuente del backend / sitio web, que fue un punto de inflexión en la historia del desarrollo de todo el proyecto RetroAchievements. RetroAchievements te permite ganar logros para viejos juegos retro como Mario, Sonic, etc, en varios sistemas de juegos domésticos, así como algunos juegos de arcade usando FBNeo (RetroAchievements no es compatible con MAME). Es muy similar a los logros o trofeos de Xbox 360 o PS3/PS4, y puedes hacer un seguimiento de lo que has desbloqueado en tu propio sitio web dedicado. Lo mejor de todo es que es un servicio gratuito.</text>
 			<text lang="de">Das RetroAchievements-Projekt wurde 2012 von Scott Breen ins Leben gerufen. Er hackte mehrere Open-Source-Emulatoren, um die RetroAchievements-Funktion hinzuzufügen, und programmierte das gesamte Backend/die Website größtenteils selbst. Anfang 2018 öffnete Scott das Backend/die Website als Quellcode, was einen Wendepunkt in der Entwicklungsgeschichte des gesamten RetroAchievements-Projekts darstellte. RetroAchievements ermöglicht es, Achievements für alte Retro-Spiele wie Mario, Sonic usw. auf verschiedenen Heimspielsystemen sowie einigen Arcade-Spielen mit FBNeo zu verdienen (RetroAchievements wird nicht in MAME unterstützt). Diese Funktion ist den Erfolgen oder Trophäen auf der Xbox 360 oder PS3/PS4 sehr ähnlich, und Sie können auf Ihrer eigenen Website verfolgen, was Sie erreicht haben. Das Beste daran ist, dass es sich um einen kostenlosen Dienst handelt.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

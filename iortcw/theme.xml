@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>ioRTCW is an open source project that aims to create a base version of Return to Castle Wolfenstein, which can be used for further development and improvement. For example, fixing bugs of the original, provide support for widescreen resolutions and 64 bit systems, improve graphics and much more. • SDL backend • OpenAL sound API support (support for multiple speakers and better sound quality) • Full x86_64 support • VoIP support, both in-game and external support via Mumble. • Support for compiling MinGW on Windows and cross-compiling on Linux • AVI video capture for demos • Significantly improved console autocompletion • Persistent console history • Colorized terminal output • Additional Ogg Vorbis support • Significantly improved QVM tools • Support for various esoteric operating systems • Support for cl_guid • HTTP/FTP download redirection (using cURL) • Multiuser support on Windows systems (game user data is stored in "My Documents\RTCW" folder) • PNG support • Many, many bug fixes</text>
 			<text lang="es">ioRTCW es un proyecto de código abierto cuyo objetivo es crear una versión base de Return to Castle Wolfenstein, que pueda ser utilizada para posteriores desarrollos y mejoras. Por ejemplo, corregir errores del original, proporcionar soporte para resoluciones panorámicas y sistemas de 64 bits, mejorar los gráficos y mucho más. • SDL backend • Soporte de la API de sonido OpenAL (soporte para múltiples altavoces y mejor calidad de sonido) • Compatibilidad total con x86_64 • Soporte VoIP, tanto dentro del juego como externo a través de Mumble. • Soporte para compilar MinGW en Windows y cross-compiling en Linux • Captura de vídeo AVI para demos • Autocompletado de la consola significativamente mejorado • Historial de consola persistente • Salida de terminal coloreada • Compatibilidad adicional con Ogg Vorbis • Mejora significativa de las herramientas QVM • Compatibilidad con varios sistemas operativos esotéricos • Compatibilidad con cl_guid • Redirección de descargas HTTP/FTP (mediante cURL) • Compatibilidad multiusuario en sistemas Windows (los datos de usuario del juego se almacenan en la carpeta "Mis documentos\RTCW") • Compatibilidad con PNG • Muchas, muchas correcciones de errores</text>
 			<text lang="de">ioRTCW ist ein Open-Source-Projekt, das darauf abzielt, eine Basisversion von Return to Castle Wolfenstein zu erstellen, die für die weitere Entwicklung und Verbesserung verwendet werden kann. Zum Beispiel das Beheben von Fehlern des Originals, Unterstützung für Breitbildauflösungen und 64-Bit-Systeme, Verbesserung der Grafik und vieles mehr. • SDL-Backend • OpenAL-Sound-API-Unterstützung (Unterstützung für mehrere Lautsprecher und bessere Klangqualität) • Vollständige x86_64-Unterstützung • VoIP-Unterstützung, sowohl im Spiel als auch extern über Mumble. • Unterstützung für die Kompilierung von MinGW unter Windows und Cross-Kompilierung unter Linux • AVI-Videoaufnahme für Demos • Deutlich verbesserte automatische Vervollständigung der Konsole • Persistenter Konsolenverlauf • Eingefärbte Terminal-Ausgabe • Zusätzliche Unterstützung für Ogg Vorbis • Erheblich verbesserte QVM-Tools • Unterstützung für verschiedene esoterische Betriebssysteme • Unterstützung für cl_guid • HTTP/FTP-Download-Umleitung (mit cURL) • Mehrbenutzerunterstützung auf Windows-Systemen (die Benutzerdaten des Spiels werden im Ordner "Eigene Dateien\RTCW" gespeichert) • PNG-Unterstützung • Viele, viele Fehlerkorrekturen</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

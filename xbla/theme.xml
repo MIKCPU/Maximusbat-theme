@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Xbox Live Arcade (XBLA) was a digital video game distribution service available on the Xbox 360 console. It offered a wide variety of downloadable games, ranging from classic arcade titles to innovative indie games. XBLA provided gamers with an easy way to discover and play new games, often featuring unique and creative gameplay experiences. It was known for its affordable pricing and frequent promotions, making it a popular choice for gamers looking to expand their library with diverse and entertaining titles.</text>
 			<text lang="it">Xbox Live Arcade (XBLA) è stato un servizio di distribuzione digitale di videogiochi disponibile sulla console Xbox 360. Offriva un'ampia varietà di giochi scaricabili, che spaziavano dai classici titoli arcade agli innovativi giochi indie. XBLA offriva ai giocatori un modo semplice per scoprire e giocare a nuovi giochi, spesso caratterizzati da esperienze di gioco uniche e creative. Era noto per i suoi prezzi accessibili e le frequenti promozioni, che lo rendevano una scelta popolare per i giocatori che desideravano ampliare la propria libreria con titoli diversi e divertenti.</text>
 			<text lang="fr">Xbox Live Arcade (XBLA) était un service de distribution de jeux vidéo numériques disponible sur la console Xbox 360. Il proposait une grande variété de jeux téléchargeables, allant de titres d'arcade classiques à des jeux indépendants innovants. XBLA permettait aux joueurs de découvrir et de jouer facilement à de nouveaux jeux, proposant souvent des expériences de jeu uniques et créatives. Il était connu pour ses prix abordables et ses promotions fréquentes, ce qui en faisait un choix populaire pour les joueurs cherchant à enrichir leur bibliothèque de titres divers et divertissants.</text>
@@ -30,5 +22,4 @@ Era conocida por sus precios asequibles y sus frecuentes promociones, lo que la 
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

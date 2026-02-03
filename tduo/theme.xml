@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The NEC TurboDuo, released in 1992, was an innovative video game console that combined the capabilities of the TurboGrafx-16 and its CD-ROM add-on, the TurboGrafx-CD, into a single, sleek unit. This console was developed through a collaboration between NEC and Hudson Soft and was known for its ability to play both HuCard cartridges and CD-ROM² discs, offering a wide range of games that utilized the enhanced storage and multimedia capabilities of CDs. The TurboDuo was the North American version of Japan's PC Engine Duo and featured an upgraded BIOS and additional RAM (192 KB), which enabled compatibility with a broader range of games, including the new Super CD-ROM² titles. Despite its technical strengths and a lineup of quality games, the TurboDuo struggled to gain significant market share in North America due to poor marketing and competition from more established brands like Sega and Nintendo. However, it remains a beloved system among retro gaming enthusiasts for its unique library and the nostalgic value it holds.</text>
 			<text lang="it">Il TurboDuo di NEC, uscito nel 1992, era un'innovativa console per videogiochi che combinava le capacità del TurboGrafx-16 e del suo componente aggiuntivo CD-ROM, il TurboGrafx-CD, in un'unica ed elegante unità. Questa console, sviluppata grazie alla collaborazione tra NEC e Hudson Soft, era nota per la sua capacità di riprodurre sia cartucce HuCard che dischi CD-ROM², offrendo un'ampia gamma di giochi che sfruttavano le migliori capacità di memorizzazione e multimediali dei CD. Il TurboDuo era la versione nordamericana del PC Engine Duo giapponese ed era dotato di un BIOS aggiornato e di una RAM aggiuntiva (192 KB), che consentiva la compatibilità con una gamma più ampia di giochi, compresi i nuovi titoli Super CD-ROM². Nonostante i suoi punti di forza tecnici e una serie di giochi di qualità, il TurboDuo ha faticato a conquistare quote di mercato significative in Nord America a causa di un marketing scadente e della concorrenza di marchi più affermati come Sega e Nintendo. Tuttavia, rimane una console molto amata dagli appassionati di giochi retro per la sua libreria unica e per il valore nostalgico che possiede.</text>
 			<text lang="fr">La NEC TurboDuo, sortie en 1992, était une console de jeux vidéo innovante qui combinait les capacités de la TurboGrafx-16 et de son extension CD-ROM, la TurboGrafx-CD, dans un seul appareil élégant. Développée en collaboration entre NEC et Hudson Soft, cette console était réputée pour sa compatibilité avec les cartouches HuCard et les disques CD-ROM², offrant ainsi un large choix de jeux tirant parti des capacités de stockage et multimédias accrues des CD. Version nord-américaine de la PC Engine Duo japonaise, la TurboDuo disposait d'un BIOS amélioré et de 192 Ko de RAM supplémentaires, assurant la compatibilité avec un plus grand nombre de jeux, notamment les nouveaux titres Super CD-ROM². Malgré ses atouts techniques et son catalogue de jeux de qualité, la TurboDuo a peiné à conquérir une part de marché significative en Amérique du Nord, en raison d'un marketing insuffisant et de la concurrence de marques plus établies comme Sega et Nintendo. Elle reste néanmoins une console culte pour les amateurs de jeux rétro, grâce à son catalogue unique et à la nostalgie qu'elle évoque.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

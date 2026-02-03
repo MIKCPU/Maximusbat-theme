@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap-it.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Game Collections are a powerful way to sort your library in a different way as the default "per system" organization. The Game Collection Settings screen is available from the Main Menu.</text>
 		<text lang="es">Las Colecciones de Juegos son una potente forma de ordenar tu biblioteca de una forma diferente a la organización por defecto "por sistema". La pantalla de configuración de las colecciones de juegos está disponible en el menú principal.</text>
 			<text lang="de">Spielesammlungen sind eine leistungsfähige Möglichkeit, Ihre Bibliothek auf andere Weise zu sortieren als die standardmäßige Organisation "pro System". Der Bildschirm "Einstellungen für Spielesammlungen" ist über das Hauptmenü erreichbar.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

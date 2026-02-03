@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The PlayStation 3 (PS3) is a home video game console developed by Sony Computer Entertainment. It is the successor to PlayStation 2, and is part of the PlayStation brand of consoles. It was first released on November 11, 2006 in Japan, November 17, 2006 in North America, and March 23, 2007 in Europe and Australia. The PlayStation 3 competed primarily against Microsoft's Xbox 360 and Nintendo's Wii as part of the seventh generation of video game consoles. The console was first officially announced at E3 2005, and was released at the end of 2006. It was the first console to use Blu-ray Disc as its primary storage medium. The console was the first PlayStation to integrate social gaming services, including the PlayStation Network, as well as the first to be controllable from a handheld console, through its remote connectivity with PlayStation Portable and PlayStation Vita. In September 2009, the Slim model of the PlayStation 3 was released. It no longer provided the hardware ability to run PS2 games. It was lighter and thinner than the original version, and featured a redesigned logo and marketing design, as well as a minor start-up change in software. A Super Slim variation was then released in late 2012, further refining and redesigning the console.</text>
 			<text lang="es">La PlayStation 3 (PS3) es una videoconsola doméstica desarrollada por Sony Computer Entertainment. Es la sucesora de la PlayStation 2 y forma parte de la marca de consolas PlayStation. Salió a la venta el 11 de noviembre de 2006 en Japón, el 17 de noviembre de 2006 en Norteamérica y el 23 de marzo de 2007 en Europa y Australia. La PlayStation 3 compitió principalmente con la Xbox 360 de Microsoft y la Wii de Nintendo como parte de la séptima generación de consolas de videojuegos. La consola se anunció oficialmente por primera vez en el E3 de 2005 y salió a la venta a finales de 2006. Fue la primera consola en utilizar discos Blu-ray como medio de almacenamiento principal. La consola fue la primera PlayStation en integrar servicios de juegos sociales, incluyendo PlayStation Network, así como la primera en ser controlable desde una consola portátil, a través de su conectividad remota con PlayStation Portable y PlayStation Vita. En septiembre de 2009, salió a la venta el modelo Slim de la PlayStation 3. Ya no ofrecía la capacidad de ejecutar juegos de PS2. Era más ligera y delgada que la versión original, y presentaba un logotipo y un diseño de marketing rediseñados, así como un pequeño cambio de arranque en el software. A finales de 2012 se lanzó una variante Super Slim, que refinaba y rediseñaba aún más la consola.</text>
 			<text lang="de">Die PlayStation 3 (PS3) ist eine von Sony Computer Entertainment entwickelte Videospielkonsole für den Heimgebrauch. Sie ist der Nachfolger der PlayStation 2 und gehört zur Konsolenmarke PlayStation. Sie wurde erstmals am 11. November 2006 in Japan, am 17. November 2006 in Nordamerika und am 23. März 2007 in Europa und Australien veröffentlicht. Die PlayStation 3 konkurrierte vor allem mit der Xbox 360 von Microsoft und der Wii von Nintendo als Teil der siebten Generation von Videospielkonsolen. Die Konsole wurde erstmals auf der E3 2005 offiziell angekündigt und kam Ende 2006 auf den Markt. Sie war die erste Konsole, die Blu-ray Disc als primäres Speichermedium verwendete. Sie war die erste PlayStation-Konsole, die Social-Gaming-Dienste wie das PlayStation Network integrierte, und die erste Konsole, die über eine Remote-Verbindung mit PlayStation Portable und PlayStation Vita von einem Handheld aus gesteuert werden konnte. Im September 2009 wurde das Slim-Modell der PlayStation 3 veröffentlicht. Es bot nicht mehr die Hardware-Fähigkeit, PS2-Spiele auszuführen. Es war leichter und dünner als die ursprüngliche Version und verfügte über ein neu gestaltetes Logo und Marketingdesign sowie eine geringfügige Änderung bei der Software. Ende 2012 wurde dann eine Super-Slim-Variante veröffentlicht, die die Konsole weiter verfeinerte und neu gestaltete.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

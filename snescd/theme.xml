@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Super NES CD-ROM System (commonly shortened as the SNES-CD), known as the Super Famicom CD-ROM Adapter in Japan, is an unreleased add-on for the Super Nintendo Entertainment System (SNES) video game console. It built upon the functionality of the cartridge-based SNES by adding support for a CD-ROM-based format known as Super Disc. The SNES-CD was developed in a joint venture between Nintendo and Sony. As well as the SNES add-on, Sony planned to release it as a hybrid console, the PlayStation, similar to Sharp's Twin Famicom and NEC's TurboDuo. Another partnership with Philips yielded a few Nintendo-themed games for the CD-i platform instead of the SNES-CD. After the SNES-CD was canceled, Sony developed its own console using the PlayStation name. The first PlayStation console became the chief competitor of Nintendo's next console, the Nintendo 64.</text>
 			<text lang="es">El Super NES CD-ROM System (comúnmente conocido como SNES-CD), conocido como Super Famicom CD-ROM Adapter en Japón, es un complemento inédito para la consola de videojuegos Super Nintendo Entertainment System (SNES). Se basaba en la funcionalidad de la SNES basada en cartuchos y añadía compatibilidad con un formato basado en CD-ROM conocido como Super Disc. SNES-CD se desarrolló en una empresa conjunta de Nintendo y Sony. Además del complemento para SNES, Sony planeaba lanzarla como una consola híbrida, la PlayStation, similar a la Twin Famicom de Sharp y la TurboDuo de NEC. Otra asociación con Philips dio lugar a algunos juegos de temática Nintendo para la plataforma CD-i en lugar de la SNES-CD. Tras la cancelación de la SNES-CD, Sony desarrolló su propia consola con el nombre de PlayStation. La primera consola PlayStation se convirtió en la principal competidora de la siguiente consola de Nintendo, la Nintendo 64.</text>
 			<text lang="de">Das Super NES CD-ROM System (allgemein als SNES-CD abgekürzt), in Japan als Super Famicom CD-ROM Adapter bekannt, ist ein unveröffentlichtes Zusatzgerät für die Videospielkonsole Super Nintendo Entertainment System (SNES). Es baute auf der Funktionalität des SNES mit Kassette auf, indem es Unterstützung für ein CD-ROM-basiertes Format, bekannt als Super Disc, hinzufügte. Die SNES-CD wurde in einem Joint Venture zwischen Nintendo und Sony entwickelt. Neben der SNES-Erweiterung plante Sony die Veröffentlichung einer Hybridkonsole, der PlayStation, ähnlich dem Twin Famicom von Sharp und dem TurboDuo von NEC. Eine weitere Partnerschaft mit Philips führte zu einigen Nintendo-Spielen für die CD-i-Plattform anstelle der SNES-CD. Nachdem das SNES-CD eingestellt worden war, entwickelte Sony seine eigene Konsole unter dem Namen PlayStation. Die erste PlayStation-Konsole wurde zum Hauptkonkurrenten von Nintendos nächster Konsole, dem Nintendo 64.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

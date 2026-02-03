@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Microsoft MakeCode is a free, open source platform for creating engaging computer science learning experiences that support a progression path into real-world programming. Available as a web-based environment for learning to code with physical computing devices such as the micro:bit, it has a handful of novel features all packed into a single web application (web app). No software installation is required: Microsoft MakeCode runs in any modern web browser on most any operating system.</text>
 			<text lang="es">Microsoft MakeCode es una plataforma gratuita de código abierto para crear atractivas experiencias de aprendizaje de informática que facilitan la progresión hacia la programación en el mundo real. Disponible como entorno basado en la web para aprender a programar con dispositivos informáticos físicos como el micro:bit, cuenta con un puñado de características novedosas, todas ellas empaquetadas en una única aplicación web (web app). No es necesario instalar ningún software: Microsoft MakeCode se ejecuta en cualquier navegador web moderno y en casi cualquier sistema operativo.</text>
 			<text lang="de">Microsoft MakeCode ist eine kostenlose Open-Source-Plattform für die Erstellung von ansprechenden Lernerfahrungen im Bereich der Informatik, die den Einstieg in die reale Welt der Programmierung erleichtern. Es ist als webbasierte Umgebung zum Erlernen des Programmierens mit physischen Computergeräten wie dem micro:bit verfügbar und bietet eine Handvoll neuer Funktionen, die alle in einer einzigen Webanwendung (Web-App) zusammengefasst sind. Es ist keine Software-Installation erforderlich: Microsoft MakeCode läuft in jedem modernen Webbrowser auf fast allen Betriebssystemen.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

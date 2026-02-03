@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Sony SMC-777 is a personal computer that was released in November 1983 by Sony. It was aimed for the home market and featured a built-in 3.5-inch floppy disk drive, which was the first of its kind. The SMC-777 was designed to be easy to use, with a menu-based operating system called Sony Filer and a floppy disk containing various software applications, such as programming languages, games, and a word processor. The SMC-777 also had enhanced color graphics, with 16 colors and an optional color palette board that could choose from 4,096 colors. The SMC-777 was compatible with the SMC-70, an earlier model that was used for video production. The SMC-777 was followed by the SMC-777C, which had a faster CPU and more memory.</text>
 			<text lang="it">Il Sony SMC-777 è un personal computer rilasciato nel novembre 1983 da Sony. Era destinato al mercato domestico e disponeva di un'unità floppy disk da 3,5 pollici integrata, la prima del suo genere. L'SMC-777 è stato progettato per essere facile da usare, con un sistema operativo basato su menu chiamato Sony Filer e un floppy disk contenente varie applicazioni software, come linguaggi di programmazione, giochi e un word processor. L'SMC-777 disponeva anche di una grafica a colori migliorata, con 16 colori e una scheda di tavolozza colori opzionale che permetteva di scegliere tra 4.096 colori. L'SMC-777 era compatibile con l'SMC-70, un modello precedente utilizzato per la produzione video. L'SMC-777 fu seguito dall'SMC-777C, che aveva una CPU più veloce e una maggiore quantità di memoria.</text>
 			<text lang="fr">Le Sony SMC-777 est un ordinateur personnel commercialisé en novembre 1983 par Sony. Il était destiné au marché domestique et comportait un lecteur de disquettes 3,5 pouces intégré, le premier du genre. Le SMC-777 a été conçu pour être facile à utiliser, avec un système d'exploitation à base de menus appelé Sony Filer et une disquette contenant diverses applications logicielles, telles que des langages de programmation, des jeux et un traitement de texte. Le SMC-777 disposait également de graphismes couleur améliorés, avec 16 couleurs et une palette de couleurs optionnelle permettant de choisir parmi 4 096 couleurs. Le SMC-777 était compatible avec le SMC-70, un modèle antérieur utilisé pour la production vidéo. Le SMC-777 a été suivi par le SMC-777C, qui disposait d'un processeur plus rapide et de plus de mémoire.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

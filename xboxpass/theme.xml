@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Game Pass is a subscription service as part of Xbox and offered by Microsoft. Launched on June 1, 2017, the service allows users to download and play video games for Xbox video game consoles or Microsoft Windows PCs from a rotating library, with the games remaining accessible as long as the user has an active subscription. Game Pass subscribers also receive discounts on purchases of games from the service's library and their respective downloadable content (DLC). The service consists of two products; Xbox Game Pass for Xbox One, Series X, and Series S consoles, and PC Game Pass for PCs running Windows 10 and Windows 11. Xbox Game Pass and PC Game Pass are available as separate subscription products. A premium tier known as Game Pass Ultimate includes access to both services, an on-demand cloud gaming service available on console, PC, and mobile platforms, and Xbox Live Gold subscription benefits. The service features titles from Xbox Game Studios and other third-party publishers. Since January 2018, all new Xbox Game Studios titles have been available to Game Pass subscribers immediately upon their release. Microsoft has also offered access to Electronic Arts's EA Play service for PC Game Pass and Game Pass Ultimate subscribers.</text>
 			<text lang="es">Game Pass es un servicio de suscripción que forma parte de Xbox y es ofrecido por Microsoft. Lanzado el 1 de junio de 2017, el servicio permite a los usuarios descargar y jugar a videojuegos para videoconsolas Xbox o PC con Microsoft Windows desde una biblioteca rotatoria, permaneciendo los juegos accesibles mientras el usuario tenga una suscripción activa. Los suscriptores de Game Pass también reciben descuentos en la compra de juegos de la biblioteca del servicio y sus respectivos contenidos descargables (DLC). El servicio consta de dos productos: Xbox Game Pass para las consolas Xbox One, Series X y Series S, y PC Game Pass para PC con Windows 10 y Windows 11. Xbox Game Pass y PC Game Pass están disponibles como productos de suscripción independientes. Un nivel premium conocido como Game Pass Ultimate incluye acceso a ambos servicios, un servicio de juego en la nube bajo demanda disponible en consola, PC y plataformas móviles, y ventajas de suscripción a Xbox Live Gold. El servicio incluye títulos de Xbox Game Studios y otros editores de terceros. Desde enero de 2018, todos los nuevos títulos de Xbox Game Studios están disponibles para los suscriptores de Game Pass inmediatamente después de su lanzamiento. Microsoft también ha ofrecido acceso al servicio EA Play de Electronic Arts para los suscriptores de PC Game Pass y Game Pass Ultimate.</text>
 			<text lang="de">Der Game Pass ist ein Abonnementdienst von Microsoft und Teil von Xbox. Seit dem Start am 1. Juni 2017 können Nutzer mit dem Dienst Videospiele für Xbox-Konsolen oder Microsoft Windows-PCs aus einer wechselnden Bibliothek herunterladen und spielen. Die Spiele bleiben so lange verfügbar, wie das Abonnement aktiv ist. Game Pass-Abonnenten erhalten außerdem Rabatte auf den Kauf von Spielen aus der Bibliothek und auf herunterladbare Inhalte (DLC). Der Dienst besteht aus zwei Produkten: dem Xbox Game Pass für Xbox One, Series X und Series S sowie dem PC Game Pass für Windows 10- und Windows 11-PCs. Xbox Game Pass und PC Game Pass sind als separate Abonnements erhältlich. Die Premium-Stufe, Game Pass Ultimate, umfasst den Zugriff auf beide Dienste, einen Cloud-Gaming-Dienst auf Konsolen, PCs und Mobilgeräten sowie die Vorteile einer Xbox Live Gold-Mitgliedschaft. Der Dienst bietet Titel von Xbox Game Studios und anderen Drittanbietern. Seit Januar 2018 sind alle neuen Titel von Xbox Game Studios für Game Pass-Abonnenten direkt nach Veröffentlichung verfügbar. Microsoft bietet Abonnenten des PC Game Pass und des Game Pass Ultimate auch Zugang zum EA Play-Service von Electronic Arts an.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

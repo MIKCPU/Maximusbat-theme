@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Sega Mega Drive console received two add-on hardware upgrades during its life time: the Sega Mega-CD and Sega 32X. It is possible to install both of these on the same base console, creating a system called the Super 32X CD (Japan and Korea) or Sega Mega-CD 32X (PAL region) or Sega CD 32X (USA). This opens the possibility of software that can utilise both the Mega-CD's enhanced storage capacity and ability to play Red Book CD audio, and the 32X's enhancements in graphics and sound capabilities. Six games were released that require both add-on units in order to be played. All of these titles are full motion video based games, which were previously available as standalone Mega-CD games, and later had their FMV assets upgraded to take advantage of the 32X's improved graphics. As such, all six were released on CDs, with the cart slot of the 32X being unused during gameplay. Japan did not receive any Mega-CD 32X games, however North America received five while Europe recieved four of those five. Surgical Strike, once bound for a North American release, ended up being an exclusive title in Brazil (and curiously wound up being the only Mega-CD 32X game to reach this region). A further half-dozen titles were in development for the Mega-CD 32X at one stage, but were all cancelled, some merely appearing in Mega-CD form and some being moved to the Sega Saturn.</text>
 			<text lang="it">La console Sega Mega Drive ha ricevuto due aggiornamenti hardware aggiuntivi nel corso della sua vita: il Sega Mega-CD e il Sega 32X. È possibile installare entrambi sulla stessa console di base, creando un sistema chiamato Super 32X CD (Giappone e Corea) o Sega Mega-CD 32X (regione PAL) o Sega CD 32X (USA). In questo modo è possibile creare software in grado di sfruttare sia la maggiore capacità di memorizzazione del Mega-CD e la capacità di riprodurre l'audio del Red Book CD, sia i miglioramenti delle capacità grafiche e sonore del 32X. Sono stati rilasciati sei giochi che richiedono entrambe le unità aggiuntive per essere giocati. Tutti questi titoli sono giochi basati su video in full motion, che in precedenza erano disponibili come giochi Mega-CD standalone e che in seguito sono stati aggiornati per sfruttare la migliore grafica del 32X. Per questo motivo, tutti e sei sono stati pubblicati su CD, con lo slot del carrello del 32X inutilizzato durante il gioco. Il Giappone non ricevette alcun gioco Mega-CD per 32X, mentre il Nord America ne ricevette cinque e l'Europa quattro di questi cinque. Surgical Strike, un tempo destinato all'uscita in Nord America, finì per essere un titolo esclusivo in Brasile (e curiosamente fu l'unico gioco Mega-CD 32X a raggiungere questa regione). Un'altra mezza dozzina di titoli era in fase di sviluppo per il Mega-CD 32X, ma furono tutti cancellati: alcuni apparvero semplicemente in forma di Mega-CD e altri furono spostati sul Sega Saturn.</text>
 			<text lang="fr">La console Sega Mega Drive a reçu deux mises à jour matérielles supplémentaires au cours de son existence : le Sega Mega-CD et le Sega 32X. Il est possible d'installer les deux sur la même console de base, créant ainsi un système appelé Super 32X CD (Japon et Corée) ou Sega Mega-CD 32X (région PAL) ou Sega CD 32X (USA). Cela ouvre la voie à des logiciels qui peuvent utiliser à la fois la capacité de stockage améliorée du Mega-CD et sa capacité à lire les CD audio Red Book, et les améliorations des capacités graphiques et sonores du 32X. Six jeux ont été publiés, qui nécessitent les deux unités complémentaires pour être joués. Tous ces titres sont des jeux basés sur la vidéo en mouvement intégral, qui étaient auparavant disponibles en tant que jeux Mega-CD autonomes, et dont les actifs FMV ont été mis à jour ultérieurement pour tirer parti des améliorations graphiques du 32X. C'est pourquoi les six titres ont été publiés sur CD, l'emplacement du chariot du 32X n'étant pas utilisé pendant le jeu. Le Japon n'a pas reçu de jeux Mega-CD 32X, mais l'Amérique du Nord en a reçu cinq et l'Europe quatre. Surgical Strike, qui devait sortir en Amérique du Nord, a fini par être un titre exclusif au Brésil (et curieusement, il a été le seul jeu Mega-CD 32X à atteindre cette région). Une demi-douzaine d'autres titres étaient en cours de développement pour le Mega-CD 32X à un moment donné, mais ils ont tous été annulés, certains n'apparaissant que sous forme de Mega-CD et d'autres étant transférés sur la Sega Saturn.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

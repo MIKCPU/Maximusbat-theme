@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Atari Lynx is an 16-bit handheld game console that was released by Atari Corporation in September 1989 in North America, and in Europe and Japan in 1990. It was the world's first handheld electronic game with a color LCD. It was also notable for its advanced graphics and ambidextrous layout. The Lynx competed with the Game Boy (released two months earlier), as well as the Game Gear and TurboExpress, both released the following year. It was discontinued in 1995. Telegames released a number of games in the second half of the 1990s, including a port of Raiden and a platformer called Fat Bobby in 1997, as well as an action sports game called Hyperdrome in 1999. On May 14, 1999, Hasbro, which would continue to hold on to the Atari properties until selling off Hasbro Interactive to Infogrames in 2001, released into the public domain all rights relating to the Atari Jaguar, declaring it an open platform; the Atari Lynx, through internet theories, may have also been released to the public at the same time as the Jaguar, but this is clearly disputed. Nevertheless, since after discontinuation, the Lynx, like the Jaguar, has enjoyed a vast community which produced many successful homebrew games.</text>
 			<text lang="es">La Atari Lynx es una videoconsola portátil de 16 bits que fue lanzada por Atari Corporation en septiembre de 1989 en Norteamérica, y en Europa y Japón en 1990. Fue el primer juego electrónico portátil del mundo con pantalla LCD en color. También destacaba por sus gráficos avanzados y su diseño ambidiestro. La Lynx compitió con la Game Boy (lanzada dos meses antes), así como con la Game Gear y la TurboExpress, ambas lanzadas al año siguiente. Se dejó de fabricar en 1995. Telegames lanzó varios juegos en la segunda mitad de los 90, entre ellos un port de Raiden y un juego de plataformas llamado Fat Bobby en 1997, así como un juego de acción y deportes llamado Hyperdrome en 1999. El 14 de mayo de 1999, Hasbro, que seguiría conservando las propiedades de Atari hasta la venta de Hasbro Interactive a Infogrames en 2001, liberó al dominio público todos los derechos relativos al Atari Jaguar, declarándolo plataforma abierta; el Atari Lynx, a través de teorías de Internet, también podría haber sido liberado al público al mismo tiempo que el Jaguar, pero esto es claramente discutible. No obstante, desde su descatalogación, el Lynx, al igual que el Jaguar, ha disfrutado de una amplia comunidad que produjo muchos juegos caseros de éxito.</text>
 			<text lang="de">Der Atari Lynx ist eine 16-Bit-Handheld-Spielkonsole, die von der Atari Corporation im September 1989 in Nordamerika und 1990 in Europa und Japan veröffentlicht wurde. Es war das weltweit erste elektronische Handheld-Spiel mit einem Farb-LCD. Es zeichnete sich auch durch seine fortschrittliche Grafik und die beidhändige Bedienung aus. Der Lynx konkurrierte mit dem Game Boy (der zwei Monate zuvor auf den Markt kam) sowie mit dem Game Gear und dem TurboExpress, die beide im folgenden Jahr veröffentlicht wurden. Er wurde 1995 eingestellt. In der zweiten Hälfte der 1990er Jahre brachte Telegames eine Reihe von Spielen heraus, darunter eine Portierung von Raiden und ein Plattformspiel namens Fat Bobby im Jahr 1997 sowie ein Action-Sportspiel namens Hyperdrome im Jahr 1999. Am 14. Mai 1999 gab Hasbro, das bis zum Verkauf von Hasbro Interactive an Infogrames im Jahr 2001 an den Atari-Eigentümern festhielt, alle Rechte am Atari Jaguar frei und erklärte ihn zu einer offenen Plattform; der Atari Lynx könnte laut Internet-Theorien zur gleichen Zeit wie der Jaguar freigegeben worden sein, was jedoch umstritten ist. Nichtsdestotrotz hat sich der Lynx, wie auch der Jaguar, nach seiner Einstellung einer großen Community erfreut, die viele erfolgreiche Homebrew-Spiele hervorgebracht hat.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

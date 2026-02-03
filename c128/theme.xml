@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Commodore 128, also known as the C128, C-128, C= 128, is the last 8-bit home computer that was commercially released by Commodore Business Machines (CBM). Introduced in January 1985 at the CES in Las Vegas, it appeared three years after its predecessor, the bestselling Commodore 64. The C128 is a significantly expanded successor to the C64, with nearly full compatibility. The newer machine has 128 KB of RAM in two 64 KB banks, and an 80-column color video output. It has a redesigned case and keyboard. Also included is a Zilog Z80 CPU which allows the C128 to run CP/M, as an alternative to the usual Commodore BASIC environment. The presence of the Z80 and the huge CP/M software library it brings, coupled with the C64's software library, gives the C128 one of the broadest ranges of available software among its competitors.</text>
 			<text lang="es">El Commodore 128, también conocido como C128, C-128, C= 128, es el último ordenador doméstico de 8 bits lanzado comercialmente por Commodore Business Machines (CBM). Presentado en enero de 1985 en el CES de Las Vegas, apareció tres años después de su predecesor, el superventas Commodore 64. El C128 es un sucesor significativamente ampliado del C64, con una compatibilidad casi total. La nueva máquina tiene 128 KB de RAM en dos bancos de 64 KB y una salida de vídeo en color de 80 columnas. Tiene una carcasa y un teclado rediseñados. También incluye una CPU Z80 de Zilog que permite al C128 ejecutar CP/M, como alternativa al entorno BASIC habitual de Commodore. La presencia del Z80 y la enorme biblioteca de software CP/M que aporta, junto con la biblioteca de software del C64, proporciona al C128 una de las gamas más amplias de software disponible entre sus competidores.</text>
 			<text lang="de">Der Commodore 128, auch bekannt als C128, C-128, C= 128, ist der letzte 8-Bit-Heimcomputer, der von Commodore Business Machines (CBM) auf den Markt gebracht wurde. Er wurde im Januar 1985 auf der CES in Las Vegas vorgestellt und erschien drei Jahre nach seinem Vorgänger, dem meistverkauften Commodore 64. Der C128 ist ein deutlich erweiterter Nachfolger des C64, der nahezu vollständig kompatibel ist. Der neuere Rechner verfügt über 128 KB RAM in zwei 64-KB-Bänken und einen 80-spaltigen Farbvideoausgang. Er hat ein neu gestaltetes Gehäuse und eine neue Tastatur. Ebenfalls enthalten ist eine Zilog Z80-CPU, die es dem C128 ermöglicht, CP/M als Alternative zur üblichen Commodore BASIC-Umgebung auszuführen. Das Vorhandensein des Z80 und die riesige CP/M-Softwarebibliothek, die er mit sich bringt, zusammen mit der Softwarebibliothek des C64, gibt dem C128 eine der größten Auswahlen an verfügbarer Software unter seinen Konkurrenten.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

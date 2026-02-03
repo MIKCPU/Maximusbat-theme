@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Adobe Flash (formerly Macromedia Flash and FutureSplash) is a multimedia software platform used for production of animations, rich internet applications, desktop applications, mobile apps, mobile games, and embedded web browser video players. Flash displays text, vector graphics, and raster graphics to provide animations, video games, and applications. It allows streaming of audio and video, and can capture mouse, keyboard, microphone, and camera input.</text>
 			<text lang="es">Adobe Flash (anteriormente Macromedia Flash y FutureSplash) es una plataforma de software multimedia utilizada para la producción de animaciones, aplicaciones de Internet sofisticadas, aplicaciones de escritorio, aplicaciones para móviles, juegos para móviles y reproductores de vídeo integrados en navegadores web. Flash muestra texto, gráficos vectoriales y gráficos de trama para ofrecer animaciones, videojuegos y aplicaciones. Permite la transmisión de audio y vídeo, y puede capturar entradas de ratón, teclado, micrófono y cámara.</text>
 			<text lang="de">Adobe Flash (früher Macromedia Flash und FutureSplash) ist eine Multimedia-Softwareplattform, die für die Erstellung von Animationen, Rich-Internet-Anwendungen, Desktop-Anwendungen, mobilen Anwendungen, mobilen Spielen und eingebetteten Webbrowser-Videoplayern verwendet wird. Flash zeigt Text, Vektorgrafiken und Rastergrafiken an, um Animationen, Videospiele und Anwendungen zu erstellen. Es ermöglicht das Streaming von Audio und Video und kann Maus-, Tastatur-, Mikrofon- und Kameraeingaben erfassen.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

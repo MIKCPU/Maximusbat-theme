@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>ioquake3 is a project that aims to improve and update the Quake 3 engine, which was released by id Software as open source in 2005. ioquake3 adds many features and fixes to the original engine, such as SDL 2, OpenAL, VoIP, x86_64 support, PNG support, and more. ioquake3 also supports various games and mods based on the Quake 3 engine, such as OpenArena. ioquake3 has been ported to many platforms, including the Nintendo 3DS.</text>
 			<text lang="es">ioquake3 es un proyecto que tiene como objetivo mejorar y actualizar el motor de Quake 3, que fue lanzado por id Software como código abierto en 2005. ioquake3 añade muchas características y correcciones al motor original, como SDL 2, OpenAL, VoIP, soporte x86_64, soporte PNG, y más. ioquake3 también es compatible con varios juegos y mods basados en el motor de Quake 3, como OpenArena. ioquake3 ha sido portado a muchas plataformas, incluyendo Nintendo 3DS. ioquake3 también es compatible con varios juegos y mods basados en el motor de Quake 3, como OpenArena. ioquake3 ha sido portado a muchas plataformas, incluida la Nintendo 3DS.</text>
 			<text lang="de">ioquake3 ist ein Projekt, das darauf abzielt, die Quake 3-Engine zu verbessern und zu aktualisieren, die 2005 von id Software als Open Source veröffentlicht wurde. ioquake3 fügt der ursprünglichen Engine viele Funktionen und Korrekturen hinzu, wie SDL 2, OpenAL, VoIP, x86_64-Unterstützung, PNG-Unterstützung und mehr. ioquake3 unterstützt auch verschiedene Spiele und Mods, die auf der Quake 3-Engine basieren, wie z. B. OpenArena. ioquake3 wurde auf viele Plattformen portiert, darunter auch auf den Nintendo 3DS.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

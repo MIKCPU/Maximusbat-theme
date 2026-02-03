@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Pinball FX 3 is a pinball simulator video game developed and published by Zen Studios and released for Microsoft Windows, Xbox One, PlayStation 4 in September 2017 and then released for the Nintendo Switch in December 2017. Pinball FX 3 allows players to play one of several simulated pinball tables, and includes online scoreboard support for informal competition with other players. The game is aimed to provide a more engaging multiplayer experience than previous titles; the game will provide support for asynchronous competitive multiplayer options, and tournament-style play. There will be shared leaderboards and multiplayer options among platforms, although PlayStation 4 players can only compete with users playing through Steam on Windows due to Sony's initial decision to prohibit cross-platform play between its PlayStation 4 and other consoles.</text>
 			<text lang="es">Pinball FX 3 es un videojuego simulador de pinball desarrollado y publicado por Zen Studios y lanzado para Microsoft Windows, Xbox One, PlayStation 4 en septiembre de 2017 y posteriormente lanzado para Nintendo Switch en diciembre de 2017. Pinball FX 3 permite a los jugadores jugar en una de varias mesas de pinball simuladas, e incluye soporte de marcador en línea para la competencia informal con otros jugadores. El juego pretende ofrecer una experiencia multijugador más atractiva que los títulos anteriores; el juego ofrecerá soporte para opciones multijugador competitivas asíncronas, y juego de estilo torneo. Habrá tablas de clasificación compartidas y opciones multijugador entre plataformas, aunque los jugadores de PlayStation 4 solo podrán competir con usuarios que jueguen a través de Steam en Windows debido a la decisión inicial de Sony de prohibir el juego multiplataforma entre su PlayStation 4 y otras consolas.</text>
 			<text lang="de">Pinball FX 3 ist ein von Zen Studios entwickeltes und veröffentlichtes Flipper-Simulator-Videospiel, das im September 2017 für Microsoft Windows, Xbox One, PlayStation 4 und im Dezember 2017 für die Nintendo Switch veröffentlicht wurde. Pinball FX 3 ermöglicht es den Spielern, an einem von mehreren simulierten Flippertischen zu spielen, und beinhaltet eine Online-Scoreboard-Unterstützung für einen informellen Wettbewerb mit anderen Spielern. Das Spiel soll eine fesselndere Multiplayer-Erfahrung bieten als frühere Titel; das Spiel wird asynchrone kompetitive Multiplayer-Optionen und turnierähnliche Spiele unterstützen. Es wird gemeinsame Bestenlisten und Multiplayer-Optionen für verschiedene Plattformen geben. Allerdings können PlayStation 4-Spieler nur mit Nutzern konkurrieren, die über Steam auf Windows spielen, da Sony ursprünglich beschlossen hatte, das plattformübergreifende Spielen zwischen der PlayStation 4 und anderen Konsolen zu verbieten.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Big Fish Games is a casual gaming company based in Seattle, with a regional office in Oakland, California, owned by Aristocrat Leisure. It is a developer and distributor of casual games for computers and mobile devices. Games developed by the various Big Fish studios include: Drawn series (Dark Flight, The Painted Tower, Trail of Shadows), Fairway Solitaire HD, Hidden Expedition series, Mystery Case Files series.</text>
 			<text lang="es">Big Fish Games es una empresa de juegos casuales con sede en Seattle y una oficina regional en Oakland (California), propiedad de Aristocrat Leisure. Desarrolla y distribuye juegos casuales para ordenadores y dispositivos móviles. Entre los juegos desarrollados por los distintos estudios de Big Fish se incluyen: Drawn series (Dark Flight, The Painted Tower, Trail of Shadows), Fairway Solitaire HD, Hidden Expedition series, Mystery Case Files series.</text>
 			<text lang="de">Big Fish Games ist ein Unternehmen für Gelegenheitsspiele mit Sitz in Seattle und einem regionalen Büro in Oakland, Kalifornien, und gehört zu Aristocrat Leisure. Das Unternehmen entwickelt und vertreibt Gelegenheitsspiele für Computer und mobile Geräte. Zu den von den verschiedenen Big Fish-Studios entwickelten Spielen gehören: Drawn-Serie (Dark Flight, The Painted Tower, Trail of Shadows), Fairway Solitaire HD, Hidden Expedition-Serie, Mystery Case Files-Serie.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

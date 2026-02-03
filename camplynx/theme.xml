@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Lynx was an 8-bit British home computer that was first released in early 1983 as a 48 kB model. Several models were available with 48 kB, 96 kB or 128 kB RAM. It was possible to reach 192 kB with RAM expansions on board. The machine was based around a Z80A CPU clocked at 4 MHz (6 MHz for the 128/192 kB models) and featured a Motorola 6845 as video controller. It was possible to run CP/M with the optional 5.25" floppy disk-drive on the 96 kB and 128 kB models. The computer always ran in "high" resolution graphics mode (256x252 pixels in eight colours) using 6 times 10 pixels characters. For sound it had a simple (6 bit) DAC. A comparator was included to serve as an ADC (primarily used for reading from tape drives).
 Compared to, for example, the Commodore 64, the BASIC was more extensive and faster and resolution of graphics was better; but computer games on the other hand suffered from the special implementation and lack of hardware for sound and sprites.</text>
 			<text lang="es">El Lynx fue un ordenador doméstico británico de 8 bits que salió a la venta a principios de 1983 como modelo de 48 kB. Había varios modelos disponibles con 48 kB, 96 kB o 128 kB de RAM. Era posible llegar a 192 kB con expansiones de RAM a bordo. La máquina se basaba en una CPU Z80A a 4 MHz (6 MHz para los modelos de 128/192 kB) y contaba con un Motorola 6845 como controlador de vídeo. Era posible ejecutar CP/M con la disquetera opcional de 5,25" en los modelos de 96 kB y 128 kB. El ordenador funcionaba siempre en modo gráfico de "alta" resolución (256x252 píxeles en ocho colores) utilizando caracteres de 6 por 10 píxeles. Para el sonido disponía de un sencillo DAC (6 bits). Se incluía un comparador que hacía las veces de ADC (utilizado principalmente para la lectura de unidades de cinta).
@@ -33,5 +25,4 @@ Par rapport au Commodore 64, par exemple, le BASIC était plus complet et plus r
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

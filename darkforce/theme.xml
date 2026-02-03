@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Force Engine is a project with the goal to reverse engineer and rebuild the Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws. The project will include modern, built-in tools, such as a level editor and will make it easy to play Dark Forces and Outlaws on modern systems as well as the many community mods designed to work with the original games. Playing Dark Forces or, in the future, Outlaws using the Force Engine will add ease of use and modern features such as higher resolutions and modern control schemes such as mouse-look. Using the built-in tools, once they are available, will allow for easier modding with more modern UI, greater flexibility and the ability to use enhancements made to the Jedi Engine for Outlaws in custom Dark Forces levels - such as slopes, stacked sectors, per-sector color maps and more.</text>
 			<text lang="es">El Motor de la Fuerza es un proyecto cuyo objetivo es realizar ingeniería inversa y reconstruir el Motor Jedi para sistemas modernos y los juegos que utilizaban ese motor: Dark Forces y Outlaws. El proyecto incluirá herramientas modernas integradas, como un editor de niveles, y facilitará el juego de Dark Forces y Outlaws en sistemas modernos, así como los numerosos mods de la comunidad diseñados para funcionar con los juegos originales. Jugar a Dark Forces o, en el futuro, a Outlaws utilizando el motor Force Engine añadirá facilidad de uso y características modernas, como resoluciones más altas y esquemas de control modernos, como la vista de ratón. El uso de las herramientas integradas, una vez que estén disponibles, facilitará la creación de mods con una interfaz de usuario más moderna, mayor flexibilidad y la posibilidad de utilizar las mejoras realizadas en el motor Jedi para Outlaws en niveles personalizados de Dark Forces, como pendientes, sectores apilados, mapas de color por sector y mucho más.</text>
 			<text lang="de">The Force Engine ist ein Projekt mit dem Ziel, die Jedi-Engine für moderne Systeme und die Spiele, die diese Engine verwendet haben - Dark Forces und Outlaws - nachzubauen. Das Projekt wird moderne, eingebaute Tools wie einen Level-Editor enthalten und es einfach machen, Dark Forces und Outlaws auf modernen Systemen zu spielen, ebenso wie die vielen Community-Mods, die für die Originalspiele entwickelt wurden. Das Spielen von Dark Forces oder, in Zukunft, Outlaws mit der Force Engine wird die Benutzerfreundlichkeit erhöhen und moderne Features wie höhere Auflösungen und moderne Steuerungsschemata wie Mouse-Look ermöglichen. Die Verwendung der eingebauten Tools, sobald sie verfügbar sind, wird eine einfachere Modifikation mit modernerer Benutzeroberfläche, größerer Flexibilität und der Möglichkeit, die Verbesserungen der Jedi-Engine für Outlaws in benutzerdefinierten Dark Forces-Levels zu verwenden, ermöglichen - wie z. B. Abhänge, gestapelte Sektoren, Farbkarten für jeden Sektor und mehr.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

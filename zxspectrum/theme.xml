@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The ZX Spectrum is an 8-bit personal home computer released in the United Kingdom in 1982 by Sinclair Research. Referred to during development as the ZX81 Colour and ZX82, it was launched as the ZX Spectrum by Sinclair to highlight the machine's colour display, compared with the black and white display of its predecessor, the ZX81. The Spectrum was released as eight different models, ranging from the entry level with 16 KB RAM released in 1982 to the ZX Spectrum +3 with 128 KB RAM and built in floppy disk drive in 1987; together they sold over 5 million units worldwide (not counting clones).</text>
 			<text lang="es">El ZX Spectrum es un ordenador personal de 8 bits lanzado en el Reino Unido en 1982 por Sinclair Research. Conocido durante su desarrollo como ZX81 Colour y ZX82, Sinclair lo lanzó como ZX Spectrum para destacar la pantalla en color de la máquina, en comparación con la pantalla en blanco y negro de su predecesor, el ZX81. El Spectrum se comercializó en ocho modelos diferentes, desde el básico con 16 KB de RAM lanzado en 1982 hasta el ZX Spectrum +3 con 128 KB de RAM y disquetera incorporada en 1987; juntos vendieron más de 5 millones de unidades en todo el mundo (sin contar los clones).</text>
 			<text lang="de">Der ZX Spectrum ist ein 8-Bit-Heimcomputer, der 1982 im Vereinigten Königreich von Sinclair Research auf den Markt gebracht wurde. Während der Entwicklung als ZX81 Colour und ZX82 bezeichnet, wurde er von Sinclair als ZX Spectrum auf den Markt gebracht, um das Farbdisplay des Geräts im Vergleich zum Schwarz-Weiß-Display seines Vorgängers, des ZX81, hervorzuheben. Der Spectrum wurde in acht verschiedenen Modellen auf den Markt gebracht, vom Einstiegsmodell mit 16 KB RAM, das 1982 auf den Markt kam, bis zum ZX Spectrum +3 mit 128 KB RAM und eingebautem Diskettenlaufwerk im Jahr 1987; insgesamt wurden weltweit über 5 Millionen Exemplare verkauft (Klone nicht mitgerechnet).</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

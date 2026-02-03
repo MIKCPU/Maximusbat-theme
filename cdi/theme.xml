@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>CD-i (Compact Disc Interactive) is an interactive multimedia CD player manufactured by Royal Phillips Electronics N.V. The first Philips CD-i player was released in 1991, priced at around $700 at the time. The device played CD-i, CD-Audio, CD+G, karaoke CD and Video CD. For VCD playback, it was necessary to purchase a special video card to provide the player with MPEG-1 codecs. The player was produced in a dozen different versions, but they were all compatible with each other.</text>
 			<text lang="es">CD-i (Compact Disc Interactive) es un reproductor de CD multimedia interactivo fabricado por Royal Phillips Electronics N.V. El primer reproductor CD-i de Philips salió a la venta en 1991, con un precio de unos 700 dólares de la época. El aparato reproducía CD-i, CD-Audio, CD+G, CD karaoke y Vídeo CD. Para la reproducción de VCD, era necesario adquirir una tarjeta de vídeo especial para dotar al reproductor de códecs MPEG-1. El reproductor se fabricó en una docena de versiones diferentes, pero todas eran compatibles entre sí.</text>
 			<text lang="de">CD-i (Compact Disc Interactive) ist ein interaktiver Multimedia-CD-Player, der von Royal Phillips Electronics N.V. hergestellt wird. Der erste Philips CD-i-Player kam 1991 auf den Markt und kostete damals etwa 700 Dollar. Das Gerät spielte CD-i, CD-Audio, CD+G, Karaoke-CD und Video-CD ab. Für die Wiedergabe von VCDs war der Kauf einer speziellen Videokarte erforderlich, um den Player mit MPEG-1-Codecs auszustatten. Der Player wurde in einem Dutzend verschiedener Versionen hergestellt, die jedoch alle miteinander kompatibel waren.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

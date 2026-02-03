@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Apple IIGS (styled as IIgs), the fifth and most powerful of the Apple II family, is a 16-bit personal computer produced by Apple Computer. While featuring the Macintosh look and feel, and resolution and color similar to the Amiga and Atari ST, it remains compatible with earlier Apple II models. The "GS" in the name stands for "Graphics and Sound," referring to its enhanced multimedia hardware, especially its state-of-the-art audio. The microcomputer is a radical departure from any previous Apple II, with a 16-bit 65C816 microprocessor, direct access to megabytes of random-access memory (RAM), and mouse. It is the first computer from Apple with a color graphical user interface (color was introduced on the Macintosh II six months later) and Apple Desktop Bus interface for keyboards, mice, and other input devices. It is the first personal computer with a wavetable synthesis chip, using technology from Ensoniq. The IIGS set forth a promising future and evolutionary advancement of the Apple II line, but Apple increasingly focused on the Macintosh platform. Apple ceased IIGS production in December 1992.</text>
 			<text lang="es">El Apple IIGS (conocido como IIgs), el quinto y más potente de la familia Apple II, es un ordenador personal de 16 bits fabricado por Apple Computer. Aunque presenta el aspecto y la sensación de Macintosh, y una resolución y color similares a los de Amiga y Atari ST, sigue siendo compatible con los modelos anteriores de Apple II. Las siglas "GS" significan "Graphics and Sound" (gráficos y sonido), en referencia a su hardware multimedia mejorado, especialmente su audio de última generación. El microordenador supone un cambio radical respecto a cualquier Apple II anterior, con un microprocesador 65C816 de 16 bits, acceso directo a megabytes de memoria de acceso aleatorio (RAM) y ratón. Es el primer ordenador de Apple con interfaz gráfica de usuario en color (el color se introdujo en el Macintosh II seis meses después) e interfaz Apple Desktop Bus para teclados, ratones y otros dispositivos de entrada. Es el primer ordenador personal con un chip de síntesis de tabla de ondas, que utiliza tecnología de Ensoniq. El IIGS auguraba un futuro prometedor y un avance evolutivo de la línea Apple II, pero Apple se centró cada vez más en la plataforma Macintosh. Apple cesó la producción del IIGS en diciembre de 1992.</text>
 			<text lang="de">Der Apple IIGS (als IIgs bezeichnet), das fünfte und leistungsstärkste Modell der Apple II Familie, ist ein 16-Bit-Personalcomputer von Apple Computer. Obwohl er das Macintosh-Aussehen und -Gefühl sowie eine ähnliche Auflösung und Farbgebung wie der Amiga und der Atari ST aufweist, bleibt er mit früheren Apple II-Modellen kompatibel. Das "GS" im Namen steht für "Graphics and Sound" (Grafik und Sound) und bezieht sich auf die verbesserte Multimedia-Hardware, insbesondere die hochmoderne Audioausstattung. Der Mikrocomputer unterscheidet sich radikal von allen früheren Apple II, mit einem 16-Bit 65C816 Mikroprozessor, direktem Zugriff auf Megabytes Arbeitsspeicher (RAM) und Maus. Er ist der erste Computer von Apple mit einer farbigen grafischen Benutzeroberfläche (Farbe wurde sechs Monate später mit dem Macintosh II eingeführt) und einer Apple Desktop Bus-Schnittstelle für Tastaturen, Mäuse und andere Eingabegeräte. Er ist der erste Personal Computer mit einem Wavetable-Synthese-Chip, der Technologie von Ensoniq verwendet. Der IIGS stellte eine vielversprechende Zukunft und evolutionäre Weiterentwicklung der Apple II Linie dar, aber Apple konzentrierte sich zunehmend auf die Macintosh Plattform. Apple stellte die Produktion des IIGS im Dezember 1992 ein.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

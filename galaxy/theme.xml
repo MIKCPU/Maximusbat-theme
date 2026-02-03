@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Galaksija was a DIY computer designed by Voja Antonić and published in a Yugoslav science magazine in 1983. It was based on a Z80 processor and used software to generate the video signal. It was cheap and simple to make with standard components. It was featured with Galaksija BASIC, a BASIC interpreter partly based on TRS-80 Level 1 BASIC, but modified to include video generation code and improve the programming language. It was contained in a 4 KB ROM. An optional 4 KB ROM provided more BASIC commands, an assembler, and a monitor. Character ROM was a 2 KB ROM that contained character definitions, characters were 8 x 13 pixels, and included 64 pseudo-graphics characters. The character set was a modified ASCII with some Serbian letters. Galaksija had no sound according to specifications, but the tape interface could be used as audio output. It also had a 44-pin edge connector with Z80 Bus, a monochrome video out, and a UHF TV out. Cassette tape was used as secondary storage. Galaksija also had a unique feature of broadcasting software as sound over the radio, allowing users to record and share programs via cassette decks. Galaksija's case was not pre-built, but suggested to be made out of the same material as the mainboard. The keyboard was laid out such that keys had their own memory-mapped addresses that followed the ASCII order.</text>
 			<text lang="it">Galaksija era un computer fai-da-te progettato da Voja Antonić e pubblicato su una rivista scientifica jugoslava nel 1983. Era basato su un processore Z80 e utilizzava un software per generare il segnale video. Era economico e semplice da realizzare con componenti standard. Era dotato di Galaksija BASIC, un interprete BASIC parzialmente basato sul TRS-80 Level 1 BASIC, ma modificato per includere il codice di generazione video e migliorare il linguaggio di programmazione. Era contenuto in una ROM da 4 KB. Una ROM opzionale da 4 KB forniva altri comandi BASIC, un assemblatore e un monitor. La ROM dei caratteri era una ROM da 2 KB che conteneva le definizioni dei caratteri; i caratteri erano di 8 x 13 pixel e includevano 64 caratteri pseudo-grafici. Il set di caratteri era un ASCII modificato con alcune lettere serbe.
 Secondo le specifiche, Galaksija non aveva audio, ma l'interfaccia a nastro poteva essere utilizzata come uscita audio. Disponeva inoltre di un connettore edge a 44 pin con Z80 Bus, un'uscita video monocromatica e un'uscita TV UHF. La cassetta era utilizzata come memoria secondaria. Galaksija aveva anche la caratteristica unica di trasmettere il software come suono via radio, consentendo agli utenti di registrare e condividere i programmi tramite le cassette. Il case di Galaksija non era precostruito, ma si suggeriva di realizzarlo con lo stesso materiale della scheda madre. La tastiera era disposta in modo tale che i tasti avessero i loro indirizzi mappati in memoria che seguivano l'ordine ASCII.</text>
@@ -30,5 +22,4 @@ Secondo le specifiche, Galaksija non aveva audio, ma l'interfaccia a nastro pote
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

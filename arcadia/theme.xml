@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Arcadia 2001 is a second-generation 8-bit home video game console released by Emerson Radio in May 1982, several months before the release of ColecoVision. It was discontinued only 18 months later, with a total of 35 games having been released. Emerson licensed the Arcadia 2001 to Bandai, which released it in Japan. Over 30 Arcadia 2001 clones exist. The Arcadia is much smaller than its contemporary competitors and is powered by a standard 12 volt power supply so it can be used in a boat or a vehicle. It also has two outputs (or inputs) headphone jacks on the back of the unit, on the far left and far right sides. The system came with two Intellivision-style controllers with a 12-button keypad and 'fire' buttons on the sides. The direction pads have a removable joystick attachment. Most games came with BoPET overlays that could be applied to the controller's keypads. The console itself had five buttons: power, start, reset, option, and select.</text>
 			<text lang="es">La Arcadia 2001 es una videoconsola doméstica de 8 bits de segunda generación lanzada por Emerson Radio en mayo de 1982, varios meses antes del lanzamiento de la ColecoVision. Fue descatalogada sólo 18 meses después, con un total de 35 juegos lanzados. Emerson concedió la licencia de la Arcadia 2001 a Bandai, que la lanzó en Japón. Existen más de 30 clones del Arcadia 2001. El Arcadia es mucho más pequeño que sus competidores contemporáneos y funciona con una fuente de alimentación estándar de 12 voltios, por lo que puede utilizarse en un barco o un vehículo. También tiene dos salidas (o entradas) para auriculares en la parte posterior de la unidad, en los extremos izquierdo y derecho. El sistema viene con dos mandos estilo Intellivision con un teclado de 12 botones y botones de "disparo" en los laterales. Los mandos de dirección tienen un joystick extraíble. La mayoría de los juegos venían con superposiciones BoPET que podían aplicarse a los teclados de los mandos. La consola tenía cinco botones: encendido, inicio, reinicio, opción y selección.</text>
 			<text lang="de">Das Arcadia 2001 ist eine 8-Bit-Heimvideospielkonsole der zweiten Generation, die im Mai 1982 von Emerson Radio auf den Markt gebracht wurde, einige Monate vor der Veröffentlichung des ColecoVision. Sie wurde nur 18 Monate später eingestellt, nachdem insgesamt 35 Spiele veröffentlicht worden waren. Emerson lizenzierte das Arcadia 2001 an Bandai, das es in Japan herausbrachte. Es existieren über 30 Arcadia 2001-Klone. Der Arcadia ist viel kleiner als seine zeitgenössischen Konkurrenten und wird mit einer Standard-12-Volt-Stromversorgung betrieben, so dass er in einem Boot oder einem Fahrzeug verwendet werden kann. Außerdem hat er zwei Kopfhörerausgänge (oder -eingänge) auf der Rückseite des Geräts, ganz links und ganz rechts. Das System wurde mit zwei Controllern im Intellivision-Stil mit einer 12-Tasten-Tastatur und "Feuer"-Tasten an den Seiten geliefert. Die Steuerkreuze haben einen abnehmbaren Joystickaufsatz. Für die meisten Spiele gab es BoPET-Overlays, die auf die Tasten des Controllers aufgebracht werden konnten. Die Konsole selbst hatte fünf Tasten: Power, Start, Reset, Option und Select.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

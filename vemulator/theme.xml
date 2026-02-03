@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Visual Memory Unit is a memory card used by Sega's Dreamcast console. Unlike other memory cards, the VMU has a small LCD display and a set of buttons that resemble those on a Game Boy portable console. The VMU plugs directly into the joypad. During play, a small screen displays game information, pictures, and hints. Some games, such as Sonic Adventure, allow you to copy special software to the VMU so that you can play the game without connecting to a console. In addition, the memory card allows you to see the current time thanks to the built-in clock. The VMU is available in several colors, the most common being blue (made of transparent blue plastic) and white.</text>
 			<text lang="es">La Visual Memory Unit es una tarjeta de memoria utilizada por la consola Dreamcast de Sega. A diferencia de otras tarjetas de memoria, la VMU tiene una pequeña pantalla LCD y un conjunto de botones que se asemejan a los de una consola portátil Game Boy. La VMU se conecta directamente al joypad. Durante el juego, una pequeña pantalla muestra información sobre el juego, imágenes y pistas. Algunos juegos, como Sonic Adventure, permiten copiar un software especial en la VMU para poder jugar sin necesidad de conectarse a una consola. Además, la tarjeta de memoria te permite ver la hora actual gracias al reloj incorporado. La VMU está disponible en varios colores, siendo los más comunes el azul (fabricada en plástico azul transparente) y el blanco.</text>
 			<text lang="de">Die Visual Memory Unit ist eine Speicherkarte, die in der Dreamcast-Konsole von Sega verwendet wird. Im Gegensatz zu anderen Speicherkarten hat die VMU ein kleines LCD-Display und eine Reihe von Tasten, die denen auf einer tragbaren Game Boy-Konsole ähneln. Die VMU wird direkt in das Joypad eingesteckt. Während des Spiels werden auf einem kleinen Bildschirm Spielinformationen, Bilder und Hinweise angezeigt. Bei einigen Spielen, wie z. B. Sonic Adventure, können Sie spezielle Software auf die VMU kopieren, so dass Sie das Spiel spielen können, ohne eine Konsole anschließen zu müssen. Darüber hinaus können Sie auf der Speicherkarte dank der eingebauten Uhr die aktuelle Uhrzeit ablesen. Die VMU ist in verschiedenen Farben erhältlich, die gängigsten sind blau (aus transparentem blauem Kunststoff) und weiß.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

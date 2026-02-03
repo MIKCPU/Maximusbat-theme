@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Tomy Tutor, originally sold in Japan as the Pyūta (ぴゅう太) and in the UK as the Grandstand Tutor, is a home computer produced by the Japanese toymaker Tomy. It was architecturally similar, but not identical, to the Texas Instruments TI-99/4A, and used a similar Texas Instruments 16-bit CPU. The computer was launched in Japan in 1982, and in the UK and the United States in the next year.</text>
 			<text lang="es">El Tomy Tutor, vendido originalmente en Japón como Pyūta (ぴゅう太) y en el Reino Unido como Grandstand Tutor, es un ordenador doméstico producido por el fabricante de juguetes japonés Tomy. Era arquitectónicamente similar, pero no idéntico, al Texas Instruments TI-99/4A, y utilizaba una CPU de 16 bits Texas Instruments similar. El ordenador se lanzó en Japón en 1982, y en el Reino Unido y Estados Unidos al año siguiente.</text>
 			<text lang="de">Der Tomy Tutor, der ursprünglich in Japan als Pyūta (ぴゅう太) und im Vereinigten Königreich als Grandstand Tutor verkauft wurde, ist ein Heimcomputer des japanischen Spielzeugherstellers Tomy. Er war architektonisch ähnlich, aber nicht identisch mit dem Texas Instruments TI-99/4A und verwendete eine ähnliche Texas Instruments 16-Bit-CPU. Der Computer wurde 1982 in Japan auf den Markt gebracht, ein Jahr später auch im Vereinigten Königreich und in den Vereinigten Staaten.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

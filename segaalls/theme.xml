@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Sega ALLS (Amusement Linkage Live System) is an arcade platform developed by Sega, designed to deliver high-quality gaming experiences. Built on PC-based hardware, the system runs a customized version of Windows and features advanced networking capabilities for multiplayer experiences. Sega ALLS is known for its robust performance, allowing seamless integration of online features, real-time updates, and secure DRM. The platform supports a wide range of Sega titles, offering players both traditional arcade gameplay and innovative interactive experiences.</text>
 			<text lang="it">Sega ALLS (Amusement Linkage Live System) è una piattaforma arcade sviluppata da Sega, progettata per offrire esperienze di gioco di alta qualità. Costruito su hardware basato su PC, il sistema esegue una versione personalizzata di Windows e dispone di funzionalità di rete avanzate per esperienze multigiocatore. Sega ALLS è noto per le sue solide prestazioni, che consentono una perfetta integrazione delle funzionalità online, aggiornamenti in tempo reale e DRM sicuro. La piattaforma supporta un'ampia gamma di titoli Sega, offrendo ai giocatori sia il tradizionale gioco arcade che innovative esperienze interattive.</text>
 			<text lang="fr">Le Sega ALLS (Amusement Linkage Live System) est une plate-forme d'arcade développée par Sega, conçue pour offrir des expériences de jeu de haute qualité. Construit sur du matériel PC, le système fonctionne avec une version personnalisée de Windows et dispose de capacités de réseau avancées pour les expériences multijoueurs. Sega ALLS est connu pour ses performances robustes, permettant une intégration transparente des fonctions en ligne, des mises à jour en temps réel et un DRM sécurisé. La plateforme prend en charge une large gamme de titres Sega, offrant aux joueurs à la fois des jeux d'arcade traditionnels et des expériences interactives innovantes.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

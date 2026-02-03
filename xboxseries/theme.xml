@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Xbox Series X and Xbox Series S are, collectively, the fourth generation of the Xbox series of home video game consoles developed and sold by Microsoft. Released on November 10, 2020, the higher-end Xbox Series X and lower-end Xbox Series S are part of the ninth generation of video game consoles, which also includes Sony's PlayStation 5, released the same month. They superseded the Xbox One. Like the Xbox One, the consoles use an AMD 64-bit x86-64 CPU and GPU. Both models have solid-state drives to reduce loading times, support for hardware-accelerated ray-tracing and spatial audio, the ability to convert games to high-dynamic-range rendering using machine learning (Auto HDR), support for HDMI 2.1 variable refresh rate and low-latency modes, and updated controllers. Xbox Series X was designed to nominally render games in 2160p (4K resolution) at 60 frames per second (FPS). The lower-end, digital-only Xbox Series S, which has reduced specifications and does not include an optical drive, was designed to nominally render games in 1440p at 60 FPS, with support for 4K video scaling and ray tracing.</text>
 			<text lang="es">Las Xbox Series X y Xbox Series S son, colectivamente, la cuarta generación de la serie Xbox de consolas de videojuegos domésticas desarrolladas y comercializadas por Microsoft. Lanzadas el 10 de noviembre de 2020, la Xbox Series X de gama alta y la Xbox Series S de gama baja forman parte de la novena generación de consolas de videojuegos, que también incluye la PlayStation 5 de Sony, lanzada el mismo mes. Sustituyen a la Xbox One. Al igual que la Xbox One, las consolas utilizan una CPU y una GPU AMD x86-64 de 64 bits. Ambos modelos cuentan con unidades de estado sólido para reducir los tiempos de carga, compatibilidad con el trazado de rayos acelerado por hardware y el audio espacial, posibilidad de convertir los juegos a renderizado de alto rango dinámico mediante aprendizaje automático (Auto HDR), compatibilidad con los modos HDMI 2.1 de frecuencia de actualización variable y baja latencia, y mandos actualizados. Xbox Series X se diseñó para renderizar juegos en 2160p (resolución 4K) a 60 fotogramas por segundo (FPS). La Xbox Series S, de gama más baja y sólo digital, con especificaciones reducidas y que no incluye unidad óptica, se diseñó para renderizar nominalmente los juegos en 1440p a 60 FPS, con soporte para escalado de vídeo 4K y trazado de rayos.</text>
 			<text lang="de">Die Xbox Serie X und die Xbox Serie S sind zusammen die vierte Generation der Xbox-Serie von Videospielkonsolen für den Heimgebrauch, die von Microsoft entwickelt und verkauft werden. Die am 10. November 2020 auf den Markt gebrachte Xbox Serie X und die Xbox Serie S sind Teil der neunten Generation von Videospielkonsolen, zu der auch die im selben Monat erschienene PlayStation 5 von Sony gehört. Sie haben die Xbox One abgelöst. Wie die Xbox One verwenden die Konsolen eine AMD 64-Bit x86-64 CPU und GPU. Beide Modelle verfügen über Solid-State-Laufwerke zur Verkürzung der Ladezeiten, Unterstützung für hardwarebeschleunigtes Raytracing und Spatial Audio, die Möglichkeit, Spiele mithilfe von maschinellem Lernen in High-Dynamic-Range-Rendering (Auto HDR) zu konvertieren, Unterstützung für HDMI 2.1 mit variabler Bildwiederholrate und Modi mit niedriger Latenz sowie aktualisierte Steuerungen. Die Xbox Series X wurde entwickelt, um Spiele in 2160p (4K-Auflösung) bei 60 Bildern pro Sekunde (FPS) darzustellen. Die niedrigere, rein digitale Xbox Serie S mit reduzierten Spezifikationen und ohne optisches Laufwerk wurde für die nominale Wiedergabe von Spielen in 1440p bei 60 FPS entwickelt, mit Unterstützung für 4K-Videoskalierung und Raytracing.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

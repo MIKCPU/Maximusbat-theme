@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>TV game (TV game for short) or plug and play game (plug-'n'-play game for short) is an interactive entertainment device designed for use on a television set that integrates the video game console with the game controller. The term "TV game" can be used to refer to any number of self-contained, portable game systems operating on either batteries or an electronic power supply which plugs directly into a TV or VCR. The game software is built directly into the unit, which is typically designed to look like a toy or classic game console/controller with the addition of two AV ports. These systems usually contain either highly specialized games or activities, or a collection of classic games. Thus, it could be viewed as a video game console without interchangeable game software. As the game software is integrated into the game unit and almost never designed to be changed by the user, these game systems are typically sold by retailers as electronic toys or collectibles rather than game consoles.</text>
 			<text lang="es">El juego de televisión (juego de televisión para abreviar) o juego plug and play (juego plug-'n'-play para abreviar) es un dispositivo de entretenimiento interactivo diseñado para su uso en un televisor que integra la consola de videojuegos con el mando de juego. El término "juego de televisión" puede utilizarse para referirse a cualquier número de sistemas de juego autónomos y portátiles que funcionan con pilas o con una fuente de alimentación electrónica que se conecta directamente a un televisor o vídeo. El software del juego está integrado directamente en la unidad, que suele estar diseñada para parecerse a un juguete o a una consola/controlador de juegos clásicos con la adición de dos puertos AV. Estos sistemas suelen contener juegos o actividades muy especializados, o una colección de juegos clásicos. Por tanto, podría considerarse una videoconsola sin software de juego intercambiable. Como el software del juego está integrado en la unidad de juego y casi nunca está diseñado para ser cambiado por el usuario, estos sistemas de juego suelen ser vendidos por los minoristas como juguetes electrónicos o artículos de colección en lugar de consolas de juegos.</text>
 			<text lang="de">TV-Spiel (kurz TV-Spiel) oder Plug-and-Play-Spiel (kurz Plug-'n'-Play-Spiel) ist ein interaktives Unterhaltungsgerät, das für die Verwendung auf einem Fernsehgerät konzipiert ist und die Videospielkonsole mit dem Spielcontroller integriert. Der Begriff "TV-Spiel" kann sich auf eine beliebige Anzahl von eigenständigen, tragbaren Spielsystemen beziehen, die entweder mit Batterien oder einem elektronischen Netzteil betrieben werden, das direkt an einen Fernseher oder Videorecorder angeschlossen wird. Die Spielesoftware ist direkt in das Gerät integriert, das in der Regel wie ein Spielzeug oder eine klassische Spielkonsole/ein klassischer Spielcontroller aussieht und zusätzlich über zwei AV-Anschlüsse verfügt. Diese Systeme enthalten in der Regel entweder hochspezialisierte Spiele oder Aktivitäten oder eine Sammlung von klassischen Spielen. Man könnte sie also als Videospielkonsole ohne austauschbare Spielesoftware betrachten. Da die Spielesoftware in die Spieleinheit integriert ist und fast nie vom Benutzer geändert werden kann, werden diese Spielesysteme von den Einzelhändlern in der Regel als elektronisches Spielzeug oder Sammlerstücke und nicht als Spielkonsolen verkauft.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

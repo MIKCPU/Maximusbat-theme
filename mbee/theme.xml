@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>MicroBee (or Micro Bee) was a series of networkable home computers by Applied Technology, which became publicly listed company MicroBee Systems Limited soon after its release. The MicroBee's most distinctive features are its user configurable video display (capable of mimicking the displays of other computers and devices including the TRS-80, Sorcerer and SOL20 with later colour and graphic models 40 and 80 column terminals, Super-80, ZX Spectrum, early arcade machines, Amstrad CPC 464) and its battery backed non-volatile RAM and small size allowing it to be powered off, transported, and powered back on and resume activities on the currently loaded program or document. It was originally packaged as a two board unit with the lower "baseboard" containing all components except the system memory which was mounted on the upper "core board".</text>
 			<text lang="it">MicroBee (o Micro Bee) era una serie di home computer collegabili in rete di Applied Technology, che subito dopo la sua uscita è diventata la società MicroBee Systems Limited, quotata in borsa. Le caratteristiche principali del MicroBee sono il suo display video configurabile dall'utente (in grado di imitare i display di altri computer e dispositivi, tra cui TRS-80, Sorcerer e SOL20 con i successivi modelli a colori e grafici, terminali a 40 e 80 colonne, Super-80, ZX Spectrum, le prime macchine arcade, Amstrad CPC 464) e la sua RAM non volatile alimentata a batteria e le sue dimensioni ridotte che consentono di spegnerlo, trasportarlo e riaccenderlo per riprendere le attività sul programma o sul documento attualmente caricato. Originariamente era confezionato come un'unità a due schede, con la "baseboard" inferiore contenente tutti i componenti tranne la memoria di sistema, montata sulla "core board" superiore.</text>
 			<text lang="fr">MicroBee (ou Micro Bee) est une série d'ordinateurs domestiques en réseau d'Applied Technology, qui est devenue la société cotée en bourse MicroBee Systems Limited peu de temps après sa sortie. Les caractéristiques les plus distinctives du MicroBee sont son écran vidéo configurable par l'utilisateur (capable d'imiter les écrans d'autres ordinateurs et appareils, notamment le TRS-80, le Sorcerer et le SOL20 avec les modèles couleur et graphiques ultérieurs, les terminaux à 40 et 80 colonnes, le Super-80, le ZX Spectrum, les premières machines d'arcade, l'Amstrad CPC 464), sa mémoire vive non volatile alimentée par une batterie et sa petite taille, qui lui permet d'être éteint, transporté et rallumé et de reprendre les activités sur le programme ou le document en cours de chargement. À l'origine, il se présentait sous la forme d'une unité à deux cartes, la "carte de base" inférieure contenant tous les composants à l'exception de la mémoire du système, qui était montée sur la "carte principale" supérieure.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

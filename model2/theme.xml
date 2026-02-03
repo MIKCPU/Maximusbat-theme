@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Sega Model 2 is an arcade system board originally debuted by Sega in 1993 as a successor to the Sega Model 1 board. It is an extension of the Model 1 hardware, most notably introducing the concept of texture-mapped polygons, allowing for more realistic 3D graphics for its time.</text>
 			<text lang="es">La Sega Model 2 es una placa de sistema arcade originalmente debutada por Sega en 1993 como sucesora de la Sega Model 1. Se trata de una ampliación del hardware del Model 1, en la que destaca la introducción del concepto de polígonos mapeados con texturas, que permite gráficos 3D más realistas para su época.</text>
 			<text lang="de">Das Sega Model 2 ist eine Spielhallen-Systemplatine, die 1993 von Sega als Nachfolger des Sega Model 1 vorgestellt wurde. Es ist eine Erweiterung der Modell 1-Hardware, vor allem die Einführung des Konzepts der Textur-gemappten Polygone, die eine realistischere 3D-Grafik für seine Zeit ermöglicht.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

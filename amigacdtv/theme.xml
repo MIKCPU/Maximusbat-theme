@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The CDTV (from Commodore Dynamic Total Vision, later treated as a backronym for Compact Disc Television) is a home multimedia entertainment and video game console – convertible into a full-fledged personal computer by the addition of optional peripherals – developed by Commodore International and launched in April 1991. The CDTV was intended as a media appliance rather than a mainstream personal computer. As such, its housing had dimensions and styling that were fairly comparable to most household stereo system components of the period, and it came with an infrared remote control. Similarly, it was initially sold without a keyboard or a mouse (which could be added separately, and were later bundled with the machine). The CDTV was based on the same technology as earlier Amiga systems, but featured a single-speed CD-ROM drive and no floppy disk drive as standard.</text>
 			<text lang="es">La CDTV (de Commodore Dynamic Total Vision, que más tarde se convertiría en el acrónimo de Compact Disc Television) es una consola doméstica de entretenimiento multimedia y videojuegos -convertible en un completo ordenador personal mediante la adición de periféricos opcionales- desarrollada por Commodore International y lanzada al mercado en abril de 1991. El CDTV se concibió como un aparato multimedia más que como un ordenador personal convencional. Como tal, su carcasa tenía unas dimensiones y un estilo bastante comparables a los de la mayoría de componentes de equipos estéreo domésticos de la época, e incluía un mando a distancia por infrarrojos. Asimismo, al principio se vendía sin teclado ni ratón (que podían añadirse por separado y más tarde se incluyeron con el aparato). El CDTV se basaba en la misma tecnología que los anteriores sistemas Amiga, pero incluía de serie una unidad de CD-ROM de una sola velocidad y no una unidad de disquetes.</text>
 			<text lang="de">Das CDTV (von Commodore Dynamic Total Vision, später als Backronym für Compact Disc Television behandelt) ist eine von Commodore International entwickelte und im April 1991 auf den Markt gebrachte Home-Multimedia-Entertainment- und Videospielkonsole, die durch den Einbau von optionalen Peripheriegeräten in einen vollwertigen Personal Computer umgewandelt werden kann. Das CDTV war als Mediengerät und nicht als herkömmlicher Personal Computer gedacht. Daher waren die Abmessungen und das Design des Gehäuses vergleichbar mit denen der meisten Haushalts-Stereoanlagen der damaligen Zeit, und es wurde mit einer Infrarot-Fernbedienung geliefert. Ebenso wurde es zunächst ohne Tastatur oder Maus verkauft (diese konnten separat hinzugefügt werden und wurden später mit dem Gerät gebündelt). Das CDTV basierte auf der gleichen Technologie wie frühere Amiga-Systeme, verfügte aber standardmäßig über ein Single-Speed-CD-ROM-Laufwerk und kein Floppy-Disk-Laufwerk.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

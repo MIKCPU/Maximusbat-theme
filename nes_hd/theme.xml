@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>HD Packs make it possible to replace a game’s graphics, audio and music with high definition alternatives. This can be used in many ways, for example, one could keep the game’s original resolution and simply improve its graphics by adding more colors and shading or replacing only the sounds and music and going through the old game with the new sound. Currently supported in the Mesen emulator. For HD textures to work, the name of the folder with textures must match the name of the ROM, and the folder with textures must be located in the HdPacks folder.</text>
 			<text lang="it">I pacchetti HD consentono di sostituire la grafica, l'audio e la musica di un gioco con alternative ad alta definizione. Questo può essere utilizzato in molti modi: ad esempio, si può mantenere la risoluzione originale del gioco e migliorarne semplicemente la grafica aggiungendo più colori e ombreggiature, oppure sostituire solo i suoni e la musica e rivedere il vecchio gioco con il nuovo audio. Attualmente è supportato dall'emulatore Mesen. Affinché le texture HD funzionino, il nome della cartella con le texture deve corrispondere al nome della ROM e la cartella con le texture deve trovarsi nella cartella HdPacks.</text>
 			<text lang="fr">Les HD Packs permettent de remplacer les graphismes, le son et la musique d'un jeu par des alternatives haute définition. Cela peut être utilisé de différentes manières, par exemple en conservant la résolution d'origine du jeu et en améliorant simplement ses graphismes par l'ajout de couleurs et d'ombres ou en remplaçant uniquement les sons et la musique et en parcourant l'ancien jeu avec le nouveau son. Actuellement pris en charge par l'émulateur Mesen. Pour que les textures HD fonctionnent, le nom du dossier contenant les textures doit correspondre au nom de la ROM, et le dossier contenant les textures doit être situé dans le dossier HdPacks.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

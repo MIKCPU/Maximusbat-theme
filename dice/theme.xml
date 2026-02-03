@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>DICE (Discrete Integrated Circuit Emulator)is an emulator designed for arcade systems that lack a CPU, instead relying solely on discrete logic components. It runs via dice-libretro, a core within RetroArch that allows for the accurate emulation of these specialized, non-CPU-based, or early discrete-logic, arcade games.</text>
          <text lang="it">DICE (Discrete Integrated Circuit Emulator) è un emulatore progettato per sistemi arcade privi di CPU, che si basano esclusivamente su componenti logici discreti. Funziona tramite dice-libretro, un core di RetroArch che consente l'emulazione accurata di questi giochi arcade specializzati, non basati su CPU o dei primi giochi a logica discreta.</text>
          <text lang="de">DICE (Discrete Integrated Circuit Emulator) ist ein Emulator für Arcade-Systeme ohne CPU, der ausschließlich auf diskreten Logikbausteinen basiert. Er läuft über dice-libretro, einen Kern innerhalb von RetroArch, der die präzise Emulation dieser speziellen, CPU-losen oder frühen Arcade-Spiele mit diskreter Logik ermöglicht.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

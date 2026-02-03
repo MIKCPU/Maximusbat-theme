@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Nintendo DS, or simply DS, is a line of handheld game console produced by Nintendo. The device released globally across 2004 and 2005. The DS, an initialism for "Developers' System" or "Dual Screen", introduced distinctive new features to handheld gaming: two LCD screens working in tandem (the bottom one being a touchscreen), a built-in microphone and support for wireless connectivity. Both screens are encompassed within a clamshell design similar to the Game Boy Advance SP. The Nintendo DS also features the ability for multiple DS consoles to directly interact with each other over Wi-Fi within a short range without the need to connect to an existing wireless network. Alternatively, they could interact online using the now-defunct Nintendo Wi-Fi Connection service. Its main competitor was Sony's PlayStation Portable during the seventh generation of video game consoles.</text>
 			<text lang="es">La Nintendo DS, o simplemente DS, es una línea de videoconsolas portátiles producida por Nintendo. El dispositivo salió a la venta en todo el mundo entre 2004 y 2005. La DS, iniciales de "Developers' System" o "Dual Screen", introdujo nuevas características distintivas en los juegos portátiles: dos pantallas LCD que funcionan en tándem (la inferior es una pantalla táctil), un micrófono integrado y soporte para conectividad inalámbrica. Ambas pantallas tienen un diseño similar al de la Game Boy Advance SP. La Nintendo DS también ofrece la posibilidad de que varias consolas DS interactúen directamente entre sí a través de Wi-Fi a corta distancia, sin necesidad de conectarse a una red inalámbrica existente. Como alternativa, podían interactuar en línea utilizando el ya desaparecido servicio Conexión Wi-Fi de Nintendo. Su principal competidora fue la PlayStation Portable de Sony durante la séptima generación de videoconsolas.</text>
 			<text lang="de">Der Nintendo DS, oder einfach DS, ist eine Reihe von Handheld-Spielkonsolen, die von Nintendo hergestellt werden. Das Gerät wurde in den Jahren 2004 und 2005 weltweit veröffentlicht. Der DS, eine Abkürzung für "Developers' System" oder "Dual Screen", führte markante neue Funktionen für Handheld-Spiele ein: zwei LCD-Bildschirme, die zusammen arbeiten (der untere ist ein Touchscreen), ein eingebautes Mikrofon und Unterstützung für drahtlose Konnektivität. Beide Bildschirme sind in einem Klappgehäuse untergebracht, das dem des Game Boy Advance SP ähnelt. Der Nintendo DS bietet auch die Möglichkeit, dass mehrere DS-Konsolen über Wi-Fi innerhalb einer kurzen Reichweite direkt miteinander interagieren können, ohne dass eine Verbindung zu einem bestehenden drahtlosen Netzwerk erforderlich ist. Alternativ konnten sie auch online über den inzwischen eingestellten Dienst Nintendo Wi-Fi Connection interagieren. Sein Hauptkonkurrent war die PlayStation Portable von Sony in der siebten Generation der Videospielkonsolen.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,15 +9,7 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Enterprise is a Zilog Z80-based home computer announced in 1983, but through a series of delays, not commercially available until 1985. It was developed by British company Intelligent Software and marketed by Enterprise Computers.
-
 The specification as released was powerful and one of the higher end in its class (though not by the margin envisaged in 1983). This was due to the use of custom ASICs for graphics and sound which took workload away from the CPU, an extensive implementation of ANSI BASIC and a bank switching system to allow for larger amounts of RAM than the Z80 natively supported. It also featured a distinctive and colourful case design, and promise of multiple expansion options. Its two variants are the Enterprise 64, with 64 KB of RAM, and the Enterprise 128, with 128 KB of RAM.</text>
 			<text lang="es">El Enterprise es un ordenador doméstico basado en el Z80 de Zilog anunciado en 1983, pero que, debido a una serie de retrasos, no estuvo disponible comercialmente hasta 1985. Fue desarrollado por la empresa británica Intelligent Software y comercializado por Enterprise Computers. La especificación con la que salió al mercado era potente y una de las más avanzadas de su clase (aunque no por el margen previsto en 1983). Esto se debía al uso de ASIC personalizados para gráficos y sonido que quitaban carga de trabajo a la CPU, una amplia implementación de ANSI BASIC y un sistema de conmutación de bancos para permitir mayores cantidades de RAM de las que el Z80 soportaba de forma nativa. También presentaba un diseño de carcasa distintivo y colorido, y prometía múltiples opciones de expansión. Sus dos variantes son el Enterprise 64, con 64 KB de RAM, y el Enterprise 128, con 128 KB de RAM.</text>
 			<text lang="de">Der Enterprise ist ein Zilog Z80-basierter Heimcomputer, der 1983 angekündigt wurde, aber aufgrund einer Reihe von Verzögerungen erst 1985 auf den Markt kam. Er wurde von der britischen Firma Intelligent Software entwickelt und von Enterprise Computers vermarktet. Die Spezifikation in der veröffentlichten Form war leistungsfähig und gehörte zu den Spitzenreitern seiner Klasse (wenn auch nicht in dem Maße, wie es 1983 geplant war). Dies war auf die Verwendung von kundenspezifischen ASICs für Grafik und Sound zurückzuführen, die die CPU entlasteten, sowie auf eine umfangreiche Implementierung von ANSI BASIC und ein Bank-Switching-System, das größere Mengen an RAM ermöglichte, als der Z80 von Haus aus unterstützte. Außerdem zeichnete er sich durch ein markantes und farbenfrohes Gehäusedesign aus und versprach zahlreiche Erweiterungsmöglichkeiten. Es gibt zwei Varianten: den Enterprise 64 mit 64 KB RAM und den Enterprise 128 mit 128 KB RAM.</text>
@@ -31,5 +22,4 @@ The specification as released was powerful and one of the higher end in its clas
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>LÖVE (or Love2D) is an open-source cross-platform engine for developing 2D video games. The engine is written in C++ and uses Lua as its scripting language. It is published under the zlib license. The API provided by the engine gives access to the video and sound functions of the host machine through the libraries SDL and OpenGL, or since version 0.10 also OpenGL ES 2 and 3. Fonts can be rendered by the FreeType engine. It also provides a basic "sandbox" management of the files in order to avoid giving access to all its disk to the executed games. In July 2018, it was the 10th game engine most used by independents on the site itch.io, holding a 1.97% share.</text>
 			<text lang="es">LÖVE (o Love2D) es un motor multiplataforma de código abierto para desarrollar videojuegos en 2D. Está escrito en C++ y utiliza Lua como lenguaje de programación. Se publica bajo licencia zlib. La API proporcionada por el motor da acceso a las funciones de vídeo y sonido de la máquina anfitriona a través de las librerías SDL y OpenGL, o desde la versión 0.10 también OpenGL ES 2 y 3. Las fuentes pueden ser renderizadas por el motor FreeType. También proporciona una gestión básica "sandbox" de los archivos para evitar dar acceso a todo su disco a los juegos ejecutados.
 En julio de 2018, era el décimo motor de juegos más utilizado por los independientes en el sitio itch.io, con una cuota del 1,97%.</text>
@@ -31,5 +23,4 @@ A luglio 2018, era il 10° motore di gioco più utilizzato dagli indipendenti su
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

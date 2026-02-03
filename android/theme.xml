@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets. Android is developed by a consortium of developers known as the Open Handset Alliance and commercially sponsored by Google. It was unveiled in November 2007, with the first commercial Android device, the HTC Dream, being launched in September 2008.</text>
 			<text lang="es">Android es un sistema operativo móvil basado en una versión modificada del núcleo de Linux y otro software de código abierto, diseñado principalmente para dispositivos móviles con pantalla táctil, como teléfonos inteligentes y tabletas. Android es desarrollado por un consorcio de desarrolladores conocido como Open Handset Alliance y patrocinado comercialmente por Google. Se presentó en noviembre de 2007 y el primer dispositivo comercial con Android, el HTC Dream, en septiembre de 2008.</text>
 			<text lang="de">Android ist ein mobiles Betriebssystem, das auf einer modifizierten Version des Linux-Kernels und anderer Open-Source-Software basiert und in erster Linie für mobile Geräte mit Touchscreen wie Smartphones und Tablets konzipiert ist. Android wird von einem Konsortium von Entwicklern entwickelt, das als Open Handset Alliance bekannt ist und von Google kommerziell unterstützt wird. Es wurde im November 2007 vorgestellt, und das erste kommerzielle Android-Gerät, das HTC Dream, kam im September 2008 auf den Markt.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

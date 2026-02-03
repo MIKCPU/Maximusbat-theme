@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>vitaQuake 2 is a port of a Quake II engine source port made originally for the PS Vita. It's based on glQuake but has several features from different source ports such as ProQuake and similars.</text>
 			<text lang="es">vitaQuake 2 es un port del motor fuente de Quake II hecho originalmente para la PS Vita. Está basado en glQuake pero tiene varias características de diferentes ports fuente como ProQuake y similares.</text>
 			<text lang="de">vitaQuake 2 ist eine Portierung der Quake II Engine, die ursprünglich für die PS Vita entwickelt wurde. Es basiert auf glQuake, hat aber mehrere Funktionen aus verschiedenen Quellportierungen wie ProQuake und ähnlichen.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

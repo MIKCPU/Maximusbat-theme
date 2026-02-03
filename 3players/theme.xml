@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>A three-player game is a multiplayer game that can be played by up to three players simultaneously. Here is a collection of your games that support three-player game.</text>
 			<text lang="es">Un juego de tres jugadores es un juego multijugador al que pueden jugar hasta tres jugadores simultáneamente. Aquí tienes una colección de tus juegos que admiten juegos de tres jugadores..</text>
 			<text lang="de">Ein Drei-Spieler-Spiel ist ein Mehrspielerspiel, das von bis zu drei Spielern gleichzeitig gespielt werden kann. Hier ist eine Sammlung Ihrer Spiele, die das Spiel für drei Spieler unterstützen.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

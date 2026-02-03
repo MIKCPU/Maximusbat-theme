@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>A reimplementation of the 1997 Bullfrog business sim Theme Hospital. As well as faithfully recreating the original, CorsixTH adds support for modern operating systems (Windows, macOS, Linux and BSD), high resolutions and much more.</text>
 			<text lang="es">Una reimplementación del simulador de negocios Theme Hospital de Bullfrog de 1997. Además de recrear fielmente el original, CorsixTH añade compatibilidad con sistemas operativos modernos (Windows, macOS, Linux y BSD), altas resoluciones y mucho más.</text>
 			<text lang="de">Eine Neuimplementierung der Business-Simulation Theme Hospital von Bullfrog aus dem Jahr 1997. Neben der originalgetreuen Nachbildung des Originals bietet CorsixTH Unterstützung für moderne Betriebssysteme (Windows, macOS, Linux und BSD), hohe Auflösungen und vieles mehr.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

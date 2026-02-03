@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Zelda Classic is a tribute to (what we think is) the greatest RPG video game of all time: Nintendo’s The Legend of Zelda. It has been developed into an exact replica of the NES version that we all know and love. Beyond that, Zelda Classic allows the development of new quests that can use either the traditional graphics or enhanced graphics, as well as new enemies, items, and challenges.</text>
 			<text lang="es">Zelda Classic es un homenaje al que, en nuestra opinión, es el mejor videojuego de rol de todos los tiempos: The Legend of Zelda de Nintendo. Se ha convertido en una réplica exacta de la versión de NES que todos conocemos y amamos. Además, Zelda Classic permite el desarrollo de nuevas misiones que pueden usar los gráficos tradicionales o gráficos mejorados, así como nuevos enemigos, objetos y desafíos.</text>
 			<text lang="de">Zelda Classic ist eine Hommage an das (unserer Meinung nach) beste RPG-Videospiel aller Zeiten: Nintendos The Legend of Zelda. Es wurde zu einer exakten Nachbildung der NES-Version entwickelt, die wir alle kennen und lieben. Darüber hinaus ermöglicht Zelda Classic die Entwicklung neuer Quests, die entweder die traditionelle oder die verbesserte Grafik verwenden können, sowie neue Gegner, Gegenstände und Herausforderungen.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Is a free, open-source version of the classic Jazz Jackrabbit games. OpenJazz can be compiled on a wide range of operating systems, including Windows, macOS, GNU/Linux and BSD flavors. Also ports are available for some homebrew platforms, for example Wii and PSP. With the demise of DOS-based operating systems, it has become necessary to use emulators to play old DOS games. Jazz Jackrabbit deserves more - and would benefit greatly from new features.</text>
 			<text lang="es">Es una versión libre y de código abierto de los clásicos juegos Jazz Jackrabbit. OpenJazz puede compilarse en una amplia gama de sistemas operativos, como Windows, macOS, GNU/Linux y BSD. También hay ports disponibles para algunas plataformas homebrew, por ejemplo Wii y PSP. Con la desaparición de los sistemas operativos basados en DOS, se ha hecho necesario utilizar emuladores para jugar a viejos juegos de DOS. Jazz Jackrabbit merece más, y se beneficiaría enormemente de nuevas funciones.</text>
 			<text lang="de">Ist eine freie, quelloffene Version der klassischen Jazz Jackrabbit Spiele. OpenJazz kann auf einer Vielzahl von Betriebssystemen kompiliert werden, darunter Windows, macOS, GNU/Linux und BSD-Flavors. Es sind auch Portierungen für einige Homebrew-Plattformen verfügbar, zum Beispiel für Wii und PSP. Mit dem Niedergang der DOS-basierten Betriebssysteme ist es notwendig geworden, Emulatoren zu verwenden, um alte DOS-Spiele zu spielen. Jazz Jackrabbit hat mehr verdient - und würde von neuen Funktionen sehr profitieren.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

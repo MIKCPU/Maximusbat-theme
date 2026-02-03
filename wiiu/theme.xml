@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Wii U (WEE YOO) is a home video game console developed by Nintendo as the successor to the Wii. Released in late 2012, it is the first eighth-generation video game console and competed with Microsoft's Xbox One and Sony's PlayStation 4. The Wii U is the first Nintendo console to support HD graphics. The system's primary controller is the Wii U GamePad, which features an embedded touchscreen, directional buttons, analog sticks, and action buttons. The screen can be used either as a supplement to the main display or in supported games to play the game directly on the GamePad. The Wii U Pro Controller can be used in its place as a more traditional alternative. The Wii U is backward compatible with all Wii software and accessories. Games can support any combination of the GamePad, Wii Remote, Nunchuk, Balance Board, or Nintendo's Classic Controller or Wii U Pro Controller. Online functionality centers around the Nintendo Network platform and Miiverse, an integrated social networking service which allows users to share content in game-specific communities.</text>
 			<text lang="es">La Wii U (WEE YOO) es una videoconsola doméstica desarrollada por Nintendo como sucesora de la Wii. Lanzada a finales de 2012, es la primera videoconsola de octava generación y compitió con la Xbox One de Microsoft y la PlayStation 4 de Sony. La Wii U es la primera consola de Nintendo compatible con gráficos de alta definición. El mando principal de la consola es el Wii U GamePad, que incorpora una pantalla táctil, botones direccionales, sticks analógicos y botones de acción. La pantalla puede usarse como complemento de la pantalla principal o, en los juegos compatibles, para jugar directamente en el GamePad. El Wii U Pro Controller puede utilizarse en su lugar como una alternativa más tradicional. La Wii U es retrocompatible con todos los programas y accesorios de Wii. Los juegos son compatibles con cualquier combinación del GamePad, el mando de Wii, el Nunchuk, la tabla de equilibrio, el mando clásico de Nintendo o el mando profesional de Wii U. La funcionalidad en línea se centra en la plataforma Nintendo Network y Miiverse, un servicio integrado de redes sociales que permite a los usuarios compartir contenidos en comunidades específicas de juegos.</text>
 			<text lang="de">Die Wii U (WEE YOO) ist eine Videospielkonsole für den Heimgebrauch, die von Nintendo als Nachfolgerin der Wii entwickelt wurde. Sie wurde Ende 2012 veröffentlicht und ist die erste Videospielkonsole der achten Generation. Sie konkurriert mit der Xbox One von Microsoft und der PlayStation 4 von Sony. Die Wii U ist die erste Nintendo-Konsole, die HD-Grafik unterstützt. Der wichtigste Controller des Systems ist das Wii U GamePad, das über einen integrierten Touchscreen, Richtungstasten, Analogsticks und Aktionstasten verfügt. Der Bildschirm kann entweder als Ergänzung zum Hauptdisplay verwendet werden oder in unterstützten Spielen, um das Spiel direkt auf dem GamePad zu spielen. Der Wii U Pro Controller kann anstelle des GamePads als traditionelle Alternative verwendet werden. Die Wii U ist abwärtskompatibel mit der gesamten Wii-Software und dem Zubehör. Die Spiele können jede Kombination aus GamePad, Wii-Fernbedienung, Nunchuk, Balance Board oder Nintendos Classic Controller oder Wii U Pro Controller unterstützen. Die Online-Funktionalität konzentriert sich auf die Nintendo Network-Plattform und Miiverse, einen integrierten Social-Networking-Service, der es den Nutzern ermöglicht, Inhalte in spielspezifischen Communities zu teilen.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

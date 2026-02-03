@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
 			<text>The Nintendo 3DS is a handheld game console produced by Nintendo. The system was announced in March 2010 and officially unveiled at E3 2010 as the successor to the Nintendo DS. The system features backward compatibility with older Nintendo DS video games. As an eighth-generation console, its primary competitor was Sony's PlayStation Vita. The handheld's most prominent feature is its ability to display stereoscopic 3D effects without the use of 3D glasses or additional accessories, and offers new features such as the StreetPass and SpotPass tag modes, powered by Nintendo Network; augmented reality using its 3D cameras; and Virtual Console, which allows owners to download and play games originally released on older video game systems. It is also pre-loaded with various applications including an online distribution store called Nintendo eShop; a social networking service called Miiverse (shut down in 2017); an Internet Browser; the Netflix, Hulu Plus and YouTube streaming video services; Nintendo Video; a messaging application called Swapnote (known as Nintendo Letter Box in Europe and Australia); and Mii Maker.</text>
 			<text lang="es">La Nintendo 3DS es una consola portátil producida por Nintendo. La consola se anunció en marzo de 2010 y se presentó oficialmente en el E3 2010 como sucesora de la Nintendo DS. La consola es retrocompatible con los antiguos videojuegos de Nintendo DS. Como consola de octava generación, su principal competidora fue la PlayStation Vita de Sony. La característica más destacada de la consola portátil es su capacidad para mostrar efectos 3D estereoscópicos sin necesidad de gafas 3D ni accesorios adicionales, y ofrece nuevas funciones como los modos de etiquetado StreetPass y SpotPass, impulsados por Nintendo Network; realidad aumentada mediante sus cámaras 3D; y Consola Virtual, que permite a los propietarios descargar y jugar a juegos lanzados originalmente en consolas de videojuegos más antiguas. También viene precargada con varias aplicaciones, como una tienda de distribución en línea llamada Nintendo eShop; un servicio de redes sociales llamado Miiverse (cerrado en 2017); un navegador de Internet; los servicios de streaming de vídeo Netflix, Hulu Plus y YouTube; Nintendo Video; una aplicación de mensajería llamada Swapnote (conocida como Nintendo Letter Box en Europa y Australia); y Mii Maker.</text>
 			<text lang="de">Der Nintendo 3DS ist eine von Nintendo hergestellte Handheld-Spielkonsole. Das System wurde im März 2010 angekündigt und offiziell auf der E3 2010 als Nachfolger des Nintendo DS vorgestellt. Das System bietet Abwärtskompatibilität mit älteren Nintendo DS-Videospielen. Als Konsole der achten Generation war sein Hauptkonkurrent die PlayStation Vita von Sony. Das herausragendste Merkmal des Handhelds ist seine Fähigkeit, stereoskopische 3D-Effekte ohne 3D-Brille oder zusätzliches Zubehör darzustellen. Außerdem bietet es neue Funktionen wie die Tag-Modi StreetPass und SpotPass, die vom Nintendo Network unterstützt werden, Augmented Reality mithilfe der 3D-Kameras und Virtual Console, mit der die Besitzer Spiele herunterladen und spielen können, die ursprünglich auf älteren Videospielsystemen veröffentlicht wurden. Außerdem sind verschiedene Anwendungen vorinstalliert, darunter ein Online-Vertriebsshop namens Nintendo eShop, ein sozialer Netzwerkdienst namens Miiverse (der 2017 eingestellt wurde), ein Internet-Browser, die Streaming-Videodienste Netflix, Hulu Plus und YouTube, Nintendo Video, eine Messaging-Anwendung namens Swapnote (in Europa und Australien als Nintendo Letter Box bekannt) und der Mii Maker.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

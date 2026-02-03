@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
 <text>Action Max from Worlds of Wonder (WoW), released in the US in 1987, was a unique, if simple and ultimately unimpressive game system that used special pre-recorded VHS video tapes for software. The original package came bundled with the base unit, light gun, television sensor, headphones, connection cables, documentation and one game, "Sonic Fury". In total, five games were released for the system, all emulated by SINGE, the Somewhat Interactive Nostalgic Game Engine, (named after the dragon in Dragon's Lair): a Lua-based scripting system that also allows for rapid prototyping of new laserdisc games, or the creation of entirely new games. Since the original release of SINGE back in 2006, several revisions have been released, both officially and unofficially. In 2020, SINGE 2.0 was released. This is a total rewrite from the ground up adding numerous features while staying compatible with existing 1.x games.</text>
 			<text lang="es">Action Max de Worlds of Wonder (WoW), lanzado en EE.UU. en 1987, era un sistema de juego único, aunque sencillo y, en última instancia, poco impresionante, que utilizaba cintas de vídeo VHS especiales pregrabadas como software. El paquete original incluía la unidad base, una pistola de luz, un sensor de televisión, auriculares, cables de conexión, documentación y un juego, "Sonic Fury".
 En total, se lanzaron cinco juegos para el sistema, todos emulados por SINGE, el Somewhat Interactive Nostalgic Game Engine, (llamado así por el dragón de Dragon's Lair): un sistema de scripting basado en Lua que también permite crear rápidamente prototipos de nuevos juegos para laserdisc, o crear juegos completamente nuevos. Desde el lanzamiento original de SINGE en 2006, se han publicado varias revisiones, tanto oficiales como extraoficiales. En 2020, se lanzó SINGE 2.0. Se trata de una reescritura total desde cero, añadiendo numerosas características y manteniendo la compatibilidad con los juegos 1.x existentes.</text>
@@ -31,5 +23,4 @@ Insgesamt wurden fünf Spiele für das System veröffentlicht, die alle von SING
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

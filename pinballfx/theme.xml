@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Virtual pinball in all its glory: Pinball FX is the most advanced pinball simulator with 4K HDR graphics and ray tracing. Realistic physics simulation is built into every table in the game library. Pinball FX is a new stage in the evolution of virtual pinball. Win on tables inspired by the biggest entertainment franchises. Play on new tables created exclusively for Pinball FX, or choose your favorite from over 100 tables in Zen's extensive virtual library. Each table is unique and differentiated by animation. Recreate iconic scenes from the biggest entertainment franchises: Indiana Jones, Star Wars, Marvel, Universal Studios and more. Try your hand at exact replicas of the most famous pinball machines in history from Williams Pinball or play the original Zen machines.</text>
 			<text lang="es">Pinball virtual en todo su esplendor: Pinball FX es el simulador de pinball más avanzado con gráficos 4K HDR y trazado de rayos. La simulación de física realista está integrada en cada mesa de la biblioteca de juegos. Pinball FX es una nueva etapa en la evolución del pinball virtual. Gana en mesas inspiradas en las mayores franquicias de entretenimiento. Juega en mesas nuevas creadas exclusivamente para Pinball FX, o elige tu favorita entre las más de 100 mesas de la extensa biblioteca virtual de Zen. Cada mesa es única y se diferencia por su animación. Recrea escenas icónicas de las mayores franquicias de entretenimiento: Indiana Jones, Star Wars, Marvel, Universal Studios y muchas más. Pruebe su suerte con las réplicas exactas de las máquinas de pinball más famosas de la historia de Williams Pinball o juegue a las máquinas originales de Zen.</text>
 			<text lang="de">Virtueller Flipper in seiner ganzen Pracht: Pinball FX ist der fortschrittlichste Flipper-Simulator mit 4K HDR-Grafik und Raytracing. Realistische Physiksimulationen sind in jeden Tisch der Spielbibliothek integriert. Pinball FX ist eine neue Stufe in der Evolution des virtuellen Flippers. Gewinnen Sie an Tischen, die von den größten Entertainment-Franchises inspiriert sind. Spielen Sie an neuen Tischen, die exklusiv für Pinball FX entwickelt wurden, oder wählen Sie Ihren Favoriten aus den über 100 Tischen der umfangreichen virtuellen Bibliothek von Zen. Jeder Tisch ist einzigartig und unterscheidet sich durch seine Animation. Spielen Sie ikonische Szenen aus den größten Unterhaltungsserien nach: Indiana Jones, Star Wars, Marvel, Universal Studios und mehr. Versuchen Sie sich an exakten Nachbildungen der berühmtesten Flipper der Geschichte von Williams Pinball oder spielen Sie die originalen Zen-Automaten.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>

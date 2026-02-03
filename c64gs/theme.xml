@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
-
 	<view name="system">
                 <image name="systemsnap" extra="true">
                    <origin>0.5 0.5</origin>
@@ -10,13 +9,6 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>The Commodore 64 Games System (often abbreviated C64GS) is the cartridge-based home video game console version of the popular Commodore 64 home computer. It was released in December 1990 by Commodore into a booming console market dominated by Nintendo and Sega. It was only released in Europe and was a considerable commercial failure. The C64GS came bundled with a cartridge containing four games: Fiendish Freddy's Big Top O'Fun, International Soccer, Flimbo's Quest, and Klax. The C64GS was not Commodore's first gaming system based on the C64 hardware. However, unlike the 1982 MAX Machine (a game-oriented computer based on a very cut-down version of the same hardware family), the C64GS is internally very similar to the complete C64, with which it is compatible.</text>
 			<text lang="es">El Commodore 64 Games System (a menudo abreviado C64GS) es la versión de videoconsola doméstica basada en cartuchos del popular ordenador doméstico Commodore 64. Fue lanzado en diciembre de 1990 por Commodore en un mercado en auge dominado por Nintendo y Sega. Commodore la lanzó en diciembre de 1990 en un mercado de consolas en auge dominado por Nintendo y Sega. Sólo salió a la venta en Europa y fue un fracaso comercial considerable. El C64GS venía con un cartucho que contenía cuatro juegos: Fiendish Freddy's Big Top O'Fun, International Soccer, Flimbo's Quest y Klax. El C64GS no fue el primer sistema de juego de Commodore basado en el hardware del C64. Sin embargo, a diferencia del MAX Machine de 1982 (un ordenador orientado a juegos basado en una versión muy recortada de la misma familia de hardware), el C64GS es internamente muy similar al C64 completo, con el que es compatible.</text>
 			<text lang="de">Das Commodore 64 Games System (oft als C64GS abgekürzt) ist die auf Kassetten basierende Videospielkonsolenversion des beliebten Commodore 64 Heimcomputers. Es wurde im Dezember 1990 von Commodore in einem boomenden, von Nintendo und Sega dominierten Konsolenmarkt veröffentlicht. Es wurde nur in Europa veröffentlicht und war ein großer kommerzieller Misserfolg. Der C64GS wurde mit einer Kassette ausgeliefert, die vier Spiele enthielt: Fiendish Freddy's Big Top O'Fun, International Soccer, Flimbo's Quest und Klax. Der C64GS war nicht das erste Spielsystem von Commodore, das auf der Hardware des C64 basierte. Anders als die MAX Machine von 1982 (ein spieleorientierter Computer, der auf einer sehr abgespeckten Version derselben Hardware-Familie basierte) ist der C64GS jedoch dem kompletten C64 sehr ähnlich, mit dem er kompatibel ist.</text>
@@ -29,5 +21,4 @@
 				<singleLineScroll>true</singleLineScroll>
       </text>
 	</view>
-
 </theme>
