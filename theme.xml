@@ -6,6 +6,22 @@ version         2.3
 <?xml version="1.0" encoding="UTF-8"?>
 <theme>
    <formatVersion>4</formatVersion>
+<view name="screen">
+
+    <controllerActivity name="controllerActivity">
+        <pos>0.85 0.945</pos>
+        <size>0.18 0.045</size>
+        <itemSpacing>0.012</itemSpacing>
+        <imagePath>./_inc/images/gamepad.png</imagePath>
+        <gunPath>./_inc/images/gun.png</gunPath>
+        <wheelPath>./_inc/images/wheel.png</wheelPath>
+        <color>FFFFFFA0</color>
+        <activityColor>FF0000FF</activityColor>
+        <hotkeyColor>FF0000FF</hotkeyColor>
+    </controllerActivity>
+
+</view>
+
 
 <feature supported="carousel">
    <view name="system">
@@ -69,17 +85,6 @@ version         2.3
 				<singleLineScroll>true</singleLineScroll>
                                 <text>${system.description}</text>
       </text>
-
-   <controllerActivity name="controllerActivity">
-       <pos>0.02 0.02</pos>
-       <size>0.12 0.035</size>
-       <itemSpacing>0.01</itemSpacing>
-       <imagePath>./_inc/images/gamepad.png</imagePath>
-       <gunPath>./_inc/images/gun.png</gunPath>
-       <wheelPath>./_inc/images/wheel.png</wheelPath>
-       <activityColor>FFFFFFFF</activityColor>
-       <hotkeyColor>FF0000</hotkeyColor>
-   </controllerActivity>
    </view>
 </feature>
 
