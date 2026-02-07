@@ -44,7 +44,7 @@ version         2.3
 
       <image name="sysbar" extra="true">
          <origin>1 0</origin>
-         <pos>0.98 0.8</pos>
+         <pos>0.98 0.83</pos>
          <size>0.95 0.1</size>
          <path>./_inc/images/sysbar.png</path>
       </image>
@@ -71,7 +71,7 @@ version         2.3
          <text lang="de">System: ${system.name}</text>
       </text>
       <text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
+         <pos>0.95 0.83</pos>
          <origin>1 0</origin>
          <size>0.90 0.1</size>
          <backgroundColor>00000000</backgroundColor>
