@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -10,8 +10,8 @@
                 </image>
  		<text name="systemDesc" extra="true">
          <text>DXX-Rebirth is an open-source source port of the Descent and Descent II game engines, with some key features such as improved OpenGL graphics and effects, advanced multiplayer, stability and enhancements. DXX-Rebirth preserves the classic Descent gameplay while offering modern features and compatibility.</text>
-			<text lang="it">DXX-Rebirth è un porting open-source dei motori di gioco Descent e Descent II, con alcune caratteristiche chiave come grafica ed effetti OpenGL migliorati, multiplayer avanzato, stabilità e miglioramenti. DXX-Rebirth conserva il classico gameplay di Descent, offrendo al contempo funzionalità e compatibilità moderne.</text>
-			<text lang="fr">DXX-Rebirth est un portage open-source des moteurs de jeu Descent e Descent II, avec quelques caractéristiques clés telles que des graphismes et des effets OpenGL améliorés, un multijoueur avancé, de la stabilité et des améliorations. DXX-Rebirth préserve le gameplay classique de Descent tout en offrant des fonctionnalités et une compatibilité modernes.</text>
+			<text lang="it">DXX-Rebirth e' un porting open-source dei motori di gioco Descent e Descent II, con alcune caratteristiche chiave come grafica ed effetti OpenGL migliorati, multiplayer avanzato, stabilita' e miglioramenti. DXX-Rebirth conserva il classico gameplay di Descent, offrendo al contempo funzionalita' e compatibilita' moderne.</text>
+			<text lang="fr">DXX-Rebirth est un portage open-source des moteurs de jeu Descent e Descent II, avec quelques caracte'ristiques cle's telles que des graphismes et des effets OpenGL ame'liore's, un multijoueur avance', de la stabilite' et des ame'liorations. DXX-Rebirth pre'serve le gameplay classique de Descent tout en offrant des fonctionnalite's et une compatibilite' modernes.</text>
 			<text lang="de">DXX-Rebirth ist eine quelloffene Portierung der Descent- und Descent II-Spiele-Engines mit einigen wichtigen Funktionen wie verbesserten OpenGL-Grafiken und -Effekten, erweitertem Multiplayer-Modus, Stabilität und Erweiterungen. DXX-Rebirth bewahrt das klassische Descent-Gameplay und bietet gleichzeitig moderne Funktionen und Kompatibilität.</text>
 			<text lang="es">DXX-Rebirth es un port de código abierto de los motores de juego Descent y Descent II, con algunas características clave como gráficos y efectos OpenGL mejorados, multijugador avanzado, estabilidad y mejoras. DXX-Rebirth conserva la jugabilidad clásica de Descent a la vez que ofrece características modernas y compatibilidad.</text>       
       <zIndex>100</zIndex>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+

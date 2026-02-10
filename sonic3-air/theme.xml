@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -12,8 +12,8 @@
          <text>Sonic 3 AIR - Angel Island Revisited, is a fan-made widescreen remaster of Sonic 3 & Knuckles.</text>
 			<text lang="es">Sonic 3 AIR - Angel Island Revisited, es una remasterización en pantalla ancha de Sonic 3 & Knuckles hecha por fans.</text>
 			<text lang="de">Sonic 3 AIR – Angel Island Revisited ist ein von Fans erstelltes Breitbild-Remaster von Sonic 3 & Knuckles.</text>
-			<text lang="fr">Sonic 3 AIR - Angel Island Revisited, est un remaster grand écran réalisé par des fans de Sonic 3 & Knuckles.</text>
-			<text lang="it">Sonic 3 AIR - Angel Island Revisited, è una rimasterizzazione widescreen realizzata dai fan di Sonic 3 e Knuckles.</text>       
+			<text lang="fr">Sonic 3 AIR - Angel Island Revisited, est un remaster grand e'cran re'alise' par des fans de Sonic 3 & Knuckles.</text>
+			<text lang="it">Sonic 3 AIR - Angel Island Revisited, e' una rimasterizzazione widescreen realizzata dai fan di Sonic 3 e Knuckles.</text>       
       <zIndex>100</zIndex>
 		 <alignment>left</alignment>
 				<multiLine>false</multiLine>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+

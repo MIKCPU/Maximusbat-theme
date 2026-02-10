@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -12,8 +12,8 @@
          <text>A collection of settings and a file manager for your retro system.</text>
 			<text lang="es">Una colección de ajustes y un gestor de archivos para tu sistema retro.</text>
 			<text lang="de">Eine Sammlung von Einstellungen und ein Dateimanager für dein Retro-System.</text>
-			<text lang="fr">Une collection de paramètres et un gestionnaire de fichiers pour votre système rétro.</text>
-			<text lang="it">Una raccolta di impostazioni e un file manager per il tuo sistema retrò.</text>
+			<text lang="fr">Une collection de parame'tres et un gestionnaire de fichiers pour votre syste'me re'tro.</text>
+			<text lang="it">Una raccolta di impostazioni e un file manager per il tuo sistema retro'.</text>
       <zIndex>100</zIndex>
 		 <alignment>left</alignment>
 				<multiLine>false</multiLine>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+

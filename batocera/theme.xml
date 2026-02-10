@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -12,7 +12,7 @@
          <text>A collection of all emulators settings and additional scripts for your retro system.</text>
 			<text lang="es">Una colección de todas las configuraciones de emuladores y scripts adicionales para tu sistema retro.</text>
 			<text lang="de">Eine Sammlung aller Emulatoreinstellungen und zusätzlicher Skripte für Ihr Retro-System.</text>
-			<text lang="fr">Une collection de tous les paramètres d'émulateurs et de scripts additionnels pour votre système rétro.</text>
+			<text lang="fr">Une collection de tous les parame'tres d'e'mulateurs et de scripts additionnels pour votre syste'me re'tro.</text>
 			<text lang="it">Una raccolta di tutte le impostazioni degli emulatori e di script aggiuntivi per il vostro sistema retro.</text>       
       <zIndex>100</zIndex>
 		 <alignment>left</alignment>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+

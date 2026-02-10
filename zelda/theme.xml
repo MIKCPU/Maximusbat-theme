@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -11,7 +11,7 @@
  		<text name="systemDesc" extra="true">
          <text>Here is a collection of all the Zelda games, from all the systems present on this machine.</text>
 			<text lang="it">Ecco una raccolta di tutti i giochi di Zelda, da tutti i sistemi presenti su questa macchina.</text>
-			<text lang="fr">Voici une collection de tous les jeux Zelda, provenant de tous les systèmes présents sur cette machine.</text>
+			<text lang="fr">Voici une collection de tous les jeux Zelda, provenant de tous les syste'mes pre'sents sur cette machine.</text>
 			<text lang="de">Hier ist eine Sammlung aller Zelda-Spiele, von allen Systemen, die auf diesem Rechner vorhanden sind.</text>
 			<text lang="es">Aquí hay una colección de todos los juegos de Zelda, de todos los sistemas presentes en esta máquina.</text>       
       <zIndex>100</zIndex>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+

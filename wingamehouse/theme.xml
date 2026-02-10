@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -10,10 +10,10 @@
                 </image>
  		<text name="systemDesc" extra="true">
          <text>GameHouse is a platform offering a variety of casual games like puzzles, Mahjong, hidden objects, and more. The site also features exclusive games, popular series, and curated recommendations like "most played" or "new arrivals" For extra benefits, you can become a member and unlock even more features.</text>
-			<text lang="it">GameHouse è una piattaforma che offre una varietà di giochi casual come puzzle, mahjong, oggetti nascosti e altro ancora.Il sito offre anche giochi esclusivi, serie popolari e raccomandazioni curate come "i più giocati" o "i nuovi arrivi". Per ottenere ulteriori vantaggi, è possibile diventare membri e sbloccare ancora più funzioni.</text>
-			<text lang="fr">GameHouse est une plateforme offrant une variété de jeux occasionnels tels que les puzzles, le Mahjong, les objets cachés et bien d'autres encore. Le site propose également des jeux exclusifs, des séries populaires et des recommandations comme "les plus joués" ou "les nouveaux arrivants". Pour bénéficier d'avantages supplémentaires, vous pouvez devenir membre et débloquer encore plus de fonctionnalités.</text>
+			<text lang="it">GameHouse e' una piattaforma che offre una varieta' di giochi casual come puzzle, mahjong, oggetti nascosti e altro ancora.Il sito offre anche giochi esclusivi, serie popolari e raccomandazioni curate come "i piU' giocati" o "i nuovi arrivi". Per ottenere ulteriori vantaggi, e' possibile diventare membri e sbloccare ancora piU' funzioni.</text>
+			<text lang="fr">GameHouse est une plateforme offrant une varie'te' de jeux occasionnels tels que les puzzles, le Mahjong, les objets cache's et bien d'autres encore. Le site propose e'galement des jeux exclusifs, des se'ries populaires et des recommandations comme "les plus joue's" ou "les nouveaux arrivants". Pour be'ne'ficier d'avantages supple'mentaires, vous pouvez devenir membre et de'bloquer encore plus de fonctionnalite's.</text>
 			<text lang="de">GameHouse ist eine Plattform, die eine Vielzahl von Gelegenheitsspielen wie Puzzles, Mahjong, versteckte Objekte und mehr anbietet. Die Website bietet auch exklusive Spiele, beliebte Serien und Empfehlungen wie "meistgespielt" oder "neu eingetroffen". Um zusätzliche Vorteile zu erhalten, können Sie Mitglied werden und noch mehr Funktionen freischalten.</text>
-			<text lang="es">GameHouse es una plataforma que ofrece una gran variedad de juegos casuales como puzles, Mahjong, objetos ocultos y mucho más. El sitio también ofrece juegos exclusivos, series populares y recomendaciones curadas como "los más jugados" o "los recién llegados". Para obtener ventajas adicionales, puedes hacerte miembro y desbloquear aún más funciones.</text>       
+			<text lang="es">GameHouse es una plataforma que ofrece una gran variedad de juegos casuales como puzles, Mahjong, objetos ocultos y mucho más. El sitio tambie'n ofrece juegos exclusivos, series populares y recomendaciones curadas como "los más jugados" o "los recie'n llegados". Para obtener ventajas adicionales, puedes hacerte miembro y desbloquear aún más funciones.</text>       
       <zIndex>100</zIndex>
 		 <alignment>left</alignment>
 				<multiLine>false</multiLine>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+

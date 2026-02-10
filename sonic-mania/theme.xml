@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -12,8 +12,8 @@
          <text>This is a game engine to allow you to play Sonic Mania.</text>
 			<text lang="es">Este es un motor de juego que te permitirá jugar Sonic Mania..</text>
 			<text lang="de">Dies ist eine Spiel-Engine, mit der Sie Sonic Mania spielen können.</text>
-			<text lang="fr">Ceci est un moteur de jeu pour vous permettre de jouer à Sonic Mania.</text>
-			<text lang="it">Questo è un motore di gioco che ti permette di giocare a Sonic Mania.</text>       
+			<text lang="fr">Ceci est un moteur de jeu pour vous permettre de jouer a' Sonic Mania.</text>
+			<text lang="it">Questo e' un motore di gioco che ti permette di giocare a Sonic Mania.</text>       
       <zIndex>100</zIndex>
 		 <alignment>left</alignment>
 				<multiLine>false</multiLine>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+

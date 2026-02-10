@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -12,7 +12,7 @@
          <text>Gallery of screenshots taken during the game.</text>
 			<text lang="es">Galería de capturas de pantalla tomadas durante el juego.</text>
 			<text lang="de">Galerie mit Screenshots, die während des Spiels aufgenommen wurden.</text>
-			<text lang="fr">Galerie de captures d'écran prises pendant le jeu.</text>
+			<text lang="fr">Galerie de captures d'e'cran prises pendant le jeu.</text>
 			<text lang="it">Galleria di screenshot acquisiti durante il gioco.</text>       
       <zIndex>100</zIndex>
 		 <alignment>left</alignment>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+

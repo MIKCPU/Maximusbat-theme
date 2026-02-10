@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -10,10 +10,10 @@
                 </image>
  		<text name="systemDesc" extra="true">
          <text>Lutro is an experimental lua game framework that follows the LOVE API. Lutro games can be played with LibRetro/RetroArch through the Lutro core.</text>
-			<text lang="es">Lutro es un framework experimental de juegos en lua que sigue la API LOVE. Los juegos de Lutro se pueden jugar con LibRetro/RetroArch a través del núcleo de Lutro.</text>
+			<text lang="es">Lutro es un framework experimental de juegos en lua que sigue la API LOVE. Los juegos de Lutro se pueden jugar con LibRetro/RetroArch a trave's del núcleo de Lutro.</text>
 			<text lang="de">Lutro ist ein experimentelles Lua-Spiel-Framework, das der LOVE-API folgt. Lutro-Spiele können mit LibRetro/RetroArch über den Lutro-Kern gespielt werden.</text>
-			<text lang="fr">Lutro est un cadre de jeu expérimental en Lua qui suit l'API LOVE. Les jeux Lutro peuvent être joués avec LibRetro/RetroArch à travers le noyau Lutro.</text>
-			<text lang="it">Lutro è un framework di gioco lua sperimentale che segue le API LOVE. I giochi di Lutro possono essere giocati con LibRetro/RetroArch attraverso il core di Lutro.</text>       
+			<text lang="fr">Lutro est un cadre de jeu expe'rimental en Lua qui suit l'API LOVE. Les jeux Lutro peuvent être joue's avec LibRetro/RetroArch a' travers le noyau Lutro.</text>
+			<text lang="it">Lutro e' un framework di gioco lua sperimentale che segue le API LOVE. I giochi di Lutro possono essere giocati con LibRetro/RetroArch attraverso il core di Lutro.</text>       
       <zIndex>100</zIndex>
 		 <alignment>left</alignment>
 				<multiLine>false</multiLine>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+

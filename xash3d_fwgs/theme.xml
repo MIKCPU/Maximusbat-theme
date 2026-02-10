@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -12,8 +12,8 @@
          <text>Xash3D FWGS is a fork of Xash3D Engine, compatible with GoldSrc engine. Allows to play Half-Life out-of-the-box and other Half-Life based modifications, with many new features: high portability, advanced multiplayer, touchscreen &amp; gamepad support and much more.</text>
 			<text lang="es">Xash3D FWGS es un fork de Xash3D Engine, compatible con el motor GoldSrc. Permite jugar a Half-Life out-of-the-box y otras modificaciones basadas en Half-Life, con muchas nuevas características: alta portabilidad, multijugador avanzado, pantalla táctil &amp; soporte para gamepad y mucho más.</text>
 			<text lang="de">Xash3D FWGS ist ein Fork der Xash3D Engine, kompatibel mit der GoldSrc Engine. Ermöglicht das Spielen von Half-Life out-of-the-box und anderen Half-Life-basierten Modifikationen, mit vielen neuen Funktionen: hohe Portabilität, erweiterte Multiplayer, Touchscreen &amp; Gamepad-Unterstützung und vieles mehr.</text>
-			<text lang="fr">Xash3D FWGS est un fork de Xash3D Engine, compatible avec le moteur GoldSrc. Il permet de jouer à Half-Life et à d'autres modifications basées sur Half-Life, avec de nombreuses nouvelles fonctionnalités : grande portabilité, multijoueur avancé, prise en charge des écrans tactiles et des manettes de jeu, et bien plus encore.</text>
-			<text lang="it">Xash3D FWGS è un fork di Xash3D Engine, compatibile con il motore GoldSrc. Permette di giocare ad Half-Life out-of-the-box e ad altre modifiche basate su Half-Life, con molte nuove caratteristiche: alta portabilità, multiplayer avanzato, supporto per touchscreen e gamepad e molto altro.</text>       
+			<text lang="fr">Xash3D FWGS est un fork de Xash3D Engine, compatible avec le moteur GoldSrc. Il permet de jouer a' Half-Life et a' d'autres modifications base'es sur Half-Life, avec de nombreuses nouvelles fonctionnalite's : grande portabilite', multijoueur avance', prise en charge des e'crans tactiles et des manettes de jeu, et bien plus encore.</text>
+			<text lang="it">Xash3D FWGS e' un fork di Xash3D Engine, compatibile con il motore GoldSrc. Permette di giocare ad Half-Life out-of-the-box e ad altre modifiche basate su Half-Life, con molte nuove caratteristiche: alta portabilita', multiplayer avanzato, supporto per touchscreen e gamepad e molto altro.</text>       
       <zIndex>100</zIndex>
 		 <alignment>left</alignment>
 				<multiLine>false</multiLine>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+

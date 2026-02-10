@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -12,8 +12,8 @@
          <text>A three-player game is a multiplayer game that can be played by up to three players simultaneously. Here is a collection of your games that support three-player game.</text>
 			<text lang="es">Un juego de tres jugadores es un juego multijugador al que pueden jugar hasta tres jugadores simultáneamente. Aquí tienes una colección de tus juegos que admiten juegos de tres jugadores..</text>
 			<text lang="de">Ein Drei-Spieler-Spiel ist ein Mehrspielerspiel, das von bis zu drei Spielern gleichzeitig gespielt werden kann. Hier ist eine Sammlung Ihrer Spiele, die das Spiel für drei Spieler unterstützen.</text>
-			<text lang="fr">Un jeu à trois joueurs est un jeu multijoueur qui peut être joué par jusqu'à trois joueurs simultanément. Voici une collection de vos jeux prenant en charge le jeu à trois joueurs.</text>
-			<text lang="it">Una partita a tre giocatori è una partita multiplayer a cui possono partecipare fino a tre giocatori contemporaneamente. Ecco una raccolta dei tuoi giochi che supportano il gioco a tre giocatori.</text>       
+			<text lang="fr">Un jeu a' trois joueurs est un jeu multijoueur qui peut être joue' par jusqu'a' trois joueurs simultane'ment. Voici une collection de vos jeux prenant en charge le jeu a' trois joueurs.</text>
+			<text lang="it">Una partita a tre giocatori e' una partita multiplayer a cui possono partecipare fino a tre giocatori contemporaneamente. Ecco una raccolta dei tuoi giochi che supportano il gioco a tre giocatori.</text>       
       <zIndex>100</zIndex>
 		 <alignment>left</alignment>
 				<multiLine>false</multiLine>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+

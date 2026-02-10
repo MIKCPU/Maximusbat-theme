@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -12,8 +12,8 @@
          <text>A two-player game is a multiplayer game played by exactly two players. Here is a collection of your games that support two-player play.</text>
 			<text lang="es">Un juego para dos jugadores es un juego multijugador en el que participan exactamente dos jugadores. Aquí tienes una colección de tus juegos compatibles con dos jugadores.</text>
 			<text lang="de">Ein Zwei-Spieler-Spiel ist ein Mehrspieler-Spiel, das von genau zwei Spielern gespielt wird. Hier ist eine Sammlung von Spielen, die zwei Spieler unterstützen.</text>
-			<text lang="fr">Un jeu à deux joueurs est un jeu multijoueur auquel jouent exactement deux joueurs. Voici une collection de vos jeux qui permettent de jouer à deux.</text>
-			<text lang="it">Un gioco a due giocatori è un gioco multigiocatore giocato esattamente da due giocatori. Ecco una raccolta di giochi che supportano il gioco a due giocatori.</text>       
+			<text lang="fr">Un jeu a' deux joueurs est un jeu multijoueur auquel jouent exactement deux joueurs. Voici une collection de vos jeux qui permettent de jouer a' deux.</text>
+			<text lang="it">Un gioco a due giocatori e' un gioco multigiocatore giocato esattamente da due giocatori. Ecco una raccolta di giochi che supportano il gioco a due giocatori.</text>       
       <zIndex>100</zIndex>
 		 <alignment>left</alignment>
 				<multiLine>false</multiLine>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+

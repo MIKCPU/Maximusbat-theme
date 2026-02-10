@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -12,7 +12,7 @@
          <text>Listen to various online radio streams.</text>
 			<text lang="es">Escuche varias transmisiones de radio en línea.</text>
 			<text lang="de">Hören Sie verschiedene Online-Radiostreams.</text>
-			<text lang="fr">Écoutez divers flux de radio en ligne.</text>
+			<text lang="fr">e'coutez divers flux de radio en ligne.</text>
 			<text lang="it">Ascolta vari flussi radio online.</text>       
       <zIndex>100</zIndex>
 		 <alignment>left</alignment>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+

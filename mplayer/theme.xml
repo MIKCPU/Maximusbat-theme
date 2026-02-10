@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -10,10 +10,10 @@
                 </image>
  		<text name="systemDesc" extra="true">
          <text>MPlayer is a free and open-source media player software application. It is available for Linux, OS X and Microsoft Windows. Versions for OS/2, Syllable, AmigaOS, MorphOS and AROS Research Operating System are also available. A port for DOS using DJGPP is also available. Versions for the Wii Homebrew Channel and Amazon Kindle have also been developed.</text>
-			<text lang="es">MPlayer es una aplicación de software de reproducción multimedia gratuita y de código abierto. Está disponible para Linux, OS X y Microsoft Windows. También existen versiones para OS/2, Syllable, AmigaOS, MorphOS y AROS Research Operating System. También está disponible un puerto para DOS que utiliza DJGPP. También se han desarrollado versiones para Wii Homebrew Channel y Amazon Kindle.</text>
+			<text lang="es">MPlayer es una aplicación de software de reproducción multimedia gratuita y de código abierto. Está disponible para Linux, OS X y Microsoft Windows. Tambie'n existen versiones para OS/2, Syllable, AmigaOS, MorphOS y AROS Research Operating System. Tambie'n está disponible un puerto para DOS que utiliza DJGPP. Tambie'n se han desarrollado versiones para Wii Homebrew Channel y Amazon Kindle.</text>
 			<text lang="de">MPlayer ist eine freie und quelloffene Media-Player-Software. Sie ist für Linux, OS X und Microsoft Windows verfügbar. Versionen für OS/2, Syllable, AmigaOS, MorphOS und AROS Research Operating System sind ebenfalls verfügbar. Eine Portierung für DOS mit DJGPP ist ebenfalls verfügbar. Versionen für den Wii Homebrew Channel und Amazon Kindle wurden ebenfalls entwickelt.</text>
-			<text lang="fr">MPlayer est un logiciel de lecture multimédia libre et gratuit. Il est disponible pour Linux, OS X et Microsoft Windows. Des versions pour OS/2, Syllable, AmigaOS, MorphOS et AROS Research Operating System sont également disponibles. Un portage pour DOS utilisant DJGPP est également disponible. Des versions pour la chaîne Homebrew de la Wii et l'Amazon Kindle ont également été développées.</text>
-			<text lang="it">MPlayer è un'applicazione software gratuita e open-source per la riproduzione di file multimediali. È disponibile per Linux, OS X e Microsoft Windows. Sono disponibili anche versioni per OS/2, Syllable, AmigaOS, MorphOS e AROS Research Operating System. È disponibile anche una versione per DOS con DJGPP. Sono state sviluppate anche versioni per il Canale Homebrew Wii e per Amazon Kindle.</text>       
+			<text lang="fr">MPlayer est un logiciel de lecture multime'dia libre et gratuit. Il est disponible pour Linux, OS X et Microsoft Windows. Des versions pour OS/2, Syllable, AmigaOS, MorphOS et AROS Research Operating System sont e'galement disponibles. Un portage pour DOS utilisant DJGPP est e'galement disponible. Des versions pour la chaîne Homebrew de la Wii et l'Amazon Kindle ont e'galement e'te' de'veloppe'es.</text>
+			<text lang="it">MPlayer e' un'applicazione software gratuita e open-source per la riproduzione di file multimediali. e' disponibile per Linux, OS X e Microsoft Windows. Sono disponibili anche versioni per OS/2, Syllable, AmigaOS, MorphOS e AROS Research Operating System. e' disponibile anche una versione per DOS con DJGPP. Sono state sviluppate anche versioni per il Canale Homebrew Wii e per Amazon Kindle.</text>       
       <zIndex>100</zIndex>
 		 <alignment>left</alignment>
 				<multiLine>false</multiLine>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+

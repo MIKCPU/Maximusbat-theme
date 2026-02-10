@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -13,7 +13,7 @@
 			<text lang="es">Una colección de juegos de plataformas. La colección se toma de tus juegos disponibles.</text>
 			<text lang="de">Eine Sammlung von Plattformspielen. Die Sammlung wird aus Ihren verfügbaren Spielen übernommen.</text>
 			<text lang="fr">Une collection de jeux de plateforme. La collection est extraite de vos jeux disponibles.</text>
-			<text lang="it">Una raccolta di giochi di piattaforma. La raccolta è presa dai tuoi giochi disponibili.</text>       
+			<text lang="it">Una raccolta di giochi di piattaforma. La raccolta e' presa dai tuoi giochi disponibili.</text>       
       <zIndex>100</zIndex>
 		 <alignment>left</alignment>
 				<multiLine>false</multiLine>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+

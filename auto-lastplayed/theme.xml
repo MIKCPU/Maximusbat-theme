@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -12,7 +12,7 @@
          <text>Here's a collection of all the games, from all the systems, that have been launched so far.</text>
 			<text lang="es">Aquí tienes una recopilación de todos los juegos, de todos los sistemas que se han lanzado hasta ahora.</text>
 			<text lang="de">Hier finden Sie eine Sammlung aller Spiele für alle Systeme, die bisher auf den Markt gekommen sind.</text>
-			<text lang="fr">Voici une collection de tous les jeux, pour tous les systèmes qui ont été lancés jusqu'à présent.</text>
+			<text lang="fr">Voici une collection de tous les jeux, pour tous les syste'mes qui ont e'te' lance's jusqu'a' pre'sent.</text>
 			<text lang="it">Ecco una raccolta di tutti i giochi, da tutti i sistemi che sono stati usati finora.</text>       
       <zIndex>100</zIndex>
 		 <alignment>left</alignment>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+

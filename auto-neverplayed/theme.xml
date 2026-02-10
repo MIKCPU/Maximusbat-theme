@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -12,7 +12,7 @@
          <text>Here's a collection of all the games, from all the systems, that have not been launched so far.</text>
 			<text lang="es">Aquí tienes una recopilación de todos los juegos, de todos los sistemas, que no se han lanzado hasta ahora.</text>
 			<text lang="de">Hier finden Sie eine Sammlung aller Spiele für alle Systeme, die bisher noch nicht auf den Markt gekommen sind.</text>
-			<text lang="fr">Voici une collection de tous les jeux, de tous les systèmes, qui n'ont pas encore été lancés.</text>
+			<text lang="fr">Voici une collection de tous les jeux, de tous les syste'mes, qui n'ont pas encore e'te' lance's.</text>
 			<text lang="it">Ecco una raccolta di tutti i giochi, di tutti i sistemi, che non sono stati lanciati finora.</text>       
       <zIndex>100</zIndex>
 		 <alignment>left</alignment>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+

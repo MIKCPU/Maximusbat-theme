@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -12,8 +12,8 @@
          <text>Library is a collection of magazines, advertising banners, catalogs, posters and all other documents related to retro gaming. It has a built-in file browser, so you can use the controller to browse your collection.</text>
 			<text lang="es">Library es una colección de revistas, banners publicitarios, catálogos, carteles y todos los demás documentos relacionados con los juegos retro. Tiene un explorador de archivos integrado, así que puedes usar el mando para explorar tu colección.</text>
 			<text lang="de">Library ist eine Sammlung von Magazinen, Werbebannern, Katalogen, Postern und allen anderen Dokumenten, die mit Retro-Gaming zu tun haben. Es hat einen eingebauten Dateibrowser, so dass Sie den Controller verwenden können, um Ihre Sammlung zu durchsuchen.</text>
-			<text lang="fr">Library est une collection de magazines, de bannières publicitaires, de catalogues, d'affiches et de tous les autres documents liés au jeu rétro. Elle dispose d'un navigateur de fichiers intégré, ce qui vous permet d'utiliser la manette pour parcourir votre collection.</text>
-			<text lang="it">Library è una raccolta di riviste, banner pubblicitari, cataloghi, poster e tutti gli altri documenti relativi al gioco retro. Dispone di un browser di file integrato, per cui è possibile utilizzare il controller per sfogliare la propria collezione.</text>       
+			<text lang="fr">Library est une collection de magazines, de bannie'res publicitaires, de catalogues, d'affiches et de tous les autres documents lie's au jeu re'tro. Elle dispose d'un navigateur de fichiers inte'gre', ce qui vous permet d'utiliser la manette pour parcourir votre collection.</text>
+			<text lang="it">Library e' una raccolta di riviste, banner pubblicitari, cataloghi, poster e tutti gli altri documenti relativi al gioco retro. Dispone di un browser di file integrato, per cui e' possibile utilizzare il controller per sfogliare la propria collezione.</text>       
       <zIndex>100</zIndex>
 		 <alignment>left</alignment>
 				<multiLine>false</multiLine>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+

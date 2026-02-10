@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -10,10 +10,10 @@
                 </image>
  		<text name="systemDesc" extra="true">
          <text>Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets. Android is developed by a consortium of developers known as the Open Handset Alliance and commercially sponsored by Google. It was unveiled in November 2007, with the first commercial Android device, the HTC Dream, being launched in September 2008.</text>
-			<text lang="es">Android es un sistema operativo móvil basado en una versión modificada del núcleo de Linux y otro software de código abierto, diseñado principalmente para dispositivos móviles con pantalla táctil, como teléfonos inteligentes y tabletas. Android es desarrollado por un consorcio de desarrolladores conocido como Open Handset Alliance y patrocinado comercialmente por Google. Se presentó en noviembre de 2007 y el primer dispositivo comercial con Android, el HTC Dream, en septiembre de 2008.</text>
+			<text lang="es">Android es un sistema operativo móvil basado en una versión modificada del núcleo de Linux y otro software de código abierto, diseñado principalmente para dispositivos móviles con pantalla táctil, como tele'fonos inteligentes y tabletas. Android es desarrollado por un consorcio de desarrolladores conocido como Open Handset Alliance y patrocinado comercialmente por Google. Se presentó en noviembre de 2007 y el primer dispositivo comercial con Android, el HTC Dream, en septiembre de 2008.</text>
 			<text lang="de">Android ist ein mobiles Betriebssystem, das auf einer modifizierten Version des Linux-Kernels und anderer Open-Source-Software basiert und in erster Linie für mobile Geräte mit Touchscreen wie Smartphones und Tablets konzipiert ist. Android wird von einem Konsortium von Entwicklern entwickelt, das als Open Handset Alliance bekannt ist und von Google kommerziell unterstützt wird. Es wurde im November 2007 vorgestellt, und das erste kommerzielle Android-Gerät, das HTC Dream, kam im September 2008 auf den Markt.</text>
-			<text lang="fr">Android est un système d'exploitation mobile basé sur une version modifiée du noyau Linux et d'autres logiciels libres, conçu principalement pour les appareils mobiles à écran tactile tels que les smartphones et les tablettes. Android est développé par un consortium de développeurs connu sous le nom d'Open Handset Alliance et parrainé commercialement par Google. Il a été dévoilé en novembre 2007 et le premier appareil Android commercial, le HTC Dream, a été lancé en septembre 2008.</text>
-			<text lang="it">Android è un sistema operativo mobile basato su una versione modificata del kernel Linux e su altri software open source, progettato principalmente per dispositivi mobili touchscreen come smartphone e tablet. Android è sviluppato da un consorzio di sviluppatori noto come Open Handset Alliance e sponsorizzato commercialmente da Google. È stato presentato nel novembre 2007 e il primo dispositivo commerciale Android, l'HTC Dream, è stato lanciato nel settembre 2008.</text>   
+			<text lang="fr">Android est un syste'me d'exploitation mobile base' sur une version modifie'e du noyau Linux et d'autres logiciels libres, conçu principalement pour les appareils mobiles a' e'cran tactile tels que les smartphones et les tablettes. Android est de'veloppe' par un consortium de de'veloppeurs connu sous le nom d'Open Handset Alliance et parraine' commercialement par Google. Il a e'te' de'voile' en novembre 2007 et le premier appareil Android commercial, le HTC Dream, a e'te' lance' en septembre 2008.</text>
+			<text lang="it">Android e' un sistema operativo mobile basato su una versione modificata del kernel Linux e su altri software open source, progettato principalmente per dispositivi mobili touchscreen come smartphone e tablet. Android e' sviluppato da un consorzio di sviluppatori noto come Open Handset Alliance e sponsorizzato commercialmente da Google. e' stato presentato nel novembre 2007 e il primo dispositivo commerciale Android, l'HTC Dream, e' stato lanciato nel settembre 2008.</text>   
       <zIndex>100</zIndex>
 		 <alignment>left</alignment>
 				<multiLine>false</multiLine>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+

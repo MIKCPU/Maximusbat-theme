@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -11,9 +11,9 @@
  		<text name="systemDesc" extra="true">
          <text>Here is a collection of all the games of this genre, from all the systems you have on this machine.</text>
 			<text lang="it">Ecco una raccolta di tutti i giochi di questo genere, da tutti i sistemi presenti su questa macchina.</text>
-			<text lang="fr">Voici une collection de tous les jeux de ce genre, de tous les systèmes sur cette machine.</text>
+			<text lang="fr">Voici une collection de tous les jeux de ce genre, de tous les syste'mes sur cette machine.</text>
 			<text lang="de">Hier ist eine Sammlung aller Spiele dieses Genres von allen Systemen auf diesem Rechner.</text>
-			<text lang="es">Aquí tienes una recopilación de todos los juegos de este género, de todos los sistemas de esta máquina.</text>    
+			<text lang="es">Aquí tienes una recopilación de todos los juegos de este ge'nero, de todos los sistemas de esta máquina.</text>    
       <zIndex>100</zIndex>
 		 <alignment>left</alignment>
 				<multiLine>false</multiLine>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+

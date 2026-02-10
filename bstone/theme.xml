@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -11,7 +11,7 @@
  		<text name="systemDesc" extra="true">
          <text>Unofficial source port for “Blake Stone” game series: “Aliens Of Gold” and “Planet Strike”.</text>
 			<text lang="it">Port non ufficiale per la serie di giochi "Blake Stone": "Aliens Of Gold" e "Planet Strike".</text>
-			<text lang="fr">Port non officiel pour la série de jeux "Blake Stone" : "Aliens Of Gold" et "Planet Strike".</text>
+			<text lang="fr">Port non officiel pour la se'rie de jeux "Blake Stone" : "Aliens Of Gold" et "Planet Strike".</text>
 			<text lang="de">Inoffizielle Portierung der "Blake Stone"-Spieleserie: "Aliens Of Gold" und "Planet Strike".</text>
 			<text lang="es">Port no oficial de la serie de juegos "Blake Stone": "Aliens Of Gold" y "Planet Strike".</text>       
       <zIndex>100</zIndex>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+

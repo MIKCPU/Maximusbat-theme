@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -12,7 +12,7 @@
          <text>Here's a collection of all games, from all systems, that have been added to favorites.</text>
 			<text lang="es">Aquí tienes una recopilación de todos los juegos, de todos los sistemas, que se han añadido a favoritos.</text>
 			<text lang="de">Hier ist eine Sammlung aller Spiele von allen Systemen, die zu den Favoriten hinzugefügt wurden.</text>
-			<text lang="fr">Voici une collection de tous les jeux, tous systèmes confondus, qui ont été ajoutés aux favoris.</text>
+			<text lang="fr">Voici une collection de tous les jeux, tous syste'mes confondus, qui ont e'te' ajoute's aux favoris.</text>
 			<text lang="it">Ecco una raccolta di tutti i giochi, di tutti i sistemi, che sono stati aggiunti ai preferiti.</text>       
       <zIndex>100</zIndex>
 		 <alignment>left</alignment>
@@ -22,3 +22,4 @@
       </text>
 	</view>
 </theme>
+
