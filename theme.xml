@@ -9,8 +9,8 @@ version         2.3
 <view name="screen">
 
     <controllerActivity name="controllerActivity">
-        <pos>0.86 0.945</pos>
-        <size>0.18 0.045</size>
+        <pos>0.86 0.01</pos>
+        <size>0.16 0.04</size>
         <itemSpacing>0.012</itemSpacing>
         <imagePath>./_inc/images/gamepad.png</imagePath>
         <gunPath>./_inc/images/gun.png</gunPath>
