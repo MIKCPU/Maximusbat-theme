@@ -1,0 +1,16 @@
+
+<theme>
+
+    <view name="video,detailed">
+        <video name="md_video">
+            <visible>true</visible>
+        </video>
+    </view>
+
+    <view name="video,detailed">
+        <video name="md_video">
+            <visible>true</visible>
+        </video>
+    </view>
+
+</theme>

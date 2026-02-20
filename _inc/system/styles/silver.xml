@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+   <view name="basic,detailed,video">
+      <textlist name="gamelist">
+         <selectedColor>FF0000</selectedColor>
+         <primaryColor>C0C0C0</primaryColor>
+         <secondaryColor>C0C0C0</secondaryColor>
+      </textlist>
+   </view>
+   <view name="system">
+      <text name="systemDesc">
+         <color>C0C0C0</color>
+      </text>
+   </view>
+<view name="system">
+   <text name="systemInfo">
+      <color>C0C0C0</color>
+   </text>
+</view>
+</theme>
