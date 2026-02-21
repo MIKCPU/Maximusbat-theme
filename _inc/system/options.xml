@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <theme>
 
-   <include subset="videomode" name="Video ON" displayName=" Si Video / Video On">./_inc/system/layouts/video_on.xml</include>
-   <include subset="videomode" name="Video OFF" displayName="No Video / Video Off">./_inc/system/layouts/video_off.xml</include>
-
    <include subset="style" name="White"  displayName="Bianco / White">./styles/white.xml</include>
    <include subset="style" name="Blue"   displayName="Blu / Blue">./styles/blue.xml</include>
    <include subset="style" name="Orange"  displayName="Arancione / Orange">./styles/orange.xml</include>

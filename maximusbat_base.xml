@@ -214,7 +214,7 @@ version         2.3
          <maxSize>0.13 0.13</maxSize>
       </image>
    </view>
-   <view name="video, detailed">
+   <view name="detailed,video">
       <image name="logo">
          <origin>0.5 0.5</origin>
          <pos>1.5 1.125</pos>
