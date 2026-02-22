@@ -141,7 +141,7 @@ version         2.3
          <path>./_inc/images/backgrounddetail.png</path>
       </image>
 
-      <image name="background" extra="true">
+      <image name="system_background" extra="true">
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>

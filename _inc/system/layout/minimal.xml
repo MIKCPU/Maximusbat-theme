@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+
+  <view name="system">
+
+    <text name="system_title">
+      <visible>0</visible>
+    </text>
+
+    <text name="systemDesc">
+      <visible>0</visible>
+    </text>
+
+    <image name="sysbar">
+      <visible>0</visible>
+    </image>
+
+    <text name="systemInfo">
+      <visible>0</visible>
+    </text>
+
+  </view>
+
+</theme>

@@ -7,6 +7,18 @@
    <include subset="style" name="Gold"   displayName="Oro / Gold">./styles/gold.xml</include>
    <include subset="style" name="Silver" displayName="Argento / Silver">./styles/silver.xml</include>
 
+   <include subset="mediamode" name="Video" displayName="Video + Image">./mediamode/video.xml</include>
+   <include subset="mediamode" name="Image" displayName="Solo Immagine">./mediamode/image.xml</include>
+
+   <include subset="layout" name="Default" displayName="Layout Default">./layout/default.xml</include>
+   <include subset="layout" name="Minimal" displayName="Layout Minimal">./layout/minimal.xml</include>
+   <include subset="layout" name="Arcade" displayName="Layout Arcade">./layout/arcade.xml</include>
+
+   <include subset="controller" name="On" displayName="Controller ON">./controller/on.xml</include>
+   <include subset="controller" name="Off" displayName="Controller OFF">./controller/off.xml</include>
+
+   <include subset="device" name="On" displayName="Device ON">./device/on.xml</include>
+   <include subset="device" name="Off" displayName="Device OFF">./device/off.xml</include>
 
 </theme>
 

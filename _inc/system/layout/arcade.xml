@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+
+  <view name="detailed,video">
+    <image name="system_background">
+      <visible>0</visible>
+    </image>
+  </view>
+
+<view name="detailed,video">
+      <image name="system_device">
+         <visible>false</visible>
+      </image>
+   </view>
+
+   <view name="detailed,video">
+      <image name="controller_image">
+         <visible>false</visible>
+      </image>
+   </view>
+
+
+</theme>
