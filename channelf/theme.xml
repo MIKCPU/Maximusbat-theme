@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>The Fairchild Channel F, short for "Channel Fun", was the first programmable ROM cartridge–based video game console, and the first console to use a microprocessor. It was released by Fairchild Semiconductor in November 1976 across North America. It was originally named "Video Entertainment System", but when Atari released its Video Computer System the next year, Fairchild changed the name for its machine, although they continued to use the old name alongside it. By 1977, the Fairchild Channel F had sold about 250,000 units, trailing behind sales of the VCS. In 1983, the production of the system was discontinued.</text>
-			<text lang="es">La Fairchild Channel F, abreviatura de "Channel Fun", fue la primera consola de videojuegos basada en cartuchos ROM programables, y la primera consola en utilizar un microprocesador. Fue lanzada por Fairchild Semiconductor en noviembre de 1976 en Norteame'rica. Originalmente se llamaba "Video Entertainment System", pero cuando Atari lanzó su Video Computer System al año siguiente, Fairchild cambió el nombre para su máquina, aunque siguió utilizando el antiguo nombre junto a ella. En 1977, el Fairchild Channel F había vendido unas 250.000 unidades, por detrás de las ventas del VCS. En 1983, se interrumpió la producción del sistema.</text>
-			<text lang="de">Der Fairchild Channel F, kurz für "Channel Fun", war die erste programmierbare Videospielkonsole auf ROM-Kassettenbasis und die erste Konsole, die einen Mikroprozessor verwendete. Sie wurde von Fairchild Semiconductor im November 1976 in Nordamerika auf den Markt gebracht. Ursprünglich trug sie den Namen "Video Entertainment System", aber als Atari im darauf folgenden Jahr sein Video Computer System herausbrachte, änderte Fairchild den Namen für seine Maschine, obwohl sie den alten Namen weiterhin daneben verwendeten. Bis 1977 verkaufte Fairchild Channel F etwa 250.000 Einheiten und blieb damit hinter den Verkäufen des VCS zurück. Im Jahr 1983 wurde die Produktion des Systems eingestellt.</text>
-			<text lang="fr">La Fairchild Channel F, abre'viation de "Channel Fun", est la premie're console de jeux vide'o a' cartouche ROM programmable et la premie're console a' utiliser un microprocesseur. Elle a e'te' commercialise'e par Fairchild Semiconductor en novembre 1976 en Ame'rique du Nord. Elle s'appelait a' l'origine "Video Entertainment System", mais lorsque Atari a sorti son Video Computer System l'anne'e suivante, Fairchild a change' le nom de sa machine, bien qu'elle ait continue' a' utiliser l'ancien nom a' côte'. En 1977, le Fairchild Channel F s'e'tait vendu a' environ 250 000 exemplaires, derrie're le VCS. En 1983, la production du syste'me a e'te' arrête'e.</text>
-			<text lang="it">Il Fairchild Channel F, abbreviazione di "Channel Fun", e' stata la prima console per videogiochi basata su cartucce ROM programmabili e la prima console a utilizzare un microprocessore. Fu messa in commercio da Fairchild Semiconductor nel novembre 1976 in tutto il Nord America. Inizialmente si chiamava "Video Entertainment System", ma quando Atari rilascio' il suo Video Computer System l'anno successivo, Fairchild cambio' il nome della sua macchina, anche se continuo' a usare il vecchio nome accanto ad esso. Nel 1977, il Fairchild Channel F aveva venduto circa 250.000 unita', rimanendo indietro rispetto alle vendite del VCS. Nel 1983 la produzione del sistema fu interrotta.</text>       
+         <text>The Fairchild Channel F, short for "Channel Fun", was the first programmable ROM cartridge–based video game console, and the first console to use a microprocessor. It was released by Fairchild Semiconductor in November 1976 across North America. It was originally named "Video Entertainment System", but when Atari released its Video Computer System the next year, Fairchild changed the name for its machine, although they continued to use the old name alongside it. By 1977, the Fairchild Channel F had sold about 250,000 units, trailing behind sales of the VCS. In 1983, the production of the system was discontinued.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">La Fairchild Channel F, abreviatura de "Channel Fun", fue la primera consola de videojuegos basada en cartuchos ROM programables, y la primera consola en utilizar un microprocesador. Fue lanzada por Fairchild Semiconductor en noviembre de 1976 en Norteame'rica. Originalmente se llamaba "Video Entertainment System", pero cuando Atari lanzó su Video Computer System al año siguiente, Fairchild cambió el nombre para su máquina, aunque siguió utilizando el antiguo nombre junto a ella. En 1977, el Fairchild Channel F había vendido unas 250.000 unidades, por detrás de las ventas del VCS. En 1983, se interrumpió la producción del sistema.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Der Fairchild Channel F, kurz für "Channel Fun", war die erste programmierbare Videospielkonsole auf ROM-Kassettenbasis und die erste Konsole, die einen Mikroprozessor verwendete. Sie wurde von Fairchild Semiconductor im November 1976 in Nordamerika auf den Markt gebracht. Ursprünglich trug sie den Namen "Video Entertainment System", aber als Atari im darauf folgenden Jahr sein Video Computer System herausbrachte, änderte Fairchild den Namen für seine Maschine, obwohl sie den alten Namen weiterhin daneben verwendeten. Bis 1977 verkaufte Fairchild Channel F etwa 250.000 Einheiten und blieb damit hinter den Verkäufen des VCS zurück. Im Jahr 1983 wurde die Produktion des Systems eingestellt.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">La Fairchild Channel F, abre'viation de "Channel Fun", est la premie're console de jeux vide'o a' cartouche ROM programmable et la premie're console a' utiliser un microprocesseur. Elle a e'te' commercialise'e par Fairchild Semiconductor en novembre 1976 en Ame'rique du Nord. Elle s'appelait a' l'origine "Video Entertainment System", mais lorsque Atari a sorti son Video Computer System l'anne'e suivante, Fairchild a change' le nom de sa machine, bien qu'elle ait continue' a' utiliser l'ancien nom a' côte'. En 1977, le Fairchild Channel F s'e'tait vendu a' environ 250 000 exemplaires, derrie're le VCS. En 1983, la production du syste'me a e'te' arrête'e.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Il Fairchild Channel F, abbreviazione di "Channel Fun", e' stata la prima console per videogiochi basata su cartucce ROM programmabili e la prima console a utilizzare un microprocessore. Fu messa in commercio da Fairchild Semiconductor nel novembre 1976 in tutto il Nord America. Inizialmente si chiamava "Video Entertainment System", ma quando Atari rilascio' il suo Video Computer System l'anno successivo, Fairchild cambio' il nome della sua macchina, anche se continuo' a usare il vecchio nome accanto ad esso. Nel 1977, il Fairchild Channel F aveva venduto circa 250.000 unita', rimanendo indietro rispetto alle vendite del VCS. Nel 1983 la produzione del sistema fu interrotta.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

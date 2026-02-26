@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>The Tomy Tutor, originally sold in Japan as the Pyūta (ぴゅう太) and in the UK as the Grandstand Tutor, is a home computer produced by the Japanese toymaker Tomy. It was architecturally similar, but not identical, to the Texas Instruments TI-99/4A, and used a similar Texas Instruments 16-bit CPU. The computer was launched in Japan in 1982, and in the UK and the United States in the next year.</text>
-			<text lang="es">El Tomy Tutor, vendido originalmente en Japón como Pyūta (ぴゅう太) y en el Reino Unido como Grandstand Tutor, es un ordenador dome'stico producido por el fabricante de juguetes japone's Tomy. Era arquitectónicamente similar, pero no ide'ntico, al Texas Instruments TI-99/4A, y utilizaba una CPU de 16 bits Texas Instruments similar. El ordenador se lanzó en Japón en 1982, y en el Reino Unido y Estados Unidos al año siguiente.</text>
-			<text lang="de">Der Tomy Tutor, der ursprünglich in Japan als Pyūta (ぴゅう太) und im Vereinigten Königreich als Grandstand Tutor verkauft wurde, ist ein Heimcomputer des japanischen Spielzeugherstellers Tomy. Er war architektonisch ähnlich, aber nicht identisch mit dem Texas Instruments TI-99/4A und verwendete eine ähnliche Texas Instruments 16-Bit-CPU. Der Computer wurde 1982 in Japan auf den Markt gebracht, ein Jahr später auch im Vereinigten Königreich und in den Vereinigten Staaten.</text>
-			<text lang="fr">Le Tomy Tutor, vendu a' l'origine au Japon sous le nom de Pyūta (ぴゅう太) et au Royaume-Uni sous le nom de Grandstand Tutor, est un ordinateur domestique produit par le fabricant japonais de jouets Tomy. Son architecture e'tait similaire, mais pas identique, a' celle de la TI-99/4A de Texas Instruments, et il utilisait un processeur 16 bits Texas Instruments similaire. L'ordinateur a e'te' lance' au Japon en 1982, et au Royaume-Uni et aux e'tats-Unis l'anne'e suivante.</text>
-			<text lang="it">Il Tomy Tutor, originariamente venduto in Giappone come Pyūta (ぴゅう太) e nel Regno Unito come Grandstand Tutor, e' un home computer prodotto dal produttore di giocattoli giapponese Tomy. Era architettonicamente simile, ma non identico, al Texas Instruments TI-99/4A e utilizzava una CPU Texas Instruments a 16 bit simile. Il computer fu lanciato in Giappone nel 1982 e nel Regno Unito e negli Stati Uniti l'anno successivo.</text>
+         <text>The Tomy Tutor, originally sold in Japan as the Pyūta (ぴゅう太) and in the UK as the Grandstand Tutor, is a home computer produced by the Japanese toymaker Tomy. It was architecturally similar, but not identical, to the Texas Instruments TI-99/4A, and used a similar Texas Instruments 16-bit CPU. The computer was launched in Japan in 1982, and in the UK and the United States in the next year.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">El Tomy Tutor, vendido originalmente en Japón como Pyūta (ぴゅう太) y en el Reino Unido como Grandstand Tutor, es un ordenador dome'stico producido por el fabricante de juguetes japone's Tomy. Era arquitectónicamente similar, pero no ide'ntico, al Texas Instruments TI-99/4A, y utilizaba una CPU de 16 bits Texas Instruments similar. El ordenador se lanzó en Japón en 1982, y en el Reino Unido y Estados Unidos al año siguiente.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Der Tomy Tutor, der ursprünglich in Japan als Pyūta (ぴゅう太) und im Vereinigten Königreich als Grandstand Tutor verkauft wurde, ist ein Heimcomputer des japanischen Spielzeugherstellers Tomy. Er war architektonisch ähnlich, aber nicht identisch mit dem Texas Instruments TI-99/4A und verwendete eine ähnliche Texas Instruments 16-Bit-CPU. Der Computer wurde 1982 in Japan auf den Markt gebracht, ein Jahr später auch im Vereinigten Königreich und in den Vereinigten Staaten.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Le Tomy Tutor, vendu a' l'origine au Japon sous le nom de Pyūta (ぴゅう太) et au Royaume-Uni sous le nom de Grandstand Tutor, est un ordinateur domestique produit par le fabricant japonais de jouets Tomy. Son architecture e'tait similaire, mais pas identique, a' celle de la TI-99/4A de Texas Instruments, et il utilisait un processeur 16 bits Texas Instruments similaire. L'ordinateur a e'te' lance' au Japon en 1982, et au Royaume-Uni et aux e'tats-Unis l'anne'e suivante.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Il Tomy Tutor, originariamente venduto in Giappone come Pyūta (ぴゅう太) e nel Regno Unito come Grandstand Tutor, e' un home computer prodotto dal produttore di giocattoli giapponese Tomy. Era architettonicamente simile, ma non identico, al Texas Instruments TI-99/4A e utilizzava una CPU Texas Instruments a 16 bit simile. Il computer fu lanciato in Giappone nel 1982 e nel Regno Unito e negli Stati Uniti l'anno successivo.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

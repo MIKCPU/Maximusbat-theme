@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>The NAOMI (New Arcade Operation Machine Idea) is an arcade system released by Sega in 1998. It was designed as a successor to Sega Model 3 hardware, using a similar architecture to the Sega Dreamcast. The NAOMI was succeeded by the Sega Hikaru and Sega NAOMI 2 boards, though having out-lasted the NAOMI 2, Hikaru and Sega Aurora. The Sega Chihiro, or possibly even the Sega Lindbergh, could also be seen as successors.</text>
-			<text lang="es">El NAOMI (New Arcade Operation Machine Idea) es un sistema arcade lanzado por Sega en 1998. Fue diseñado como sucesor del hardware Sega Model 3, utilizando una arquitectura similar a la Sega Dreamcast. La NAOMI fue sucedida por las placas Sega Hikaru y Sega NAOMI 2, aunque habiendo superado a la NAOMI 2, la Hikaru y la Sega Aurora. La Sega Chihiro, o posiblemente incluso la Sega Lindbergh, tambie'n podrían considerarse sucesoras.</text>
-			<text lang="de">Die NAOMI (New Arcade Operation Machine Idea) ist ein Spielhallensystem, das 1998 von Sega veröffentlicht wurde. Es wurde als Nachfolger der Sega Model 3-Hardware entwickelt und verwendet eine ähnliche Architektur wie der Sega Dreamcast. Das NAOMI wurde von den Sega Hikaru und Sega NAOMI 2 Boards abgelöst, obwohl es das NAOMI 2, Hikaru und Sega Aurora überdauert hat. Der Sega Chihiro oder möglicherweise sogar der Sega Lindbergh könnten ebenfalls als Nachfolger angesehen werden.</text>
-			<text lang="fr">Le NAOMI (New Arcade Operation Machine Idea) est un syste'me d'arcade commercialise' par Sega en 1998. Il a e'te' conçu comme le successeur du mate'riel Sega Model 3, utilisant une architecture similaire a' celle de la Sega Dreamcast. La NAOMI a e'te' remplace'e par les cartes Sega Hikaru et Sega NAOMI 2, qui ont cependant surve'cu a' la NAOMI 2, a' la Hikaru et a' la Sega Aurora. Le Sega Chihiro, ou peut-être même le Sega Lindbergh, pourraient e'galement être conside're's comme des successeurs.</text>
-			<text lang="it">Il NAOMI (New Arcade Operation Machine Idea) e' un sistema arcade rilasciato da Sega nel 1998. e' stato progettato come successore dell'hardware del Sega Model 3, utilizzando un'architettura simile a quella del Sega Dreamcast. Il NAOMI e' stato succeduto dalle schede Sega Hikaru e Sega NAOMI 2, pur avendo superato il NAOMI 2, la Hikaru e il Sega Aurora. Anche il Sega Chihiro, e probabilmente anche il Sega Lindbergh, possono essere considerate dei successori.</text>       
+         <text>The NAOMI (New Arcade Operation Machine Idea) is an arcade system released by Sega in 1998. It was designed as a successor to Sega Model 3 hardware, using a similar architecture to the Sega Dreamcast. The NAOMI was succeeded by the Sega Hikaru and Sega NAOMI 2 boards, though having out-lasted the NAOMI 2, Hikaru and Sega Aurora. The Sega Chihiro, or possibly even the Sega Lindbergh, could also be seen as successors.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">El NAOMI (New Arcade Operation Machine Idea) es un sistema arcade lanzado por Sega en 1998. Fue diseñado como sucesor del hardware Sega Model 3, utilizando una arquitectura similar a la Sega Dreamcast. La NAOMI fue sucedida por las placas Sega Hikaru y Sega NAOMI 2, aunque habiendo superado a la NAOMI 2, la Hikaru y la Sega Aurora. La Sega Chihiro, o posiblemente incluso la Sega Lindbergh, tambie'n podrían considerarse sucesoras.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Die NAOMI (New Arcade Operation Machine Idea) ist ein Spielhallensystem, das 1998 von Sega veröffentlicht wurde. Es wurde als Nachfolger der Sega Model 3-Hardware entwickelt und verwendet eine ähnliche Architektur wie der Sega Dreamcast. Das NAOMI wurde von den Sega Hikaru und Sega NAOMI 2 Boards abgelöst, obwohl es das NAOMI 2, Hikaru und Sega Aurora überdauert hat. Der Sega Chihiro oder möglicherweise sogar der Sega Lindbergh könnten ebenfalls als Nachfolger angesehen werden.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Le NAOMI (New Arcade Operation Machine Idea) est un syste'me d'arcade commercialise' par Sega en 1998. Il a e'te' conçu comme le successeur du mate'riel Sega Model 3, utilisant une architecture similaire a' celle de la Sega Dreamcast. La NAOMI a e'te' remplace'e par les cartes Sega Hikaru et Sega NAOMI 2, qui ont cependant surve'cu a' la NAOMI 2, a' la Hikaru et a' la Sega Aurora. Le Sega Chihiro, ou peut-être même le Sega Lindbergh, pourraient e'galement être conside're's comme des successeurs.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Il NAOMI (New Arcade Operation Machine Idea) e' un sistema arcade rilasciato da Sega nel 1998. e' stato progettato come successore dell'hardware del Sega Model 3, utilizzando un'architettura simile a quella del Sega Dreamcast. Il NAOMI e' stato succeduto dalle schede Sega Hikaru e Sega NAOMI 2, pur avendo superato il NAOMI 2, la Hikaru e il Sega Aurora. Anche il Sega Chihiro, e probabilmente anche il Sega Lindbergh, possono essere considerate dei successori.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>3dSen is an emulator that can convert classic 2D games for the Nintendo Entertainment System (NES) into 3D in real-time.The emulator allows to change the camera angles and zoom in and out while playing the game, giving a new perspective on classic games like Super Mario Bros, The Legend of Zelda, Metroid, and Castlevania. It supports both keyboard and controller inputs, and allows to create save states and dynamic skyboxes.</text>
-			<text lang="it">3dSen e' un emulatore in grado di convertire i classici giochi 2D per Nintendo Entertainment System (NES) in 3D in tempo reale. L'emulatore permette di cambiare l'angolazione della telecamera e di zoomare durante il gioco, offrendo una nuova prospettiva su giochi classici come Super Mario Bros, The Legend of Zelda, Metroid e Castlevania. Supporta sia gli input da tastiera che da controller e permette di creare stati di salvataggio e skybox dinamici.</text>
-			<text lang="fr">3dSen est un e'mulateur qui permet de convertir les jeux classiques en 2D de la Nintendo Entertainment System (NES) en 3D en temps re'el. L'e'mulateur permet de changer l'angle de la came'ra et de faire des zooms avant et arrie're pendant le jeu, ce qui donne une nouvelle perspective aux jeux classiques comme Super Mario Bros, The Legend of Zelda, Metroid et Castlevania. Il prend en charge les entre'es au clavier et a' la manette, et permet de cre'er des e'tats de sauvegarde et des skyboxes dynamiques.</text>
-			<text lang="de">3dSen ist ein Emulator, der klassische 2D-Spiele für das Nintendo Entertainment System (NES) in Echtzeit in 3D umwandeln kann. Der Emulator erlaubt es, die Kameraperspektive zu ändern und während des Spielens hinein- und herauszuzoomen, was eine neue Perspektive auf klassische Spiele wie Super Mario Bros, The Legend of Zelda, Metroid und Castlevania ermöglicht. Er unterstützt sowohl Tastatur- als auch Controllereingaben und ermöglicht die Erstellung von Speicherständen und dynamischen Skyboxen.</text>
-			<text lang="es">3dSen es un emulador que puede convertir juegos clásicos en 2D para la Nintendo Entertainment System (NES) en 3D en tiempo real. El emulador permite cambiar los ángulos de la cámara y acercar y alejar la imagen mientras se juega, dando una nueva perspectiva a juegos clásicos como Super Mario Bros, The Legend of Zelda, Metroid y Castlevania. Es compatible tanto con el teclado como con el mando, y permite crear estados de guardado y skyboxes dinámicos.</text>
+         <text>3dSen is an emulator that can convert classic 2D games for the Nintendo Entertainment System (NES) into 3D in real-time.The emulator allows to change the camera angles and zoom in and out while playing the game, giving a new perspective on classic games like Super Mario Bros, The Legend of Zelda, Metroid, and Castlevania. It supports both keyboard and controller inputs, and allows to create save states and dynamic skyboxes.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">3dSen e' un emulatore in grado di convertire i classici giochi 2D per Nintendo Entertainment System (NES) in 3D in tempo reale. L'emulatore permette di cambiare l'angolazione della telecamera e di zoomare durante il gioco, offrendo una nuova prospettiva su giochi classici come Super Mario Bros, The Legend of Zelda, Metroid e Castlevania. Supporta sia gli input da tastiera che da controller e permette di creare stati di salvataggio e skybox dinamici.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">3dSen est un e'mulateur qui permet de convertir les jeux classiques en 2D de la Nintendo Entertainment System (NES) en 3D en temps re'el. L'e'mulateur permet de changer l'angle de la came'ra et de faire des zooms avant et arrie're pendant le jeu, ce qui donne une nouvelle perspective aux jeux classiques comme Super Mario Bros, The Legend of Zelda, Metroid et Castlevania. Il prend en charge les entre'es au clavier et a' la manette, et permet de cre'er des e'tats de sauvegarde et des skyboxes dynamiques.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">3dSen ist ein Emulator, der klassische 2D-Spiele für das Nintendo Entertainment System (NES) in Echtzeit in 3D umwandeln kann. Der Emulator erlaubt es, die Kameraperspektive zu ändern und während des Spielens hinein- und herauszuzoomen, was eine neue Perspektive auf klassische Spiele wie Super Mario Bros, The Legend of Zelda, Metroid und Castlevania ermöglicht. Er unterstützt sowohl Tastatur- als auch Controllereingaben und ermöglicht die Erstellung von Speicherständen und dynamischen Skyboxen.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">3dSen es un emulador que puede convertir juegos clásicos en 2D para la Nintendo Entertainment System (NES) en 3D en tiempo real. El emulador permite cambiar los ángulos de la cámara y acercar y alejar la imagen mientras se juega, dando una nueva perspectiva a juegos clásicos como Super Mario Bros, The Legend of Zelda, Metroid y Castlevania. Es compatible tanto con el teclado como con el mando, y permite crear estados de guardado y skyboxes dinámicos.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
          <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

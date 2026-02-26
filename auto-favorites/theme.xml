@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap-it.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Here's a collection of all games, from all systems, that have been added to favorites.</text>
-			<text lang="es">Aquí tienes una recopilación de todos los juegos, de todos los sistemas, que se han añadido a favoritos.</text>
-			<text lang="de">Hier ist eine Sammlung aller Spiele von allen Systemen, die zu den Favoriten hinzugefügt wurden.</text>
-			<text lang="fr">Voici une collection de tous les jeux, tous syste'mes confondus, qui ont e'te' ajoute's aux favoris.</text>
-			<text lang="it">Ecco una raccolta di tutti i giochi, di tutti i sistemi, che sono stati aggiunti ai preferiti.</text>       
+         <text>Here's a collection of all games, from all systems, that have been added to favorites.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Aquí tienes una recopilación de todos los juegos, de todos los sistemas, que se han añadido a favoritos.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Hier ist eine Sammlung aller Spiele von allen Systemen, die zu den Favoriten hinzugefügt wurden.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Voici une collection de tous les jeux, tous syste'mes confondus, qui ont e'te' ajoute's aux favoris.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Ecco una raccolta di tutti i giochi, di tutti i sistemi, che sono stati aggiunti ai preferiti.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>XRick is an open source implementation of the game "Rick Dangerous". Rick Dangerous is a platform game developed by Core Design for the Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64, and MS-DOS. The game was released in 1989 and published by MicroProse on the Firebird Software label in the UK, and on the MicroPlay label in America. It was also published in Spain by Erbe Software.</text>
-			<text lang="es">XRick es una implementación de código abierto del juego "Rick Dangerous". Rick Dangerous es un juego de plataformas desarrollado por Core Design para Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 y MS-DOS. El juego salió a la venta en 1989 y fue publicado por MicroProse con el sello Firebird Software en el Reino Unido y con el sello MicroPlay en Ame'rica. Tambie'n fue publicado en España por Erbe Software.</text>
-			<text lang="de">XRick ist eine Open-Source-Implementierung des Spiels "Rick Dangerous". Rick Dangerous ist ein von Core Design entwickeltes Plattformspiel für den Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 und MS-DOS. Das Spiel wurde 1989 veröffentlicht und von MicroProse unter dem Label Firebird Software in Großbritannien und unter dem Label MicroPlay in Amerika herausgegeben. Es wurde auch in Spanien von Erbe Software veröffentlicht.</text>
-			<text lang="fr">XRick est une imple'mentation open source du jeu "Rick Dangerous". Rick Dangerous est un jeu de plateforme de'veloppe' par Core Design pour Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 et MS-DOS. Le jeu est sorti en 1989 et a e'te' publie' par MicroProse sous le label Firebird Software au Royaume-Uni et sous le label MicroPlay aux e'tats-Unis. Il a e'galement e'te' publie' en Espagne par Erbe Software.</text>
-			<text lang="it">XRick e' un'implementazione open source del gioco "Rick Dangerous". Rick Dangerous e' un gioco a piattaforme sviluppato da Core Design per Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 e MS-DOS. Il gioco e' uscito nel 1989 ed e' stato pubblicato da MicroProse su etichetta Firebird Software nel Regno Unito e su etichetta MicroPlay in America. e' stato pubblicato anche in Spagna da Erbe Software.</text>       
+         <text>XRick is an open source implementation of the game "Rick Dangerous". Rick Dangerous is a platform game developed by Core Design for the Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64, and MS-DOS. The game was released in 1989 and published by MicroProse on the Firebird Software label in the UK, and on the MicroPlay label in America. It was also published in Spain by Erbe Software.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">XRick es una implementación de código abierto del juego "Rick Dangerous". Rick Dangerous es un juego de plataformas desarrollado por Core Design para Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 y MS-DOS. El juego salió a la venta en 1989 y fue publicado por MicroProse con el sello Firebird Software en el Reino Unido y con el sello MicroPlay en Ame'rica. Tambie'n fue publicado en España por Erbe Software.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">XRick ist eine Open-Source-Implementierung des Spiels "Rick Dangerous". Rick Dangerous ist ein von Core Design entwickeltes Plattformspiel für den Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 und MS-DOS. Das Spiel wurde 1989 veröffentlicht und von MicroProse unter dem Label Firebird Software in Großbritannien und unter dem Label MicroPlay in Amerika herausgegeben. Es wurde auch in Spanien von Erbe Software veröffentlicht.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">XRick est une imple'mentation open source du jeu "Rick Dangerous". Rick Dangerous est un jeu de plateforme de'veloppe' par Core Design pour Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 et MS-DOS. Le jeu est sorti en 1989 et a e'te' publie' par MicroProse sous le label Firebird Software au Royaume-Uni et sous le label MicroPlay aux e'tats-Unis. Il a e'galement e'te' publie' en Espagne par Erbe Software.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">XRick e' un'implementazione open source del gioco "Rick Dangerous". Rick Dangerous e' un gioco a piattaforme sviluppato da Core Design per Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 e MS-DOS. Il gioco e' uscito nel 1989 ed e' stato pubblicato da MicroProse su etichetta Firebird Software nel Regno Unito e su etichetta MicroPlay in America. e' stato pubblicato anche in Spagna da Erbe Software.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

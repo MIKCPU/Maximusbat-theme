@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Films based on video games abound in interesting events and take on unusual stories, effectively piquing the interest of viewers. Action-packed stories offer enjoyable entertainment, and work well as a good movie for the evening. Among the numerous adaptations, there are several titles that are particularly noteworthy. This is a collection of theatrical films based on video games and films that made video games.</text>
-			<text lang="es">Las películas basadas en videojuegos abundan en acontecimientos interesantes y abordan historias inusuales, despertando eficazmente el intere's de los espectadores. Las historias llenas de acción ofrecen un entretenimiento agradable, y funcionan bien como una buena película para pasar la tarde. Entre las numerosas adaptaciones, hay varios títulos especialmente destacables. Se trata de una colección de películas teatrales basadas en videojuegos y películas que hicieron videojuegos.</text>
-			<text lang="de">Filme, die auf Videospielen basieren, sind reich an interessanten Ereignissen und bieten ungewöhnliche Geschichten, die das Interesse der Zuschauer wecken. Die actiongeladenen Geschichten bieten angenehme Unterhaltung und eignen sich gut als Film für den Abend. Unter den zahlreichen Verfilmungen gibt es einige Titel, die besonders erwähnenswert sind. Dies ist eine Sammlung von Kinofilmen, die auf Videospielen basieren, und von Filmen, die zu Videospielen gemacht wurden.</text>
-			<text lang="fr">Les films base's sur des jeux vide'o regorgent d'e've'nements inte'ressants et d'histoires inhabituelles, ce qui permet de piquer la curiosite' des spectateurs. Les histoires pleines d'action offrent un divertissement agre'able et constituent un bon film pour la soire'e. Parmi les nombreuses adaptations, plusieurs titres sont particulie'rement remarquables. Il s'agit d'une collection de films de cine'ma base's sur des jeux vide'o et de films qui ont fait des jeux vide'o.</text>
-			<text lang="it">I film basati sui videogiochi sono ricchi di eventi interessanti e di storie insolite, che suscitano efficacemente l'interesse degli spettatori. Le storie ricche di azione offrono un intrattenimento piacevole e si prestano bene come film per la sera. Tra i numerosi adattamenti, alcuni titoli sono particolarmente degni di nota. Si tratta di una raccolta di film teatrali basati su videogiochi e di film che hanno creato videogiochi.</text>       
+         <text>Films based on video games abound in interesting events and take on unusual stories, effectively piquing the interest of viewers. Action-packed stories offer enjoyable entertainment, and work well as a good movie for the evening. Among the numerous adaptations, there are several titles that are particularly noteworthy. This is a collection of theatrical films based on video games and films that made video games.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Las películas basadas en videojuegos abundan en acontecimientos interesantes y abordan historias inusuales, despertando eficazmente el intere's de los espectadores. Las historias llenas de acción ofrecen un entretenimiento agradable, y funcionan bien como una buena película para pasar la tarde. Entre las numerosas adaptaciones, hay varios títulos especialmente destacables. Se trata de una colección de películas teatrales basadas en videojuegos y películas que hicieron videojuegos.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Filme, die auf Videospielen basieren, sind reich an interessanten Ereignissen und bieten ungewöhnliche Geschichten, die das Interesse der Zuschauer wecken. Die actiongeladenen Geschichten bieten angenehme Unterhaltung und eignen sich gut als Film für den Abend. Unter den zahlreichen Verfilmungen gibt es einige Titel, die besonders erwähnenswert sind. Dies ist eine Sammlung von Kinofilmen, die auf Videospielen basieren, und von Filmen, die zu Videospielen gemacht wurden.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Les films base's sur des jeux vide'o regorgent d'e've'nements inte'ressants et d'histoires inhabituelles, ce qui permet de piquer la curiosite' des spectateurs. Les histoires pleines d'action offrent un divertissement agre'able et constituent un bon film pour la soire'e. Parmi les nombreuses adaptations, plusieurs titres sont particulie'rement remarquables. Il s'agit d'une collection de films de cine'ma base's sur des jeux vide'o et de films qui ont fait des jeux vide'o.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">I film basati sui videogiochi sono ricchi di eventi interessanti e di storie insolite, che suscitano efficacemente l'interesse degli spettatori. Le storie ricche di azione offrono un intrattenimento piacevole e si prestano bene come film per la sera. Tra i numerosi adattamenti, alcuni titoli sono particolarmente degni di nota. Si tratta di una raccolta di film teatrali basati su videogiochi e di film che hanno creato videogiochi.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

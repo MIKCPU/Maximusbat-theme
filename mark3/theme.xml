@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>The Sega Mark III, released in October 1985 in Japan, was a pivotal gaming console in Sega's history. It served as an upgrade from its predecessors, the SG-1000 and Mark II. The Mark III featured composite video output, accommodated both Mega Cartridges and Sega Cards, and inspired the creation of the Sega Master System. Despite being overshadowed, it remains an important milestone in gaming technology and Sega's legacy.</text>
-			<text lang="it">Il Sega Mark III, uscito nell'ottobre del 1985 in Giappone, e' stata una console di gioco fondamentale nella storia di Sega. Si trattava di un aggiornamento rispetto ai suoi predecessori, l'SG-1000 e il Mark II. Il Mark III era dotato di uscita video composita, ospitava cartucce Mega e Sega Card e ha ispirato la creazione del Sega Master System. Nonostante sia stato messo in ombra, rimane un'importante pietra miliare della tecnologia di gioco e dell'eredita' di Sega.</text>
-			<text lang="fr">La Sega Mark III, sortie en octobre 1985 au Japon, est une console de jeu charnie're dans l'histoire de Sega. Elle constitue une ame'lioration par rapport a' ses pre'de'cesseurs, la SG-1000 et la Mark II. La Mark III disposait d'une sortie vide'o composite, pouvait accueillir des Mega Cartridges et des Sega Cards, et a inspire' la cre'ation du Sega Master System. Bien qu'il ait e'te' e'clipse', il reste un jalon important dans la technologie des jeux et dans l'he'ritage de Sega.</text>
-			<text lang="de">Der Sega Mark III, der im Oktober 1985 in Japan auf den Markt kam, war eine der wichtigsten Spielkonsolen in der Geschichte von Sega. Sie diente als Upgrade ihrer Vorgänger, der SG-1000 und der Mark II. Der Mark III verfügte über einen Composite-Video-Ausgang, konnte sowohl Mega Cartridges als auch Sega Cards aufnehmen und inspirierte die Entwicklung des Sega Master System. Obwohl es im Schatten steht, bleibt es ein wichtiger Meilenstein in der Spieltechnologie und dem Vermächtnis von Sega.</text>
-			<text lang="es">La Sega Mark III, lanzada en octubre de 1985 en Japón, fue una consola de videojuegos fundamental en la historia de Sega. Supuso una mejora con respecto a sus predecesoras, la SG-1000 y la Mark II. La Mark III ofrecía salida de vídeo compuesto, admitía tanto Mega Cartridges como Sega Cards e inspiró la creación de la Sega Master System. A pesar de haber sido eclipsada, sigue siendo un hito importante en la tecnología de los videojuegos y en el legado de Sega.</text>
+         <text>The Sega Mark III, released in October 1985 in Japan, was a pivotal gaming console in Sega's history. It served as an upgrade from its predecessors, the SG-1000 and Mark II. The Mark III featured composite video output, accommodated both Mega Cartridges and Sega Cards, and inspired the creation of the Sega Master System. Despite being overshadowed, it remains an important milestone in gaming technology and Sega's legacy.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Il Sega Mark III, uscito nell'ottobre del 1985 in Giappone, e' stata una console di gioco fondamentale nella storia di Sega. Si trattava di un aggiornamento rispetto ai suoi predecessori, l'SG-1000 e il Mark II. Il Mark III era dotato di uscita video composita, ospitava cartucce Mega e Sega Card e ha ispirato la creazione del Sega Master System. Nonostante sia stato messo in ombra, rimane un'importante pietra miliare della tecnologia di gioco e dell'eredita' di Sega.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">La Sega Mark III, sortie en octobre 1985 au Japon, est une console de jeu charnie're dans l'histoire de Sega. Elle constitue une ame'lioration par rapport a' ses pre'de'cesseurs, la SG-1000 et la Mark II. La Mark III disposait d'une sortie vide'o composite, pouvait accueillir des Mega Cartridges et des Sega Cards, et a inspire' la cre'ation du Sega Master System. Bien qu'il ait e'te' e'clipse', il reste un jalon important dans la technologie des jeux et dans l'he'ritage de Sega.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Der Sega Mark III, der im Oktober 1985 in Japan auf den Markt kam, war eine der wichtigsten Spielkonsolen in der Geschichte von Sega. Sie diente als Upgrade ihrer Vorgänger, der SG-1000 und der Mark II. Der Mark III verfügte über einen Composite-Video-Ausgang, konnte sowohl Mega Cartridges als auch Sega Cards aufnehmen und inspirierte die Entwicklung des Sega Master System. Obwohl es im Schatten steht, bleibt es ein wichtiger Meilenstein in der Spieltechnologie und dem Vermächtnis von Sega.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">La Sega Mark III, lanzada en octubre de 1985 en Japón, fue una consola de videojuegos fundamental en la historia de Sega. Supuso una mejora con respecto a sus predecesoras, la SG-1000 y la Mark II. La Mark III ofrecía salida de vídeo compuesto, admitía tanto Mega Cartridges como Sega Cards e inspiró la creación de la Sega Master System. A pesar de haber sido eclipsada, sigue siendo un hito importante en la tecnología de los videojuegos y en el legado de Sega.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

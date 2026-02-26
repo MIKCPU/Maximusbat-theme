@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>TIC-80 is a fantasy computer for making, playing and sharing tiny games. There are built-in tools for development: code, sprites, maps, sound editors and the command line, which is enough to create a mini retro game. At the exit you will get a cartridge file, which can be stored and played on the website. Also, the game can be packed into a player that works on all popular platforms and distribute as you wish. To make a retro styled game the whole process of creation takes place under some technical limitations: 240x136 pixels display, 16 color palette, 256 8x8 color sprites, 4 channel sound and etc.</text>
-			<text lang="es">TIC-80 es una computadora fantástica para crear, jugar y compartir minijuegos. Incluye herramientas de desarrollo integradas: código, sprites, mapas, editores de sonido y línea de comandos, suficiente para crear un minijuego retro. Al salir, recibirás un archivo de cartucho que puedes guardar y jugar en el sitio web. Además, puedes empaquetar el juego en un reproductor compatible con todas las plataformas populares y distribuirlo como desees. Para crear un juego de estilo retro, todo el proceso de creación se realiza con ciertas limitaciones te'cnicas: pantalla de 240x136 píxeles, paleta de 16 colores, 256 sprites de 8x8 colores, sonido de 4 canales, etc.</text>
-			<text lang="de">TIC-80 ist ein Fantasie-Computer zum Erstellen, Spielen und Austauschen kleiner Spiele. Es gibt eingebaute Werkzeuge für die Entwicklung: Code, Sprites, Karten, Sound-Editoren und die Befehlszeile, die ausreicht, um ein Mini-Retro-Spiel zu erstellen. Am Ende erhält man eine Cartridge-Datei, die auf der Website gespeichert und gespielt werden kann. Außerdem kann das Spiel in einen Player gepackt werden, der auf allen gängigen Plattformen funktioniert und nach Belieben verteilt werden kann. Um ein Spiel im Retro-Stil zu erstellen, unterliegt der gesamte Erstellungsprozess einigen technischen Einschränkungen: 240x136 Pixel Bildschirm, 16 Farben, 256 8x8 Farben, 4-Kanal-Sound und so weiter.</text>
-			<text lang="fr">TIC-80 est un ordinateur fantaisiste qui permet de cre'er, de jouer et de partager des jeux miniatures. Il dispose d'outils de de'veloppement inte'gre's : code, sprites, cartes, e'diteurs sonores et ligne de commande, ce qui est suffisant pour cre'er un mini jeu re'tro. a' la fin du projet, vous obtiendrez un fichier cartouche, qui peut être stocke' et joue' sur le site web. Le jeu peut e'galement être inte'gre' dans un lecteur fonctionnant sur toutes les plates-formes courantes et distribue' comme vous le souhaitez. Pour cre'er un jeu de style re'tro, l'ensemble du processus de cre'ation est soumis a' certaines limitations techniques : e'cran 240x136 pixels, palette de 16 couleurs, 256 sprites de 8x8 couleurs, son a' 4 canaux, etc.</text>
-			<text lang="it">TIC-80 e' un computer di fantasia per creare, giocare e condividere piccoli giochi. Ci sono strumenti integrati per lo sviluppo: codice, sprite, mappe, editor di suoni e linea di comando, sufficienti per creare un mini gioco retro'. All'uscita si otterra' un file di cartuccia, che potra' essere memorizzato e giocato sul sito web. Inoltre, il gioco puo' essere inserito in un lettore che funziona su tutte le piattaforme piU' diffuse e distribuito a piacimento. Per realizzare un gioco in stile retro', l'intero processo di creazione si svolge con alcune limitazioni tecniche: Display da 240x136 pixel, tavolozza di 16 colori, 256 sprite da 8x8 colori, suono a 4 canali e cosi' via.</text>       
+         <text>TIC-80 is a fantasy computer for making, playing and sharing tiny games. There are built-in tools for development: code, sprites, maps, sound editors and the command line, which is enough to create a mini retro game. At the exit you will get a cartridge file, which can be stored and played on the website. Also, the game can be packed into a player that works on all popular platforms and distribute as you wish. To make a retro styled game the whole process of creation takes place under some technical limitations: 240x136 pixels display, 16 color palette, 256 8x8 color sprites, 4 channel sound and etc.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">TIC-80 es una computadora fantástica para crear, jugar y compartir minijuegos. Incluye herramientas de desarrollo integradas: código, sprites, mapas, editores de sonido y línea de comandos, suficiente para crear un minijuego retro. Al salir, recibirás un archivo de cartucho que puedes guardar y jugar en el sitio web. Además, puedes empaquetar el juego en un reproductor compatible con todas las plataformas populares y distribuirlo como desees. Para crear un juego de estilo retro, todo el proceso de creación se realiza con ciertas limitaciones te'cnicas: pantalla de 240x136 píxeles, paleta de 16 colores, 256 sprites de 8x8 colores, sonido de 4 canales, etc.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">TIC-80 ist ein Fantasie-Computer zum Erstellen, Spielen und Austauschen kleiner Spiele. Es gibt eingebaute Werkzeuge für die Entwicklung: Code, Sprites, Karten, Sound-Editoren und die Befehlszeile, die ausreicht, um ein Mini-Retro-Spiel zu erstellen. Am Ende erhält man eine Cartridge-Datei, die auf der Website gespeichert und gespielt werden kann. Außerdem kann das Spiel in einen Player gepackt werden, der auf allen gängigen Plattformen funktioniert und nach Belieben verteilt werden kann. Um ein Spiel im Retro-Stil zu erstellen, unterliegt der gesamte Erstellungsprozess einigen technischen Einschränkungen: 240x136 Pixel Bildschirm, 16 Farben, 256 8x8 Farben, 4-Kanal-Sound und so weiter.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">TIC-80 est un ordinateur fantaisiste qui permet de cre'er, de jouer et de partager des jeux miniatures. Il dispose d'outils de de'veloppement inte'gre's : code, sprites, cartes, e'diteurs sonores et ligne de commande, ce qui est suffisant pour cre'er un mini jeu re'tro. a' la fin du projet, vous obtiendrez un fichier cartouche, qui peut être stocke' et joue' sur le site web. Le jeu peut e'galement être inte'gre' dans un lecteur fonctionnant sur toutes les plates-formes courantes et distribue' comme vous le souhaitez. Pour cre'er un jeu de style re'tro, l'ensemble du processus de cre'ation est soumis a' certaines limitations techniques : e'cran 240x136 pixels, palette de 16 couleurs, 256 sprites de 8x8 couleurs, son a' 4 canaux, etc.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">TIC-80 e' un computer di fantasia per creare, giocare e condividere piccoli giochi. Ci sono strumenti integrati per lo sviluppo: codice, sprite, mappe, editor di suoni e linea di comando, sufficienti per creare un mini gioco retro'. All'uscita si otterra' un file di cartuccia, che potra' essere memorizzato e giocato sul sito web. Inoltre, il gioco puo' essere inserito in un lettore che funziona su tutte le piattaforme piU' diffuse e distribuito a piacimento. Per realizzare un gioco in stile retro', l'intero processo di creazione si svolge con alcune limitazioni tecniche: Display da 240x136 pixel, tavolozza di 16 colori, 256 sprite da 8x8 colori, suono a 4 canali e cosi' via.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

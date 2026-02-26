@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>The CP System II (CPシステムII, shīpī shisutemu tsū) or CPS-2 is an arcade system board that Capcom first used in 1993 for Super Street Fighter II. It was the successor to their previous CP System and Capcom Power System Changer arcade hardware and was succeeded by the CP System III hardware in 1996, of which the CPS-2 would outlive by over four years. The arcade system had new releases for it until the end of 2003, ending with Hyper Street Fighter II.</text>
-			<text lang="es">El CP System II (CPシステムII, shīpī shisutemu tsū) o CPS-2 es una placa de sistema arcade que Capcom utilizó por primera vez en 1993 para Super Street Fighter II. Fue la sucesora de su anterior hardware arcade CP System y Capcom Power System Changer y fue sucedida por el hardware CP System III en 1996, del que la CPS-2 sobreviviría más de cuatro años. El sistema arcade tuvo nuevas versiones hasta finales de 2003, terminando con Hyper Street Fighter II.</text>
-			<text lang="de">Das CP System II (CPシステムII, shīpī shisutemu tsū) oder CPS-2 ist ein Arcade-System-Board, das Capcom erstmals 1993 für Super Street Fighter II verwendete. Es war der Nachfolger der früheren CP System- und Capcom Power System Changer-Arcade-Hardware und wurde 1996 von der CP System III-Hardware abgelöst, die das CPS-2 um mehr als vier Jahre überleben sollte. Für das Arcade-System gab es bis Ende 2003 neue Versionen, die mit Hyper Street Fighter II endeten.</text>
-			<text lang="fr">Le CP System II (CPシステムII, shīpī shisutemu tsū) ou CPS-2 est un syste'me d'arcade que Capcom a utilise' pour la premie're fois en 1993 pour Super Street Fighter II. Il s'agit du successeur des syste'mes d'arcade CP System et Capcom Power System Changer, remplace' par le CP System III en 1996, que le CPS-2 de'passera de plus de quatre ans. Le syste'me d'arcade a eu de nouvelles versions jusqu'a' la fin de l'anne'e 2003, se terminant avec Hyper Street Fighter II.</text>
-			<text lang="it">Il CP System II (CPシステムII, shīpī shisutemu tsū) o CPS-2 e' una scheda di sistema arcade che Capcom utilizzo' per la prima volta nel 1993 per Super Street Fighter II. Era il successore dei precedenti sistemi arcade CP System e Capcom Power System Changer ed e' stato succeduto dal CP System III nel 1996, al quale il CPS-2 sarebbe sopravvissuto di oltre quattro anni. Il sistema arcade ha avuto nuove uscite fino alla fine del 2003, terminando con Hyper Street Fighter II.</text>       
+         <text>The CP System II (CPシステムII, shīpī shisutemu tsū) or CPS-2 is an arcade system board that Capcom first used in 1993 for Super Street Fighter II. It was the successor to their previous CP System and Capcom Power System Changer arcade hardware and was succeeded by the CP System III hardware in 1996, of which the CPS-2 would outlive by over four years. The arcade system had new releases for it until the end of 2003, ending with Hyper Street Fighter II.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">El CP System II (CPシステムII, shīpī shisutemu tsū) o CPS-2 es una placa de sistema arcade que Capcom utilizó por primera vez en 1993 para Super Street Fighter II. Fue la sucesora de su anterior hardware arcade CP System y Capcom Power System Changer y fue sucedida por el hardware CP System III en 1996, del que la CPS-2 sobreviviría más de cuatro años. El sistema arcade tuvo nuevas versiones hasta finales de 2003, terminando con Hyper Street Fighter II.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Das CP System II (CPシステムII, shīpī shisutemu tsū) oder CPS-2 ist ein Arcade-System-Board, das Capcom erstmals 1993 für Super Street Fighter II verwendete. Es war der Nachfolger der früheren CP System- und Capcom Power System Changer-Arcade-Hardware und wurde 1996 von der CP System III-Hardware abgelöst, die das CPS-2 um mehr als vier Jahre überleben sollte. Für das Arcade-System gab es bis Ende 2003 neue Versionen, die mit Hyper Street Fighter II endeten.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Le CP System II (CPシステムII, shīpī shisutemu tsū) ou CPS-2 est un syste'me d'arcade que Capcom a utilise' pour la premie're fois en 1993 pour Super Street Fighter II. Il s'agit du successeur des syste'mes d'arcade CP System et Capcom Power System Changer, remplace' par le CP System III en 1996, que le CPS-2 de'passera de plus de quatre ans. Le syste'me d'arcade a eu de nouvelles versions jusqu'a' la fin de l'anne'e 2003, se terminant avec Hyper Street Fighter II.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Il CP System II (CPシステムII, shīpī shisutemu tsū) o CPS-2 e' una scheda di sistema arcade che Capcom utilizzo' per la prima volta nel 1993 per Super Street Fighter II. Era il successore dei precedenti sistemi arcade CP System e Capcom Power System Changer ed e' stato succeduto dal CP System III nel 1996, al quale il CPS-2 sarebbe sopravvissuto di oltre quattro anni. Il sistema arcade ha avuto nuove uscite fino alla fine del 2003, terminando con Hyper Street Fighter II.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

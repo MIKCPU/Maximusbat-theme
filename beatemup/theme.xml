@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>A collection of beat-em-up games. The collection is taken from your available games.</text>
-			<text lang="es">Una colección de juegos beat-em-up. La colección se toma de tus juegos disponibles.</text>
-			<text lang="de">Eine Sammlung von Beat-em-up-Spielen. Die Sammlung wird aus Ihren verfügbaren Spielen übernommen.</text>
-			<text lang="fr">Une collection de jeux beat-em-up. La collection est extraite de vos jeux disponibles.</text>
-			<text lang="it">Una raccolta di giochi picchiaduro. La raccolta e' presa dai tuoi giochi disponibili.</text>       
+         <text>A collection of beat-em-up games. The collection is taken from your available games.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Una colección de juegos beat-em-up. La colección se toma de tus juegos disponibles.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Eine Sammlung von Beat-em-up-Spielen. Die Sammlung wird aus Ihren verfügbaren Spielen übernommen.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Une collection de jeux beat-em-up. La collection est extraite de vos jeux disponibles.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Una raccolta di giochi picchiaduro. La raccolta e' presa dai tuoi giochi disponibili.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>GZDoom is a 3D-accelerated Doom source port based on ZDoom coded and maintained by Christoph Oelckers. GZDoom features an OpenGL renderer and lots of new features, among them: - Sloped 3D floors - Light effects, including dynamic lights, brightmaps, and glowing flats. - Quake2-style skyboxes - True color support - Model support - It was originally based on the 2.0.96x community build but is now based on official versions of ZDoom, occasionally using slightly newer Git code. The source is of course available.</text>
-			<text lang="es">GZDoom es un port fuente de Doom acelerado en 3D basado en ZDoom codificado y mantenido por Christoph Oelckers. GZDoom cuenta con un renderizador OpenGL y un montón de nuevas características, entre ellas: - Suelos 3D inclinados - Efectos de luz, incluyendo luces dinámicas, brightmaps y planos brillantes. - Skyboxes estilo Quake2 - Soporte de color verdadero - Soporte de modelos - Originalmente se basaba en la versión 2.0.96x de la comunidad, pero ahora se basa en las versiones oficiales de ZDoom, utilizando ocasionalmente código Git ligeramente más reciente. El código fuente está disponible.</text>
-			<text lang="de">GZDoom ist eine 3D-beschleunigte Doom-Quellcode-Portierung auf der Basis von ZDoom, die von Christoph Oelckers programmiert und gepflegt wird. GZDoom bietet einen OpenGL-Renderer und viele neue Funktionen, darunter: - Schräge 3D-Böden - Lichteffekte, einschließlich dynamischer Lichter, Brightmaps und glühender Flächen. - Skyboxen im Quake2-Stil - Unterstützung für echte Farben - Unterstützung von Modellen - Ursprünglich basierte es auf dem 2.0.96x Community-Build, aber jetzt basiert es auf offiziellen Versionen von ZDoom, wobei gelegentlich etwas neuerer Git-Code verwendet wird. Der Quellcode ist natürlich verfügbar.</text>
-			<text lang="fr">GZDoom est un portage source de Doom acce'le're' en 3D, base' sur ZDoom, code' et maintenu par Christoph Oelckers. GZDoom dispose d'un moteur de rendu OpenGL et d'un grand nombre de nouvelles fonctionnalite's, parmi lesquelles : - Planchers 3D incline's - Effets de lumie're, y compris des lumie'res dynamiques, des cartes lumineuses, et des plats incandescents. - Boîtes d'images de style Quake2 - Prise en charge des couleurs re'elles - Prise en charge des mode'les - Il e'tait a' l'origine base' sur la version communautaire 2.0.96x, mais il est maintenant base' sur les versions officielles de ZDoom, utilisant occasionnellement un code Git le'ge'rement plus re'cent. Le code source est bien sûr disponible.</text>
-			<text lang="it">GZDoom e' un port sorgente di Doom accelerato in 3D basato su ZDoom, codificato e mantenuto da Christoph Oelckers. GZDoom dispone di un renderer OpenGL e di molte nuove caratteristiche, tra cui: - Pavimenti 3D inclinati - Effetti di luce, tra cui luci dinamiche, mappe luminose e piatti incandescenti. - Skybox in stile Quake2 - Supporto per i colori reali - Supporto per i modell - Originariamente era basato sulla versione comunitaria 2.0.96x, ma ora si basa sulle versioni ufficiali di ZDoom, utilizzando occasionalmente un codice Git leggermente piU' recente. Il sorgente e' ovviamente disponibile.</text>       
+         <text>GZDoom is a 3D-accelerated Doom source port based on ZDoom coded and maintained by Christoph Oelckers. GZDoom features an OpenGL renderer and lots of new features, among them: - Sloped 3D floors - Light effects, including dynamic lights, brightmaps, and glowing flats. - Quake2-style skyboxes - True color support - Model support - It was originally based on the 2.0.96x community build but is now based on official versions of ZDoom, occasionally using slightly newer Git code. The source is of course available.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">GZDoom es un port fuente de Doom acelerado en 3D basado en ZDoom codificado y mantenido por Christoph Oelckers. GZDoom cuenta con un renderizador OpenGL y un montón de nuevas características, entre ellas: - Suelos 3D inclinados - Efectos de luz, incluyendo luces dinámicas, brightmaps y planos brillantes. - Skyboxes estilo Quake2 - Soporte de color verdadero - Soporte de modelos - Originalmente se basaba en la versión 2.0.96x de la comunidad, pero ahora se basa en las versiones oficiales de ZDoom, utilizando ocasionalmente código Git ligeramente más reciente. El código fuente está disponible.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">GZDoom ist eine 3D-beschleunigte Doom-Quellcode-Portierung auf der Basis von ZDoom, die von Christoph Oelckers programmiert und gepflegt wird. GZDoom bietet einen OpenGL-Renderer und viele neue Funktionen, darunter: - Schräge 3D-Böden - Lichteffekte, einschließlich dynamischer Lichter, Brightmaps und glühender Flächen. - Skyboxen im Quake2-Stil - Unterstützung für echte Farben - Unterstützung von Modellen - Ursprünglich basierte es auf dem 2.0.96x Community-Build, aber jetzt basiert es auf offiziellen Versionen von ZDoom, wobei gelegentlich etwas neuerer Git-Code verwendet wird. Der Quellcode ist natürlich verfügbar.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">GZDoom est un portage source de Doom acce'le're' en 3D, base' sur ZDoom, code' et maintenu par Christoph Oelckers. GZDoom dispose d'un moteur de rendu OpenGL et d'un grand nombre de nouvelles fonctionnalite's, parmi lesquelles : - Planchers 3D incline's - Effets de lumie're, y compris des lumie'res dynamiques, des cartes lumineuses, et des plats incandescents. - Boîtes d'images de style Quake2 - Prise en charge des couleurs re'elles - Prise en charge des mode'les - Il e'tait a' l'origine base' sur la version communautaire 2.0.96x, mais il est maintenant base' sur les versions officielles de ZDoom, utilisant occasionnellement un code Git le'ge'rement plus re'cent. Le code source est bien sûr disponible.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">GZDoom e' un port sorgente di Doom accelerato in 3D basato su ZDoom, codificato e mantenuto da Christoph Oelckers. GZDoom dispone di un renderer OpenGL e di molte nuove caratteristiche, tra cui: - Pavimenti 3D inclinati - Effetti di luce, tra cui luci dinamiche, mappe luminose e piatti incandescenti. - Skybox in stile Quake2 - Supporto per i colori reali - Supporto per i modell - Originariamente era basato sulla versione comunitaria 2.0.96x, ma ora si basa sulle versioni ufficiali di ZDoom, utilizzando occasionalmente un codice Git leggermente piU' recente. Il sorgente e' ovviamente disponibile.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap-it.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>A four-player game is a multiplayer game that can be played by up to four players simultaneously. Here is a collection of your games that support four-player game.</text>
-			<text lang="es">Un juego para cuatro jugadores es un juego multijugador al que pueden jugar hasta cuatro jugadores simultáneamente. Aquí tienes una recopilación de tus juegos compatibles con cuatro jugadores.</text>
-			<text lang="de">Ein Vier-Spieler-Spiel ist ein Multiplayer-Spiel, das von bis zu vier Spielern gleichzeitig gespielt werden kann. Hier ist eine Sammlung von Spielen, die Vier-Spieler-Spiele unterstützen.</text>
-			<text lang="fr">Un jeu a' quatre joueurs est un jeu multijoueur qui peut être joue' par quatre joueurs simultane'ment. Voici une collection de vos jeux qui prennent en charge les jeux a' quatre joueurs.</text>
-			<text lang="it">Un gioco a quattro giocatori e' un gioco multiplayer che puo' essere giocato da un massimo di quattro giocatori contemporaneamente. Ecco una raccolta di giochi che supportano il gioco a quattro giocatori.</text>       
+         <text>A four-player game is a multiplayer game that can be played by up to four players simultaneously. Here is a collection of your games that support four-player game.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Un juego para cuatro jugadores es un juego multijugador al que pueden jugar hasta cuatro jugadores simultáneamente. Aquí tienes una recopilación de tus juegos compatibles con cuatro jugadores.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Ein Vier-Spieler-Spiel ist ein Multiplayer-Spiel, das von bis zu vier Spielern gleichzeitig gespielt werden kann. Hier ist eine Sammlung von Spielen, die Vier-Spieler-Spiele unterstützen.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Un jeu a' quatre joueurs est un jeu multijoueur qui peut être joue' par quatre joueurs simultane'ment. Voici une collection de vos jeux qui prennent en charge les jeux a' quatre joueurs.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Un gioco a quattro giocatori e' un gioco multiplayer che puo' essere giocato da un massimo di quattro giocatori contemporaneamente. Ecco una raccolta di giochi che supportano il gioco a quattro giocatori.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

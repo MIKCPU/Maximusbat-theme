@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Fightcade is a software client used to enable online capabilities to play of various arcade and home console systems via emulation. Fightcade utilizes networking middleware GGPO to mitigate the effects of network latency on gameplay, and functions as a successor of GGPO's now-defunct matchmaking client.</text>
-			<text lang="es">Fightcade es un cliente de software utilizado para habilitar las capacidades online de juego de varios sistemas arcade y consolas dome'sticas mediante emulación. Fightcade utiliza el middleware de red GGPO para mitigar los efectos de la latencia de la red en el juego, y funciona como sucesor del ya desaparecido cliente de matchmaking de GGPO.</text>
-			<text lang="de">Fightcade ist ein Software-Client, der es ermöglicht, verschiedene Arcade- und Heimkonsolensysteme über Emulationen online zu spielen. Fightcade nutzt die Netzwerk-Middleware GGPO, um die Auswirkungen der Netzwerklatenz auf das Spielgeschehen zu mildern, und fungiert als Nachfolger des inzwischen eingestellten Matchmaking-Clients von GGPO.</text>
-			<text lang="fr">Fightcade est un logiciel client utilise' pour permettre de jouer en ligne a' divers syste'mes d'arcade et de console de salon via l'e'mulation. Fightcade utilise le logiciel interme'diaire GGPO pour atte'nuer les effets de la latence du re'seau sur le gameplay, et fonctionne comme le successeur du client de matchmaking de GGPO, aujourd'hui disparu.</text>
-			<text lang="it">Fightcade e' un client software utilizzato per abilitare le capacita' online di gioco di vari sistemi arcade e console domestiche tramite emulazione. Fightcade utilizza il middleware di rete GGPO per mitigare gli effetti della latenza di rete sul gameplay e funziona come successore del client di matchmaking di GGPO, ormai defunto.</text>       
+         <text>Fightcade is a software client used to enable online capabilities to play of various arcade and home console systems via emulation. Fightcade utilizes networking middleware GGPO to mitigate the effects of network latency on gameplay, and functions as a successor of GGPO's now-defunct matchmaking client.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Fightcade es un cliente de software utilizado para habilitar las capacidades online de juego de varios sistemas arcade y consolas dome'sticas mediante emulación. Fightcade utiliza el middleware de red GGPO para mitigar los efectos de la latencia de la red en el juego, y funciona como sucesor del ya desaparecido cliente de matchmaking de GGPO.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Fightcade ist ein Software-Client, der es ermöglicht, verschiedene Arcade- und Heimkonsolensysteme über Emulationen online zu spielen. Fightcade nutzt die Netzwerk-Middleware GGPO, um die Auswirkungen der Netzwerklatenz auf das Spielgeschehen zu mildern, und fungiert als Nachfolger des inzwischen eingestellten Matchmaking-Clients von GGPO.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Fightcade est un logiciel client utilise' pour permettre de jouer en ligne a' divers syste'mes d'arcade et de console de salon via l'e'mulation. Fightcade utilise le logiciel interme'diaire GGPO pour atte'nuer les effets de la latence du re'seau sur le gameplay, et fonctionne comme le successeur du client de matchmaking de GGPO, aujourd'hui disparu.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Fightcade e' un client software utilizzato per abilitare le capacita' online di gioco di vari sistemi arcade e console domestiche tramite emulazione. Fightcade utilizza il middleware di rete GGPO per mitigare gli effetti della latenza di rete sul gameplay e funziona come successore del client di matchmaking di GGPO, ormai defunto.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

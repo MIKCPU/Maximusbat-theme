@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>CannonBall is a souped up game engine for the OutRun arcade game. The original 68000 and Z80 assembler code has been rewritten in C++. This makes it possible to make improvements suitable for modern platforms, such as higher frame rate at 60 FPS, higher resolution sprite scaling, wide screen support, new game modes and so on. It requires the original ROMs, as these contain elements including the graphics and audio data.</text>
-			<text lang="es">CannonBall es un motor de juego mejorado para el juego arcade OutRun. El código ensamblador original de 68000 y Z80 ha sido reescrito en C++. Esto hace posible realizar mejoras adecuadas para las plataformas modernas, como una mayor velocidad de fotogramas a 60 FPS, un escalado de sprites de mayor resolución, soporte para pantallas anchas, nuevos modos de juego, etc. Requiere las ROM originales, ya que e'stas contienen elementos como los datos gráficos y de audio.</text>
-			<text lang="de">CannonBall ist eine aufgemotzte Spiel-Engine für das OutRun Arcade-Spiel. Der ursprüngliche 68000- und Z80-Assembler-Code wurde in C++ umgeschrieben. Dies ermöglicht Verbesserungen, die für moderne Plattformen geeignet sind, wie z.B. eine höhere Bildwiederholrate von 60 FPS, eine höhere Skalierung der Sprites, Unterstützung für Breitbildschirme, neue Spielmodi und so weiter. Es werden die Original-ROMs benötigt, da diese Elemente einschließlich der Grafik- und Audiodaten enthalten.</text>
-			<text lang="fr">CannonBall est un moteur de jeu ame'liore' pour le jeu d'arcade OutRun. Le code assembleur 68000 et Z80 d'origine a e'te' re'e'crit en C++. Cela permet d'apporter des ame'liorations adapte'es aux plates-formes modernes, telles qu'une fre'quence d'images plus e'leve'e (60 FPS), une meilleure re'solution des sprites, la prise en charge des e'crans larges, de nouveaux modes de jeu, etc. Il ne'cessite les ROMs d'origine, qui contiennent des e'le'ments tels que les donne'es graphiques et audio.</text>
-			<text lang="it">CannonBall e' un motore di gioco potenziato per il gioco arcade OutRun. Il codice assembler originale per 68000 e Z80 e' stato riscritto in C++. In questo modo e' stato possibile apportare miglioramenti adatti alle piattaforme moderne, come una frequenza di fotogrammi piU' elevata a 60 FPS, la scalatura degli sprite a risoluzione piU' alta, il supporto per lo schermo largo, nuove modalita' di gioco e cosi' via. Richiede le ROM originali, che contengono elementi come i dati grafici e audio.</text>       
+         <text>CannonBall is a souped up game engine for the OutRun arcade game. The original 68000 and Z80 assembler code has been rewritten in C++. This makes it possible to make improvements suitable for modern platforms, such as higher frame rate at 60 FPS, higher resolution sprite scaling, wide screen support, new game modes and so on. It requires the original ROMs, as these contain elements including the graphics and audio data.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">CannonBall es un motor de juego mejorado para el juego arcade OutRun. El código ensamblador original de 68000 y Z80 ha sido reescrito en C++. Esto hace posible realizar mejoras adecuadas para las plataformas modernas, como una mayor velocidad de fotogramas a 60 FPS, un escalado de sprites de mayor resolución, soporte para pantallas anchas, nuevos modos de juego, etc. Requiere las ROM originales, ya que e'stas contienen elementos como los datos gráficos y de audio.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">CannonBall ist eine aufgemotzte Spiel-Engine für das OutRun Arcade-Spiel. Der ursprüngliche 68000- und Z80-Assembler-Code wurde in C++ umgeschrieben. Dies ermöglicht Verbesserungen, die für moderne Plattformen geeignet sind, wie z.B. eine höhere Bildwiederholrate von 60 FPS, eine höhere Skalierung der Sprites, Unterstützung für Breitbildschirme, neue Spielmodi und so weiter. Es werden die Original-ROMs benötigt, da diese Elemente einschließlich der Grafik- und Audiodaten enthalten.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">CannonBall est un moteur de jeu ame'liore' pour le jeu d'arcade OutRun. Le code assembleur 68000 et Z80 d'origine a e'te' re'e'crit en C++. Cela permet d'apporter des ame'liorations adapte'es aux plates-formes modernes, telles qu'une fre'quence d'images plus e'leve'e (60 FPS), une meilleure re'solution des sprites, la prise en charge des e'crans larges, de nouveaux modes de jeu, etc. Il ne'cessite les ROMs d'origine, qui contiennent des e'le'ments tels que les donne'es graphiques et audio.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">CannonBall e' un motore di gioco potenziato per il gioco arcade OutRun. Il codice assembler originale per 68000 e Z80 e' stato riscritto in C++. In questo modo e' stato possibile apportare miglioramenti adatti alle piattaforme moderne, come una frequenza di fotogrammi piU' elevata a 60 FPS, la scalatura degli sprite a risoluzione piU' alta, il supporto per lo schermo largo, nuove modalita' di gioco e cosi' via. Richiede le ROM originali, che contengono elementi come i dati grafici e audio.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

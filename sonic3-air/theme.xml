@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Sonic 3 AIR - Angel Island Revisited, is a fan-made widescreen remaster of Sonic 3 & Knuckles.</text>
-			<text lang="es">Sonic 3 AIR - Angel Island Revisited, es una remasterización en pantalla ancha de Sonic 3 & Knuckles hecha por fans.</text>
-			<text lang="de">Sonic 3 AIR – Angel Island Revisited ist ein von Fans erstelltes Breitbild-Remaster von Sonic 3 & Knuckles.</text>
-			<text lang="fr">Sonic 3 AIR - Angel Island Revisited, est un remaster grand e'cran re'alise' par des fans de Sonic 3 & Knuckles.</text>
-			<text lang="it">Sonic 3 AIR - Angel Island Revisited, e' una rimasterizzazione widescreen realizzata dai fan di Sonic 3 e Knuckles.</text>       
+         <text>Sonic 3 AIR - Angel Island Revisited, is a fan-made widescreen remaster of Sonic 3 & Knuckles.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Sonic 3 AIR - Angel Island Revisited, es una remasterización en pantalla ancha de Sonic 3 & Knuckles hecha por fans.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Sonic 3 AIR – Angel Island Revisited ist ein von Fans erstelltes Breitbild-Remaster von Sonic 3 & Knuckles.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Sonic 3 AIR - Angel Island Revisited, est un remaster grand e'cran re'alise' par des fans de Sonic 3 & Knuckles.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Sonic 3 AIR - Angel Island Revisited, e' una rimasterizzazione widescreen realizzata dai fan di Sonic 3 e Knuckles.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

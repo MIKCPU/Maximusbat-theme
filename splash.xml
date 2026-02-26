@@ -1,48 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<!--
+theme name:     Maximusbat
+version         3.0
+-->
 
+<?xml version="1.0" encoding="UTF-8"?>
 <theme>
 	<formatVersion>7</formatVersion>
-
 <view name="splash">
 	<splash name="splash">
 		<backgroundColor>FF222222</backgroundColor>
 	</splash>
-
 	<image name="background">
 		<path>./../Maximusbat/.loading/background.png</path>
 	</image>
-
 	<image name="progressbarbg" extra="true">
 		<color>F44336</color>
 		<colorEnd>F3EF00</colorEnd>
 		<zIndex>5</zIndex>
 		<padding>0.01</padding>
 	</image>
-
 	<image name="progressbar">
 		<color>F3EF00</color>
 		<colorEnd>F44336</colorEnd>
 		<gradientType>vertical</gradientType>
 		<opacity>0.8</opacity>
 	</image>
-
 	<image name="progressbar:active">
 		<color>F44336</color>
 		<colorEnd>F44336</colorEnd>
 		<zIndex>7</zIndex>
 	</image>
-
 		<image name="splashlogo" extra="true">
 			<path>./_inc/assets/splashlogo.png</path>
 			<size>0.104 0.185</size>
 			<pos>0.0 0.0</pos>
                         <origin>0 0</origin>
 		</image>
-
-
-		
 		<text name="label">
-
 			<origin>0.5 0.5</origin>
 			<alignment>center</alignment>
 			<fontPath>./../Maximusbat/.loading/Proxima-Nova-Sbold.ttf</fontPath>

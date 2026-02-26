@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap-it.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Here's a collection of all the games, from all the systems, that have been launched so far.</text>
-			<text lang="es">Aquí tienes una recopilación de todos los juegos, de todos los sistemas que se han lanzado hasta ahora.</text>
-			<text lang="de">Hier finden Sie eine Sammlung aller Spiele für alle Systeme, die bisher auf den Markt gekommen sind.</text>
-			<text lang="fr">Voici une collection de tous les jeux, pour tous les syste'mes qui ont e'te' lance's jusqu'a' pre'sent.</text>
-			<text lang="it">Ecco una raccolta di tutti i giochi, da tutti i sistemi che sono stati usati finora.</text>       
+         <text>Here's a collection of all the games, from all the systems, that have been launched so far.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Aquí tienes una recopilación de todos los juegos, de todos los sistemas que se han lanzado hasta ahora.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Hier finden Sie eine Sammlung aller Spiele für alle Systeme, die bisher auf den Markt gekommen sind.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Voici une collection de tous les jeux, pour tous les syste'mes qui ont e'te' lance's jusqu'a' pre'sent.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Ecco una raccolta di tutti i giochi, da tutti i sistemi che sono stati usati finora.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

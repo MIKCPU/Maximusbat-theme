@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>PopCap Games, Inc. is an American video game developer based in Seattle, and a subsidiary of Electronic Arts. The company was founded in 2000 by John Vechey, Brian Fiete and Jason Kapalka. Originally founded under the name "Sexy Action Cool", their first title was a strip poker game that served as a revenue stream for future titles. PopCap has developed several games for computers, consoles and mobile devices, with their most popular games being Bejeweled and Plants vs. Zombies games. PopCap was sold to Electronic Arts in 2011.</text>
-			<text lang="es">PopCap Games, Inc. es una empresa estadounidense de desarrollo de videojuegos con sede en Seattle y filial de Electronic Arts. La empresa fue fundada en 2000 por John Vechey, Brian Fiete y Jason Kapalka. Fundada originalmente bajo el nombre de "Sexy Action Cool", su primer título fue un juego de strip póquer que sirvió como fuente de ingresos para futuros títulos. PopCap ha desarrollado varios juegos para ordenadores, consolas y dispositivos móviles, siendo sus juegos más populares Bejeweled y Plants vs. Zombies. PopCap fue vendida a Electronic Arts en 2011.</text>
-			<text lang="de">PopCap Games, Inc. ist ein amerikanischer Videospielentwickler mit Sitz in Seattle und eine Tochtergesellschaft von Electronic Arts. Das Unternehmen wurde im Jahr 2000 von John Vechey, Brian Fiete und Jason Kapalka gegründet. Ursprünglich unter dem Namen "Sexy Action Cool" gegründet, war ihr erster Titel ein Strip-Poker-Spiel, das als Einnahmequelle für zukünftige Titel diente. PopCap hat mehrere Spiele für Computer, Konsolen und mobile Geräte entwickelt, wobei die beliebtesten Spiele Bejeweled und Plants vs. Zombies sind. Im Jahr 2011 wurde PopCap an Electronic Arts verkauft.</text>
-			<text lang="fr">PopCap Games, Inc. est un de'veloppeur ame'ricain de jeux vide'o base' a' Seattle et une filiale d'Electronic Arts. La socie'te' a e'te' fonde'e en 2000 par John Vechey, Brian Fiete et Jason Kapalka. Fonde'e a' l'origine sous le nom de "Sexy Action Cool", son premier titre e'tait un jeu de strip-poker qui servait de source de revenus pour les titres a' venir. PopCap a de'veloppe' plusieurs jeux pour ordinateurs, consoles et appareils mobiles, ses jeux les plus populaires e'tant Bejeweled et Plants vs Zombies. PopCap a e'te' vendu a' Electronic Arts en 2011.</text>
-			<text lang="it">PopCap Games, Inc. e' uno sviluppatore di videogiochi americano con sede a Seattle e una filiale di Electronic Arts. La societa' e' stata fondata nel 2000 da John Vechey, Brian Fiete e Jason Kapalka. Inizialmente fondata con il nome di "Sexy Action Cool", il loro primo titolo e' stato uno strip poker che e' servito come fonte di guadagno per i titoli futuri. PopCap ha sviluppato diversi giochi per computer, console e dispositivi mobili; i suoi giochi piU' popolari sono Bejeweled e Piante contro Zombi. PopCap e' stata venduta a Electronic Arts nel 2011.</text>       
+         <text>PopCap Games, Inc. is an American video game developer based in Seattle, and a subsidiary of Electronic Arts. The company was founded in 2000 by John Vechey, Brian Fiete and Jason Kapalka. Originally founded under the name "Sexy Action Cool", their first title was a strip poker game that served as a revenue stream for future titles. PopCap has developed several games for computers, consoles and mobile devices, with their most popular games being Bejeweled and Plants vs. Zombies games. PopCap was sold to Electronic Arts in 2011.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">PopCap Games, Inc. es una empresa estadounidense de desarrollo de videojuegos con sede en Seattle y filial de Electronic Arts. La empresa fue fundada en 2000 por John Vechey, Brian Fiete y Jason Kapalka. Fundada originalmente bajo el nombre de "Sexy Action Cool", su primer título fue un juego de strip póquer que sirvió como fuente de ingresos para futuros títulos. PopCap ha desarrollado varios juegos para ordenadores, consolas y dispositivos móviles, siendo sus juegos más populares Bejeweled y Plants vs. Zombies. PopCap fue vendida a Electronic Arts en 2011.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">PopCap Games, Inc. ist ein amerikanischer Videospielentwickler mit Sitz in Seattle und eine Tochtergesellschaft von Electronic Arts. Das Unternehmen wurde im Jahr 2000 von John Vechey, Brian Fiete und Jason Kapalka gegründet. Ursprünglich unter dem Namen "Sexy Action Cool" gegründet, war ihr erster Titel ein Strip-Poker-Spiel, das als Einnahmequelle für zukünftige Titel diente. PopCap hat mehrere Spiele für Computer, Konsolen und mobile Geräte entwickelt, wobei die beliebtesten Spiele Bejeweled und Plants vs. Zombies sind. Im Jahr 2011 wurde PopCap an Electronic Arts verkauft.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">PopCap Games, Inc. est un de'veloppeur ame'ricain de jeux vide'o base' a' Seattle et une filiale d'Electronic Arts. La socie'te' a e'te' fonde'e en 2000 par John Vechey, Brian Fiete et Jason Kapalka. Fonde'e a' l'origine sous le nom de "Sexy Action Cool", son premier titre e'tait un jeu de strip-poker qui servait de source de revenus pour les titres a' venir. PopCap a de'veloppe' plusieurs jeux pour ordinateurs, consoles et appareils mobiles, ses jeux les plus populaires e'tant Bejeweled et Plants vs Zombies. PopCap a e'te' vendu a' Electronic Arts en 2011.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">PopCap Games, Inc. e' uno sviluppatore di videogiochi americano con sede a Seattle e una filiale di Electronic Arts. La societa' e' stata fondata nel 2000 da John Vechey, Brian Fiete e Jason Kapalka. Inizialmente fondata con il nome di "Sexy Action Cool", il loro primo titolo e' stato uno strip poker che e' servito come fonte di guadagno per i titoli futuri. PopCap ha sviluppato diversi giochi per computer, console e dispositivi mobili; i suoi giochi piU' popolari sono Bejeweled e Piante contro Zombi. PopCap e' stata venduta a Electronic Arts nel 2011.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

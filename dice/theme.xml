@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>DICE (Discrete Integrated Circuit Emulator)is an emulator designed for arcade systems that lack a CPU, instead relying solely on discrete logic components. It runs via dice-libretro, a core within RetroArch that allows for the accurate emulation of these specialized, non-CPU-based, or early discrete-logic, arcade games.</text>
-         <text lang="it">DICE (Discrete Integrated Circuit Emulator) e' un emulatore progettato per sistemi arcade privi di CPU, che si basano esclusivamente su componenti logici discreti. Funziona tramite dice-libretro, un core di RetroArch che consente l'emulazione accurata di questi giochi arcade specializzati, non basati su CPU o dei primi giochi a logica discreta.</text>
-         <text lang="de">DICE (Discrete Integrated Circuit Emulator) ist ein Emulator für Arcade-Systeme ohne CPU, der ausschließlich auf diskreten Logikbausteinen basiert. Er läuft über dice-libretro, einen Kern innerhalb von RetroArch, der die präzise Emulation dieser speziellen, CPU-losen oder frühen Arcade-Spiele mit diskreter Logik ermöglicht.</text>
-         <text lang="fr">DICE (Discrete Integrated Circuit Emulator) est un e'mulateur conçu pour les syste'mes d'arcade de'pourvus de processeur, utilisant exclusivement des composants logiques discrets. Il fonctionne grâce a' dice-libretro, un noyau de RetroArch permettant l'e'mulation pre'cise de ces jeux d'arcade spe'cialise's, sans processeur ou utilisant des circuits logiques discrets.</text>
-         <text lang="es">DICE (Emulador de Circuitos Integrados Discretos) es un emulador diseñado para sistemas arcade que no utilizan CPU y que dependen exclusivamente de componentes de lógica discreta. Se ejecuta mediante dice-libretro, un núcleo de RetroArch que permite la emulación precisa de estos juegos arcade especializados, sin CPU o de lógica discreta temprana.</text>
+         <text>DICE (Discrete Integrated Circuit Emulator)is an emulator designed for arcade systems that lack a CPU, instead relying solely on discrete logic components. It runs via dice-libretro, a core within RetroArch that allows for the accurate emulation of these specialized, non-CPU-based, or early discrete-logic, arcade games.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+         <text lang="it">DICE (Discrete Integrated Circuit Emulator) e' un emulatore progettato per sistemi arcade privi di CPU, che si basano esclusivamente su componenti logici discreti. Funziona tramite dice-libretro, un core di RetroArch che consente l'emulazione accurata di questi giochi arcade specializzati, non basati su CPU o dei primi giochi a logica discreta.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+         <text lang="de">DICE (Discrete Integrated Circuit Emulator) ist ein Emulator für Arcade-Systeme ohne CPU, der ausschließlich auf diskreten Logikbausteinen basiert. Er läuft über dice-libretro, einen Kern innerhalb von RetroArch, der die präzise Emulation dieser speziellen, CPU-losen oder frühen Arcade-Spiele mit diskreter Logik ermöglicht.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+         <text lang="fr">DICE (Discrete Integrated Circuit Emulator) est un e'mulateur conçu pour les syste'mes d'arcade de'pourvus de processeur, utilisant exclusivement des composants logiques discrets. Il fonctionne grâce a' dice-libretro, un noyau de RetroArch permettant l'e'mulation pre'cise de ces jeux d'arcade spe'cialise's, sans processeur ou utilisant des circuits logiques discrets.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+         <text lang="es">DICE (Emulador de Circuitos Integrados Discretos) es un emulador diseñado para sistemas arcade que no utilizan CPU y que dependen exclusivamente de componentes de lógica discreta. Se ejecuta mediante dice-libretro, un núcleo de RetroArch que permite la emulación precisa de estos juegos arcade especializados, sin CPU o de lógica discreta temprana.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

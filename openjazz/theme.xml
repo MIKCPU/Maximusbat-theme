@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Is a free, open-source version of the classic Jazz Jackrabbit games. OpenJazz can be compiled on a wide range of operating systems, including Windows, macOS, GNU/Linux and BSD flavors. Also ports are available for some homebrew platforms, for example Wii and PSP. With the demise of DOS-based operating systems, it has become necessary to use emulators to play old DOS games. Jazz Jackrabbit deserves more - and would benefit greatly from new features.</text>
-			<text lang="es">Es una versión libre y de código abierto de los clásicos juegos Jazz Jackrabbit. OpenJazz puede compilarse en una amplia gama de sistemas operativos, como Windows, macOS, GNU/Linux y BSD. Tambie'n hay ports disponibles para algunas plataformas homebrew, por ejemplo Wii y PSP. Con la desaparición de los sistemas operativos basados en DOS, se ha hecho necesario utilizar emuladores para jugar a viejos juegos de DOS. Jazz Jackrabbit merece más, y se beneficiaría enormemente de nuevas funciones.</text>
-			<text lang="de">Ist eine freie, quelloffene Version der klassischen Jazz Jackrabbit Spiele. OpenJazz kann auf einer Vielzahl von Betriebssystemen kompiliert werden, darunter Windows, macOS, GNU/Linux und BSD-Flavors. Es sind auch Portierungen für einige Homebrew-Plattformen verfügbar, zum Beispiel für Wii und PSP. Mit dem Niedergang der DOS-basierten Betriebssysteme ist es notwendig geworden, Emulatoren zu verwenden, um alte DOS-Spiele zu spielen. Jazz Jackrabbit hat mehr verdient - und würde von neuen Funktionen sehr profitieren.</text>
-			<text lang="fr">OpenJazz est une version libre et gratuite des jeux classiques Jazz Jackrabbit. OpenJazz peut être compile' sur un large e'ventail de syste'mes d'exploitation, y compris Windows, macOS, GNU/Linux et BSD. Des ports sont e'galement disponibles pour certaines plateformes homebrew, comme la Wii et la PSP. Avec la disparition des syste'mes d'exploitation base's sur le DOS, il est devenu ne'cessaire d'utiliser des e'mulateurs pour jouer aux anciens jeux DOS. Jazz Jackrabbit me'rite plus - et be'ne'ficierait grandement de nouvelles fonctionnalite's.</text>
-			<text lang="it">e' una versione gratuita e open-source dei classici giochi Jazz Jackrabbit. OpenJazz puo' essere compilato su un'ampia gamma di sistemi operativi, tra cui Windows, macOS, GNU/Linux e BSD. Sono disponibili anche i porting per alcune piattaforme homebrew, ad esempio Wii e PSP. Con la scomparsa dei sistemi operativi basati su DOS, e' diventato necessario utilizzare emulatori per giocare ai vecchi giochi DOS. Jazz Jackrabbit merita di piU' e trarrebbe grande beneficio da nuove funzionalita'.</text>       
+         <text>Is a free, open-source version of the classic Jazz Jackrabbit games. OpenJazz can be compiled on a wide range of operating systems, including Windows, macOS, GNU/Linux and BSD flavors. Also ports are available for some homebrew platforms, for example Wii and PSP. With the demise of DOS-based operating systems, it has become necessary to use emulators to play old DOS games. Jazz Jackrabbit deserves more - and would benefit greatly from new features.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Es una versión libre y de código abierto de los clásicos juegos Jazz Jackrabbit. OpenJazz puede compilarse en una amplia gama de sistemas operativos, como Windows, macOS, GNU/Linux y BSD. Tambie'n hay ports disponibles para algunas plataformas homebrew, por ejemplo Wii y PSP. Con la desaparición de los sistemas operativos basados en DOS, se ha hecho necesario utilizar emuladores para jugar a viejos juegos de DOS. Jazz Jackrabbit merece más, y se beneficiaría enormemente de nuevas funciones.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Ist eine freie, quelloffene Version der klassischen Jazz Jackrabbit Spiele. OpenJazz kann auf einer Vielzahl von Betriebssystemen kompiliert werden, darunter Windows, macOS, GNU/Linux und BSD-Flavors. Es sind auch Portierungen für einige Homebrew-Plattformen verfügbar, zum Beispiel für Wii und PSP. Mit dem Niedergang der DOS-basierten Betriebssysteme ist es notwendig geworden, Emulatoren zu verwenden, um alte DOS-Spiele zu spielen. Jazz Jackrabbit hat mehr verdient - und würde von neuen Funktionen sehr profitieren.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">OpenJazz est une version libre et gratuite des jeux classiques Jazz Jackrabbit. OpenJazz peut être compile' sur un large e'ventail de syste'mes d'exploitation, y compris Windows, macOS, GNU/Linux et BSD. Des ports sont e'galement disponibles pour certaines plateformes homebrew, comme la Wii et la PSP. Avec la disparition des syste'mes d'exploitation base's sur le DOS, il est devenu ne'cessaire d'utiliser des e'mulateurs pour jouer aux anciens jeux DOS. Jazz Jackrabbit me'rite plus - et be'ne'ficierait grandement de nouvelles fonctionnalite's.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">e' una versione gratuita e open-source dei classici giochi Jazz Jackrabbit. OpenJazz puo' essere compilato su un'ampia gamma di sistemi operativi, tra cui Windows, macOS, GNU/Linux e BSD. Sono disponibili anche i porting per alcune piattaforme homebrew, ad esempio Wii e PSP. Con la scomparsa dei sistemi operativi basati su DOS, e' diventato necessario utilizzare emulatori per giocare ai vecchi giochi DOS. Jazz Jackrabbit merita di piU' e trarrebbe grande beneficio da nuove funzionalita'.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

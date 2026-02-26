@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Wahlap Technology is a renowned global enterprise specializing in interactive arcade games and indoor entertainment products. With over 30 years of experience, Wahlap has established long-term partnerships with industry giants like Sega, Bandai Namco, and Konami. Their arcade game cabinets are known for their innovative designs and high-quality performance, featuring a variety of game genres including racing, shooting, and sports.</text>
-			<text lang="it">Wahlap Technology e' una rinomata azienda globale specializzata in giochi arcade interattivi e prodotti per l'intrattenimento indoor. Con oltre 30 anni di esperienza, Wahlap ha stabilito partnership a lungo termine con giganti del settore come Sega, Bandai Namco e Konami. I loro cabinati arcade sono noti per il design innovativo e le prestazioni di alta qualita', con una varieta' di generi di gioco tra cui corse, shooting e sport.</text>
-			<text lang="fr">Wahlap Technology est une entreprise mondiale de renom spe'cialise'e dans les jeux d'arcade interactifs et les produits de divertissement d'inte'rieur. Avec plus de 30 ans d'expe'rience, Wahlap a e'tabli des partenariats a' long terme avec des ge'ants de l'industrie tels que Sega, Bandai Namco et Konami. Ses consoles de jeux d'arcade sont re'pute'es pour leur conception innovante et leurs performances de haute qualite'. Elles proposent une grande varie'te' de jeux, notamment des jeux de course, de tir et de sport.</text>
-			<text lang="de">Wahlap Technology ist ein renommiertes, weltweit tätiges Unternehmen, das sich auf interaktive Arcade-Spiele und Indoor-Unterhaltungsprodukte spezialisiert hat. Mit über 30 Jahren Erfahrung hat Wahlap langfristige Partnerschaften mit Branchenriesen wie Sega, Bandai Namco und Konami aufgebaut. Die Spielhallen von Wahlap sind für ihr innovatives Design und ihre hochwertige Leistung bekannt und bieten eine Vielzahl von Spielgenres wie Rennen, Schießen und Sport.</text>
-			<text lang="es">Wahlap Technology es una empresa mundial de renombre especializada en juegos arcade interactivos y productos de entretenimiento para interiores. Con más de 30 años de experiencia, Wahlap ha establecido asociaciones a largo plazo con gigantes del sector como Sega, Bandai Namco y Konami. Sus recreativas son conocidas por sus diseños innovadores y su rendimiento de alta calidad, y ofrecen una gran variedad de ge'neros de juego, como carreras, disparos y deportes.</text>       
+         <text>Wahlap Technology is a renowned global enterprise specializing in interactive arcade games and indoor entertainment products. With over 30 years of experience, Wahlap has established long-term partnerships with industry giants like Sega, Bandai Namco, and Konami. Their arcade game cabinets are known for their innovative designs and high-quality performance, featuring a variety of game genres including racing, shooting, and sports.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Wahlap Technology e' una rinomata azienda globale specializzata in giochi arcade interattivi e prodotti per l'intrattenimento indoor. Con oltre 30 anni di esperienza, Wahlap ha stabilito partnership a lungo termine con giganti del settore come Sega, Bandai Namco e Konami. I loro cabinati arcade sono noti per il design innovativo e le prestazioni di alta qualita', con una varieta' di generi di gioco tra cui corse, shooting e sport.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Wahlap Technology est une entreprise mondiale de renom spe'cialise'e dans les jeux d'arcade interactifs et les produits de divertissement d'inte'rieur. Avec plus de 30 ans d'expe'rience, Wahlap a e'tabli des partenariats a' long terme avec des ge'ants de l'industrie tels que Sega, Bandai Namco et Konami. Ses consoles de jeux d'arcade sont re'pute'es pour leur conception innovante et leurs performances de haute qualite'. Elles proposent une grande varie'te' de jeux, notamment des jeux de course, de tir et de sport.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Wahlap Technology ist ein renommiertes, weltweit tätiges Unternehmen, das sich auf interaktive Arcade-Spiele und Indoor-Unterhaltungsprodukte spezialisiert hat. Mit über 30 Jahren Erfahrung hat Wahlap langfristige Partnerschaften mit Branchenriesen wie Sega, Bandai Namco und Konami aufgebaut. Die Spielhallen von Wahlap sind für ihr innovatives Design und ihre hochwertige Leistung bekannt und bieten eine Vielzahl von Spielgenres wie Rennen, Schießen und Sport.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Wahlap Technology es una empresa mundial de renombre especializada en juegos arcade interactivos y productos de entretenimiento para interiores. Con más de 30 años de experiencia, Wahlap ha establecido asociaciones a largo plazo con gigantes del sector como Sega, Bandai Namco y Konami. Sus recreativas son conocidas por sus diseños innovadores y su rendimiento de alta calidad, y ofrecen una gran variedad de ge'neros de juego, como carreras, disparos y deportes.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

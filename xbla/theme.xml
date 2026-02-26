@@ -9,18 +9,35 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Xbox Live Arcade (XBLA) was a digital video game distribution service available on the Xbox 360 console. It offered a wide variety of downloadable games, ranging from classic arcade titles to innovative indie games. XBLA provided gamers with an easy way to discover and play new games, often featuring unique and creative gameplay experiences. It was known for its affordable pricing and frequent promotions, making it a popular choice for gamers looking to expand their library with diverse and entertaining titles.</text>
-			<text lang="it">Xbox Live Arcade (XBLA) e' stato un servizio di distribuzione digitale di videogiochi disponibile sulla console Xbox 360. Offriva un'ampia varieta' di giochi scaricabili, che spaziavano dai classici titoli arcade agli innovativi giochi indie. XBLA offriva ai giocatori un modo semplice per scoprire e giocare a nuovi giochi, spesso caratterizzati da esperienze di gioco uniche e creative. Era noto per i suoi prezzi accessibili e le frequenti promozioni, che lo rendevano una scelta popolare per i giocatori che desideravano ampliare la propria libreria con titoli diversi e divertenti.</text>
-			<text lang="fr">Xbox Live Arcade (XBLA) e'tait un service de distribution de jeux vide'o nume'riques disponible sur la console Xbox 360. Il proposait une grande varie'te' de jeux te'le'chargeables, allant de titres d'arcade classiques a' des jeux inde'pendants innovants. XBLA permettait aux joueurs de de'couvrir et de jouer facilement a' de nouveaux jeux, proposant souvent des expe'riences de jeu uniques et cre'atives. Il e'tait connu pour ses prix abordables et ses promotions fre'quentes, ce qui en faisait un choix populaire pour les joueurs cherchant a' enrichir leur bibliothe'que de titres divers et divertissants.</text>
-			<text lang="de">Xbox Live Arcade (XBLA) war ein digitaler Vertriebsservice für Videospiele, der für die Konsole Xbox 360 verfügbar war. Er bot eine große Auswahl an herunterladbaren Spielen, die von klassischen Arcade-Titeln bis hin zu innovativen Indie-Spielen reichten. XBLA bot Spielern eine einfache Möglichkeit, neue Spiele zu entdecken und zu spielen, die oft einzigartige und kreative Gameplay-Erfahrungen boten. XBLA war bekannt für seine erschwinglichen Preise und die häufigen Werbeaktionen, was es zu einer beliebten Wahl für Spieler machte, die ihre Bibliothek mit vielfältigen und unterhaltsamen Titeln erweitern wollten.</text>
+         <text>Xbox Live Arcade (XBLA) was a digital video game distribution service available on the Xbox 360 console. It offered a wide variety of downloadable games, ranging from classic arcade titles to innovative indie games. XBLA provided gamers with an easy way to discover and play new games, often featuring unique and creative gameplay experiences. It was known for its affordable pricing and frequent promotions, making it a popular choice for gamers looking to expand their library with diverse and entertaining titles.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Xbox Live Arcade (XBLA) e' stato un servizio di distribuzione digitale di videogiochi disponibile sulla console Xbox 360. Offriva un'ampia varieta' di giochi scaricabili, che spaziavano dai classici titoli arcade agli innovativi giochi indie. XBLA offriva ai giocatori un modo semplice per scoprire e giocare a nuovi giochi, spesso caratterizzati da esperienze di gioco uniche e creative. Era noto per i suoi prezzi accessibili e le frequenti promozioni, che lo rendevano una scelta popolare per i giocatori che desideravano ampliare la propria libreria con titoli diversi e divertenti.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Xbox Live Arcade (XBLA) e'tait un service de distribution de jeux vide'o nume'riques disponible sur la console Xbox 360. Il proposait une grande varie'te' de jeux te'le'chargeables, allant de titres d'arcade classiques a' des jeux inde'pendants innovants. XBLA permettait aux joueurs de de'couvrir et de jouer facilement a' de nouveaux jeux, proposant souvent des expe'riences de jeu uniques et cre'atives. Il e'tait connu pour ses prix abordables et ses promotions fre'quentes, ce qui en faisait un choix populaire pour les joueurs cherchant a' enrichir leur bibliothe'que de titres divers et divertissants.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Xbox Live Arcade (XBLA) war ein digitaler Vertriebsservice für Videospiele, der für die Konsole Xbox 360 verfügbar war. Er bot eine große Auswahl an herunterladbaren Spielen, die von klassischen Arcade-Titeln bis hin zu innovativen Indie-Spielen reichten. XBLA bot Spielern eine einfache Möglichkeit, neue Spiele zu entdecken und zu spielen, die oft einzigartige und kreative Gameplay-Erfahrungen boten. XBLA war bekannt für seine erschwinglichen Preise und die häufigen Werbeaktionen, was es zu einer beliebten Wahl für Spieler machte, die ihre Bibliothek mit vielfältigen und unterhaltsamen Titeln erweitern wollten.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 			<text lang="es">Xbox Live Arcade (XBLA) era un servicio de distribución digital de videojuegos disponible en la consola Xbox 360. Ofrecía una amplia variedad de juegos descargables, desde títulos arcade clásicos a innovadores juegos indie. XBLA ofrecía a los jugadores una forma sencilla de descubrir y jugar a nuevos títulos, a menudo con experiencias de juego únicas y creativas.
-Era conocida por sus precios asequibles y sus frecuentes promociones, lo que la convertía en una opción popular para los jugadores que buscaban ampliar su biblioteca con títulos diversos y entretenidos.</text>       
+Era conocida por sus precios asequibles y sus frecuentes promociones, lo que la convertía en una opción popular para los jugadores que buscaban ampliar su biblioteca con títulos diversos y entretenidos.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

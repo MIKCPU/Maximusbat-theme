@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>OpenGOAL is an ambitious project aimed at reviving the GOAL programming language, which was originally used to develop the classic Jak and Daxter series by Naughty Dog. Started in 2020, OpenGOAL has made significant progress in decompiling and recompiling the original game code, allowing for native x86-64 ports of these beloved games. The project focuses on maintaining the original feel and look of the games while enhancing performance, accuracy, and compatibility. Additionally, OpenGOAL supports modifications and custom content, providing a platform for a vibrant modding community</text>
-			<text lang="it">OpenGOAL e' un progetto ambizioso che mira a far rivivere il linguaggio di programmazione GOAL, originariamente utilizzato per sviluppare la serie classica Jak and Daxter di Naughty Dog. Avviato nel 2020, OpenGOAL ha compiuto progressi significativi nella decompilazione e ricompilazione del codice di gioco originale, consentendo di realizzare porte native x86-64 di questi amati giochi. Il progetto si concentra sul mantenimento dell'atmosfera e dell'aspetto originali dei giochi, migliorando al contempo le prestazioni, la precisione e la compatibilita'. Inoltre, OpenGOAL supporta modifiche e contenuti personalizzati, fornendo una piattaforma per una vivace comunita' di modding.</text>
-			<text lang="fr">OpenGOAL est un projet ambitieux visant a' faire revivre le langage de programmation GOAL, qui a e'te' utilise' a' l'origine pour de'velopper la se'rie classique Jak and Daxter par Naughty Dog. Lance' en 2020, OpenGOAL a re'alise' des progre's significatifs dans la de'compilation et la recompilation du code du jeu original, ce qui permet de re'aliser des portages natifs x86-64 de ces jeux bien-aime's. Le projet se concentre sur le maintien de la sensation et de l'aspect originaux des jeux tout en ame'liorant les performances, la pre'cision et la compatibilite'. En outre, OpenGOAL prend en charge les modifications et le contenu personnalise', offrant ainsi une plateforme a' une communaute' de modding dynamique.</text>
-			<text lang="de">OpenGOAL ist ein ehrgeiziges Projekt zur Wiederbelebung der Programmiersprache GOAL, die ursprünglich für die Entwicklung der klassischen Jak-and-Daxter-Reihe von Naughty Dog verwendet wurde. Das im Jahr 2020 gestartete Projekt OpenGOAL hat erhebliche Fortschritte bei der Dekompilierung und Neukompilierung des ursprünglichen Spielcodes gemacht, was eine native x86-64-Portierung dieser beliebten Spiele ermöglicht. Das Projekt konzentriert sich darauf, das ursprüngliche Spielgefühl und Aussehen der Spiele zu erhalten und gleichzeitig die Leistung, Genauigkeit und Kompatibilität zu verbessern. Außerdem unterstützt OpenGOAL Modifikationen und benutzerdefinierte Inhalte und bietet eine Plattform für eine lebendige Modding-Community.</text>
-			<text lang="es">OpenGOAL es un ambicioso proyecto destinado a revivir el lenguaje de programación GOAL, que se utilizó originalmente para desarrollar la clásica serie Jak and Daxter de Naughty Dog. Iniciado en 2020, OpenGOAL ha logrado avances significativos en la descompilación y recompilación del código del juego original, lo que permite ports nativos x86-64 de estos queridos juegos. El proyecto se centra en mantener la sensación y el aspecto originales de los juegos, al tiempo que mejora el rendimiento, la precisión y la compatibilidad. Además, OpenGOAL admite modificaciones y contenidos personalizados, proporcionando una plataforma para una vibrante comunidad de modding.</text>       
+         <text>OpenGOAL is an ambitious project aimed at reviving the GOAL programming language, which was originally used to develop the classic Jak and Daxter series by Naughty Dog. Started in 2020, OpenGOAL has made significant progress in decompiling and recompiling the original game code, allowing for native x86-64 ports of these beloved games. The project focuses on maintaining the original feel and look of the games while enhancing performance, accuracy, and compatibility. Additionally, OpenGOAL supports modifications and custom content, providing a platform for a vibrant modding community<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">OpenGOAL e' un progetto ambizioso che mira a far rivivere il linguaggio di programmazione GOAL, originariamente utilizzato per sviluppare la serie classica Jak and Daxter di Naughty Dog. Avviato nel 2020, OpenGOAL ha compiuto progressi significativi nella decompilazione e ricompilazione del codice di gioco originale, consentendo di realizzare porte native x86-64 di questi amati giochi. Il progetto si concentra sul mantenimento dell'atmosfera e dell'aspetto originali dei giochi, migliorando al contempo le prestazioni, la precisione e la compatibilita'. Inoltre, OpenGOAL supporta modifiche e contenuti personalizzati, fornendo una piattaforma per una vivace comunita' di modding.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">OpenGOAL est un projet ambitieux visant a' faire revivre le langage de programmation GOAL, qui a e'te' utilise' a' l'origine pour de'velopper la se'rie classique Jak and Daxter par Naughty Dog. Lance' en 2020, OpenGOAL a re'alise' des progre's significatifs dans la de'compilation et la recompilation du code du jeu original, ce qui permet de re'aliser des portages natifs x86-64 de ces jeux bien-aime's. Le projet se concentre sur le maintien de la sensation et de l'aspect originaux des jeux tout en ame'liorant les performances, la pre'cision et la compatibilite'. En outre, OpenGOAL prend en charge les modifications et le contenu personnalise', offrant ainsi une plateforme a' une communaute' de modding dynamique.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">OpenGOAL ist ein ehrgeiziges Projekt zur Wiederbelebung der Programmiersprache GOAL, die ursprünglich für die Entwicklung der klassischen Jak-and-Daxter-Reihe von Naughty Dog verwendet wurde. Das im Jahr 2020 gestartete Projekt OpenGOAL hat erhebliche Fortschritte bei der Dekompilierung und Neukompilierung des ursprünglichen Spielcodes gemacht, was eine native x86-64-Portierung dieser beliebten Spiele ermöglicht. Das Projekt konzentriert sich darauf, das ursprüngliche Spielgefühl und Aussehen der Spiele zu erhalten und gleichzeitig die Leistung, Genauigkeit und Kompatibilität zu verbessern. Außerdem unterstützt OpenGOAL Modifikationen und benutzerdefinierte Inhalte und bietet eine Plattform für eine lebendige Modding-Community.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">OpenGOAL es un ambicioso proyecto destinado a revivir el lenguaje de programación GOAL, que se utilizó originalmente para desarrollar la clásica serie Jak and Daxter de Naughty Dog. Iniciado en 2020, OpenGOAL ha logrado avances significativos en la descompilación y recompilación del código del juego original, lo que permite ports nativos x86-64 de estos queridos juegos. El proyecto se centra en mantener la sensación y el aspecto originales de los juegos, al tiempo que mejora el rendimiento, la precisión y la compatibilidad. Además, OpenGOAL admite modificaciones y contenidos personalizados, proporcionando una plataforma para una vibrante comunidad de modding.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

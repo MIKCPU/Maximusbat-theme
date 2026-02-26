@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>The Sega Ringwide arcade system is an arcade platform developed by Sega as one half of their Ring series (the other half being Sega Ringedge). Both machines are based on PC architecture, using Microsoft Windows Embedded Standard 2009 as their operating system. The Ringwide is a versatile board that offers a range of price points. It has an Intel CPU and an AMD GPU. Some of the games released for the Ringwide are Chaos Code, Operation G.H.O.S.T. and Sega Racing Classic.</text>
-			<text lang="it">Il sistema arcade Sega Ringwide e' una piattaforma arcade sviluppata da Sega come meta' della serie Ring (l'altra meta' e' Sega Ringedge). Entrambe le macchine sono basate su architettura PC e utilizzano come sistema operativo Microsoft Windows Embedded Standard 2009. Il Ringwide e' una scheda versatile che offre una gamma di prezzi diversi. Ha una CPU Intel e una GPU AMD. Alcuni dei giochi rilasciati per il Ringwide sono Chaos Code, Operation G.H.O.S.T. e Sega Racing Classic.</text>
-			<text lang="fr">Le syste'me d'arcade Sega Ringwide est une plateforme d'arcade de'veloppe'e par Sega dans le cadre de la se'rie Ring (l'autre moitie' e'tant Sega Ringedge). Les deux machines sont base'es sur une architecture PC, utilisant Microsoft Windows Embedded Standard 2009 comme syste'me d'exploitation. La Ringwide est une carte polyvalente qui offre une gamme de prix. Elle est e'quipe'e d'un processeur Intel et d'un GPU AMD. Parmi les jeux commercialise's pour la Ringwide, citons Chaos Code, Operation G.H.O.S.T. et Sega Racing Classic.</text>
-			<text lang="de">Das Sega Ringwide Arcade-System ist eine Arcade-Plattform, die von Sega als eine Hälfte der Ring-Serie entwickelt wurde (die andere Hälfte ist Sega Ringedge). Beide Maschinen basieren auf der PC-Architektur und verwenden Microsoft Windows Embedded Standard 2009 als Betriebssystem. Der Ringwide ist ein vielseitiges Board, das in verschiedenen Preiskategorien angeboten wird. Es verfügt über eine Intel-CPU und einen AMD-Grafikprozessor. Einige der für den Ringwide veröffentlichten Spiele sind Chaos Code, Operation G.H.O.S.T. und Sega Racing Classic.</text>
-			<text lang="es">El sistema arcade Sega Ringwide es una plataforma arcade desarrollada por Sega como una mitad de su serie Ring (la otra mitad es Sega Ringedge). Ambas máquinas se basan en la arquitectura PC y utilizan Microsoft Windows Embedded Standard 2009 como sistema operativo. La Ringwide es una placa versátil que ofrece una amplia gama de precios. Tiene una CPU Intel y una GPU AMD. Algunos de los juegos lanzados para la Ringwide son Chaos Code, Operation G.H.O.S.T. y Sega Racing Classic.</text>
+         <text>The Sega Ringwide arcade system is an arcade platform developed by Sega as one half of their Ring series (the other half being Sega Ringedge). Both machines are based on PC architecture, using Microsoft Windows Embedded Standard 2009 as their operating system. The Ringwide is a versatile board that offers a range of price points. It has an Intel CPU and an AMD GPU. Some of the games released for the Ringwide are Chaos Code, Operation G.H.O.S.T. and Sega Racing Classic.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Il sistema arcade Sega Ringwide e' una piattaforma arcade sviluppata da Sega come meta' della serie Ring (l'altra meta' e' Sega Ringedge). Entrambe le macchine sono basate su architettura PC e utilizzano come sistema operativo Microsoft Windows Embedded Standard 2009. Il Ringwide e' una scheda versatile che offre una gamma di prezzi diversi. Ha una CPU Intel e una GPU AMD. Alcuni dei giochi rilasciati per il Ringwide sono Chaos Code, Operation G.H.O.S.T. e Sega Racing Classic.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Le syste'me d'arcade Sega Ringwide est une plateforme d'arcade de'veloppe'e par Sega dans le cadre de la se'rie Ring (l'autre moitie' e'tant Sega Ringedge). Les deux machines sont base'es sur une architecture PC, utilisant Microsoft Windows Embedded Standard 2009 comme syste'me d'exploitation. La Ringwide est une carte polyvalente qui offre une gamme de prix. Elle est e'quipe'e d'un processeur Intel et d'un GPU AMD. Parmi les jeux commercialise's pour la Ringwide, citons Chaos Code, Operation G.H.O.S.T. et Sega Racing Classic.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Das Sega Ringwide Arcade-System ist eine Arcade-Plattform, die von Sega als eine Hälfte der Ring-Serie entwickelt wurde (die andere Hälfte ist Sega Ringedge). Beide Maschinen basieren auf der PC-Architektur und verwenden Microsoft Windows Embedded Standard 2009 als Betriebssystem. Der Ringwide ist ein vielseitiges Board, das in verschiedenen Preiskategorien angeboten wird. Es verfügt über eine Intel-CPU und einen AMD-Grafikprozessor. Einige der für den Ringwide veröffentlichten Spiele sind Chaos Code, Operation G.H.O.S.T. und Sega Racing Classic.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">El sistema arcade Sega Ringwide es una plataforma arcade desarrollada por Sega como una mitad de su serie Ring (la otra mitad es Sega Ringedge). Ambas máquinas se basan en la arquitectura PC y utilizan Microsoft Windows Embedded Standard 2009 como sistema operativo. La Ringwide es una placa versátil que ofrece una amplia gama de precios. Tiene una CPU Intel y una GPU AMD. Algunos de los juegos lanzados para la Ringwide son Chaos Code, Operation G.H.O.S.T. y Sega Racing Classic.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Clone Hero is a freeware music rhythm video game created by Ryan Foster, first released in alpha on March 1, 2017, receiving a full release on November 29, 2022. The game is a clone of the Guitar Hero franchise with nearly identical gameplay. The main draw of the game is its ability to play community-made songs, which has resulted in a large fan community around the game as well as a resurgence in popularity for the genre.</text>
-			<text lang="es">Clone Hero es un videojuego gratuito de ritmo musical creado por Ryan Foster, lanzado por primera vez en alfa el 1 de marzo de 2017, recibiendo un lanzamiento completo el 29 de noviembre de 2022. El juego es un clon de la franquicia Guitar Hero con una jugabilidad casi ide'ntica. El principal atractivo del juego es su capacidad para reproducir canciones creadas por la comunidad, lo que ha dado lugar a una gran comunidad de fans en torno al juego, así como a un resurgimiento de la popularidad del ge'nero.</text>
-			<text lang="de">Clone Hero ist ein Freeware-Musik-Rhythmus-Videospiel von Ryan Foster, das am 1. März 2017 erstmals in der Alpha-Version veröffentlicht wurde und am 29. November 2022 eine Vollversion erhielt. Das Spiel ist ein Klon der Guitar Hero-Franchise mit nahezu identischem Gameplay. Die Hauptattraktion des Spiels ist die Möglichkeit, von der Community erstellte Songs zu spielen, was zu einer großen Fangemeinde rund um das Spiel sowie zu einem Wiederaufleben der Popularität des Genres geführt hat.</text>
-			<text lang="fr">Clone Hero est un jeu vide'o gratuit de rythme musical cre'e' par Ryan Foster, d'abord sorti en alpha le 1er mars 2017, recevant une version comple'te le 29 novembre 2022. Le jeu est un clone de la franchise Guitar Hero avec un gameplay presque identique. Le principal attrait du jeu est sa capacite' a' jouer des chansons cre'e'es par la communaute', ce qui a donne' lieu a' une grande communaute' de fans autour du jeu ainsi qu'a' une re'surgence de la popularite' du genre.</text>
-			<text lang="it">Clone Hero e' un videogioco ritmico musicale freeware creato da Ryan Foster, rilasciato per la prima volta in versione alpha il 1° marzo 2017, per poi ricevere il rilascio completo il 29 novembre 2022. Il gioco e' un clone del franchise di Guitar Hero con un gameplay quasi identico. L'attrattiva principale del gioco e' la possibilita' di suonare canzoni create dalla comunita', che ha portato a una grande comunita' di fan intorno al gioco e a una rinascita della popolarita' del genere.</text>       
+         <text>Clone Hero is a freeware music rhythm video game created by Ryan Foster, first released in alpha on March 1, 2017, receiving a full release on November 29, 2022. The game is a clone of the Guitar Hero franchise with nearly identical gameplay. The main draw of the game is its ability to play community-made songs, which has resulted in a large fan community around the game as well as a resurgence in popularity for the genre.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Clone Hero es un videojuego gratuito de ritmo musical creado por Ryan Foster, lanzado por primera vez en alfa el 1 de marzo de 2017, recibiendo un lanzamiento completo el 29 de noviembre de 2022. El juego es un clon de la franquicia Guitar Hero con una jugabilidad casi ide'ntica. El principal atractivo del juego es su capacidad para reproducir canciones creadas por la comunidad, lo que ha dado lugar a una gran comunidad de fans en torno al juego, así como a un resurgimiento de la popularidad del ge'nero.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Clone Hero ist ein Freeware-Musik-Rhythmus-Videospiel von Ryan Foster, das am 1. März 2017 erstmals in der Alpha-Version veröffentlicht wurde und am 29. November 2022 eine Vollversion erhielt. Das Spiel ist ein Klon der Guitar Hero-Franchise mit nahezu identischem Gameplay. Die Hauptattraktion des Spiels ist die Möglichkeit, von der Community erstellte Songs zu spielen, was zu einer großen Fangemeinde rund um das Spiel sowie zu einem Wiederaufleben der Popularität des Genres geführt hat.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Clone Hero est un jeu vide'o gratuit de rythme musical cre'e' par Ryan Foster, d'abord sorti en alpha le 1er mars 2017, recevant une version comple'te le 29 novembre 2022. Le jeu est un clone de la franchise Guitar Hero avec un gameplay presque identique. Le principal attrait du jeu est sa capacite' a' jouer des chansons cre'e'es par la communaute', ce qui a donne' lieu a' une grande communaute' de fans autour du jeu ainsi qu'a' une re'surgence de la popularite' du genre.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Clone Hero e' un videogioco ritmico musicale freeware creato da Ryan Foster, rilasciato per la prima volta in versione alpha il 1° marzo 2017, per poi ricevere il rilascio completo il 29 novembre 2022. Il gioco e' un clone del franchise di Guitar Hero con un gameplay quasi identico. L'attrattiva principale del gioco e' la possibilita' di suonare canzoni create dalla comunita', che ha portato a una grande comunita' di fan intorno al gioco e a una rinascita della popolarita' del genere.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

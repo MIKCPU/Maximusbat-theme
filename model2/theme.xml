@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>The Sega Model 2 is an arcade system board originally debuted by Sega in 1993 as a successor to the Sega Model 1 board. It is an extension of the Model 1 hardware, most notably introducing the concept of texture-mapped polygons, allowing for more realistic 3D graphics for its time.</text>
-			<text lang="es">La Sega Model 2 es una placa de sistema arcade originalmente debutada por Sega en 1993 como sucesora de la Sega Model 1. Se trata de una ampliación del hardware del Model 1, en la que destaca la introducción del concepto de polígonos mapeados con texturas, que permite gráficos 3D más realistas para su e'poca.</text>
-			<text lang="de">Das Sega Model 2 ist eine Spielhallen-Systemplatine, die 1993 von Sega als Nachfolger des Sega Model 1 vorgestellt wurde. Es ist eine Erweiterung der Modell 1-Hardware, vor allem die Einführung des Konzepts der Textur-gemappten Polygone, die eine realistischere 3D-Grafik für seine Zeit ermöglicht.</text>
-			<text lang="fr">Le Sega Model 2 est une carte de syste'me d'arcade lance'e par Sega en 1993 pour succe'der a' la carte Sega Model 1. Il s'agit d'une extension du mate'riel de la Model 1, qui introduit notamment le concept de polygones texture's, ce qui permet des graphismes 3D plus re'alistes pour l'e'poque.</text>
-			<text lang="it">Il Sega Model 2 e' una scheda di sistema arcade originariamente presentata da Sega nel 1993 come successore della scheda Sega Model 1. Si tratta di un'estensione dell'hardware del Model 1, che introduce in particolare il concetto di poligoni mappati con texture, consentendo una grafica 3D piU' realistica per l'epoca.</text>       
+         <text>The Sega Model 2 is an arcade system board originally debuted by Sega in 1993 as a successor to the Sega Model 1 board. It is an extension of the Model 1 hardware, most notably introducing the concept of texture-mapped polygons, allowing for more realistic 3D graphics for its time.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">La Sega Model 2 es una placa de sistema arcade originalmente debutada por Sega en 1993 como sucesora de la Sega Model 1. Se trata de una ampliación del hardware del Model 1, en la que destaca la introducción del concepto de polígonos mapeados con texturas, que permite gráficos 3D más realistas para su e'poca.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Das Sega Model 2 ist eine Spielhallen-Systemplatine, die 1993 von Sega als Nachfolger des Sega Model 1 vorgestellt wurde. Es ist eine Erweiterung der Modell 1-Hardware, vor allem die Einführung des Konzepts der Textur-gemappten Polygone, die eine realistischere 3D-Grafik für seine Zeit ermöglicht.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Le Sega Model 2 est une carte de syste'me d'arcade lance'e par Sega en 1993 pour succe'der a' la carte Sega Model 1. Il s'agit d'une extension du mate'riel de la Model 1, qui introduit notamment le concept de polygones texture's, ce qui permet des graphismes 3D plus re'alistes pour l'e'poque.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Il Sega Model 2 e' una scheda di sistema arcade originariamente presentata da Sega nel 1993 come successore della scheda Sega Model 1. Si tratta di un'estensione dell'hardware del Model 1, che introduce in particolare il concetto di poligoni mappati con texture, consentendo una grafica 3D piU' realistica per l'epoca.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

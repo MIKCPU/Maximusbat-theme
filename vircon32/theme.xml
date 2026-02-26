@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>The Vircon32 is a virtual 32-bit game console designed to be simple yet powerful enough to support full, elaborate games. It features a 15 MHz CPU with floating point support, 16 MB of RAM, and a screen resolution of 640 x 360 pixels with true color. The console supports rotation, scaling, and transparencies, and offers CD-quality stereo sound with 16 channels. It can handle up to 4 gamepads with 6 buttons each, plus a Start button. The Vircon32 is designed to be implemented either in software or hardware, making it a versatile platform for both developers and gamers</text>
-			<text lang="it">Vircon32 e' una console virtuale a 32 bit progettata per essere semplice ma abbastanza potente da supportare giochi completi ed elaborati. Dispone di una CPU a 15 MHz con supporto in virgola mobile, 16 MB di RAM e una risoluzione dello schermo di 640 x 360 pixel con colori reali. La console supporta la rotazione, il ridimensionamento e le trasparenze e offre un suono stereo di qualita' CD a 16 canali. Puo' gestire fino a 4 gamepad con 6 pulsanti ciascuno, piU' un pulsante di avvio. Vircon32 e' stato progettato per essere implementato sia in software che in hardware, rendendolo una piattaforma versatile sia per gli sviluppatori che per i giocatori.</text>
-			<text lang="fr">Le Vircon32 est une console de jeu virtuelle 32 bits conçue pour être simple mais suffisamment puissante pour supporter des jeux complets et e'labore's. Elle est e'quipe'e d'un processeur de 15 MHz avec support de la virgule flottante, de 16 Mo de RAM et d'un e'cran d'une re'solution de 640 x 360 pixels en couleurs re'elles. La console prend en charge la rotation, la mise a' l'e'chelle et les transparences, et offre un son ste're'o de qualite' CD avec 16 canaux. Elle peut ge'rer jusqu'a' 4 manettes de jeu avec 6 boutons chacune, plus un bouton Start. Le Vircon32 est conçu pour être imple'mente' soit en logiciel, soit en mate'riel, ce qui en fait une plateforme polyvalente pour les de'veloppeurs et les joueurs.</text>
-			<text lang="de">Der Vircon32 ist eine virtuelle 32-Bit-Spielkonsole, die einfach, aber dennoch leistungsfähig genug ist, um vollständige, aufwendige Spiele zu unterstützen. Er verfügt über eine 15-MHz-CPU mit Fließkomma-Unterstützung, 16 MB RAM und eine Bildschirmauflösung von 640 x 360 Pixeln mit True Color. Die Konsole unterstützt Rotation, Skalierung und Transparenzen und bietet Stereo-Sound in CD-Qualität mit 16 Kanälen. Sie kann bis zu 4 Gamepads mit je 6 Tasten sowie eine Starttaste bedienen. Der Vircon32 ist so konzipiert, dass er sowohl in Software als auch in Hardware implementiert werden kann, was ihn zu einer vielseitigen Plattform für Entwickler und Gamer macht.</text>
-			<text lang="es">La Vircon32 es una videoconsola virtual de 32 bits diseñada para ser sencilla pero lo suficientemente potente como para soportar juegos completos y elaborados. Tiene una CPU de 15 MHz con soporte de coma flotante, 16 MB de RAM y una resolución de pantalla de 640 x 360 píxeles con color verdadero. La consola admite rotación, escalado y transparencias, y ofrece sonido este'reo con calidad de CD y 16 canales. Puede manejar hasta 4 gamepads con 6 botones cada uno, además de un botón de Inicio. La Vircon32 está diseñada para implementarse tanto en software como en hardware, lo que la convierte en una plataforma versátil tanto para desarrolladores como para jugadores.</text>       
+         <text>The Vircon32 is a virtual 32-bit game console designed to be simple yet powerful enough to support full, elaborate games. It features a 15 MHz CPU with floating point support, 16 MB of RAM, and a screen resolution of 640 x 360 pixels with true color. The console supports rotation, scaling, and transparencies, and offers CD-quality stereo sound with 16 channels. It can handle up to 4 gamepads with 6 buttons each, plus a Start button. The Vircon32 is designed to be implemented either in software or hardware, making it a versatile platform for both developers and gamers<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Vircon32 e' una console virtuale a 32 bit progettata per essere semplice ma abbastanza potente da supportare giochi completi ed elaborati. Dispone di una CPU a 15 MHz con supporto in virgola mobile, 16 MB di RAM e una risoluzione dello schermo di 640 x 360 pixel con colori reali. La console supporta la rotazione, il ridimensionamento e le trasparenze e offre un suono stereo di qualita' CD a 16 canali. Puo' gestire fino a 4 gamepad con 6 pulsanti ciascuno, piU' un pulsante di avvio. Vircon32 e' stato progettato per essere implementato sia in software che in hardware, rendendolo una piattaforma versatile sia per gli sviluppatori che per i giocatori.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Le Vircon32 est une console de jeu virtuelle 32 bits conçue pour être simple mais suffisamment puissante pour supporter des jeux complets et e'labore's. Elle est e'quipe'e d'un processeur de 15 MHz avec support de la virgule flottante, de 16 Mo de RAM et d'un e'cran d'une re'solution de 640 x 360 pixels en couleurs re'elles. La console prend en charge la rotation, la mise a' l'e'chelle et les transparences, et offre un son ste're'o de qualite' CD avec 16 canaux. Elle peut ge'rer jusqu'a' 4 manettes de jeu avec 6 boutons chacune, plus un bouton Start. Le Vircon32 est conçu pour être imple'mente' soit en logiciel, soit en mate'riel, ce qui en fait une plateforme polyvalente pour les de'veloppeurs et les joueurs.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Der Vircon32 ist eine virtuelle 32-Bit-Spielkonsole, die einfach, aber dennoch leistungsfähig genug ist, um vollständige, aufwendige Spiele zu unterstützen. Er verfügt über eine 15-MHz-CPU mit Fließkomma-Unterstützung, 16 MB RAM und eine Bildschirmauflösung von 640 x 360 Pixeln mit True Color. Die Konsole unterstützt Rotation, Skalierung und Transparenzen und bietet Stereo-Sound in CD-Qualität mit 16 Kanälen. Sie kann bis zu 4 Gamepads mit je 6 Tasten sowie eine Starttaste bedienen. Der Vircon32 ist so konzipiert, dass er sowohl in Software als auch in Hardware implementiert werden kann, was ihn zu einer vielseitigen Plattform für Entwickler und Gamer macht.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">La Vircon32 es una videoconsola virtual de 32 bits diseñada para ser sencilla pero lo suficientemente potente como para soportar juegos completos y elaborados. Tiene una CPU de 15 MHz con soporte de coma flotante, 16 MB de RAM y una resolución de pantalla de 640 x 360 píxeles con color verdadero. La consola admite rotación, escalado y transparencias, y ofrece sonido este'reo con calidad de CD y 16 canales. Puede manejar hasta 4 gamepads con 6 botones cada uno, además de un botón de Inicio. La Vircon32 está diseñada para implementarse tanto en software como en hardware, lo que la convierte en una plataforma versátil tanto para desarrolladores como para jugadores.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

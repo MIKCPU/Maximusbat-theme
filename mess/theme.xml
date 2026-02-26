@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Multi Emulator Super System (MESS) was an emulator for various consoles and computer systems, based on the MAME core. It used to be a standalone program, but is now integrated into MAME. MESS emulated portable and console gaming systems, computer platforms, and calculators..</text>
-			<text lang="es">Multi Emulator Super System (MESS) era un emulador para varias consolas y sistemas informáticos, basado en el núcleo MAME. Solía ​​ser un programa independiente, pero ahora está integrado en MAME. MESS emuló sistemas de juegos, plataformas informáticas y calculadoras portátiles y de consola.</text>
-			<text lang="de">Multi Emulator Super System (MESS) war ein Emulator für verschiedene Konsolen und Computersysteme, basierend auf dem MAME-Kern. Früher war es ein eigenständiges Programm, jetzt ist es in MAME integriert. MESS emulierte tragbare und Konsolenspielsysteme, Computerplattformen und Taschenrechner.</text>
-			<text lang="fr">Multi Emulator Super System (MESS) e'tait un e'mulateur pour diverses consoles et syste'mes informatiques, base' sur le noyau MAME. Il s'agissait auparavant d'un programme autonome, mais il est de'sormais inte'gre' a' MAME. MESS e'mulait des syste'mes de jeux portables et sur consoles, des plates-formes informatiques et des calculatrices.</text>
-			<text lang="it">Multi Emulator Super System (MESS) era un emulatore per varie console e sistemi informatici, basato sul core MAME. In passato era un programma autonomo, ma ora e' integrato in MAME. MESS emulava sistemi di gioco portatili e console, piattaforme di computer e calcolatrici.</text>       
+         <text>Multi Emulator Super System (MESS) was an emulator for various consoles and computer systems, based on the MAME core. It used to be a standalone program, but is now integrated into MAME. MESS emulated portable and console gaming systems, computer platforms, and calculators..<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Multi Emulator Super System (MESS) era un emulador para varias consolas y sistemas informáticos, basado en el núcleo MAME. Solía ​​ser un programa independiente, pero ahora está integrado en MAME. MESS emuló sistemas de juegos, plataformas informáticas y calculadoras portátiles y de consola.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Multi Emulator Super System (MESS) war ein Emulator für verschiedene Konsolen und Computersysteme, basierend auf dem MAME-Kern. Früher war es ein eigenständiges Programm, jetzt ist es in MAME integriert. MESS emulierte tragbare und Konsolenspielsysteme, Computerplattformen und Taschenrechner.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Multi Emulator Super System (MESS) e'tait un e'mulateur pour diverses consoles et syste'mes informatiques, base' sur le noyau MAME. Il s'agissait auparavant d'un programme autonome, mais il est de'sormais inte'gre' a' MAME. MESS e'mulait des syste'mes de jeux portables et sur consoles, des plates-formes informatiques et des calculatrices.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Multi Emulator Super System (MESS) era un emulatore per varie console e sistemi informatici, basato sul core MAME. In passato era un programma autonomo, ma ora e' integrato in MAME. MESS emulava sistemi di gioco portatili e console, piattaforme di computer e calcolatrici.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

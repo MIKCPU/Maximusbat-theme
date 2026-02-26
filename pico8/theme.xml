@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. It feels like a regular console, but runs on Windows / Mac / Linux. When you turn it on, the machine greets you with a commandline, a suite of cartridge creation tools, and an online cartridge browser called SPLORE.</text>
-			<text lang="es">PICO-8 es una consola de fantasía para crear, compartir y jugar a pequeños juegos y otros programas informáticos. Parece una consola normal, pero funciona con Windows / Mac / Linux. Al encenderla, la máquina te da la bienvenida con una línea de comandos, un conjunto de herramientas de creación de cartuchos y un navegador de cartuchos en línea llamado SPLORE.</text>
-			<text lang="de">PICO-8 ist eine fantastische Konsole zum Erstellen, Teilen und Spielen von kleinen Spielen und anderen Computerprogrammen. Sie fühlt sich an wie eine normale Konsole, läuft aber unter Windows/Mac/Linux. Beim Einschalten begrüßt dich das Gerät mit einer Kommandozeile, einer Reihe von Tools zur Erstellung von Cartridges und einem Online-Cartridge-Browser namens SPLORE.</text>
-			<text lang="fr">PICO-8 est une console fantaisiste permettant de cre'er, de partager et de jouer a' des jeux miniatures et a' d'autres programmes informatiques. Elle ressemble a' une console classique, mais fonctionne sous Windows / Mac / Linux. Lorsque vous l'allumez, la machine vous accueille avec une ligne de commande, une suite d'outils de cre'ation de cartouches et un navigateur de cartouches en ligne appele' SPLORE.</text>
-			<text lang="it">PICO-8 e' una console di fantasia per creare, condividere e giocare con piccoli giochi e altri programmi per computer. Sembra una normale console, ma funziona su Windows / Mac / Linux. Quando la si accende, la macchina ci accoglie con una linea di comando, una suite di strumenti per la creazione di cartucce e un browser online per le cartucce chiamato SPLORE.</text>
+         <text>PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. It feels like a regular console, but runs on Windows / Mac / Linux. When you turn it on, the machine greets you with a commandline, a suite of cartridge creation tools, and an online cartridge browser called SPLORE.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">PICO-8 es una consola de fantasía para crear, compartir y jugar a pequeños juegos y otros programas informáticos. Parece una consola normal, pero funciona con Windows / Mac / Linux. Al encenderla, la máquina te da la bienvenida con una línea de comandos, un conjunto de herramientas de creación de cartuchos y un navegador de cartuchos en línea llamado SPLORE.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">PICO-8 ist eine fantastische Konsole zum Erstellen, Teilen und Spielen von kleinen Spielen und anderen Computerprogrammen. Sie fühlt sich an wie eine normale Konsole, läuft aber unter Windows/Mac/Linux. Beim Einschalten begrüßt dich das Gerät mit einer Kommandozeile, einer Reihe von Tools zur Erstellung von Cartridges und einem Online-Cartridge-Browser namens SPLORE.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">PICO-8 est une console fantaisiste permettant de cre'er, de partager et de jouer a' des jeux miniatures et a' d'autres programmes informatiques. Elle ressemble a' une console classique, mais fonctionne sous Windows / Mac / Linux. Lorsque vous l'allumez, la machine vous accueille avec une ligne de commande, une suite d'outils de cre'ation de cartouches et un navigateur de cartouches en ligne appele' SPLORE.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">PICO-8 e' una console di fantasia per creare, condividere e giocare con piccoli giochi e altri programmi per computer. Sembra una normale console, ma funziona su Windows / Mac / Linux. Quando la si accende, la macchina ci accoglie con una linea di comando, una suite di strumenti per la creazione di cartucce e un browser online per le cartucce chiamato SPLORE.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

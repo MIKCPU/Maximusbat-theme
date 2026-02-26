@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Libretro Gong is an open-ended recreation of Pong written by Dan Zeitan in 2018.</text>
-			<text lang="es">Libretro Gong es una recreación abierta de Pong escrita por Dan Zeitan en 2018.</text>
-			<text lang="de">Libretro Gong ist eine offene Neuauflage von Pong, geschrieben von Dan Zeitan im Jahr 2018.</text>
-			<text lang="fr">Libretro Gong est une recre'ation ouverte de Pong e'crite par Dan Zeitan en 2018.</text>
-			<text lang="it">Libretro Gong e' una ricreazione aperta di Pong scritta da Dan Zeitan nel 2018.</text>       
+         <text>Libretro Gong is an open-ended recreation of Pong written by Dan Zeitan in 2018.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Libretro Gong es una recreación abierta de Pong escrita por Dan Zeitan en 2018.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Libretro Gong ist eine offene Neuauflage von Pong, geschrieben von Dan Zeitan im Jahr 2018.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Libretro Gong est une recre'ation ouverte de Pong e'crite par Dan Zeitan en 2018.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Libretro Gong e' una ricreazione aperta di Pong scritta da Dan Zeitan nel 2018.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

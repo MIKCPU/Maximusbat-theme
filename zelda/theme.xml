@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Here is a collection of all the Zelda games, from all the systems present on this machine.</text>
-			<text lang="it">Ecco una raccolta di tutti i giochi di Zelda, da tutti i sistemi presenti su questa macchina.</text>
-			<text lang="fr">Voici une collection de tous les jeux Zelda, provenant de tous les syste'mes pre'sents sur cette machine.</text>
-			<text lang="de">Hier ist eine Sammlung aller Zelda-Spiele, von allen Systemen, die auf diesem Rechner vorhanden sind.</text>
-			<text lang="es">Aquí hay una colección de todos los juegos de Zelda, de todos los sistemas presentes en esta máquina.</text>       
+         <text>Here is a collection of all the Zelda games, from all the systems present on this machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Ecco una raccolta di tutti i giochi di Zelda, da tutti i sistemi presenti su questa macchina.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Voici une collection de tous les jeux Zelda, provenant de tous les syste'mes pre'sents sur cette machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Hier ist eine Sammlung aller Zelda-Spiele, von allen Systemen, die auf diesem Rechner vorhanden sind.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Aquí hay una colección de todos los juegos de Zelda, de todos los sistemas presentes en esta máquina.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

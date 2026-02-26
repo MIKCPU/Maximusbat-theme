@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Adobe Flash (formerly Macromedia Flash and FutureSplash) is a multimedia software platform used for production of animations, rich internet applications, desktop applications, mobile apps, mobile games, and embedded web browser video players. Flash displays text, vector graphics, and raster graphics to provide animations, video games, and applications. It allows streaming of audio and video, and can capture mouse, keyboard, microphone, and camera input.</text>
-			<text lang="es">Adobe Flash (anteriormente Macromedia Flash y FutureSplash) es una plataforma de software multimedia utilizada para la producción de animaciones, aplicaciones de Internet sofisticadas, aplicaciones de escritorio, aplicaciones para móviles, juegos para móviles y reproductores de vídeo integrados en navegadores web. Flash muestra texto, gráficos vectoriales y gráficos de trama para ofrecer animaciones, videojuegos y aplicaciones. Permite la transmisión de audio y vídeo, y puede capturar entradas de ratón, teclado, micrófono y cámara.</text>
-			<text lang="de">Adobe Flash (früher Macromedia Flash und FutureSplash) ist eine Multimedia-Softwareplattform, die für die Erstellung von Animationen, Rich-Internet-Anwendungen, Desktop-Anwendungen, mobilen Anwendungen, mobilen Spielen und eingebetteten Webbrowser-Videoplayern verwendet wird. Flash zeigt Text, Vektorgrafiken und Rastergrafiken an, um Animationen, Videospiele und Anwendungen zu erstellen. Es ermöglicht das Streaming von Audio und Video und kann Maus-, Tastatur-, Mikrofon- und Kameraeingaben erfassen.</text>
-			<text lang="fr">Adobe Flash (anciennement Macromedia Flash et FutureSplash) est une plateforme logicielle multime'dia utilise'e pour la production d'animations, d'applications Internet riches, d'applications de bureau, d'applications mobiles, de jeux mobiles et de lecteurs vide'o inte'gre's dans les navigateurs web. Flash affiche du texte, des graphiques vectoriels et des graphiques trame's pour produire des animations, des jeux vide'o et des applications. Il permet la diffusion en continu d'audio et de vide'o, et peut capturer les entre'es de la souris, du clavier, du microphone et de la came'ra.</text>
-			<text lang="it">Adobe Flash (precedentemente Macromedia Flash e FutureSplash) e' una piattaforma software multimediale utilizzata per la produzione di animazioni, applicazioni Internet ricche, applicazioni desktop, applicazioni mobili, giochi mobili e lettori video incorporati nei browser Web. Flash visualizza testo, grafica vettoriale e grafica raster per fornire animazioni, videogiochi e applicazioni. Consente lo streaming di audio e video e puo' acquisire input da mouse, tastiera, microfono e fotocamera.</text>       
+         <text>Adobe Flash (formerly Macromedia Flash and FutureSplash) is a multimedia software platform used for production of animations, rich internet applications, desktop applications, mobile apps, mobile games, and embedded web browser video players. Flash displays text, vector graphics, and raster graphics to provide animations, video games, and applications. It allows streaming of audio and video, and can capture mouse, keyboard, microphone, and camera input.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Adobe Flash (anteriormente Macromedia Flash y FutureSplash) es una plataforma de software multimedia utilizada para la producción de animaciones, aplicaciones de Internet sofisticadas, aplicaciones de escritorio, aplicaciones para móviles, juegos para móviles y reproductores de vídeo integrados en navegadores web. Flash muestra texto, gráficos vectoriales y gráficos de trama para ofrecer animaciones, videojuegos y aplicaciones. Permite la transmisión de audio y vídeo, y puede capturar entradas de ratón, teclado, micrófono y cámara.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Adobe Flash (früher Macromedia Flash und FutureSplash) ist eine Multimedia-Softwareplattform, die für die Erstellung von Animationen, Rich-Internet-Anwendungen, Desktop-Anwendungen, mobilen Anwendungen, mobilen Spielen und eingebetteten Webbrowser-Videoplayern verwendet wird. Flash zeigt Text, Vektorgrafiken und Rastergrafiken an, um Animationen, Videospiele und Anwendungen zu erstellen. Es ermöglicht das Streaming von Audio und Video und kann Maus-, Tastatur-, Mikrofon- und Kameraeingaben erfassen.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Adobe Flash (anciennement Macromedia Flash et FutureSplash) est une plateforme logicielle multime'dia utilise'e pour la production d'animations, d'applications Internet riches, d'applications de bureau, d'applications mobiles, de jeux mobiles et de lecteurs vide'o inte'gre's dans les navigateurs web. Flash affiche du texte, des graphiques vectoriels et des graphiques trame's pour produire des animations, des jeux vide'o et des applications. Il permet la diffusion en continu d'audio et de vide'o, et peut capturer les entre'es de la souris, du clavier, du microphone et de la came'ra.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Adobe Flash (precedentemente Macromedia Flash e FutureSplash) e' una piattaforma software multimediale utilizzata per la produzione di animazioni, applicazioni Internet ricche, applicazioni desktop, applicazioni mobili, giochi mobili e lettori video incorporati nei browser Web. Flash visualizza testo, grafica vettoriale e grafica raster per fornire animazioni, videogiochi e applicazioni. Consente lo streaming di audio e video e puo' acquisire input da mouse, tastiera, microfono e fotocamera.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

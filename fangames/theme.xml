@@ -9,18 +9,35 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>A fan game is a video game created by enthusiasts or fans of an existing game, series, or franchise. These games are typically developed without official authorization from the original creators and are often made as a tribute or to expand upon the original content. Fan games can range from simple modifications to entirely new games inspired by the original source material.</text>
-			<text lang="it">Un fan game e' un videogioco creato da appassionati o fan di un gioco, una serie o un franchise esistente. Questi giochi sono in genere sviluppati senza autorizzazione ufficiale da parte dei creatori originali e sono spesso realizzati come tributo o per ampliare il contenuto originale. I fan game possono variare da semplici modifiche a giochi completamente nuovi ispirati al materiale originale.</text>
-			<text lang="fr">Un fan game est un jeu vide'o cre'e' par des passionne's ou des fans d'un jeu, d'une se'rie ou d'une franchise existante. Ces jeux sont ge'ne'ralement de'veloppe's sans l'autorisation officielle des cre'ateurs originaux et sont souvent cre'e's en hommage ou pour de'velopper le contenu original. Les jeux de fans peuvent aller de simples modifications a' des jeux entie'rement nouveaux inspire's par le mate'riel d'origine.</text>
-			<text lang="de">Ein Fan-Spiel ist ein Videospiel, das von Enthusiasten oder Fans eines bestehenden Spiels, einer Serie oder eines Franchise entwickelt wird. Diese Spiele werden in der Regel ohne offizielle Genehmigung der ursprünglichen Schöpfer entwickelt und dienen oft als Hommage oder zur Erweiterung des ursprünglichen Inhalts. Fanspiele können von einfachen Modifikationen bis hin zu völlig neuen Spielen reichen, die von der Originalvorlage inspiriert sind.</text>
+         <text>A fan game is a video game created by enthusiasts or fans of an existing game, series, or franchise. These games are typically developed without official authorization from the original creators and are often made as a tribute or to expand upon the original content. Fan games can range from simple modifications to entirely new games inspired by the original source material.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Un fan game e' un videogioco creato da appassionati o fan di un gioco, una serie o un franchise esistente. Questi giochi sono in genere sviluppati senza autorizzazione ufficiale da parte dei creatori originali e sono spesso realizzati come tributo o per ampliare il contenuto originale. I fan game possono variare da semplici modifiche a giochi completamente nuovi ispirati al materiale originale.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Un fan game est un jeu vide'o cre'e' par des passionne's ou des fans d'un jeu, d'une se'rie ou d'une franchise existante. Ces jeux sont ge'ne'ralement de'veloppe's sans l'autorisation officielle des cre'ateurs originaux et sont souvent cre'e's en hommage ou pour de'velopper le contenu original. Les jeux de fans peuvent aller de simples modifications a' des jeux entie'rement nouveaux inspire's par le mate'riel d'origine.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Ein Fan-Spiel ist ein Videospiel, das von Enthusiasten oder Fans eines bestehenden Spiels, einer Serie oder eines Franchise entwickelt wird. Diese Spiele werden in der Regel ohne offizielle Genehmigung der ursprünglichen Schöpfer entwickelt und dienen oft als Hommage oder zur Erweiterung des ursprünglichen Inhalts. Fanspiele können von einfachen Modifikationen bis hin zu völlig neuen Spielen reichen, die von der Originalvorlage inspiriert sind.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 			<text lang="es">Un fan game es un videojuego creado por entusiastas o fans de un juego, serie o franquicia ya existente. Estos juegos suelen desarrollarse sin autorización oficial de los creadores originales y a menudo se hacen como homenaje o para ampliar el contenido original.
-</text>       
+<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Locomalito is a Spanish developer with a reputation for making polished and nostalgia-inducing games, noted for his distinct philosophy of game making, focusing on challenge, tight design and consistent fun experiences.</text>
-			<text lang="es">Locomalito es un desarrollador español famoso por crear juegos perfeccionados que despiertan la nostalgia. Destaca por su particular filosofía de creación de juegos, centrada en el desafío, un diseño ajustado y experiencias divertidas constantes.</text>
-			<text lang="de">Locomalito ist ein spanischer Entwickler, der dafür bekannt ist, ausgefeilte und nostalgisch anmutende Spiele zu entwickeln. Er ist bekannt für seine ausgeprägte Spielphilosophie, die sich auf Herausforderungen, ein ausgefeiltes Design und konsistente Spielerlebnisse konzentriert.</text>
-			<text lang="fr">Locomalito est un de'veloppeur espagnol re'pute' pour ses jeux soigne's et empreints de nostalgie. Il se distingue par sa philosophie de cre'ation de jeux, axe'e sur le de'fi, une conception rigoureuse et des expe'riences amusantes et cohe'rentes.</text>
-			<text lang="it">Locomalito e' uno sviluppatore spagnolo famoso per la realizzazione di giochi raffinati e nostalgici, noto per la sua filosofia di gioco che si concentra sulla sfida, sul design accurato e su esperienze di divertimento costanti.</text>       
+         <text>Locomalito is a Spanish developer with a reputation for making polished and nostalgia-inducing games, noted for his distinct philosophy of game making, focusing on challenge, tight design and consistent fun experiences.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Locomalito es un desarrollador español famoso por crear juegos perfeccionados que despiertan la nostalgia. Destaca por su particular filosofía de creación de juegos, centrada en el desafío, un diseño ajustado y experiencias divertidas constantes.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Locomalito ist ein spanischer Entwickler, der dafür bekannt ist, ausgefeilte und nostalgisch anmutende Spiele zu entwickeln. Er ist bekannt für seine ausgeprägte Spielphilosophie, die sich auf Herausforderungen, ein ausgefeiltes Design und konsistente Spielerlebnisse konzentriert.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Locomalito est un de'veloppeur espagnol re'pute' pour ses jeux soigne's et empreints de nostalgie. Il se distingue par sa philosophie de cre'ation de jeux, axe'e sur le de'fi, une conception rigoureuse et des expe'riences amusantes et cohe'rentes.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Locomalito e' uno sviluppatore spagnolo famoso per la realizzazione di giochi raffinati e nostalgici, noto per la sua filosofia di gioco che si concentra sulla sfida, sul design accurato e su esperienze di divertimento costanti.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

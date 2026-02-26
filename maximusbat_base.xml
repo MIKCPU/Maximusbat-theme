@@ -1,6 +1,6 @@
 <!--
 theme name:     Maximusbat
-version         2.3
+version         3.0
 -->
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -34,6 +34,15 @@ version         2.3
         <color>00000000</color>
         <maxLogoCount>5</maxLogoCount>
       </carousel>
+
+<image name="logo" ifSubset="Wheel">
+   <path>./_inc/logos/${system.theme}.png</path>
+   <path>./_inc/logos/${system.theme}.svg</path>
+   <origin>1 0.5</origin>
+   <pos>0.92 0.52</pos>
+   <maxSize>0.24 0.24</maxSize>
+   <linearSmooth>true</linearSmooth>
+</image>
 
       <image name="background" extra="true">
          <origin>0 0</origin>
@@ -82,7 +91,7 @@ version         2.3
 		 <alignment>left</alignment>
 				<multiLine>false</multiLine>
 				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+				<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
                                 <text>${system.description}</text>
       </text>
    </view>

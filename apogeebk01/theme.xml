@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>The Apogee BK-01, also known as Apogey BK-01, is a Soviet 8-bit personal computer that was built on the Radio 86RK basis and released in 1988. It features a KR580VM80A microprocessor with a clock speed of 1.78 MHz, 64 kB of memory (including 56.25 kB user-available RAM), and a text mode video display. The later version, Apogee BK-01C, introduced color support. This computer was primarily used for educational purposes and basic computing tasks, and it supported a variety of software, including games and applications for advanced mathematics and statistics.</text>
-			<text lang="it">L'Apogee BK-01, noto anche come Apogey BK-01, e' un personal computer sovietico a 8 bit costruito sulla base del Radio 86RK e rilasciato nel 1988. e' dotato di un microprocessore KR580VM80A con una velocita' di clock di 1,78 MHz, 64 kB di memoria (compresi 56,25 kB di RAM disponibile per l'utente) e un display video in modalita' testo. La versione successiva, Apogee BK-01C, ha introdotto il supporto del colore. Questo computer veniva utilizzato principalmente per scopi didattici e per attivita' di calcolo di base e supportava una serie di software, tra cui giochi e applicazioni per la matematica avanzata e la statistica.</text>
-			<text lang="fr">L'Apogee BK-01, e'galement connu sous le nom d'Apogey BK-01, est un ordinateur personnel sovie'tique de 8 bits construit sur la base du Radio 86RK et commercialise' en 1988. Il est e'quipe' d'un microprocesseur KR580VM80A cadence' a' 1,78 MHz, d'une me'moire de 64 Ko (dont 56,25 Ko de RAM disponible pour l'utilisateur) et d'un e'cran vide'o en mode texte. La version ulte'rieure, Apogee BK-01C, a introduit la prise en charge de la couleur. Cet ordinateur e'tait principalement utilise' a' des fins e'ducatives et pour des tâches informatiques de base, et il prenait en charge une varie'te' de logiciels, y compris des jeux et des applications pour les mathe'matiques avance'es et les statistiques.</text>
-			<text lang="de">er Apogee BK-01, auch bekannt als Apogey BK-01, ist ein sowjetischer 8-Bit-Personalcomputer, der auf der Basis des Radio 86RK gebaut und 1988 herausgebracht wurde. Er verfügt über einen KR580VM80A-Mikroprozessor mit einer Taktfrequenz von 1,78 MHz, 64 kB Speicher (einschließlich 56,25 kB benutzerverfügbarem RAM) und eine Videoanzeige im Textmodus. Die spätere Version, Apogee BK-01C, unterstützt nun auch Farbe. Dieser Computer wurde in erster Linie für Bildungszwecke und grundlegende Rechenaufgaben verwendet und unterstützte eine Vielzahl von Software, darunter Spiele und Anwendungen für höhere Mathematik und Statistik.</text>
-			<text lang="es">l Apogee BK-01, tambie'n conocido como Apogey BK-01, es un ordenador personal sovie'tico de 8 bits que se construyó sobre la base del Radio 86RK y salió a la venta en 1988. Incorpora un microprocesador KR580VM80A con una velocidad de reloj de 1,78 MHz, 64 kB de memoria (incluyendo 56,25 kB de RAM disponible para el usuario) y una pantalla de vídeo en modo texto. La versión posterior, Apogee BK-01C, introdujo soporte de color. Este ordenador se utilizaba principalmente para fines educativos y tareas informáticas básicas, y admitía una gran variedad de software, incluidos juegos y aplicaciones para matemáticas avanzadas y estadística.</text>      
+         <text>The Apogee BK-01, also known as Apogey BK-01, is a Soviet 8-bit personal computer that was built on the Radio 86RK basis and released in 1988. It features a KR580VM80A microprocessor with a clock speed of 1.78 MHz, 64 kB of memory (including 56.25 kB user-available RAM), and a text mode video display. The later version, Apogee BK-01C, introduced color support. This computer was primarily used for educational purposes and basic computing tasks, and it supported a variety of software, including games and applications for advanced mathematics and statistics.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">L'Apogee BK-01, noto anche come Apogey BK-01, e' un personal computer sovietico a 8 bit costruito sulla base del Radio 86RK e rilasciato nel 1988. e' dotato di un microprocessore KR580VM80A con una velocita' di clock di 1,78 MHz, 64 kB di memoria (compresi 56,25 kB di RAM disponibile per l'utente) e un display video in modalita' testo. La versione successiva, Apogee BK-01C, ha introdotto il supporto del colore. Questo computer veniva utilizzato principalmente per scopi didattici e per attivita' di calcolo di base e supportava una serie di software, tra cui giochi e applicazioni per la matematica avanzata e la statistica.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">L'Apogee BK-01, e'galement connu sous le nom d'Apogey BK-01, est un ordinateur personnel sovie'tique de 8 bits construit sur la base du Radio 86RK et commercialise' en 1988. Il est e'quipe' d'un microprocesseur KR580VM80A cadence' a' 1,78 MHz, d'une me'moire de 64 Ko (dont 56,25 Ko de RAM disponible pour l'utilisateur) et d'un e'cran vide'o en mode texte. La version ulte'rieure, Apogee BK-01C, a introduit la prise en charge de la couleur. Cet ordinateur e'tait principalement utilise' a' des fins e'ducatives et pour des tâches informatiques de base, et il prenait en charge une varie'te' de logiciels, y compris des jeux et des applications pour les mathe'matiques avance'es et les statistiques.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">er Apogee BK-01, auch bekannt als Apogey BK-01, ist ein sowjetischer 8-Bit-Personalcomputer, der auf der Basis des Radio 86RK gebaut und 1988 herausgebracht wurde. Er verfügt über einen KR580VM80A-Mikroprozessor mit einer Taktfrequenz von 1,78 MHz, 64 kB Speicher (einschließlich 56,25 kB benutzerverfügbarem RAM) und eine Videoanzeige im Textmodus. Die spätere Version, Apogee BK-01C, unterstützt nun auch Farbe. Dieser Computer wurde in erster Linie für Bildungszwecke und grundlegende Rechenaufgaben verwendet und unterstützte eine Vielzahl von Software, darunter Spiele und Anwendungen für höhere Mathematik und Statistik.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">l Apogee BK-01, tambie'n conocido como Apogey BK-01, es un ordenador personal sovie'tico de 8 bits que se construyó sobre la base del Radio 86RK y salió a la venta en 1988. Incorpora un microprocesador KR580VM80A con una velocidad de reloj de 1,78 MHz, 64 kB de memoria (incluyendo 56,25 kB de RAM disponible para el usuario) y una pantalla de vídeo en modo texto. La versión posterior, Apogee BK-01C, introdujo soporte de color. Este ordenador se utilizaba principalmente para fines educativos y tareas informáticas básicas, y admitía una gran variedad de software, incluidos juegos y aplicaciones para matemáticas avanzadas y estadística.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>      
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

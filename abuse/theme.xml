@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-<text>Abuse is a port of the classic dark 2D side-scrolling platform game originally developed by Crack dot Com and released in 1995 for MS-DOS. A Linux version was also made available at a later date. It had a few limitations the most restrictive of which was that it only ran on an 8-bit display, and only in a window. This version of Abuse will run at any color depth and supports fullscreen mode, as well as many other new features. It features beautiful lighting, realistic animation and nasty alien-like creatures to destroy.</text>
-			<text lang="es">Abuse es una adaptación del clásico juego de plataformas de desplazamiento lateral en 2D desarrollado originalmente por Crack dot Com y publicado en 1995 para MS-DOS. Más adelante tambie'n se lanzó una versión para Linux. Tenía algunas limitaciones, la más restrictiva de las cuales era que sólo se ejecutaba en una pantalla de 8 bits, y sólo en una ventana. Esta versión de Abuse se ejecuta con cualquier profundidad de color y admite el modo de pantalla completa, así como muchas otras características nuevas. Cuenta con una hermosa iluminación, animación realista y desagradables criaturas alienígenas que destruir.</text>
-			<text lang="de">Abuse ist eine Portierung des klassischen düsteren 2D-Sidescrolling-Plattformspiels, das ursprünglich von Crack dot Com entwickelt und 1995 für MS-DOS veröffentlicht wurde. Zu einem späteren Zeitpunkt wurde auch eine Linux-Version zur Verfügung gestellt. Es hatte einige Einschränkungen, von denen die restriktivste war, dass es nur auf einem 8-Bit-Display und nur in einem Fenster lief. Diese Version von Abuse läuft mit jeder Farbtiefe und unterstützt den Vollbildmodus sowie viele andere neue Funktionen. Es bietet eine schöne Beleuchtung, realistische Animationen und fiese außerirdische Kreaturen, die es zu vernichten gilt.</text>
-			<text lang="fr">Abuse est un portage du jeu classique de plateforme a' de'filement late'ral en 2D de'veloppe' a' l'origine par Crack dot Com et sorti en 1995 pour MS-DOS. Une version Linux a e'galement e'te' mise a' disposition ulte'rieurement. Il comportait quelques limitations, dont la plus contraignante e'tait qu'il ne fonctionnait que sur un e'cran 8 bits, et uniquement dans une fenêtre. Cette version d'Abuse fonctionne avec n'importe quelle profondeur de couleur et prend en charge le mode plein e'cran, ainsi que de nombreuses autres nouvelles fonctionnalite's. Le jeu offre de superbes e'clairages, des animations re'alistes et de me'chantes cre'atures extraterrestres a' de'truire.</text>
-			<text lang="it">Abuse e' una versione del classico gioco di piattaforme a scorrimento laterale in 2D sviluppato originariamente da Crack dot Com e pubblicato nel 1995 per MS-DOS. In seguito e' stata resa disponibile anche una versione per Linux. Aveva alcune limitazioni, la piU' restrittiva delle quali era che funzionava solo su un display a 8 bit e solo in una finestra. Questa versione di Abuse funziona con qualsiasi profondita' di colore e supporta la modalita' a schermo intero, oltre a molte altre nuove caratteristiche. e' dotato di una ottima illuminazione, di animazioni realistiche e di creature aliene da distruggere.</text>
+<text>Abuse is a port of the classic dark 2D side-scrolling platform game originally developed by Crack dot Com and released in 1995 for MS-DOS. A Linux version was also made available at a later date. It had a few limitations the most restrictive of which was that it only ran on an 8-bit display, and only in a window. This version of Abuse will run at any color depth and supports fullscreen mode, as well as many other new features. It features beautiful lighting, realistic animation and nasty alien-like creatures to destroy.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Abuse es una adaptación del clásico juego de plataformas de desplazamiento lateral en 2D desarrollado originalmente por Crack dot Com y publicado en 1995 para MS-DOS. Más adelante tambie'n se lanzó una versión para Linux. Tenía algunas limitaciones, la más restrictiva de las cuales era que sólo se ejecutaba en una pantalla de 8 bits, y sólo en una ventana. Esta versión de Abuse se ejecuta con cualquier profundidad de color y admite el modo de pantalla completa, así como muchas otras características nuevas. Cuenta con una hermosa iluminación, animación realista y desagradables criaturas alienígenas que destruir.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Abuse ist eine Portierung des klassischen düsteren 2D-Sidescrolling-Plattformspiels, das ursprünglich von Crack dot Com entwickelt und 1995 für MS-DOS veröffentlicht wurde. Zu einem späteren Zeitpunkt wurde auch eine Linux-Version zur Verfügung gestellt. Es hatte einige Einschränkungen, von denen die restriktivste war, dass es nur auf einem 8-Bit-Display und nur in einem Fenster lief. Diese Version von Abuse läuft mit jeder Farbtiefe und unterstützt den Vollbildmodus sowie viele andere neue Funktionen. Es bietet eine schöne Beleuchtung, realistische Animationen und fiese außerirdische Kreaturen, die es zu vernichten gilt.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Abuse est un portage du jeu classique de plateforme a' de'filement late'ral en 2D de'veloppe' a' l'origine par Crack dot Com et sorti en 1995 pour MS-DOS. Une version Linux a e'galement e'te' mise a' disposition ulte'rieurement. Il comportait quelques limitations, dont la plus contraignante e'tait qu'il ne fonctionnait que sur un e'cran 8 bits, et uniquement dans une fenêtre. Cette version d'Abuse fonctionne avec n'importe quelle profondeur de couleur et prend en charge le mode plein e'cran, ainsi que de nombreuses autres nouvelles fonctionnalite's. Le jeu offre de superbes e'clairages, des animations re'alistes et de me'chantes cre'atures extraterrestres a' de'truire.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Abuse e' una versione del classico gioco di piattaforme a scorrimento laterale in 2D sviluppato originariamente da Crack dot Com e pubblicato nel 1995 per MS-DOS. In seguito e' stata resa disponibile anche una versione per Linux. Aveva alcune limitazioni, la piU' restrittiva delle quali era che funzionava solo su un display a 8 bit e solo in una finestra. Questa versione di Abuse funziona con qualsiasi profondita' di colore e supporta la modalita' a schermo intero, oltre a molte altre nuove caratteristiche. e' dotato di una ottima illuminazione, di animazioni realistiche e di creature aliene da distruggere.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

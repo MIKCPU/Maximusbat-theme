@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>A collection of arcade systems built on standard PC hardware. These cabinets are powered by PC architectures running either a customized version of Windows 7 Embedded or Linux, featuring extensive DRM and custom drivers. The games can also be played on personal computers using specialized launcher programs like the popular TeknoParrot, or through non-commercial applications, without the need for any subscription fees.</text>
-			<text lang="it">Una collezione di sistemi arcade costruiti su hardware PC standard. Questi cabinati sono alimentati da architetture PC che eseguono una versione personalizzata di Windows 7 Embedded o Linux, con DRM estesi e driver personalizzati. I giochi possono essere giocati anche su personal computer utilizzando programmi di lancio specializzati, come il popolare TeknoParrot, o attraverso applicazioni non commerciali, senza dover pagare alcun abbonamento.</text>
-			<text lang="fr">Une collection de syste'mes d'arcade construits sur du mate'riel PC standard. Ces consoles sont alimente'es par des architectures PC fonctionnant sous une version personnalise'e de Windows 7 Embedded ou de Linux, avec des DRM e'tendus et des pilotes personnalise's. Les jeux peuvent e'galement être joue's sur des ordinateurs personnels a' l'aide de programmes de lancement spe'cialise's tels que le populaire TeknoParrot, ou par le biais d'applications non commerciales, sans qu'il soit ne'cessaire de payer un abonnement.</text>
-			<text lang="de">Eine Sammlung von Arcade-Systemen, die auf Standard-PC-Hardware aufgebaut sind. Diese Spielhallen werden von PC-Architekturen angetrieben, auf denen entweder eine angepasste Version von Windows 7 Embedded oder Linux läuft, mit umfangreichem DRM und eigenen Treibern. Die Spiele können auch auf PCs mit speziellen Startprogrammen wie dem beliebten TeknoParrot oder über nicht-kommerzielle Anwendungen gespielt werden, ohne dass dafür Abonnementgebühren anfallen.</text>
-			<text lang="es">Una colección de sistemas arcade construidos sobre hardware estándar de PC. Estos gabinetes funcionan con arquitecturas de PC que ejecutan una versión personalizada de Windows 7 Embedded o Linux, con DRM extensivo y controladores personalizados. Los juegos tambie'n pueden jugarse en ordenadores personales mediante programas de lanzamiento especializados, como el popular TeknoParrot, o a trave's de aplicaciones no comerciales, sin necesidad de pagar ninguna cuota de suscripción.</text>
+         <text>A collection of arcade systems built on standard PC hardware. These cabinets are powered by PC architectures running either a customized version of Windows 7 Embedded or Linux, featuring extensive DRM and custom drivers. The games can also be played on personal computers using specialized launcher programs like the popular TeknoParrot, or through non-commercial applications, without the need for any subscription fees.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Una collezione di sistemi arcade costruiti su hardware PC standard. Questi cabinati sono alimentati da architetture PC che eseguono una versione personalizzata di Windows 7 Embedded o Linux, con DRM estesi e driver personalizzati. I giochi possono essere giocati anche su personal computer utilizzando programmi di lancio specializzati, come il popolare TeknoParrot, o attraverso applicazioni non commerciali, senza dover pagare alcun abbonamento.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Une collection de syste'mes d'arcade construits sur du mate'riel PC standard. Ces consoles sont alimente'es par des architectures PC fonctionnant sous une version personnalise'e de Windows 7 Embedded ou de Linux, avec des DRM e'tendus et des pilotes personnalise's. Les jeux peuvent e'galement être joue's sur des ordinateurs personnels a' l'aide de programmes de lancement spe'cialise's tels que le populaire TeknoParrot, ou par le biais d'applications non commerciales, sans qu'il soit ne'cessaire de payer un abonnement.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Eine Sammlung von Arcade-Systemen, die auf Standard-PC-Hardware aufgebaut sind. Diese Spielhallen werden von PC-Architekturen angetrieben, auf denen entweder eine angepasste Version von Windows 7 Embedded oder Linux läuft, mit umfangreichem DRM und eigenen Treibern. Die Spiele können auch auf PCs mit speziellen Startprogrammen wie dem beliebten TeknoParrot oder über nicht-kommerzielle Anwendungen gespielt werden, ohne dass dafür Abonnementgebühren anfallen.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Una colección de sistemas arcade construidos sobre hardware estándar de PC. Estos gabinetes funcionan con arquitecturas de PC que ejecutan una versión personalizada de Windows 7 Embedded o Linux, con DRM extensivo y controladores personalizados. Los juegos tambie'n pueden jugarse en ordenadores personales mediante programas de lanzamiento especializados, como el popular TeknoParrot, o a trave's de aplicaciones no comerciales, sin necesidad de pagar ninguna cuota de suscripción.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

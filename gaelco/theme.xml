@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Gabinete Electrónico Consultivo, S.A., is a trademark and better known as Gaelco, S.A.. It is a Spanish company that develops and publishes arcade games and video games. Since 2007, Gaelco also develops electronic dart machines under the name "Gaelco Darts".</text>
-			<text lang="es">Gabinete Electrónico Consultivo, S.A., es una marca comercial y más conocida como Gaelco, S.A.. Es una empresa española que desarrolla y edita juegos arcade y videojuegos. Desde 2007, Gaelco tambie'n desarrolla máquinas de dardos electrónicos bajo el nombre "Gaelco Darts".</text>
-			<text lang="de">Gabinete Electrónico Consultivo, S.A., ist eine Marke und besser bekannt als Gaelco, S.A.. Es handelt sich um ein spanisches Unternehmen, das Arcade-Spiele und Videospiele entwickelt und herausgibt. Seit 2007 entwickelt Gaelco auch elektronische Dartautomaten unter dem Namen "Gaelco Darts".</text>
-			<text lang="fr">Gabinete Electrónico Consultivo, S.A., est une marque de'pose'e et mieux connue sous le nom de Gaelco, S.A.. Il s'agit d'une socie'te' espagnole qui de'veloppe et e'dite des jeux d'arcade et des jeux vide'o. Depuis 2007, Gaelco de'veloppe e'galement des machines a' fle'chettes e'lectroniques sous le nom de "Gaelco Darts".</text>
-			<text lang="it">Gabinete Electrónico Consultivo, S.A., e' un marchio e meglio conosciuto come Gaelco, S.A.. e' un'azienda spagnola che sviluppa e pubblica giochi arcade e videogiochi. Dal 2007, Gaelco sviluppa anche macchine per freccette elettroniche con il nome di "Gaelco Darts".</text> 
+         <text>Gabinete Electrónico Consultivo, S.A., is a trademark and better known as Gaelco, S.A.. It is a Spanish company that develops and publishes arcade games and video games. Since 2007, Gaelco also develops electronic dart machines under the name "Gaelco Darts".<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Gabinete Electrónico Consultivo, S.A., es una marca comercial y más conocida como Gaelco, S.A.. Es una empresa española que desarrolla y edita juegos arcade y videojuegos. Desde 2007, Gaelco tambie'n desarrolla máquinas de dardos electrónicos bajo el nombre "Gaelco Darts".<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Gabinete Electrónico Consultivo, S.A., ist eine Marke und besser bekannt als Gaelco, S.A.. Es handelt sich um ein spanisches Unternehmen, das Arcade-Spiele und Videospiele entwickelt und herausgibt. Seit 2007 entwickelt Gaelco auch elektronische Dartautomaten unter dem Namen "Gaelco Darts".<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Gabinete Electrónico Consultivo, S.A., est une marque de'pose'e et mieux connue sous le nom de Gaelco, S.A.. Il s'agit d'une socie'te' espagnole qui de'veloppe et e'dite des jeux d'arcade et des jeux vide'o. Depuis 2007, Gaelco de'veloppe e'galement des machines a' fle'chettes e'lectroniques sous le nom de "Gaelco Darts".<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Gabinete Electrónico Consultivo, S.A., e' un marchio e meglio conosciuto come Gaelco, S.A.. e' un'azienda spagnola che sviluppa e pubblica giochi arcade e videogiochi. Dal 2007, Gaelco sviluppa anche macchine per freccette elettroniche con il nome di "Gaelco Darts".<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text> 
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

@@ -10,21 +10,38 @@
                 </image>
  		<text name="systemDesc" extra="true">
          <text>SDLPoP stands for "Prince of Persia" linked to SDL. It is an open-source port of Prince of Persia that runs natively on Windows and Linux.
-SDLPoP is based on a disassembly of the DOS version, and uses SDL, extending the game with new features.</text>
+SDLPoP is based on a disassembly of the DOS version, and uses SDL, extending the game with new features.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 			<text lang="es">SDLPoP son las siglas de "Prince of Persia" vinculado a SDL. Se trata de un port de código abierto de Prince of Persia que se ejecuta de forma nativa en Windows y Linux.
-SDLPoP se basa en un desensamblaje de la versión DOS y utiliza SDL, ampliando el juego con nuevas características.</text>
+SDLPoP se basa en un desensamblaje de la versión DOS y utiliza SDL, ampliando el juego con nuevas características.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 			<text lang="de">SDLPoP steht für "Prince of Persia" in Verbindung mit SDL. Es handelt sich um eine Open-Source-Portierung von Prince of Persia, die nativ auf Windows und Linux läuft.
-SDLPoP basiert auf einer Disassemblierung der DOS-Version und nutzt SDL, um das Spiel mit neuen Funktionen zu erweitern.</text>
+SDLPoP basiert auf einer Disassemblierung der DOS-Version und nutzt SDL, um das Spiel mit neuen Funktionen zu erweitern.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 			<text lang="fr">SDLPoP signifie "Prince of Persia" lie' a' SDL. Il s'agit d'un portage open-source de Prince of Persia qui fonctionne nativement sous Windows et Linux.
-SDLPoP est base' sur un de'sassemblage de la version DOS, et utilise SDL, e'tendant le jeu avec de nouvelles fonctionnalite's.</text>
+SDLPoP est base' sur un de'sassemblage de la version DOS, et utilise SDL, e'tendant le jeu avec de nouvelles fonctionnalite's.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 			<text lang="it">SDLPoP sta per "Prince of Persia" collegato a SDL. e' un port open-source di Prince of Persia che gira in modo nativo su Windows e Linux.
-SDLPoP si basa su un disassemblaggio della versione DOS e utilizza SDL, estendendo il gioco con nuove funzionalita'.</text>       
+SDLPoP si basa su un disassemblaggio della versione DOS e utilizza SDL, estendendo il gioco con nuove funzionalita'.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

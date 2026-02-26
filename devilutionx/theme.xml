@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>DevilutionX is a source port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features.</text>
-			<text lang="es">DevilutionX es un port fuente de Diablo y Hellfire que se esfuerza por simplificar la ejecución del juego a la vez que proporciona mejoras en el motor, correcciones de errores y algunas características opcionales de calidad de vida.</text>
-			<text lang="de">DevilutionX ist eine Quellcode-Portierung von Diablo und Hellfire, die darauf abzielt, die Ausführung des Spiels zu vereinfachen und gleichzeitig Verbesserungen an der Engine, Fehlerbehebungen und einige optionale Lebensqualitätsfunktionen bereitzustellen.</text>
-			<text lang="fr">DevilutionX est un portage source de Diablo et Hellfire qui s'efforce de simplifier l'exe'cution du jeu tout en apportant des ame'liorations au moteur, des corrections de bugs et quelques fonctionnalite's optionnelles de qualite' de vie.</text>
-			<text lang="it">DevilutionX e' un porting sorgente di Diablo e Hellfire che si sforza di rendere semplice l'esecuzione del gioco, fornendo al contempo miglioramenti al motore, correzioni di bug e alcune caratteristiche opzionali di qualita' della vita.</text>       
+         <text>DevilutionX is a source port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">DevilutionX es un port fuente de Diablo y Hellfire que se esfuerza por simplificar la ejecución del juego a la vez que proporciona mejoras en el motor, correcciones de errores y algunas características opcionales de calidad de vida.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">DevilutionX ist eine Quellcode-Portierung von Diablo und Hellfire, die darauf abzielt, die Ausführung des Spiels zu vereinfachen und gleichzeitig Verbesserungen an der Engine, Fehlerbehebungen und einige optionale Lebensqualitätsfunktionen bereitzustellen.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">DevilutionX est un portage source de Diablo et Hellfire qui s'efforce de simplifier l'exe'cution du jeu tout en apportant des ame'liorations au moteur, des corrections de bugs et quelques fonctionnalite's optionnelles de qualite' de vie.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">DevilutionX e' un porting sorgente di Diablo e Hellfire che si sforza di rendere semplice l'esecuzione del gioco, fornendo al contempo miglioramenti al motore, correzioni di bug e alcune caratteristiche opzionali di qualita' della vita.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

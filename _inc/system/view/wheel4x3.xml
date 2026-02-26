@@ -1,0 +1,57 @@
+<!--
+theme name:     Maximusbat
+version         3.0
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <view name="system">
+    <carousel name="systemcarousel">
+      <type>vertical_wheel</type>
+      <origin>1 0.5</origin>
+      <pos>0.93 0.48</pos>
+      <size>0.20 0.70</size>
+      <logoScale>1.05</logoScale>
+      <logoSize>0.12 0.12</logoSize>
+      <maxLogoCount>7</maxLogoCount>
+    </carousel>
+<image name="systemArrow" extra="true">
+   <path>./../_inc/images/arrow.png</path>
+   <origin>1 0.5</origin>
+   <pos>0.78 0.48</pos>
+   <size>0.08 0.08</size>
+   <zIndex>1000</zIndex>
+</image>
+    <image name="logo">
+      <path>./_inc/logos/${system.theme}.png</path>
+      <origin>1 0.5</origin>
+      <pos>0.90 0.48</pos>
+      <maxSize>0.20 0.20</maxSize>
+      <rotation>-6.5</rotation>
+      <linearSmooth>true</linearSmooth>
+    </image>
+<image name="systemsnap_wheel" extra="true">
+   <path>./../_inc/images/wheel/${system.theme}.png</path>
+   <origin>0.5 0.5</origin>
+   <pos>0.20 0.50</pos>
+   <maxSize>0.46 0.44</maxSize>
+   <zIndex>300</zIndex>
+</image>
+    <image name="systemsnap">
+      <visible>false</visible>
+    </image>
+    <text name="systemDesc">
+   <fontPath>./../_inc/fonts/Lato-Black.ttf</fontPath>
+   <fontSize>0.0185</fontSize>
+   <alignment>center</alignment>
+   <multiLine>true</multiLine>
+   <singleLineScroll>false</singleLineScroll>
+   <autoScrollDelay>999999</autoScrollDelay>
+   <pos>0.70 0.28</pos>
+   <size>0.30 0.40</size>
+</text>
+    <image name="sysbar">
+      <visible>false</visible>
+    </image>
+  </view>
+</theme>

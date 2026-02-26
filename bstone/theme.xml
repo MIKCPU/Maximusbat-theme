@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Unofficial source port for “Blake Stone” game series: “Aliens Of Gold” and “Planet Strike”.</text>
-			<text lang="it">Port non ufficiale per la serie di giochi "Blake Stone": "Aliens Of Gold" e "Planet Strike".</text>
-			<text lang="fr">Port non officiel pour la se'rie de jeux "Blake Stone" : "Aliens Of Gold" et "Planet Strike".</text>
-			<text lang="de">Inoffizielle Portierung der "Blake Stone"-Spieleserie: "Aliens Of Gold" und "Planet Strike".</text>
-			<text lang="es">Port no oficial de la serie de juegos "Blake Stone": "Aliens Of Gold" y "Planet Strike".</text>       
+         <text>Unofficial source port for “Blake Stone” game series: “Aliens Of Gold” and “Planet Strike”.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Port non ufficiale per la serie di giochi "Blake Stone": "Aliens Of Gold" e "Planet Strike".<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Port non officiel pour la se'rie de jeux "Blake Stone" : "Aliens Of Gold" et "Planet Strike".<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Inoffizielle Portierung der "Blake Stone"-Spieleserie: "Aliens Of Gold" und "Planet Strike".<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Port no oficial de la serie de juegos "Blake Stone": "Aliens Of Gold" y "Planet Strike".<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

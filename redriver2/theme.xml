@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>REDRIVER2 is an open-source, reverse-engineered native PC port of the 2000 PlayStation 1 open-world car combat game, Driver 2. It improves upon the original by offering increased draw distances, a stable 30 FPS, widescreen support, bug fixes, and reincorporated cut content. The project allows for native play on Windows and Linux, utilizing original game assets.</text>
-         <text lang="it">REDRIVER2 e' una versione nativa per PC open source e sottoposta a reverse engineering del gioco di combattimento automobilistico open-world del 2000 per PlayStation 1, Driver 2. Migliora l'originale offrendo una maggiore distanza di visualizzazione, 30 FPS stabili, supporto widescreen, correzioni di bug e contenuti tagliati reintegrati. Il progetto consente il gioco nativo su Windows e Linux, utilizzando le risorse di gioco originali.</text>
-         <text lang="de">REDRIVER2 ist eine Open-Source-Portierung des PlayStation-1-Open-World-Autokampfspiels Driver 2 aus dem Jahr 2000, die auf Reverse Engineering basiert und für den PC entwickelt wurde. Sie verbessert das Original durch eine höhere Sichtweite, stabile 30 FPS, Breitbildunterstützung, Fehlerbehebungen und die Wiedereinführung zuvor entfernter Inhalte. Das Projekt ermöglicht das native Spielen unter Windows und Linux und verwendet dabei die Original-Spieldaten.</text>
-         <text lang="fr">REDRIVER2 est un portage PC natif, open source et re'tro-inge'nierise', du jeu de combat automobile en monde ouvert Driver 2, sorti sur PlayStation 1 en 2000. Il ame'liore le jeu original en proposant une distance d'affichage accrue, un affichage stable a' 30 images par seconde, la compatibilite' e'cran large, des corrections de bugs et la re'inte'gration de contenu initialement coupe'. Le projet permet de jouer nativement sous Windows et Linux, en utilisant les ressources du jeu original.</text>
-         <text lang="es">REDRIVER2 es una versión nativa para PC de código abierto y con ingeniería inversa del juego de combate de coches de mundo abierto para PlayStation 1 del año 2000, Driver 2. Mejora el original ofreciendo mayores distancias de dibujo, 30 FPS estables, compatibilidad con pantalla panorámica, corrección de errores y reincorporación de contenido eliminado. El proyecto permite jugar de forma nativa en Windows y Linux, utilizando recursos originales del juego.</text>
+         <text>REDRIVER2 is an open-source, reverse-engineered native PC port of the 2000 PlayStation 1 open-world car combat game, Driver 2. It improves upon the original by offering increased draw distances, a stable 30 FPS, widescreen support, bug fixes, and reincorporated cut content. The project allows for native play on Windows and Linux, utilizing original game assets.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+         <text lang="it">REDRIVER2 e' una versione nativa per PC open source e sottoposta a reverse engineering del gioco di combattimento automobilistico open-world del 2000 per PlayStation 1, Driver 2. Migliora l'originale offrendo una maggiore distanza di visualizzazione, 30 FPS stabili, supporto widescreen, correzioni di bug e contenuti tagliati reintegrati. Il progetto consente il gioco nativo su Windows e Linux, utilizzando le risorse di gioco originali.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+         <text lang="de">REDRIVER2 ist eine Open-Source-Portierung des PlayStation-1-Open-World-Autokampfspiels Driver 2 aus dem Jahr 2000, die auf Reverse Engineering basiert und für den PC entwickelt wurde. Sie verbessert das Original durch eine höhere Sichtweite, stabile 30 FPS, Breitbildunterstützung, Fehlerbehebungen und die Wiedereinführung zuvor entfernter Inhalte. Das Projekt ermöglicht das native Spielen unter Windows und Linux und verwendet dabei die Original-Spieldaten.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+         <text lang="fr">REDRIVER2 est un portage PC natif, open source et re'tro-inge'nierise', du jeu de combat automobile en monde ouvert Driver 2, sorti sur PlayStation 1 en 2000. Il ame'liore le jeu original en proposant une distance d'affichage accrue, un affichage stable a' 30 images par seconde, la compatibilite' e'cran large, des corrections de bugs et la re'inte'gration de contenu initialement coupe'. Le projet permet de jouer nativement sous Windows et Linux, en utilisant les ressources du jeu original.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+         <text lang="es">REDRIVER2 es una versión nativa para PC de código abierto y con ingeniería inversa del juego de combate de coches de mundo abierto para PlayStation 1 del año 2000, Driver 2. Mejora el original ofreciendo mayores distancias de dibujo, 30 FPS estables, compatibilidad con pantalla panorámica, corrección de errores y reincorporación de contenido eliminado. El proyecto permite jugar de forma nativa en Windows y Linux, utilizando recursos originales del juego.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

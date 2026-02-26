@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap-it.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>A two-player game is a multiplayer game played by exactly two players. Here is a collection of your games that support two-player play.</text>
-			<text lang="es">Un juego para dos jugadores es un juego multijugador en el que participan exactamente dos jugadores. Aquí tienes una colección de tus juegos compatibles con dos jugadores.</text>
-			<text lang="de">Ein Zwei-Spieler-Spiel ist ein Mehrspieler-Spiel, das von genau zwei Spielern gespielt wird. Hier ist eine Sammlung von Spielen, die zwei Spieler unterstützen.</text>
-			<text lang="fr">Un jeu a' deux joueurs est un jeu multijoueur auquel jouent exactement deux joueurs. Voici une collection de vos jeux qui permettent de jouer a' deux.</text>
-			<text lang="it">Un gioco a due giocatori e' un gioco multigiocatore giocato esattamente da due giocatori. Ecco una raccolta di giochi che supportano il gioco a due giocatori.</text>       
+         <text>A two-player game is a multiplayer game played by exactly two players. Here is a collection of your games that support two-player play.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Un juego para dos jugadores es un juego multijugador en el que participan exactamente dos jugadores. Aquí tienes una colección de tus juegos compatibles con dos jugadores.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Ein Zwei-Spieler-Spiel ist ein Mehrspieler-Spiel, das von genau zwei Spielern gespielt wird. Hier ist eine Sammlung von Spielen, die zwei Spieler unterstützen.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Un jeu a' deux joueurs est un jeu multijoueur auquel jouent exactement deux joueurs. Voici une collection de vos jeux qui permettent de jouer a' deux.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Un gioco a due giocatori e' un gioco multigiocatore giocato esattamente da due giocatori. Ecco una raccolta di giochi che supportano il gioco a due giocatori.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

@@ -1,0 +1,73 @@
+<!--
+theme name:     Maximusbat
+version         3.0
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+   <view name="system">
+      <image name="background">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./../_inc/images/backgroundmenu2.png</path>
+      </image>
+      <carousel name="systemcarousel">
+         <type>vertical_wheel</type>
+         <origin>1 0.5</origin>
+         <pos>0.99 0.48</pos>
+         <size>0.18 0.72</size>
+         <logoScale>1.18</logoScale>
+         <logoSize>0.12 0.12</logoSize>
+         <maxLogoCount>9</maxLogoCount>
+      </carousel>
+<image name="systemArrow" extra="true">
+   <path>./../_inc/images/arrow.png</path>
+   <origin>1 0.5</origin>
+   <pos>0.83 0.48</pos>
+   <size>0.10 0.10</size>
+   <zIndex>1000</zIndex>
+</image>
+      <image name="logo">
+         <path>./_inc/logos/${system.theme}.png</path>
+         <origin>1 0.5</origin>
+         <pos>0.92 0.52</pos>
+         <maxSize>0.24 0.24</maxSize>
+         <rotation>-6.5</rotation>
+         <linearSmooth>true</linearSmooth>
+      </image>
+      <image name="systemsnap_wheel" extra="true">
+         <path>./../_inc/images/wheel/${system.theme}.png</path>
+         <origin>0.5 0.5</origin>
+         <pos>0.18 0.5</pos>
+         <maxSize>0.56 0.49</maxSize>
+         <zIndex>300</zIndex>
+      </image>
+      <image name="systemsnap">
+         <visible>false</visible>
+      </image>
+<text name="systemDescWheel" extra="true">
+   <alignment>center</alignment>
+   <multiLine>true</multiLine>
+   <singleLineScroll>false</singleLineScroll>
+   <fontPath>./../_inc/fonts/Lato-Black.ttf</fontPath>
+   <fontSize>0.020</fontSize>
+   <pos>0.70 0.30</pos>
+   <size>0.30 0.35</size>
+   <text>${system.description}</text>
+</text>
+<text name="systemDesc">
+   <fontPath>./../_inc/fonts/Lato-Black.ttf</fontPath>
+   <fontSize>0.020</fontSize>
+   <alignment>center</alignment>
+   <multiLine>true</multiLine>
+   <singleLineScroll>false</singleLineScroll>
+   <autoScrollDelay>999999</autoScrollDelay>
+   <pos>0.70 0.30</pos>
+   <size>0.30 0.35</size>
+</text>    
+      <image name="sysbar">
+         <visible>false</visible>
+      </image>
+   </view>
+</theme>

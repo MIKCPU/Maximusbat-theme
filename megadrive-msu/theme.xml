@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>MSU-MD is a driver that allows CD quality music for properly patched Sega Megadrive games, mimicing the behavior of the CD hardware. Instead of basing the work on proprietary APIs like md+, MSU-MD is developed as a nice tiny driver which makes interfacing with the Sega CD hardware easier and all using official bios calls. This means that these hacks could run also on official unmodified hardware.</text>
-			<text lang="es">MSU-MD es un controlador que permite reproducir música con calidad de CD para juegos de Sega Megadrive debidamente parcheados, imitando el comportamiento del hardware de CD. En lugar de basar el trabajo en APIs propietarias como md+, MSU-MD se ha desarrollado como un pequeño y bonito driver que facilita la interfaz con el hardware de Sega CD y todo ello usando llamadas a la bios oficiales. Esto significa que estos hacks podrían ejecutarse tambie'n en hardware oficial no modificado.</text>
-			<text lang="de">MSU-MD ist ein Treiber, der Musik in CD-Qualität für korrekt gepatchte Sega Megadrive-Spiele ermöglicht und das Verhalten der CD-Hardware nachahmt. Anstatt auf proprietären APIs wie md+ zu basieren, wurde MSU-MD als netter kleiner Treiber entwickelt, der das Zusammenspiel mit der Sega-CD-Hardware vereinfacht und die offiziellen Bios-Aufrufe verwendet. Das bedeutet, dass diese Hacks auch auf offizieller, nicht modifizierter Hardware laufen könnten.</text>
-			<text lang="fr">MSU-MD est un pilote qui permet d'e'couter de la musique de qualite' CD pour les jeux Sega Megadrive correctement patche's, en imitant le comportement du mate'riel CD. Au lieu de baser le travail sur des APIs proprie'taires comme md+, MSU-MD est de'veloppe' comme un petit pilote qui rend l'interface avec le mate'riel Sega CD plus facile et tout en utilisant les appels bios officiels. Cela signifie que ces hacks peuvent e'galement fonctionner sur du mate'riel officiel non modifie'.</text>
-			<text lang="it">MSU-MD e' un driver che consente di ascoltare musica di qualita' CD per i giochi Sega Megadrive correttamente patchati, imitando il comportamento dell'hardware CD. Invece di basare il lavoro su API proprietarie come md+, MSU-MD e' stato sviluppato come un piccolo driver che semplifica l'interfacciamento con l'hardware del Sega CD e utilizza le chiamate ufficiali del bios. Cio' significa che questi hack possono essere eseguiti anche su hardware ufficiale non modificato.</text>       
+         <text>MSU-MD is a driver that allows CD quality music for properly patched Sega Megadrive games, mimicing the behavior of the CD hardware. Instead of basing the work on proprietary APIs like md+, MSU-MD is developed as a nice tiny driver which makes interfacing with the Sega CD hardware easier and all using official bios calls. This means that these hacks could run also on official unmodified hardware.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">MSU-MD es un controlador que permite reproducir música con calidad de CD para juegos de Sega Megadrive debidamente parcheados, imitando el comportamiento del hardware de CD. En lugar de basar el trabajo en APIs propietarias como md+, MSU-MD se ha desarrollado como un pequeño y bonito driver que facilita la interfaz con el hardware de Sega CD y todo ello usando llamadas a la bios oficiales. Esto significa que estos hacks podrían ejecutarse tambie'n en hardware oficial no modificado.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">MSU-MD ist ein Treiber, der Musik in CD-Qualität für korrekt gepatchte Sega Megadrive-Spiele ermöglicht und das Verhalten der CD-Hardware nachahmt. Anstatt auf proprietären APIs wie md+ zu basieren, wurde MSU-MD als netter kleiner Treiber entwickelt, der das Zusammenspiel mit der Sega-CD-Hardware vereinfacht und die offiziellen Bios-Aufrufe verwendet. Das bedeutet, dass diese Hacks auch auf offizieller, nicht modifizierter Hardware laufen könnten.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">MSU-MD est un pilote qui permet d'e'couter de la musique de qualite' CD pour les jeux Sega Megadrive correctement patche's, en imitant le comportement du mate'riel CD. Au lieu de baser le travail sur des APIs proprie'taires comme md+, MSU-MD est de'veloppe' comme un petit pilote qui rend l'interface avec le mate'riel Sega CD plus facile et tout en utilisant les appels bios officiels. Cela signifie que ces hacks peuvent e'galement fonctionner sur du mate'riel officiel non modifie'.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">MSU-MD e' un driver che consente di ascoltare musica di qualita' CD per i giochi Sega Megadrive correttamente patchati, imitando il comportamento dell'hardware CD. Invece di basare il lavoro su API proprietarie come md+, MSU-MD e' stato sviluppato come un piccolo driver che semplifica l'interfacciamento con l'hardware del Sega CD e utilizza le chiamate ufficiali del bios. Cio' significa che questi hack possono essere eseguiti anche su hardware ufficiale non modificato.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

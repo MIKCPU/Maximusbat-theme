@@ -1,0 +1,21 @@
+<!--
+theme name:     Maximusbat
+version         3.0
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <view name="system">
+    <text name="systemDesc" extra="true">
+      <origin>0.5 0</origin>
+      <pos>0.495 0.850</pos>
+      <size>0.75 0.07</size>
+      <alignment>center</alignment>
+      <fontPath>./../_inc/fonts/DS-DIGI.ttf</fontPath>
+      <fontSize>0.060</fontSize>
+      <multiLine>false</multiLine>
+      <autoScrollDelay>3000</autoScrollDelay>
+      <singleLineScroll>true</singleLineScroll>
+    </text>
+  </view>
+</theme>

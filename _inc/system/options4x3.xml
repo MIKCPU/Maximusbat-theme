@@ -1,0 +1,25 @@
+<!--
+theme name:     Maximusbat
+version         3.0
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+   <include subset="view" name="Carousel" displayName="Carousel">./view/carousel4x3.xml</include>
+   <include subset="view" name="Wheel" displayName="Wheel">./view/wheel4x3.xml</include>
+   <include subset="layout" name="Default" displayName="Layout Default">./layout/default.xml</include>
+   <include subset="layout" name="Minimal" displayName="Layout Minimal">./layout/minimal.xml</include>
+   <include subset="layout" name="Arcade" displayName="Layout Arcade">./layout/arcade.xml</include>
+   <include subset="style" name="White"  displayName="Bianco / White">./styles/white.xml</include>
+   <include subset="style" name="Blue"   displayName="Blu / Blue">./styles/blue.xml</include>
+   <include subset="style" name="Orange"  displayName="Arancione / Orange">./styles/orange.xml</include>
+   <include subset="style" name="Gold"   displayName="Oro / Gold">./styles/gold.xml</include>
+   <include subset="style" name="Silver" displayName="Argento / Silver">./styles/silver.xml</include>
+   <include subset="mediamode" name="Video" displayName="Video + Image">./mediamode/video.xml</include>
+   <include subset="mediamode" name="Image" displayName="Solo Immagine">./mediamode/image.xml</include>
+   <include subset="controller" name="On" displayName="Controller ON">./controller/on.xml</include>
+   <include subset="controller" name="Off" displayName="Controller OFF">./controller/off.xml</include>
+   <include subset="device" name="On" displayName="Device ON">./device/on.xml</include>
+   <include subset="device" name="Off" displayName="Device OFF">./device/off.xml</include>
+</theme>
+

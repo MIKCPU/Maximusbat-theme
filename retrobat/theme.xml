@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>A collection of all emulators settings and additional scripts for your retro system.</text>
-			<text lang="es">Una colección de todas las configuraciones de emuladores y scripts adicionales para tu sistema retro.</text>
-			<text lang="de">Eine Sammlung aller Emulatoreinstellungen und zusätzlicher Skripte für Ihr Retro-System.</text>
-			<text lang="fr">Une collection de tous les parame'tres d'e'mulateurs et de scripts additionnels pour votre syste'me re'tro.</text>
-			<text lang="it">Una raccolta di tutte le impostazioni degli emulatori e di script aggiuntivi per il vostro sistema retro.</text>       
+         <text>A collection of all emulators settings and additional scripts for your retro system.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Una colección de todas las configuraciones de emuladores y scripts adicionales para tu sistema retro.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Eine Sammlung aller Emulatoreinstellungen und zusätzlicher Skripte für Ihr Retro-System.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Une collection de tous les parame'tres d'e'mulateurs et de scripts additionnels pour votre syste'me re'tro.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Una raccolta di tutte le impostazioni degli emulatori e di script aggiuntivi per il vostro sistema retro.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

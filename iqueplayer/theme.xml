@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>The iQue Player is a handheld TV game version of the Nintendo 64 console that was manufactured by iQue, a joint venture between Nintendo and Taiwanese-American scientist Wei Yen after China had banned the sale of home video games. Its Chinese name is She'n Yóu Ji (神游机), literally "Divine Gaming Machine". She'nyóu (神游) is a double entendre as "to make a mental journey". It was never released in any English-speaking countries, but the name "iQue Player" appears in the instruction manual. The console and its controller are one unit, plugging directly into the television. A box accessory allows multiplayer gaming.</text>
-			<text lang="es">El iQue Player es una versión portátil de la consola Nintendo 64 fabricada por iQue, una empresa conjunta de Nintendo y el científico estadounidense de origen taiwane's Wei Yen, despue's de que China prohibiera la venta de videojuegos dome'sticos. Su nombre chino es She'n Yóu Ji (神游机), literalmente "Máquina de juego divina". She'nyóu (神游) es un doble sentido como "hacer un viaje mental". Nunca salió a la venta en ningún país de habla inglesa, pero el nombre "iQue Player" aparece en el manual de instrucciones. La consola y su mando son una sola unidad, que se conecta directamente al televisor. Un accesorio en forma de caja permite el juego multijugador.</text>
-			<text lang="de">Der iQue Player ist eine tragbare TV-Spielversion der Nintendo 64-Konsole, die von iQue, einem Joint Venture zwischen Nintendo und dem taiwanesisch-amerikanischen Wissenschaftler Wei Yen, hergestellt wurde, nachdem China den Verkauf von Heimvideospielen verboten hatte. Ihr chinesischer Name ist She'n Yóu Ji (神游机), wörtlich "Göttliche Spielmaschine". She'nyóu (神游) ist eine Doppeldeutigkeit im Sinne von "eine mentale Reise machen". Es wurde nie in englischsprachigen Ländern veröffentlicht, aber der Name "iQue Player" erscheint in der Bedienungsanleitung. Die Konsole und ihr Controller bilden eine Einheit, die direkt an den Fernseher angeschlossen wird. Eine Zubehörbox ermöglicht Multiplayer-Spiele.</text>
-			<text lang="fr">L'iQue Player est une version te'le'visuelle portable de la consol Nintendo 64 fabrique'e par iQue, une coentreprise entre Nintendo et le scientifique ame'ricain d'origine taïwanaise Wei Yen, apre's que la Chine a interdit la vente de jeux vide'o domestiques. Son nom chinois est She'n Yóu Ji (神游机), litte'ralement "Divine Gaming Machine". She'nyóu (神游) est un double sens qui signifie "faire un voyage mental". La console n'a jamais e'te' commercialise'e dans les pays anglophones, mais le nom "iQue Player" apparaît dans le manuel d'instructions. La console et sa manette ne forment qu'une seule unite' et se branchent directement sur la te'le'vision. Une boîte accessoire permet de jouer en multijoueurs.</text>
-			<text lang="it">L'iQue Player e' una versione portatile per TV della console Nintendo 64, prodotta da iQue, una joint venture tra Nintendo e lo scienziato taiwanese-americano Wei Yen, dopo che la Cina aveva vietato la vendita di videogiochi domestici. Il suo nome cinese e' She'n Yóu Ji (神游机), letteralmente "Macchina da gioco divina". She'nyóu (神游) e' un doppio senso come "fare un viaggio mentale". Non e' mai stato rilasciato in nessun paese di lingua inglese, ma il nome "iQue Player" compare nel manuale di istruzioni. La console e il suo controller sono un'unica unita' che si collega direttamente al televisore. Un accessorio della scatola permette di giocare in multiplayer.</text>       
+         <text>The iQue Player is a handheld TV game version of the Nintendo 64 console that was manufactured by iQue, a joint venture between Nintendo and Taiwanese-American scientist Wei Yen after China had banned the sale of home video games. Its Chinese name is She'n Yóu Ji (神游机), literally "Divine Gaming Machine". She'nyóu (神游) is a double entendre as "to make a mental journey". It was never released in any English-speaking countries, but the name "iQue Player" appears in the instruction manual. The console and its controller are one unit, plugging directly into the television. A box accessory allows multiplayer gaming.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">El iQue Player es una versión portátil de la consola Nintendo 64 fabricada por iQue, una empresa conjunta de Nintendo y el científico estadounidense de origen taiwane's Wei Yen, despue's de que China prohibiera la venta de videojuegos dome'sticos. Su nombre chino es She'n Yóu Ji (神游机), literalmente "Máquina de juego divina". She'nyóu (神游) es un doble sentido como "hacer un viaje mental". Nunca salió a la venta en ningún país de habla inglesa, pero el nombre "iQue Player" aparece en el manual de instrucciones. La consola y su mando son una sola unidad, que se conecta directamente al televisor. Un accesorio en forma de caja permite el juego multijugador.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Der iQue Player ist eine tragbare TV-Spielversion der Nintendo 64-Konsole, die von iQue, einem Joint Venture zwischen Nintendo und dem taiwanesisch-amerikanischen Wissenschaftler Wei Yen, hergestellt wurde, nachdem China den Verkauf von Heimvideospielen verboten hatte. Ihr chinesischer Name ist She'n Yóu Ji (神游机), wörtlich "Göttliche Spielmaschine". She'nyóu (神游) ist eine Doppeldeutigkeit im Sinne von "eine mentale Reise machen". Es wurde nie in englischsprachigen Ländern veröffentlicht, aber der Name "iQue Player" erscheint in der Bedienungsanleitung. Die Konsole und ihr Controller bilden eine Einheit, die direkt an den Fernseher angeschlossen wird. Eine Zubehörbox ermöglicht Multiplayer-Spiele.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">L'iQue Player est une version te'le'visuelle portable de la consol Nintendo 64 fabrique'e par iQue, une coentreprise entre Nintendo et le scientifique ame'ricain d'origine taïwanaise Wei Yen, apre's que la Chine a interdit la vente de jeux vide'o domestiques. Son nom chinois est She'n Yóu Ji (神游机), litte'ralement "Divine Gaming Machine". She'nyóu (神游) est un double sens qui signifie "faire un voyage mental". La console n'a jamais e'te' commercialise'e dans les pays anglophones, mais le nom "iQue Player" apparaît dans le manuel d'instructions. La console et sa manette ne forment qu'une seule unite' et se branchent directement sur la te'le'vision. Une boîte accessoire permet de jouer en multijoueurs.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">L'iQue Player e' una versione portatile per TV della console Nintendo 64, prodotta da iQue, una joint venture tra Nintendo e lo scienziato taiwanese-americano Wei Yen, dopo che la Cina aveva vietato la vendita di videogiochi domestici. Il suo nome cinese e' She'n Yóu Ji (神游机), letteralmente "Macchina da gioco divina". She'nyóu (神游) e' un doppio senso come "fare un viaggio mentale". Non e' mai stato rilasciato in nessun paese di lingua inglese, ma il nome "iQue Player" compare nel manuale di istruzioni. La console e il suo controller sono un'unica unita' che si collega direttamente al televisore. Un accessorio della scatola permette di giocare in multiplayer.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

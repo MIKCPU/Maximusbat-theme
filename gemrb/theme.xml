@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>GemRB (Game Engine Made with preRendered Background) is a portable, open-source implementation of Bioware’s Infinity Engine. It aims to recreate the engine that powered classic RPGs like Baldur’s Gate, Icewind Dale, and Planescape: Torment. GemRB offers a cleaner design, greater extensibility, and several innovations, making it a robust platform for mod development and gameplay on various modern systems</text>
-			<text lang="it">GemRB (Game Engine Made with preRendered Background) e' un'implementazione portatile e open-source dell'Infinity Engine di Bioware. Il suo scopo e' ricreare il motore che ha alimentato giochi di ruolo classici come Baldur's Gate, Icewind Dale e Planescape: Torment. GemRB offre un design piU' pulito, una maggiore estensibilita' e diverse innovazioni, che lo rendono una solida piattaforma per lo sviluppo di mod e il gioco su vari sistemi moderni.</text>
-			<text lang="fr">GemRB (Game Engine Made with preRendered Background) est une imple'mentation portable et open-source de l'Infinity Engine de Bioware. Il vise a' recre'er le moteur qui a alimente' les RPG classiques comme Baldur's Gate, Icewind Dale et Planescape : Torment. GemRB offre un design plus e'pure', une plus grande extensibilite' et plusieurs innovations, ce qui en fait une plateforme robuste pour le de'veloppement de mods et le jeu sur divers syste'mes modernes</text>
-			<text lang="de">GemRB (Game Engine Made with preRendered Background) ist eine portable Open-Source-Implementierung der Infinity Engine von Bioware. Sie zielt darauf ab, die Engine nachzubauen, die klassische RPGs wie Baldur's Gate, Icewind Dale und Planescape angetrieben hat: Torment. GemRB bietet ein übersichtlicheres Design, größere Erweiterbarkeit und mehrere Innovationen, die es zu einer robusten Plattform für die Entwicklung von Mods und das Spielen auf verschiedenen modernen Systemen machen</text>
-			<text lang="es">GemRB (Game Engine Made with preRendered Background) es una implementación portátil y de código abierto del Infinity Engine de Bioware. Su objetivo es recrear el motor que impulsó juegos de rol clásicos como Baldur's Gate, Icewind Dale y Planescape: Torment. GemRB ofrece un diseño más limpio, mayor extensibilidad y varias innovaciones, lo que lo convierte en una plataforma robusta para el desarrollo de mods y el juego en varios sistemas modernos.</text>       
+         <text>GemRB (Game Engine Made with preRendered Background) is a portable, open-source implementation of Bioware’s Infinity Engine. It aims to recreate the engine that powered classic RPGs like Baldur’s Gate, Icewind Dale, and Planescape: Torment. GemRB offers a cleaner design, greater extensibility, and several innovations, making it a robust platform for mod development and gameplay on various modern systems<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">GemRB (Game Engine Made with preRendered Background) e' un'implementazione portatile e open-source dell'Infinity Engine di Bioware. Il suo scopo e' ricreare il motore che ha alimentato giochi di ruolo classici come Baldur's Gate, Icewind Dale e Planescape: Torment. GemRB offre un design piU' pulito, una maggiore estensibilita' e diverse innovazioni, che lo rendono una solida piattaforma per lo sviluppo di mod e il gioco su vari sistemi moderni.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">GemRB (Game Engine Made with preRendered Background) est une imple'mentation portable et open-source de l'Infinity Engine de Bioware. Il vise a' recre'er le moteur qui a alimente' les RPG classiques comme Baldur's Gate, Icewind Dale et Planescape : Torment. GemRB offre un design plus e'pure', une plus grande extensibilite' et plusieurs innovations, ce qui en fait une plateforme robuste pour le de'veloppement de mods et le jeu sur divers syste'mes modernes<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">GemRB (Game Engine Made with preRendered Background) ist eine portable Open-Source-Implementierung der Infinity Engine von Bioware. Sie zielt darauf ab, die Engine nachzubauen, die klassische RPGs wie Baldur's Gate, Icewind Dale und Planescape angetrieben hat: Torment. GemRB bietet ein übersichtlicheres Design, größere Erweiterbarkeit und mehrere Innovationen, die es zu einer robusten Plattform für die Entwicklung von Mods und das Spielen auf verschiedenen modernen Systemen machen<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">GemRB (Game Engine Made with preRendered Background) es una implementación portátil y de código abierto del Infinity Engine de Bioware. Su objetivo es recrear el motor que impulsó juegos de rol clásicos como Baldur's Gate, Icewind Dale y Planescape: Torment. GemRB ofrece un diseño más limpio, mayor extensibilidad y varias innovaciones, lo que lo convierte en una plataforma robusta para el desarrollo de mods y el juego en varios sistemas modernos.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

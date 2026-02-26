@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>UNIS Technology is a leading developer and manufacturer of coin-operated arcade games, known for their innovative and engaging designs. With over 30 years of experience, UNIS has created a wide range of arcade games that cater to various interests and age groups.</text>
-			<text lang="it">UNIS Technology e' un'azienda leader nello sviluppo e nella produzione di giochi arcade a moneta, noti per il loro design innovativo e coinvolgente. Con oltre 30 anni di esperienza, UNIS ha creato un'ampia gamma di giochi arcade che soddisfano diversi interessi e gruppi di eta'.</text>
-			<text lang="fr">UNIS Technology est l'un des principaux de'veloppeurs et fabricants de jeux d'arcade a' pie'ces, connus pour leurs conceptions innovantes et attrayantes. Avec plus de 30 ans d'expe'rience, UNIS a cre'e' une large gamme de jeux d'arcade qui re'pondent a' diffe'rents inte'rêts et groupes d'âge.</text>
-			<text lang="de">UNIS Technology ist ein führender Entwickler und Hersteller von münzbetriebenen Arcade-Spielen, die für ihre innovativen und ansprechenden Designs bekannt sind. Mit über 30 Jahren Erfahrung hat UNIS eine breite Palette von Arcade-Spielen entwickelt, die verschiedene Interessen und Altersgruppen ansprechen.</text>
-			<text lang="es">UNIS Technology es uno de los principales desarrolladores y fabricantes de juegos arcade que funcionan con monedas, conocidos por sus diseños innovadores y atractivos. Con más de 30 años de experiencia, UNIS ha creado una amplia gama de juegos arcade que se adaptan a diversos intereses y grupos de edad.</text>       
+         <text>UNIS Technology is a leading developer and manufacturer of coin-operated arcade games, known for their innovative and engaging designs. With over 30 years of experience, UNIS has created a wide range of arcade games that cater to various interests and age groups.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">UNIS Technology e' un'azienda leader nello sviluppo e nella produzione di giochi arcade a moneta, noti per il loro design innovativo e coinvolgente. Con oltre 30 anni di esperienza, UNIS ha creato un'ampia gamma di giochi arcade che soddisfano diversi interessi e gruppi di eta'.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">UNIS Technology est l'un des principaux de'veloppeurs et fabricants de jeux d'arcade a' pie'ces, connus pour leurs conceptions innovantes et attrayantes. Avec plus de 30 ans d'expe'rience, UNIS a cre'e' une large gamme de jeux d'arcade qui re'pondent a' diffe'rents inte'rêts et groupes d'âge.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">UNIS Technology ist ein führender Entwickler und Hersteller von münzbetriebenen Arcade-Spielen, die für ihre innovativen und ansprechenden Designs bekannt sind. Mit über 30 Jahren Erfahrung hat UNIS eine breite Palette von Arcade-Spielen entwickelt, die verschiedene Interessen und Altersgruppen ansprechen.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">UNIS Technology es uno de los principales desarrolladores y fabricantes de juegos arcade que funcionan con monedas, conocidos por sus diseños innovadores y atractivos. Con más de 30 años de experiencia, UNIS ha creado una amplia gama de juegos arcade que se adaptan a diversos intereses y grupos de edad.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

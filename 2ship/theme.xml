@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>A source port of Majora's Mask. 2Ship2Harkinian (aka SoH2) features extensive and significant enhancements over the original game, such as improved performance, increased frame-rate, native ultra-widescreen support, and extensive mod support (especially compared to emulated versions of the original), among other features.</text>
-			<text lang="it">Un porting sorgente di Majora's Mask. 2Ship2Harkinian (noto anche come SoH2) presenta miglioramenti significativi ed estesi rispetto al gioco originale, come prestazioni migliorate, frame rate aumentato, supporto nativo ultra-widescreen e ampio supporto mod (soprattutto rispetto alle versioni emulate dell'originale), tra le altre caratteristiche.</text>
-			<text lang="de">Ein Source-Port von Majora's Mask. 2Ship2Harkinian (auch bekannt als SoH2) bietet umfangreiche und bedeutende Verbesserungen gegenüber dem Originalspiel, wie z. B. eine verbesserte Performance, eine höhere Bildrate, native Unterstützung für Ultra-Breitbildformate und umfangreiche Mod-Unterstützung (insbesondere im Vergleich zu emulierten Versionen des Originals), neben anderen Funktionen.</text> 
-			<text lang="fr">2Ship2Harkinian (alias SoH2) est un portage du jeu Majora's Mask. Il propose des ame'liorations importantes par rapport au jeu original, notamment des performances optimise'es, une fre'quence d'images plus e'leve'e, une compatibilite' native avec les e'crans ultra-larges et une prise en charge e'tendue des mods (surtout compare'e aux versions e'mule'es).</text>
-			<text lang="es">Un puerto fuente de Majora's Mask. 2Ship2Harkinian (tambie'n conocido como SoH2) presenta mejoras extensas y significativas con respecto al juego original, como un rendimiento mejorado, una mayor velocidad de cuadros, compatibilidad nativa con pantalla ultra ancha y una amplia compatibilidad con mods (especialmente en comparación con las versiones emuladas del original), entre otras características.</text>         
+         <text>A source port of Majora's Mask. 2Ship2Harkinian (aka SoH2) features extensive and significant enhancements over the original game, such as improved performance, increased frame-rate, native ultra-widescreen support, and extensive mod support (especially compared to emulated versions of the original), among other features.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Un porting sorgente di Majora's Mask. 2Ship2Harkinian (noto anche come SoH2) presenta miglioramenti significativi ed estesi rispetto al gioco originale, come prestazioni migliorate, frame rate aumentato, supporto nativo ultra-widescreen e ampio supporto mod (soprattutto rispetto alle versioni emulate dell'originale), tra le altre caratteristiche.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Ein Source-Port von Majora's Mask. 2Ship2Harkinian (auch bekannt als SoH2) bietet umfangreiche und bedeutende Verbesserungen gegenüber dem Originalspiel, wie z. B. eine verbesserte Performance, eine höhere Bildrate, native Unterstützung für Ultra-Breitbildformate und umfangreiche Mod-Unterstützung (insbesondere im Vergleich zu emulierten Versionen des Originals), neben anderen Funktionen.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text> 
+			<text lang="fr">2Ship2Harkinian (alias SoH2) est un portage du jeu Majora's Mask. Il propose des ame'liorations importantes par rapport au jeu original, notamment des performances optimise'es, une fre'quence d'images plus e'leve'e, une compatibilite' native avec les e'crans ultra-larges et une prise en charge e'tendue des mods (surtout compare'e aux versions e'mule'es).<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Un puerto fuente de Majora's Mask. 2Ship2Harkinian (tambie'n conocido como SoH2) presenta mejoras extensas y significativas con respecto al juego original, como un rendimiento mejorado, una mayor velocidad de cuadros, compatibilidad nativa con pantalla ultra ancha y una amplia compatibilidad con mods (especialmente en comparación con las versiones emuladas del original), entre otras características.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>         
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

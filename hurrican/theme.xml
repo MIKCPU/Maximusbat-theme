@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Inspired by the epic Turrican game series, Hurrican stays by all means true to the original game while still being highly innovative. Blast your way through myriads of enemies, explore the secrets of nine massive worlds and collect tons of powerups to increase your firepower in this highly explosive Run and Gun arcade game. Hurrican is THE ultimate “Turrican Mega-Mix”, taking ideas from several installements of the original franchise while at the same time expanding on it’s universe.</text>
-			<text lang="es">Inspirado en la e'pica serie de juegos Turrican, Hurrican se mantiene fiel al juego original sin dejar de ser altamente innovador. Ábrete paso a trave's de miríadas de enemigos, explora los secretos de nueve enormes mundos y recoge montones de potenciadores para aumentar tu potencia de fuego en este explosivo juego arcade de correr y disparar. Hurrican es LA "Mega-Mezcla" definitiva de Turrican, que toma ideas de varias entregas de la franquicia original a la vez que amplía su universo.</text>
-			<text lang="de">Inspiriert von der epischen Turrican-Spielserie bleibt Hurrican dem Originalspiel auf jeden Fall treu und ist dennoch höchst innovativ. Blast euch den Weg durch Myriaden von Feinden frei, erforscht die Geheimnisse von neun riesigen Welten und sammelt tonnenweise Powerups, um eure Feuerkraft in diesem hochexplosiven Run-and-Gun-Arcade-Spiel zu erhöhen. Hurrican ist DER ultimative "Turrican-Mega-Mix", der Ideen aus mehreren Teilen der Original-Franchise aufgreift und gleichzeitig sein Universum erweitert.</text>
-			<text lang="fr">Inspire' par la se'rie de jeux e'piques Turrican, Hurrican reste fide'le au jeu original tout en e'tant tre's innovant. Frayez-vous un chemin a' travers des myriades d'ennemis, explorez les secrets de neuf mondes gigantesques et collectez des tonnes de bonus pour augmenter votre puissance de feu dans ce jeu d'arcade Run and Gun explosif. Hurrican est LE "Mega-Mix Turrican" ultime, reprenant les ide'es de plusieurs e'pisodes de la franchise originale tout en e'largissant son univers.</text>
-			<text lang="it">Ispirato all'epica serie di giochi Turrican, Hurrican rimane in tutto e per tutto fedele al gioco originale, pur essendo altamente innovativo. Fatevi strada attraverso miriadi di nemici, esplorate i segreti di nove enormi mondi e raccogliete tonnellate di potenziamenti per aumentare la vostra potenza di fuoco in questo gioco arcade Run and Gun altamente esplosivo. Hurrican e' il "Mega-Mix di Turrican" definitivo, che prende spunto da diversi episodi del franchise originale e allo stesso tempo ne amplia l'universo.</text>       
+         <text>Inspired by the epic Turrican game series, Hurrican stays by all means true to the original game while still being highly innovative. Blast your way through myriads of enemies, explore the secrets of nine massive worlds and collect tons of powerups to increase your firepower in this highly explosive Run and Gun arcade game. Hurrican is THE ultimate “Turrican Mega-Mix”, taking ideas from several installements of the original franchise while at the same time expanding on it’s universe.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Inspirado en la e'pica serie de juegos Turrican, Hurrican se mantiene fiel al juego original sin dejar de ser altamente innovador. Ábrete paso a trave's de miríadas de enemigos, explora los secretos de nueve enormes mundos y recoge montones de potenciadores para aumentar tu potencia de fuego en este explosivo juego arcade de correr y disparar. Hurrican es LA "Mega-Mezcla" definitiva de Turrican, que toma ideas de varias entregas de la franquicia original a la vez que amplía su universo.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Inspiriert von der epischen Turrican-Spielserie bleibt Hurrican dem Originalspiel auf jeden Fall treu und ist dennoch höchst innovativ. Blast euch den Weg durch Myriaden von Feinden frei, erforscht die Geheimnisse von neun riesigen Welten und sammelt tonnenweise Powerups, um eure Feuerkraft in diesem hochexplosiven Run-and-Gun-Arcade-Spiel zu erhöhen. Hurrican ist DER ultimative "Turrican-Mega-Mix", der Ideen aus mehreren Teilen der Original-Franchise aufgreift und gleichzeitig sein Universum erweitert.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Inspire' par la se'rie de jeux e'piques Turrican, Hurrican reste fide'le au jeu original tout en e'tant tre's innovant. Frayez-vous un chemin a' travers des myriades d'ennemis, explorez les secrets de neuf mondes gigantesques et collectez des tonnes de bonus pour augmenter votre puissance de feu dans ce jeu d'arcade Run and Gun explosif. Hurrican est LE "Mega-Mix Turrican" ultime, reprenant les ide'es de plusieurs e'pisodes de la franchise originale tout en e'largissant son univers.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Ispirato all'epica serie di giochi Turrican, Hurrican rimane in tutto e per tutto fedele al gioco originale, pur essendo altamente innovativo. Fatevi strada attraverso miriadi di nemici, esplorate i segreti di nove enormi mondi e raccogliete tonnellate di potenziamenti per aumentare la vostra potenza di fuoco in questo gioco arcade Run and Gun altamente esplosivo. Hurrican e' il "Mega-Mix di Turrican" definitivo, che prende spunto da diversi episodi del franchise originale e allo stesso tempo ne amplia l'universo.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 

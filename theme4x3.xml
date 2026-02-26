@@ -1,66 +1,25 @@
+<!--
+theme name:     Maximusbat
+version         3.0
+-->
+
 <?xml version="1.0" encoding="UTF-8"?>
 <theme>
-   <formatVersion>7</formatVersion>
-
-   <include>./maximusbat_base.xml</include>
-
-   <include>./_inc/system/options.xml</include>
-
-
-   <view name="system">
-
-      <image name="background">
-         <path>./_inc/images/4x3/backgroundmenu.png</path>
-         <pos>0 0</pos>
-         <size>1 1</size>
-      </image>
-
-      <image name="sysbar">
-         <path>./_inc/images/4x3/sysbar.png</path>
-         <origin>0.5 0</origin>
-         <pos>0.5 0.82</pos>
-         <size>0.80 0.11</size>
-      </image>
-
-      <text name="systemDesc">
-         <origin>0.5 0</origin>
-         <pos>0.495 0.835</pos>
-         <size>0.75 0.07</size>
-         <alignment>center</alignment>
-      </text>
-
-      <text name="systemInfo">
-         <origin>1 0</origin>
-         <pos>0.90 0.94</pos>
-         <alignment>right</alignment>
-      </text>
-
-   </view>
-
-   <view name="basic">
-      <image name="background">
-         <path>./_inc/images/4x3/backgroundbasic.png</path>
-         <pos>0 0</pos>
-         <size>1 1</size>
-      </image>
-   </view>
-
-   <view name="detailed,video">
-
-      <!-- BACKGROUND BASE 4:3 -->
-      <image name="background">
-         <path>./_inc/images/4x3/backgrounddetail.png</path>
-         <pos>0 0</pos>
-         <size>1 1</size>
-      </image>
-
-      <image name="background" extra="true">
-         <origin>0 0</origin>
-         <pos>0 0</pos>
-         <size>1 1</size>
-         <path>./_inc/backgrounds/${system.theme}.png</path>
-      </image>
-
-   </view>
-
+  <formatVersion>7</formatVersion>
+  <include>./maximusbat_base.xml</include>
+  <include>./_inc/system/options4x3.xml</include>
+  <view name="system">
+   <image name="background">
+   <pos>0 0</pos>
+   <size>1 1</size>
+   <path ifSubset="view:Carousel">./_inc/images/4x3/backgroundmenu.png</path>
+   <path ifSubset="view:Wheel">./_inc/images/4x3/backgroundmenu2.png</path>
+</image>
+    <image name="sysbar">
+      <path>./_inc/images/4x3/sysbar.png</path>
+      <origin>0.5 0</origin>
+      <pos>0.5 0.82</pos>
+      <size>0.80 0.11</size>
+    </image>
+  </view>
 </theme>

@@ -9,17 +9,34 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>OpenLara is an open-source engine that allows to play the classic Tomb Raider games from 1 to 5. It is a recreation of the original Tomb Raider engine that uses the C language and the free OpenGL graphics libraries. The project is hosted on GitHub and is actively developed. OpenLara is available as a WebGL build with a demo level and as a standalone version. The engine is also ported to libretro.</text>
-			<text lang="it">OpenLara e' un motore open-source che permette di giocare ai classici Tomb Raider dall'1 al 5. e' una ricreazione del motore originale di Tomb Raider che utilizza il linguaggio C e le librerie grafiche OpenGL gratuite. Il progetto e' ospitato su GitHub e viene sviluppato attivamente. OpenLara e' disponibile come build WebGL con un livello demo e come versione standalone. Il motore e' stato anche portato su libretro.</text>
-			<text lang="fr">OpenLara est un moteur open-source qui permet de jouer aux jeux classiques de Tomb Raider de 1 a' 5. Il s'agit d'une recre'ation du moteur original de Tomb Raider qui utilise le langage C et les bibliothe'ques graphiques libres OpenGL. Le projet est he'berge' sur GitHub et est activement de'veloppe'. OpenLara est disponible en version WebGL avec un niveau de de'monstration et en version autonome. Le moteur est e'galement porte' sur libretro.</text>
-			<text lang="de">OpenLara ist eine Open-Source-Engine, die es ermöglicht, die klassischen Tomb-Raider-Spiele von 1 bis 5 zu spielen. Es ist eine Nachbildung der ursprünglichen Tomb-Raider-Engine, die die Sprache C und die freien OpenGL-Grafikbibliotheken verwendet. Das Projekt wird auf GitHub gehostet und wird aktiv weiterentwickelt. OpenLara ist als WebGL-Build mit einem Demo-Level und als Standalone-Version verfügbar. Die Engine ist auch auf libretro portiert.</text>
-			<text lang="es">OpenLara es un motor de código abierto que permite jugar a los juegos clásicos de Tomb Raider del 1 al 5. Se trata de una recreación del motor original de Tomb Raider que utiliza el lenguaje C y las librerías gráficas libres OpenGL. El proyecto está alojado en GitHub y se desarrolla activamente. OpenLara está disponible como versión WebGL con un nivel de demostración y como versión independiente. El motor tambie'n está portado a libretro.</text>
+         <text>OpenLara is an open-source engine that allows to play the classic Tomb Raider games from 1 to 5. It is a recreation of the original Tomb Raider engine that uses the C language and the free OpenGL graphics libraries. The project is hosted on GitHub and is actively developed. OpenLara is available as a WebGL build with a demo level and as a standalone version. The engine is also ported to libretro.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">OpenLara e' un motore open-source che permette di giocare ai classici Tomb Raider dall'1 al 5. e' una ricreazione del motore originale di Tomb Raider che utilizza il linguaggio C e le librerie grafiche OpenGL gratuite. Il progetto e' ospitato su GitHub e viene sviluppato attivamente. OpenLara e' disponibile come build WebGL con un livello demo e come versione standalone. Il motore e' stato anche portato su libretro.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">OpenLara est un moteur open-source qui permet de jouer aux jeux classiques de Tomb Raider de 1 a' 5. Il s'agit d'une recre'ation du moteur original de Tomb Raider qui utilise le langage C et les bibliothe'ques graphiques libres OpenGL. Le projet est he'berge' sur GitHub et est activement de'veloppe'. OpenLara est disponible en version WebGL avec un niveau de de'monstration et en version autonome. Le moteur est e'galement porte' sur libretro.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">OpenLara ist eine Open-Source-Engine, die es ermöglicht, die klassischen Tomb-Raider-Spiele von 1 bis 5 zu spielen. Es ist eine Nachbildung der ursprünglichen Tomb-Raider-Engine, die die Sprache C und die freien OpenGL-Grafikbibliotheken verwendet. Das Projekt wird auf GitHub gehostet und wird aktiv weiterentwickelt. OpenLara ist als WebGL-Build mit einem Demo-Level und als Standalone-Version verfügbar. Die Engine ist auch auf libretro portiert.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">OpenLara es un motor de código abierto que permite jugar a los juegos clásicos de Tomb Raider del 1 al 5. Se trata de una recreación del motor original de Tomb Raider que utiliza el lenguaje C y las librerías gráficas libres OpenGL. El proyecto está alojado en GitHub y se desarrolla activamente. OpenLara está disponible como versión WebGL con un nivel de demostración y como versión independiente. El motor tambie'n está portado a libretro.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
       <zIndex>100</zIndex>
-		 <alignment>left</alignment>
-				<multiLine>false</multiLine>
-				<autoScrollDelay>3000</autoScrollDelay>
-				<singleLineScroll>true</singleLineScroll>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
 	</view>
 </theme>
+
+
+
 
