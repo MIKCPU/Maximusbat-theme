@@ -70,7 +70,7 @@ version         3.0
          <pos>0.01 0.01</pos>
          <origin>0 0</origin>
          <alignment>left</alignment>
-         <fontPath>./_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
+         <fontPath>./_inc/fonts/MATURASC.ttf</fontPath>
          <fontSize>0.04</fontSize>
          <color>FFFFFF</color>
          <text>System: ${system.name}</text>
