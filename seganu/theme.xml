@@ -8,5 +8,31 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <text>The nu is an arcade system created by Sega in 2013. It succeeded the Ring series of systems, and its release was announced just six months after the RingEdge 2, coinciding with the release of the first Hatsune Miku Project DIVA Arcade Future Tone game. Like its predecessors, it is based on a PC architecture. It is more powerful than its predecessors. The operating system is Windows 8, and it features an Intel Core i3-3220 at 3.30GHz, an Nvidia GeForce GTX 650 Ti, and 4GB of DDR3 SDRAM PC3-12800. Usable media include the hard drive, DVD-ROM, and network connectivity with ALL.Net P-ras MULTI. "nu" is pronounced "new" (for new system).<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Il nu è un sistema arcade creato da Sega nel 2013. È il successore della serie di sistemi Ring e la sua uscita è stata annunciata solo sei mesi dopo RingEdge 2, in concomitanza con l'uscita del primo gioco Hatsune Miku Project DIVA Arcade Future Tone. Come i suoi predecessori, è basato su un'architettura PC. È più potente dei suoi predecessori. Il sistema operativo è Windows 8 e include un Intel Core i3-3220 a 3,30 GHz, una Nvidia GeForce GTX 650 Ti e 4 GB di DDR3 SDRAM PC3-12800. I supporti utilizzabili includono disco rigido, DVD-ROM e connettività di rete con ALL.Net P-ras MULTI. "nu" si pronuncia "new" (per nuovo sistema).<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Le nu est un système d'arcade créé par Sega en 2013. Il succède à la série des systèmes Ring, et sa sortie a été annoncée seulement six mois après la sortie du RingEdge 2, en même temps que le premier jeu Hatsune Miku Project DIVA Arcade Future Tone. Comme ses prédécesseurs, il est basé sur une architecture PC.Il est plus puissant que ses prédécesseurs. Le système d’exploitation est Windows 8, et il embarque un Intel Core i3-3220 à 3.30GHz, une Nvidia GeForce GTX650 Ti et 4Go de DDR3 SDRAM PC3-12800. Les médias utilisables sont le disque dur, le DVD-ROM et le réseau avec ALL.Net P-ras MULTI. nu est prononcé new (pour new system)<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Das Nu ist ein Arcade-System von Sega aus dem Jahr 2013. Es löste die Ring-Systemreihe ab und wurde nur sechs Monate nach dem RingEdge 2 angekündigt, zeitgleich mit dem Release des ersten Hatsune Miku Project DIVA Arcade Future Tone-Spiels. Wie seine Vorgänger basiert es auf einer PC-Architektur, ist aber leistungsstärker. Als Betriebssystem kommt Windows 8 zum Einsatz, und es verfügt über einen Intel Core i3-3220 mit 3,30 GHz, eine Nvidia GeForce GTX 650 Ti und 4 GB DDR3 SDRAM PC3-12800. Zu den nutzbaren Speichermedien gehören Festplatte, DVD-ROM und Netzwerkverbindung mit ALL.Net P-ras MULTI. „Nu“ wird wie „neu“ (für neues System) ausgesprochen.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Nu es una consola arcade creada por Sega en 2013. Sucedió a la serie Ring y su lanzamiento se anunció tan solo seis meses después de RingEdge 2, coincidiendo con el lanzamiento del primer juego Hatsune Miku Project DIVA Arcade Future Tone. Al igual que sus predecesoras, se basa en una arquitectura de PC. Es más potente que sus predecesoras. El sistema operativo es Windows 8 e incorpora un Intel Core i3-3220 a 3,30 GHz, una tarjeta gráfica Nvidia GeForce GTX 650 Ti y 4 GB de DDR3 SDRAM PC3-12800. Los medios utilizables incluyen el disco duro, el DVD-ROM y la conectividad de red con ALL.Net P-ras MULTI. "Nu" se pronuncia "new" (de nuevo sistema).<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 	</view>
 </theme>
