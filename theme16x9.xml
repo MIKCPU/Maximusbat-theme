@@ -6,7 +6,12 @@ version         3.0
 <?xml version="1.0" encoding="UTF-8"?>
 <theme>
     <formatVersion>7</formatVersion>
-    <include>./maximusbat_base.xml</include>
+
+    <include subset="fontbase" name="Default" displayName="Default">./maximusbat_base.xml</include>
+    <include subset="fontbase" name="DS-DIGI" displayName="DS-DIGI">./maximusbat_dsdigi.xml</include>
+    <include subset="fontbase" name="OpenSans" displayName="OpenSans">./maximusbat_opensans.xml</include>
+    <include subset="fontbase" name="Slapstick" displayName="SF Slapstick Comic Bold">./maximusbat_slapstick.xml</include>
+
     <include>./_inc/system/options.xml</include>
 </theme>
 
