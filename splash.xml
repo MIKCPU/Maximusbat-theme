@@ -30,12 +30,18 @@ version         3.0
 		<colorEnd>F44336</colorEnd>
 		<zIndex>7</zIndex>
 	</image>
-		<image name="splashlogo" extra="true">
-			<path>./_inc/assets/splashlogo.png</path>
+		<image name="splashlogo_retrobat" extra="true">
+			<path>./_inc/assets/splashlogo_retrobat.png</path>
 			<size>0.104 0.185</size>
 			<pos>0.0 0.0</pos>
                         <origin>0 0</origin>
 		</image>
+                <image name="splashlogo_batocera" extra="true">
+                        <path>./_inc/assets/splashlogo_batocera.png</path>
+                        <size>0.104 0.185</size>
+                        <pos>1.0 0.0</pos>
+                        <origin>1 0</origin>
+                </image>
 		<text name="label">
 			<origin>0.5 0.5</origin>
 			<alignment>center</alignment>
