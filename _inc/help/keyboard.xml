@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./default.xml</include>
+        <view name="system,basic,detailed,video">
+		<helpsystem name="help">
+     			<iconColor>FFFFFFFF</iconColor>
+			<iconUpDown>./../../_inc/images/buttons/keyboard/updown.png</iconUpDown>
+			<iconLeftRight>./../../_inc/images/buttons/keyboard/leftright.png</iconLeftRight>
+			<iconUpDownLeftRight>./../../_inc/images/buttons/keyboard/all.png</iconUpDownLeftRight>
+			<iconA>./../../_inc/images/buttons/keyboard/x.png</iconA>
+			<iconB>./../../_inc/images/buttons/keyboard/z.png</iconB>
+			<iconX>./../../_inc/images/buttons/keyboard/a.png</iconX>
+			<iconY>./../../_inc/images/buttons/keyboard/s.png</iconY>
+			<iconStart>./../../_inc/images/buttons/keyboard/enter.png</iconStart>
+			<iconSelect>./../../_inc/images/buttons/keyboard/rshift.png</iconSelect>
+		</helpsystem>
+	</view>
+ 	</theme>

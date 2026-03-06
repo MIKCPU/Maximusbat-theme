@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+        <view name="system,basic,detailed,video">
+		<helpsystem name="help">
+                        <iconColor>FFFFFFFF</iconColor>
+			<fontPath>${fontDescReg}</fontPath>
+			<fontSize>0.024</fontSize>
+			<origin>0.9 0</origin>
+			<pos>0.65 0.9625</pos>
+		</helpsystem>
+	</view>
+</theme>

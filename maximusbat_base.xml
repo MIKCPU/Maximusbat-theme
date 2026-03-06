@@ -150,7 +150,7 @@ version         3.0
          <path>./_inc/images/backgrounddetail.png</path>
       </image>
 
-      <image name="background" extra="true">
+      <image name="background_system" extra="true">
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>

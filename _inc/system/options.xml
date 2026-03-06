@@ -1,3 +1,4 @@
+
 <!--
 theme name:     Maximusbat
 version         3.0
@@ -5,9 +6,11 @@ version         3.0
 
 <?xml version="1.0" encoding="UTF-8"?>
 <theme>
+   <formatVersion>7</formatVersion>
+
    <include subset="view" name="Carousel" displayName="Carousel">./view/carousel.xml</include>
    <include subset="view" name="Wheel" displayName="Wheel">./view/wheel.xml</include>
-   <include subset="color" name="White"  displayName="Bianco / White">./styles/white.xml</include>
+  <include subset="color" name="White"  displayName="Bianco / White">./styles/white.xml</include>
    <include subset="color" name="Blue"   displayName="Blu / Blue">./styles/blue.xml</include>
    <include subset="color" name="Orange"  displayName="Arancione / Orange">./styles/orange.xml</include>
    <include subset="color" name="Gold"   displayName="Oro / Gold">./styles/gold.xml</include>
@@ -21,5 +24,17 @@ version         3.0
    <include subset="layout" name="Default" displayName="Layout Default">./layout/default.xml</include>
    <include subset="layout" name="Minimal" displayName="Layout Minimal">./layout/minimal.xml</include>
    <include subset="layout" name="Arcade" displayName="Layout Arcade">./layout/arcade.xml</include>
-</theme>
+   <include subset="buttonicons" name="Default"     displayName="Icone: Default">./../help/default.xml</include>
+   <include subset="buttonicons" name="6Buttons"     displayName="Icone: 6 Pulsanti">./../help/6buttons.xml</include>
+   <include subset="buttonicons" name="8Buttons"     displayName="Icone: 8 Pulsanti">./../help/8buttons.xml</include>
+   <include subset="buttonicons" name="Arcade"     displayName="Icone: Arcade">./../help/arcadebuttons.xml</include>
+   <include subset="buttonicons" name="Nintendo"     displayName="Icone: Nintendo">./../help/nintendo.xml</include>
+   <include subset="buttonicons" name="Oculus"     displayName="Icone: Oculus">./../help/oculus.xml</include>
+   <include subset="buttonicons" name="PS5"     displayName="Icone: PS5">./../help/ps5buttons.xml</include>
+   <include subset="buttonicons" name="PlayStation"     displayName="Icone: PlayStation">./../help/psxbuttons.xml</include>
+   <include subset="buttonicons" name="PlayStation Color"     displayName="Icone: PlayStation Color">./../help/psxbuttons_color.xml</include>
+   <include subset="buttonicons" name="Xbox"     displayName="Icone: Xbox">./../help/xboxbuttons.xml</include>
+   <include subset="buttonicons" name="Xbox Color"     displayName="Icone: Xbox Color">./../help/xboxbuttons_color.xml</include>
+   <include subset="buttonicons" name="Keyboard"     displayName="Icone: Keyboard">./../help/keyboard.xml</include>
 
+</theme>
