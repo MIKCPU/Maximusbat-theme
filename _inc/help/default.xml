@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <theme>
 	<formatVersion>7</formatVersion>
         <view name="system,basic,detailed,video">
@@ -6,8 +6,8 @@
                         <iconColor>FFFFFFFF</iconColor>
 			<fontPath>${fontDescReg}</fontPath>
 			<fontSize>0.024</fontSize>
-			<origin>0.9 0</origin>
-			<pos>0.65 0.9625</pos>
+			<origin>0.5 1</origin>
+			<pos>0.45 0.98</pos>
 		</helpsystem>
 	</view>
 </theme>
