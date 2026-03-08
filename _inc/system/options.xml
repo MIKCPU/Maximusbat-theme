@@ -9,7 +9,7 @@ version         3.0
 
    <include subset="view" name="Carousel" displayName="Carousel">./view/carousel.xml</include>
    <include subset="view" name="Wheel" displayName="Wheel">./view/wheel.xml</include>
-  <include subset="color" name="White"  displayName="Bianco / White">./styles/white.xml</include>
+   <include subset="color" name="White"  displayName="Bianco / White">./styles/white.xml</include>
    <include subset="color" name="Blue"   displayName="Blu / Blue">./styles/blue.xml</include>
    <include subset="color" name="Orange"  displayName="Arancione / Orange">./styles/orange.xml</include>
    <include subset="color" name="Gold"   displayName="Oro / Gold">./styles/gold.xml</include>
