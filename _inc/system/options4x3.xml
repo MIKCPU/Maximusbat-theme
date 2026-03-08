@@ -35,6 +35,9 @@ version         3.0
    <include subset="buttonicons" name="Xbox"     displayName="Icone: Xbox">./../help/xboxbuttons.xml</include>
    <include subset="buttonicons" name="Xbox Color"     displayName="Icone: Xbox Color">./../help/xboxbuttons_color.xml</include>
    <include subset="buttonicons" name="Keyboard"     displayName="Icone: Keyboard">./../help/keyboard.xml</include>
+   <include subset="gamescount" name="On" displayName="Contatore Giochi ON">./gamescount/on.xml</include>
+   <include subset="gamescount" name="Off" displayName="Contatore Giochi OFF">./gamescount/off.xml</include>
+
 
 </theme>
 
