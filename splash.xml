@@ -11,7 +11,10 @@ version         3.0
 		<backgroundColor>FF222222</backgroundColor>
 	</splash>
 	<image name="background">
-		<path>./../Maximusbat/.loading/background.png</path>
+            <pos>0.5 0.5</pos>
+            <origin>0.5 0.5</origin>
+            <minSize>1 1</minSize>
+                <path>./_inc/assets/background.png</path>
 	</image>
 	<image name="progressbarbg" extra="true">
 		<color>F44336</color>
