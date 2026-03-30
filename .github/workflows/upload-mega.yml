@@ -1,36 +1,31 @@
 name: Upload Maximusbat Theme to Mega
 
+# Trigger: ad ogni push sul branch main
 on:
   push:
     branches:
       - main
 
+env:
+  # Forza tutte le azioni a usare Node.js 24 e sopprime l’avviso di deprecazione
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   upload:
     runs-on: ubuntu-latest
-    env:
-      # Secret con il contenuto del tuo rclone.conf
-      RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
-      REMOTE_NAME: MBT-Themes          # Nome del remote Mega definito nel rclone.conf
-      REMOTE_PATH: Maximusbat          # Cartella remota su Mega
-      LOCAL_PATH: themes/Maximusbat    # Cartella locale nel repository
-
     steps:
+      # 1️⃣ Checkout del repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Setup rclone
+      # 2️⃣ Configura rclone dal secret
+      - name: Setup rclone config
         run: |
-          curl https://rclone.org/install.sh | sudo bash
-          mkdir -p $HOME/.config/rclone
-          echo "$RCLONE_CONF" > $HOME/.config/rclone/rclone.conf
+          mkdir -p ~/.config/rclone
+          echo "${{ secrets.RCLONE_CONF }}" > ~/.config/rclone/rclone.conf
 
-      - name: Upload Maximusbat to Mega
+      # 3️⃣ Upload della cartella Maximusbat su Mega
+      - name: Upload Theme to Mega
         run: |
-          echo "--------------------------------------------"
-          echo "Uploading Maximusbat Theme to Mega"
-          echo "Local folder: ${{ env.LOCAL_PATH }}"
-          echo "Remote: ${{ env.REMOTE_NAME }}:${{ env.REMOTE_PATH }}"
-          echo "--------------------------------------------"
-          rclone sync "${{ env.LOCAL_PATH }}" "${{ env.REMOTE_NAME }}:${{ env.REMOTE_PATH }}" --progress --delete-excluded
-          echo "Upload completed!"
+          # Sostituisci MBT-Themes con il nome del tuo remote in rclone.conf
+          rclone copy -v "./Maximusbat" "MBT-Themes:Maximusbat" --create-empty-src-dirs --progress
