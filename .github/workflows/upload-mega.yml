@@ -9,7 +9,8 @@ on:
 env:
   # Forza tutte le azioni a usare Node.js 24
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
+  MEGA_LOGIN: mikcpu@hotmail.it
+  MEGA_PASS: g9K2bA90yT8xbN23eMQ3gkSfmLw_LgSzMma6we70KD4FyQ
 jobs:
   upload:
     runs-on: ubuntu-latest
