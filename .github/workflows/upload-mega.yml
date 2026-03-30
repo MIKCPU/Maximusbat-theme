@@ -1,49 +1,31 @@
 name: Upload Maximusbat Theme to Mega
 
+# Trigger: ad ogni push sul branch main
 on:
   push:
     branches:
-      - main  # Esegui quando fai push su main
+      - main
 
 env:
+  # Forza tutte le azioni a usare Node.js 24 e sopprime l’avviso di deprecazione
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   upload:
     runs-on: ubuntu-latest
-
     steps:
-      # Step 1: Checkout repository
+      # 1️⃣ Checkout del repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Step 2: Install rclone
-      - name: Install rclone
-        run: |
-          curl -Of https://downloads.rclone.org/rclone-current-linux-amd64.zip
-          unzip rclone-current-linux-amd64.zip
-          sudo cp rclone-*-linux-amd64/rclone /usr/bin/
-          sudo chmod 755 /usr/bin/rclone
-          rclone version
-
-      # Step 3: Create rclone config from secret
+      # 2️⃣ Configura rclone dal secret
       - name: Setup rclone config
         run: |
           mkdir -p ~/.config/rclone
           echo "${{ secrets.RCLONE_CONF }}" > ~/.config/rclone/rclone.conf
-          cat ~/.config/rclone/rclone.conf
-          
-      # Step 4: Upload folder to Mega
-      - name: Upload Maximusbat Theme to Mega
+
+      # 3️⃣ Upload della cartella Maximusbat su Mega
+      - name: Upload Theme to Mega
         run: |
-          # Cancella cartella remota se vuoi sostituirla
-          rclone purge MBT-Themes:Maximusbat || true
-          # Carica la cartella locale nella cartella remota
-          rclone copy ./Maximusbat MBT-Themes:Maximusbat --progress
-          echo "--------------------------------------------"
-          echo "Uploading Maximusbat Theme to Mega"
-          echo "Local folder: ${{ env.LOCAL_PATH }}"
-          echo "Remote: ${{ env.REMOTE_NAME }}:${{ env.REMOTE_PATH }}"
-          echo "--------------------------------------------"
-          rclone sync "${{ env.LOCAL_PATH }}" "${{ env.REMOTE_NAME }}:${{ env.REMOTE_PATH }}" --progress --delete-excluded
-          echo "Upload completed!"
+          # Sostituisci MBT-Themes con il nome del tuo remote in rclone.conf
+          rclone copy -v "./Maximusbat" "MBT-Themes:Maximusbat" --create-empty-src-dirs --progress
