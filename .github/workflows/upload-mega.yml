@@ -3,30 +3,43 @@ name: Upload Maximusbat Theme to Mega
 on:
   push:
     branches:
-      - main
+      - main  # Esegui quando fai push su main
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   upload:
     runs-on: ubuntu-latest
-    env:
-      # Secret con il contenuto del tuo rclone.conf
-      RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
-      REMOTE_NAME: MBT-Themes          # Nome del remote Mega definito nel rclone.conf
-      REMOTE_PATH: Maximusbat          # Cartella remota su Mega
-      LOCAL_PATH: themes/Maximusbat    # Cartella locale nel repository
 
     steps:
+      # Step 1: Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Setup rclone
+      # Step 2: Install rclone
+      - name: Install rclone
         run: |
-          curl https://rclone.org/install.sh | sudo bash
-          mkdir -p $HOME/.config/rclone
-          echo "$RCLONE_CONF" > $HOME/.config/rclone/rclone.conf
+          curl -Of https://downloads.rclone.org/rclone-current-linux-amd64.zip
+          unzip rclone-current-linux-amd64.zip
+          sudo cp rclone-*-linux-amd64/rclone /usr/bin/
+          sudo chmod 755 /usr/bin/rclone
+          rclone version
 
-      - name: Upload Maximusbat to Mega
+      # Step 3: Create rclone config from secret
+      - name: Setup rclone config
         run: |
+          mkdir -p ~/.config/rclone
+          echo "${{ secrets.RCLONE_CONF }}" > ~/.config/rclone/rclone.conf
+          cat ~/.config/rclone/rclone.conf
+          
+      # Step 4: Upload folder to Mega
+      - name: Upload Maximusbat Theme to Mega
+        run: |
+          # Cancella cartella remota se vuoi sostituirla
+          rclone purge MBT-Themes:Maximusbat || true
+          # Carica la cartella locale nella cartella remota
+          rclone copy ./Maximusbat MBT-Themes:Maximusbat --progress
           echo "--------------------------------------------"
           echo "Uploading Maximusbat Theme to Mega"
           echo "Local folder: ${{ env.LOCAL_PATH }}"
