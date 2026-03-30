@@ -1,13 +1,11 @@
 name: Upload Maximusbat Theme to Mega
 
-# Trigger: ad ogni push sul branch main
 on:
   push:
     branches:
       - main
 
 env:
-  # Forza tutte le azioni a usare Node.js 24 e sopprime l’avviso di deprecazione
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
@@ -18,14 +16,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2️⃣ Configura rclone dal secret
+      # 2️⃣ Install rclone
+      - name: Install rclone
+        run: |
+          curl https://rclone.org/install.sh | sudo bash
+
+      # 3️⃣ Configura rclone dal secret
       - name: Setup rclone config
         run: |
           mkdir -p ~/.config/rclone
           echo "${{ secrets.RCLONE_CONF }}" > ~/.config/rclone/rclone.conf
 
-      # 3️⃣ Upload della cartella Maximusbat su Mega
+      # 4️⃣ Upload della cartella Maximusbat su Mega
       - name: Upload Theme to Mega
         run: |
-          # Sostituisci MBT-Themes con il nome del tuo remote in rclone.conf
           rclone copy -v "./Maximusbat" "MBT-Themes:Maximusbat" --create-empty-src-dirs --progress
