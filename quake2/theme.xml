@@ -1,0 +1,42 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <text>vitaQuake 2 is a port of a Quake II engine source port made originally for the PS Vita. It's based on glQuake but has several features from different source ports such as ProQuake and similars.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">vitaQuake 2 es un port del motor fuente de Quake II hecho originalmente para la PS Vita. Está basado en glQuake pero tiene varias características de diferentes ports fuente como ProQuake y similares.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">vitaQuake 2 ist eine Portierung der Quake II Engine, die ursprünglich für die PS Vita entwickelt wurde. Es basiert auf glQuake, hat aber mehrere Funktionen aus verschiedenen Quellportierungen wie ProQuake und ähnlichen.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">vitaQuake 2 est un portage d'un moteur Quake II fait a' l'origine pour la PS Vita. Il est base' sur glQuake mais posse'de plusieurs fonctionnalite's provenant de diffe'rents portages sources tels que ProQuake et similaires.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">vitaQuake 2 e' un port di un motore sorgente di Quake II realizzato originariamente per PS Vita. e' basato su glQuake, ma presenta diverse caratteristiche di diversi port di origine, come ProQuake e simili.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+	</view>
+</theme>
+
+
+
+
