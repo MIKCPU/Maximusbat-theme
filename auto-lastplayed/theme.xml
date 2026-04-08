@@ -10,13 +10,6 @@
                    <path>./_inc/systemsnap-it.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>Here's a collection of all the games, from all the systems, that have been launched so far.</text>
 			<text lang="es">Aquí tienes una recopilación de todos los juegos, de todos los sistemas que se han lanzado hasta ahora.</text>
 			<text lang="de">Hier finden Sie eine Sammlung aller Spiele für alle Systeme, die bisher auf den Markt gekommen sind.</text>

@@ -10,13 +10,6 @@
                    <path>./_inc/systemsnap-it.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <pos>0.95 0.8</pos>
-         <origin>1 0</origin>
-         <size>0.90 0.1</size>
-         <backgroundColor>00000000</backgroundColor>
-         <color>F5F5F5</color>
-         <fontPath>${themePath}/_inc/fonts/SF Slapstick Comic Bold.ttf</fontPath>
-         <fontSize>0.055</fontSize>
          <text>A four-player game is a multiplayer game that can be played by up to four players simultaneously. Here is a collection of your games that support four-player game.</text>
 			<text lang="es">Un juego para cuatro jugadores es un juego multijugador al que pueden jugar hasta cuatro jugadores simultáneamente. Aquí tienes una recopilación de tus juegos compatibles con cuatro jugadores.</text>
 			<text lang="de">Ein Vier-Spieler-Spiel ist ein Multiplayer-Spiel, das von bis zu vier Spielern gleichzeitig gespielt werden kann. Hier ist eine Sammlung von Spielen, die Vier-Spieler-Spiele unterstützen.</text>
