@@ -1,0 +1,42 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Epoch Cassette Vision (カセットビジョン, Kasetto Bijon) is a Japanese video game console produced in 1981 by Epoch. It is one of the first Japanese consoles to use cartridges as a media format, a system later adopted by most platforms. With graphics capabilities similar to those of the Atari 2600, it has a control system consisting of knobs and buttons, positioned on the body of the console itself. The console initially sold for 13,500 yen, while games cost 4,000 yen. The Cassette Vision sold approximately 400,000 units, becoming the best-selling video game console in Japan before the Nintendo Entertainment System. By 1982, it had achieved a 70% market share, surpassing Takatoku's contemporary Video Cassette Rock, Bandai's TV Jack, and Bandai's foreign import of the Intellivision. In 1983, a smaller, cheaper version was released under the name Cassette Vision Jr. With the emergence of new, more advanced competitors like the NES, sales plummeted; for this reason, the new Super Cassette Vision console was introduced in 1984, with features more in line with the new competitors, and was also exported to Europe. Epoch also produced a portable system, the Game Pocket Computer.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Epoch Cassette Vision (カセットビジョン, Kasetto Bijon) es una consola de videojuegos japonesa fabricada en 1981 por Epoch. Fue una de las primeras consolas japonesas en utilizar cartuchos como formato de almacenamiento, un sistema que posteriormente adoptaron la mayoría de las plataformas. Con capacidades gráficas similares a las de la Atari 2600, contaba con un sistema de control compuesto por perillas y botones ubicados en la propia consola. Inicialmente, la consola se vendía por 13.500 yenes, mientras que los juegos costaban 4.000 yenes. La Cassette Vision vendió aproximadamente 400.000 unidades, convirtiéndose en la consola de videojuegos más vendida en Japón antes de la Nintendo Entertainment System. En 1982, alcanzó una cuota de mercado del 70%, superando a la Video Cassette Rock de Takatoku, la TV Jack de Bandai y la Intellivision de Bandai (importada del extranjero). En 1983, se lanzó una versión más pequeña y económica llamada Cassette Vision Jr. Con la aparición de nuevos competidores más avanzados como la NES, las ventas se desplomaron; por este motivo, en 1984 se presentó la nueva consola Super Cassette Vision, con características más acordes a las de la competencia, que también se exportó a Europa. Epoch también produjo un sistema portátil, el Game Pocket Computer.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Die Epoch Cassette Vision (カセットビジョン, Kasetto Bijon) ist eine japanische Videospielkonsole, die 1981 von Epoch hergestellt wurde. Sie war eine der ersten japanischen Konsolen, die Cartridges als Medienformat nutzten – ein System, das später von den meisten Plattformen übernommen wurde. Mit einer Grafikleistung ähnlich der des Atari 2600 verfügte sie über ein Steuerungssystem mit Drehknöpfen und Tasten, die sich direkt am Gehäuse der Konsole befanden. Die Konsole kostete ursprünglich 13.500 Yen, Spiele 4.000 Yen. Die Cassette Vision verkaufte sich rund 400.000 Mal und war damit vor dem Nintendo Entertainment System die meistverkaufte Videospielkonsole Japans. Bis 1982 hatte sie einen Marktanteil von 70 % erreicht und damit die Konkurrenzprodukte Video Cassette Rock von Takatoku, TV Jack von Bandai und die importierte Intellivision von Bandai überholt. 1983 erschien eine kleinere, günstigere Version unter dem Namen Cassette Vision Jr. Mit dem Aufkommen neuer, leistungsstärkerer Konkurrenzprodukte wie dem NES brachen die Verkaufszahlen ein. Aus diesem Grund wurde 1984 die neue Super Cassette Vision-Konsole eingeführt, deren Funktionen besser mit denen der neuen Konkurrenz mithalten konnten. Sie wurde auch nach Europa exportiert. Epoch produzierte außerdem ein tragbares System, den Game Pocket Computer.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">L'Epoch Cassette Vision (カセットビジョン, Kasetto Bijon) est une console de jeux vidéo japonaise produite en 1981 par Epoch. Elle fait partie des premières consoles japonaises a' utiliser des cartouches comme support de jeu, un système ensuite adopte' par la plupart des plateformes. Dotée de capacités graphiques similaires a' celles de l'Atari 2600, elle dispose d'un système de contrôle composé de boutons et de molettes situés sur le boi'tier. La console était initialement vendue a' 13 500 yens, tandis que les jeux coûtaient 4 000 yens. La Cassette Vision s'est vendue a' environ 400 000 exemplaires, devenant ainsi la console de jeux vidéo la plus vendue au Japon avant la Nintendo Entertainment System. En 1982, elle détenait 70 % de parts de marché, surpassant la Video Cassette Rock de Takatoku, la TV Jack de Bandai et l'Intellivision, importée de Bandai. En 1983, une version plus petite et moins chère, la Cassette Vision Jr., est sortie. Face a' la concurrence de consoles plus performantes comme la NES, les ventes ont chute'. C'est pourquoi la Super Cassette Vision a été lancée en 1984, avec des fonctionnalités plus adaptées a' la concurrence, et exporte'e en Europe. Epoch a e'galement produit un syste'me portable, la Game Pocket Computer.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Epoch Cassette Vision (カセットビジョン, Kasetto Bijon) e' una console giapponese prodotta nel 1981 da Epoch. E' una delle prime console giapponesi a utilizzare come supporto le cartucce, in seguito adottato dalla maggior parte delle piattaforme. Dalle capacita' grafiche simili a quelle dell'Atari 2600, possiede un sistema di controllo costituito da manopole e pulsanti, posizionati sul corpo della console stessa. La console era inizialmente venduta a 13500 yen, mentre i giochi 4000 yen. La Cassette Vision vendette circa 400,000 esemplari, e diventò la console video più venduta in Giappone prima del Nintendo Entertainment System. Nel 1982 raggiunse il 70% del mercato, sorpassando le contemporanee Video Cassette Rock di Takatoku, i TV Jack di Bandai e l'import dall'estero da parte di Bandai dell'Intellivision. Nel 1983 viene venduta in versione economica e di ridotte dimensioni col nome Cassette Vision Jr.. Con la comparsa di nuovi concorrenti più evoluti come il NES, le vendite crollarono; per questo motivo viene introdotta nel 1984 la nuova console Super Cassette Vision, con caratteristiche più in linea con i nuovi concorrenti, esportata anche in Europa. La Epoch ha prodotto anche un sistema portatile, il Game Pocket Computer.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+	</view>
+</theme>
+
+
+
+
