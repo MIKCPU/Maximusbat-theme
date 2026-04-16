@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -8,5 +8,35 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Boom 3 is a Doom 3 and Doom 3: Resurrection Of Evil GPL source port, known to work on Windows and Linux. Doom 3 is a sci-fi horror fantasy first-person shooter computer game developed by id Software and published by ActiVision.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Boom 3 es un port de Doom 3 y Doom 3: Resurrection Of Evil GPL source, conocido por funcionar en Windows y Linux. Doom 3 es un juego de disparos en primera persona de ciencia ficción y terror desarrollado por id Software y publicado por ActiVision.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Boom 3 es un port de Doom 3 y Doom 3: Resurrection Of Evil GPL source, conocido por funcionar en Windows y Linux. Doom 3 es un juego de disparos en primera persona de ciencia ficción y terror desarrollado por id Software y publicado por ActiVision.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Boom 3 est un portage GPL de Doom 3 et Doom 3 : Resurrection Of Evil, connu pour fonctionner sous Windows et Linux. Doom 3 est un jeu de tir a' la premie're personne de science-fiction, d'horreur et de fantaisie de'veloppe' par id Software et publie' par ActiVision.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Boom 3 e' un porting di Doom 3 e Doom 3: Resurrection Of Evil con licenza GPL, noto per funzionare su Windows e Linux. Doom 3 e' un gioco per computer sparatutto in prima persona di genere fantascientifico e horror sviluppato da id Software e pubblicato da ActiVision.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 	</view>
 </theme>
+
+
+
+
