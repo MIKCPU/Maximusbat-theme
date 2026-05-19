@@ -1,0 +1,115 @@
+<!--
+theme name:     Maximusbat
+version         3.0
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+   <formatVersion>7</formatVersion>
+
+   <view name="system">
+      <image name="background">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./../_inc/images/coinopsnextmenu.png</path>
+         <zIndex>1</zIndex>
+      </image>
+
+      <image name="dynamic_background" extra="true">
+         <path>./../_inc/images/art_images/${system.theme}.jpg</path>
+         <origin>0.5 0.5</origin>
+         <pos>0.5 0.5</pos>
+         <size>1.15 1.15</size>
+         <linearSmooth>true</linearSmooth>
+         <opacity>0.52</opacity>
+         <color>#F0F0F0</color>
+         <zIndex>2</zIndex>
+      </image>
+
+      <image name="bg_overlay" extra="true">
+         <origin>0.5 0.5</origin>
+         <pos>0.5 0.5</pos>
+         <size>1 1</size>
+         <path>./../_inc/images/blackfade.png</path>
+         <opacity>0.22</opacity>
+         <zIndex>3</zIndex>
+      </image>
+
+      <carousel name="systemcarousel">
+         <type>carousel</type>
+         <orientation>horizontal</orientation>
+         <origin>0.5 0.5</origin>
+         <pos>0.5 0.80</pos>
+         <size>1.25 0.32</size>
+         <logoSize>0.11 0.11</logoSize>
+         <logoScale>1.65</logoScale>
+         <minLogoScale>0.60</minLogoScale>
+         <minLogoOpacity>0.18</minLogoOpacity>
+         <centerFocus>true</centerFocus>
+         <smoothScroll>true</smoothScroll>
+         <linearSmooth>true</linearSmooth>
+         <transitionStyle>zoom</transitionStyle>
+         <defaultTransition>carousel</defaultTransition>
+         <transitionSpeed>180</transitionSpeed>
+         <inertia>0.92</inertia>
+         <maxLogoCount>5</maxLogoCount>
+      </carousel>
+
+      <image name="selectedLogo">
+         <path>./_inc/logos/${system.theme}.png</path>
+         <origin>0.5 0.5</origin>
+         <pos>0.5 0.80</pos>
+         <maxSize>0.32 0.32</maxSize>
+         <zIndex>500</zIndex>
+         <linearSmooth>true</linearSmooth>
+         <color>#FFFFFFFF</color>
+         <storyboard repeat="forever">
+            <animation property="scale"
+               from="0.96"
+               to="1.08"
+               duration="1600"
+               mode="easeInOut"
+               autoreverse="true"/>
+         </storyboard>
+      </image>
+
+      <image name="logo">
+         <path>./_inc/logos/${system.theme}.png</path>
+         <origin>1 0.5</origin>
+         <pos>0.86 0.50</pos>
+         <maxSize>0.16 0.16</maxSize>
+         <rotation>-4</rotation>
+      </image>
+
+      <image name="systemsnap_wheel" extra="true">
+         <path>./../${system.theme}/_inc/systemsnap.png</path>
+         <origin>0.5 0.5</origin>
+         <pos>0.28 0.40</pos>
+         <maxSize>0.48 0.40</maxSize>
+         <zIndex>300</zIndex>
+      </image>
+
+      <image name="systemsnap">
+         <visible>false</visible>
+      </image>
+
+      <text name="systemDesc">
+         <visible>false</visible>
+      </text>
+
+      <text name="systemDescWheel">
+         <visible>false</visible>
+      </text>
+
+      <image name="sysbar">
+         <visible>false</visible>
+      </image>
+
+      <text name="system_title">
+         <visible>false</visible>
+      </text>
+
+   </view>
+
+</theme>

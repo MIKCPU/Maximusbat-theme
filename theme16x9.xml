@@ -12,6 +12,8 @@ version         3.0
     <include subset="fontbase" name="OpenSans" displayName="OpenSans">./maximusbat_opensans.xml</include>
     <include subset="fontbase" name="Slapstick" displayName="SF Slapstick Comic Bold">./maximusbat_slapstick.xml</include>
 
+    <include name="coinopsnext2">${themePath}/_coinops/_viewsyst/coinopsnext2.xml</include>
+
     <include>./_inc/system/options.xml</include>
 </theme>
 

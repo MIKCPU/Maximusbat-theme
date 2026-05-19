@@ -1,0 +1,179 @@
+﻿<!--
+theme name:     Maximusbat
+version         3.0
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+   <formatVersion>7</formatVersion>
+
+<view name="system">
+
+<include>./../../_coinops/_viewsystoption/sl-coinops/vagueseffet.xml</include>
+
+<image name="background"><visible>false</visible></image>
+<text name="systemDesc"><visible>false</visible></text>
+<text name="systemDescWheel"><visible>false</visible></text>
+<image name="sysbar"><visible>false</visible></image>
+<text name="system_title"><visible>false</visible></text>
+<image name="systemsnap"><visible>false</visible></image>
+
+<image name="baseBackground" extra="true">
+    <pos>0.5 0.5</pos>
+    <origin>0.5 0.5</origin>
+    <size>1 1</size>
+    <path>./../_inc/images/coinopsnextmenu.png</path>
+    <opacity>1</opacity>
+    <zIndex>0</zIndex>
+</image>
+
+<image name="vignette" extra="true">
+    <pos>0.5 0.5</pos>
+    <origin>0.5 0.5</origin>
+    <size>1 1</size>
+    <path>./../coinopsnext/overlay.png</path>
+    <gradientType>horizontal</gradientType>
+    <zIndex>5</zIndex>
+    <opacity>1</opacity>
+</image>
+
+<image name="vignettemore" extra="true">
+    <pos>0.5 0.5</pos>
+    <origin>0.5 0.5</origin>
+    <size>1 1</size>
+    <path>./coinopsnext/overlay.png</path>
+    <gradientType>horizontal</gradientType>
+    <linearSmooth>true</linearSmooth>
+    <zIndex>5</zIndex>
+    <opacity>1</opacity>
+</image>
+
+<image name="staticBackground2">
+    <pos ifSubset="cops2menu:bas">0.5 0.85</pos>
+    <pos ifSubset="cops2menu:milieu">0.5 0.48</pos>
+    <origin>0.5 0.5</origin>
+    <w>2.2</w>
+    <h>0.5</h>
+    <path>./../_coinops/_viewsyst/coinopsnext2/vagues/sky1.png</path>
+    <color>#FFFFFF80</color>
+    <zIndex>18</zIndex>
+
+    <storyboard repeat="forever">
+        <animation property="offsetX" from="0.5" to="-0.25" duration="18000" mode="Linear" autoreverse="true"/>
+        <animation property="offsetX" to="-0.40" duration="18000" mode="Linear" autoreverse="true"/>
+    </storyboard>
+</image>
+
+<image name="staticBackground">
+    <pos ifSubset="cops2menu:bas">0.15 0.85</pos>
+    <pos ifSubset="cops2menu:milieu">0.15 0.5</pos>
+    <origin>0.5 0.5</origin>
+    <w>2.2</w>
+    <h>0.5</h>
+    <path>./../_coinops/_viewsyst/coinopsnext2/vagues/sky2.png</path>
+    <color>#FFFFFFB3</color>
+    <zIndex>19</zIndex>
+    <storyboard repeat="forever">
+        <animation property="offsetX" to="0.75" duration="25000" mode="Linear" autoreverse="true"/>
+        <animation property="offsetX" to="0.60" duration="25000" mode="Linear" autoreverse="true"/>
+    </storyboard>
+</image>
+
+<text name="system_manufacturer" extra="true">
+    <pos>0.32 0.045</pos>
+    <origin>0 0</origin>
+    <size>0.5 0.06</size>
+    <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
+    <fontSize>0.040</fontSize>
+    <color>#FFFFFFCC</color>
+    <alignment>left</alignment>
+    <zIndex>90</zIndex>
+    <text>${system.manufacturer}</text>
+    <storyboard repeat="forever">
+        <animation property="opacity"
+            from="0.88"
+            to="1"
+            duration="2200"
+            mode="easeInOut"
+            autoreverse="true"/>
+    </storyboard>
+</text>
+
+<text name="system_info" extra="true">
+    <pos>0.32 0.095</pos>
+    <origin>0 0</origin>
+    <size>0.6 0.05</size>
+    <fontPath>./../_inc/fonts/Exo2-Regular.ttf</fontPath>
+    <fontSize>0.030</fontSize>
+    <color>#FFFFFFFF</color>
+    <alignment>left</alignment>
+    <zIndex>90</zIndex>
+    <text>${system.fullName}</text>
+</text>
+
+<text name="system_year" extra="true">
+    <pos>0.32 0.138</pos>
+    <origin>0 0</origin>
+    <size>0.2 0.03</size>
+    <fontPath>./../_inc/fonts/Exo2-Regular.ttf</fontPath>
+    <fontSize>0.020</fontSize>
+    <color>#FFFFFF88</color>
+    <alignment>left</alignment>
+    <zIndex>85</zIndex>
+    <text>${system.releaseYear}</text>
+
+</text>
+
+<carousel name="systemcarousel">
+    <type>horizontal</type>
+    <logoAlignment>center</logoAlignment>
+    <pos ifSubset="cops2menu:bas">0 0.6</pos>
+    <pos ifSubset="cops2menu:milieu">0 0.25</pos>
+    <size>1 0.5</size>
+    <zIndex>20</zIndex>
+    <logoSize>0.09 0.08</logoSize>
+    <logoScale ifSubset="cops2menu:bas">1.7</logoScale>
+    <logoScale ifSubset="cops2menu:milieu">2.2</logoScale>
+    <transitionSpeed>650</transitionSpeed>
+    <minLogoOpacity>1</minLogoOpacity>
+    <maxLogoCount>5</maxLogoCount>
+    <defaultTransition>instant</defaultTransition>
+</carousel>
+
+<image name="snap_logo" extra="true">
+    <pos>0.02 0.02</pos>
+    <origin>0 0</origin>
+    <maxSize>0.45 0.32</maxSize>
+    <zIndex>80</zIndex>
+    <opacity>1</opacity>
+    <path>./../_inc/images/wheel/${system.theme}.png</path>
+    <storyboard repeat="forever">
+        <animation property="opacity"
+            from="1"
+            to="0.88"
+            duration="900"
+            mode="easeInOut"
+            autoreverse="true"/>
+        <animation property="offsetX"
+            from="0"
+            to="0.003"
+            duration="2800"
+            mode="easeInOut"
+            autoreverse="true"/>
+        <animation property="offsetY"
+            from="0"
+            to="0.002"
+            duration="3200"
+            mode="easeInOut"
+            autoreverse="true"/>
+        <animation property="scale"
+            from="1.00"
+            to="1.03"
+            duration="3800"
+            mode="easeInOut"
+            autoreverse="true"/>
+    </storyboard>
+</image>
+
+</view>
+</theme>
