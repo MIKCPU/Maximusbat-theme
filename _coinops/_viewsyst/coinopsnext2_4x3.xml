@@ -42,6 +42,26 @@ version         3.0
     <zIndex>0</zIndex>
 </image>
 
+<image name="dynamic_background" extra="true">
+    <path>./../_inc/images/art_images/${system.theme}.jpg</path>
+    <origin>0.5 0.5</origin>
+    <pos>0.5 0.5</pos>
+    <size>1.02 1.02</size>
+    <linearSmooth>true</linearSmooth>
+    <opacity>0.58</opacity>
+    <color>#F0F0F0</color>
+    <zIndex>2</zIndex>
+</image>
+
+<image name="bg_overlay" extra="true">
+    <origin>0.5 0.5</origin>
+    <pos>0.5 0.5</pos>
+    <size>1 1</size>
+    <path>./../_inc/images/blackfade.png</path>
+    <opacity>0.15</opacity>
+    <zIndex>3</zIndex>
+</image>
+
 <image name="vignette" extra="true">
     <pos>0.5 0.5</pos>
     <origin>0.5 0.5</origin>
@@ -153,7 +173,8 @@ version         3.0
 </text>
 
 <carousel name="systemcarousel">
-    <type>horizontal</type>
+    <type>carousel</type>
+    <orientation>horizontal</orientation>
     <logoAlignment>center</logoAlignment>
     <origin>0.5 0.5</origin>
     <pos>0.5 0.52</pos>
@@ -161,10 +182,16 @@ version         3.0
     <zIndex>20</zIndex>
     <logoSize>0.10 0.09</logoSize>
     <logoScale>1.65</logoScale>
+    <minLogoScale>0.55</minLogoScale>
     <minLogoOpacity>0.25</minLogoOpacity>
-    <maxLogoCount>5</maxLogoCount>
-    <transitionSpeed>260</transitionSpeed>
+    <centerFocus>true</centerFocus>
+    <smoothScroll>true</smoothScroll>
+    <linearSmooth>true</linearSmooth>
+    <transitionStyle>zoom</transitionStyle>
     <defaultTransition>carousel</defaultTransition>
+    <transitionSpeed>260</transitionSpeed>
+    <inertia>0.92</inertia>
+    <maxLogoCount>5</maxLogoCount>
 </carousel>
 
 <image name="snap_logo" extra="true">

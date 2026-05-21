@@ -27,6 +27,27 @@ version         3.0
     <zIndex>0</zIndex>
 </image>
 
+<image name="dynamic_background" extra="true">
+    <path>./../_inc/images/art_images/${system.theme}.jpg</path>
+    <origin>0.5 0.5</origin>
+    <pos>0.5 0.5</pos>
+    <size>1.15 1.15</size>
+    <linearSmooth>true</linearSmooth>
+    <opacity>0.52</opacity>
+    <color>#F0F0F0</color>
+    <zIndex>2</zIndex>
+</image>
+
+<image name="bg_overlay" extra="true">
+    <origin>0.5 0.5</origin>
+    <pos>0.5 0.5</pos>
+    <size>1 1</size>
+    <path>./../_inc/images/blackfade.png</path>
+    <opacity>0.22</opacity>
+    <zIndex>3</zIndex>
+</image>
+
+
 <image name="vignette" extra="true">
     <pos>0.5 0.5</pos>
     <origin>0.5 0.5</origin>
@@ -125,19 +146,27 @@ version         3.0
 </text>
 
 <carousel name="systemcarousel">
-    <type>horizontal</type>
-    <logoAlignment>center</logoAlignment>
+    <type>carousel</type>
+    <orientation>horizontal</orientation>
     <pos ifSubset="cops2menu:bas">0 0.6</pos>
     <pos ifSubset="cops2menu:milieu">0 0.25</pos>
     <size>1 0.5</size>
-    <zIndex>20</zIndex>
+    <origin>0 0</origin>
+    <logoAlignment>center</logoAlignment>
     <logoSize>0.09 0.08</logoSize>
     <logoScale ifSubset="cops2menu:bas">1.7</logoScale>
     <logoScale ifSubset="cops2menu:milieu">2.2</logoScale>
-    <transitionSpeed>650</transitionSpeed>
-    <minLogoOpacity>1</minLogoOpacity>
+    <minLogoOpacity>0.20</minLogoOpacity>
+    <minLogoScale>0.55</minLogoScale>
+    <centerFocus>true</centerFocus>
+    <smoothScroll>true</smoothScroll>
+    <linearSmooth>true</linearSmooth>
+    <transitionStyle>zoom</transitionStyle>
+    <defaultTransition>carousel</defaultTransition>
+    <transitionSpeed>180</transitionSpeed>
+    <inertia>0.92</inertia>
     <maxLogoCount>5</maxLogoCount>
-    <defaultTransition>instant</defaultTransition>
+    <zIndex>20</zIndex>
 </carousel>
 
 <image name="snap_logo" extra="true">
