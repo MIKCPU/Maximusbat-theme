@@ -1,0 +1,42 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <text>N64: Recompiled (commonly known as N64Recomp) is an open-source tool that statically translates Nintendo 64 game binaries into highly optimized, native C source code. Instead of emulating the original console, it allows classic N64 games to be played natively on modern platforms like Windows and Linux.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">N64: Recompiled (comunemente noto come N64Recomp) è uno strumento open-source che traduce staticamente i file binari dei giochi per Nintendo 64 in codice sorgente C nativo e altamente ottimizzato. Invece di emulare la console originale, permette di giocare ai classici giochi per N64 in modo nativo su piattaforme moderne come Windows e Linux.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">N64: Recompiled (communément appelé N64Recomp) est un outil open source qui traduit statiquement les fichiers binaires des jeux Nintendo 64 en code source C natif hautement optimisé. Au lieu d'émuler la console d'origine, il permet de jouer aux jeux N64 classiques nativement sur des plateformes modernes comme Windows et Linux.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">N64: Recompiled (kurz N64Recomp) ist ein Open-Source-Tool, das Nintendo-64-Spieldateien statisch in hochoptimierten, nativen C-Quellcode übersetzt. Anstatt die Originalkonsole zu emulieren, ermöglicht es das native Spielen klassischer N64-Spiele auf modernen Plattformen wie Windows und Linux.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">N64: Recompiled (conocido comúnmente como N64Recomp) es una herramienta de código abierto que traduce estáticamente los binarios de los juegos de Nintendo 64 a código fuente C nativo altamente optimizado. En lugar de emular la consola original, permite jugar a los juegos clásicos de N64 de forma nativa en plataformas modernas como Windows y Linux.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+	</view>
+</theme>
+
+
+
+

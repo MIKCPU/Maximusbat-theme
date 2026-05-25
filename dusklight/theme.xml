@@ -1,0 +1,42 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Dusklight is a major unofficial, open-source PC and mobile porting project of Nintendo's popular video game The Legend of Zelda: Twilight Princess. Developed by the TwilitRealm team using decompiling techniques, the project was originally known as Dusk before being renamed Dusklight. Unlike traditional emulation, Dusklight allows the game to run natively on modern hardware, ensuring unlocked frame rates, ultrawide monitor support, lightning-fast loading times, and native compatibility with high-definition texture packs (up to 4K). To run it, it requires the user to provide their original, legally acquired ROM of the game.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Dusklight es un importante proyecto no oficial de código abierto para PC y dispositivos móviles que adapta el popular videojuego de Nintendo, The Legend of Zelda: Twilight Princess. Desarrollado por el equipo TwilitRealm mediante técnicas de descompilación, el proyecto se conocía originalmente como Dusk antes de ser renombrado como Dusklight. A diferencia de la emulación tradicional, Dusklight permite que el juego se ejecute de forma nativa en hardware moderno, garantizando una velocidad de fotogramas desbloqueada, compatibilidad con monitores ultrapanorámicos, tiempos de carga ultrarrápidos y compatibilidad nativa con paquetes de texturas de alta definición (hasta 4K). Para ejecutarlo, el usuario debe proporcionar su ROM original del juego, adquirida legalmente.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Dusklight ist ein umfangreiches, inoffizielles Open-Source-Projekt zur Portierung von Nintendos beliebtem Videospiel „The Legend of Zelda: Twilight Princess“ für PC und Mobilgeräte. Entwickelt vom Team TwilitRealm mithilfe von Dekompilierungstechniken, hieß das Projekt ursprünglich „Dusk“, bevor es in Dusklight umbenannt wurde. Im Gegensatz zu herkömmlicher Emulation ermöglicht Dusklight das native Ausführen des Spiels auf moderner Hardware und gewährleistet so unbegrenzte Bildwiederholraten, Unterstützung für Ultrawide-Monitore, blitzschnelle Ladezeiten und native Kompatibilität mit hochauflösenden Texturpaketen (bis zu 4K). Zum Ausführen des Spiels benötigt der Benutzer seine originale, legal erworbene ROM-Datei des Spiels.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Dusklight est un important projet de portage non officiel et open source pour PC et mobile du célèbre jeu vidéo de Nintendo, The Legend of Zelda: Twilight Princess. Développé par l'équipe de TwilitRealm à l'aide de techniques de décompilation, le projet s'appelait initialement Dusk avant d'être renommé Dusklight. Contrairement à l'émulation traditionnelle, Dusklight permet au jeu de fonctionner nativement sur les configurations modernes, garantissant ainsi des fréquences d'images débloquées, la prise en charge des écrans ultra-larges, des temps de chargement ultra-rapides et une compatibilité native avec les packs de textures haute définition (jusqu'à 4K). Pour l'utiliser, l'utilisateur doit fournir sa ROM originale du jeu, acquise légalement.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Dusklight indica un importante progetto di porting per PC e dispositivi mobili non ufficiale e open-source del celebre videogioco di Nintendo The Legend of Zelda: Twilight Princess. Sviluppato dal team TwilitRealm tramite tecniche di decompilazione, il progetto era originariamente noto con il nome di Dusk prima di essere rinominato in Dusklight.A differenza della classica emulazione, Dusklight permette al gioco di girare in modo nativo sull'hardware moderno, garantendo frame rate sbloccati, supporto ai monitor ultrawide, caricamenti fulminei e la compatibilità nativa con pacchetti di texture in alta definizione (fino a 4K). Per poter essere eseguito, richiede che l'utente fornisca la propria ROM originale e legalmente acquisita del gioco.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+	</view>
+</theme>
+
+
+
+
