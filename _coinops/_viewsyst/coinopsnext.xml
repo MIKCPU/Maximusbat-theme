@@ -88,13 +88,21 @@ version         3.0
          <rotation>-4</rotation>
       </image>
 
-      <image name="systemsnap_wheel" extra="true">
-         <path>./../${system.theme}/_inc/systemsnap.png</path>
-         <origin>0.5 0.5</origin>
-         <pos>0.20 0.40</pos>
-         <maxSize>0.55 0.46</maxSize>
-         <zIndex>300</zIndex>
-      </image>
+      <image name="systemsnap_wheel">
+    <path>./../${system.theme}/_inc/systemsnap.png</path>
+    <origin>0.5 0.5</origin>
+    <pos>0.20 0.40</pos>
+    <maxSize>0.55 0.46</maxSize>
+    <zIndex>300</zIndex>
+</image>
+
+<image name="systemsnap_wheel" extra="true">
+    <path>./../${system.theme}/_inc/systemsnap-it.png</path>
+    <origin>0.5 0.5</origin>
+    <pos>0.20 0.40</pos>
+    <maxSize>0.55 0.46</maxSize>
+    <zIndex>300</zIndex>
+</image>
 
       <image name="systemsnap">
          <visible>false</visible>

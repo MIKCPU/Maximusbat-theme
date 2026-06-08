@@ -37,13 +37,19 @@ version         3.0
 
 <image name="logo" ifSubset="Wheel">
    <path>./_inc/logos/${system.theme}.png</path>
-   <path>./_inc/logos/${system.theme}.svg</path>
    <origin>1 0.5</origin>
    <pos>0.92 0.52</pos>
    <maxSize>0.24 0.24</maxSize>
    <linearSmooth>true</linearSmooth>
 </image>
 
+<image name="logo" ifSubset="Wheel" extra="true">
+   <path>./_inc/logos/${system.theme}-it.png</path>
+   <origin>1 0.5</origin>
+   <pos>0.92 0.52</pos>
+   <maxSize>0.24 0.24</maxSize>
+   <linearSmooth>true</linearSmooth>
+</image>
       <image name="background" extra="true">
          <origin>0 0</origin>
          <pos>0 0</pos>

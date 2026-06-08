@@ -176,6 +176,7 @@ version         3.0
     <zIndex>80</zIndex>
     <opacity>1</opacity>
     <path>./../_inc/images/wheel/${system.theme}.png</path>
+    <path>./../_inc/images/wheel/${system.theme}-it.png</path>
     <storyboard repeat="forever">
         <animation property="opacity"
             from="1"
