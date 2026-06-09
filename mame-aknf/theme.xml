@@ -1,0 +1,42 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <text>The MAME "All Killer, No Filler" concept is a community-curated collection designed to trim the massive 30,000+ arcade ROM library down to only the top-tier, historically significant, and highly playable classics. It cuts out tedious clones, broken games, and shallow cash-grabs, reducing the set to about 500–600 essential titles.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">El concepto "All Killer, No Filler" de MAME es una colección seleccionada por la comunidad, diseñada para reducir la enorme biblioteca de más de 30 000 ROMs de arcade a solo los clásicos de primer nivel, históricamente significativos y altamente jugables. Elimina clones tediosos, juegos defectuosos y juegos superficiales que solo buscan sacar dinero, reduciendo el conjunto a entre 500 y 600 títulos esenciales.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Das MAME-Konzept „Nur die besten Spiele, keine Füller“ ist eine von der Community zusammengestellte Sammlung, die die riesige Arcade-ROM-Bibliothek mit über 30.000 Titeln auf die besten, historisch bedeutsamsten und am besten spielbaren Klassiker reduziert. Langweilige Klone, fehlerhafte Spiele und billige Abzocke werden aussortiert, sodass die Sammlung auf etwa 500–600 essentielle Titel beschränkt bleibt.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Le concept « Que des pépites, pas de remplissage » de MAME est une sélection collaborative visant à réduire la vaste bibliothèque de plus de 30 000 ROM d'arcade aux seuls classiques incontournables, historiques et parfaitement jouables. Elle élimine les clones fastidieux, les jeux défectueux et les productions purement commerciales, pour ne retenir que 500 à 600 titres essentiels.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Il concetto "All Killer, No Filler" di MAME è una raccolta curata dalla community, pensata per ridurre l'enorme libreria di oltre 30.000 ROM arcade ai soli classici di alto livello, storicamente significativi e altamente giocabili. Elimina cloni noiosi, giochi difettosi e operazioni commerciali superficiali, riducendo la collezione a circa 500-600 titoli essenziali.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+	</view>
+</theme>
+
+
+
+
