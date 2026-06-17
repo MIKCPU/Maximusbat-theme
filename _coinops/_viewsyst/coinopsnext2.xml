@@ -1,4 +1,4 @@
-﻿<!--
+<!--
 theme name:     Maximusbat
 version         3.0
 -->
@@ -9,7 +9,369 @@ version         3.0
 
 <view name="system">
 
-<include>./../../_coinops/_viewsystoption/sl-coinops/vagueseffet.xml</include>
+<!-- ################ BARRA VERTICALE CATEGORIE - INSERITA DIRETTAMENTE ################ -->
+
+<image name="orb_arcade" extra="true">
+    <path>./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb/arcade.png</path>
+    <origin>0 0</origin>
+    <pos>0.008 0.188</pos>
+    <maxSize>0.023 0.07</maxSize>
+    <zIndex>500</zIndex>
+    <linearSmooth>true</linearSmooth>
+    <saturation>0</saturation>
+    <saturation if="{system.hardwareType} == 'arcade'">1</saturation>
+</image>
+
+<text name="orb_text_arcade" extra="true">
+    <pos>0.040 0.188</pos>
+    <origin>0 0</origin>
+    <size>0.22 0.03</size>
+    <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
+    <fontSize>0.020</fontSize>
+    <color>#FFFFFFFF</color>
+    <zIndex>501</zIndex>
+    <opacity>0</opacity>
+    <opacity if="{system.hardwareType} == 'arcade'">1</opacity>
+    <text>ARCADE</text>
+</text>
+
+<image name="orb_computer" extra="true">
+    <path>./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb/computer.png</path>
+    <origin>0 0</origin>
+    <pos>0.008 0.232</pos>
+    <maxSize>0.023 0.07</maxSize>
+    <zIndex>500</zIndex>
+    <linearSmooth>true</linearSmooth>
+    <saturation>0</saturation>
+    <saturation if="{system.hardwareType} == 'computer'">1</saturation>
+</image>
+
+<text name="orb_text_computer" extra="true">
+    <pos>0.040 0.232</pos>
+    <origin>0 0</origin>
+    <size>0.22 0.03</size>
+    <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
+    <fontSize>0.020</fontSize>
+    <color>#FFFFFFFF</color>
+    <zIndex>501</zIndex>
+    <opacity>0</opacity>
+    <opacity if="{system.hardwareType} == 'computer'">1</opacity>
+    <text>COMPUTER</text>
+</text>
+
+<image name="orb_handheld" extra="true">
+    <path>./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb/handheld.png</path>
+    <origin>0 0</origin>
+    <pos>0.008 0.276</pos>
+    <maxSize>0.023 0.07</maxSize>
+    <zIndex>500</zIndex>
+    <linearSmooth>true</linearSmooth>
+    <saturation>0</saturation>
+    <saturation if="{system.hardwareType} == 'handheld'">1</saturation>
+</image>
+
+<text name="orb_text_handheld" extra="true">
+    <pos>0.040 0.276</pos>
+    <origin>0 0</origin>
+    <size>0.28 0.03</size>
+    <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
+    <fontSize>0.020</fontSize>
+    <color>#FFFFFFFF</color>
+    <zIndex>501</zIndex>
+    <opacity>0</opacity>
+    <opacity if="{system.hardwareType} == 'handheld'">1</opacity>
+    <text>HANDHELD</text>
+</text>
+
+<image name="orb_console" extra="true">
+    <path>./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb/console.png</path>
+    <origin>0 0</origin>
+    <pos>0.008 0.320</pos>
+    <maxSize>0.023 0.07</maxSize>
+    <zIndex>500</zIndex>
+    <linearSmooth>true</linearSmooth>
+    <saturation>0</saturation>
+    <saturation if="{system.hardwareType} == 'console'">1</saturation>
+</image>
+
+<text name="orb_text_console" extra="true">
+    <pos>0.040 0.320</pos>
+    <origin>0 0</origin>
+    <size>0.22 0.03</size>
+    <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
+    <fontSize>0.020</fontSize>
+    <color>#FFFFFFFF</color>
+    <zIndex>501</zIndex>
+    <opacity>0</opacity>
+    <opacity if="{system.hardwareType} == 'console'">1</opacity>
+    <text>CONSOLE</text>
+</text>
+
+<image name="orb_extension" extra="true">
+    <path>./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb/consoleretro.png</path>
+    <origin>0 0</origin>
+    <pos>0.008 0.364</pos>
+    <maxSize>0.023 0.07</maxSize>
+    <zIndex>500</zIndex>
+    <linearSmooth>true</linearSmooth>
+    <saturation>0</saturation>
+    <saturation if="{system.hardwareType} == 'extension'">1</saturation>
+</image>
+
+<text name="orb_text_extension" extra="true">
+    <pos>0.040 0.364</pos>
+    <origin>0 0</origin>
+    <size>0.26 0.03</size>
+    <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
+    <fontSize>0.020</fontSize>
+    <color>#FFFFFFFF</color>
+    <zIndex>501</zIndex>
+    <opacity>0</opacity>
+    <opacity if="{system.hardwareType} == 'extension'">1</opacity>
+    <text>CONSOLE RETRO</text>
+</text>
+
+<image name="orb_mess" extra="true">
+    <path>./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb/mess.png</path>
+    <origin>0 0</origin>
+    <pos>0.008 0.408</pos>
+    <maxSize>0.023 0.07</maxSize>
+    <zIndex>500</zIndex>
+    <linearSmooth>true</linearSmooth>
+    <saturation>0</saturation>
+    <saturation if="{system.hardwareType} == 'MESS'">1</saturation>
+</image>
+
+<text name="orb_text_mess" extra="true">
+    <pos>0.040 0.408</pos>
+    <origin>0 0</origin>
+    <size>0.22 0.03</size>
+    <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
+    <fontSize>0.020</fontSize>
+    <color>#FFFFFFFF</color>
+    <zIndex>501</zIndex>
+    <opacity>0</opacity>
+    <opacity if="{system.hardwareType} == 'MESS'">1</opacity>
+    <text>MESS</text>
+</text>
+
+<image name="orb_pinball" extra="true">
+    <path>./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb/pinball.png</path>
+    <origin>0 0</origin>
+    <pos>0.008 0.452</pos>
+    <maxSize>0.023 0.07</maxSize>
+    <zIndex>500</zIndex>
+    <linearSmooth>true</linearSmooth>
+    <saturation>0</saturation>
+    <saturation if="{system.hardwareType} == 'pinball'">1</saturation>
+</image>
+
+<text name="orb_text_pinball" extra="true">
+    <pos>0.040 0.452</pos>
+    <origin>0 0</origin>
+    <size>0.22 0.03</size>
+    <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
+    <fontSize>0.020</fontSize>
+    <color>#FFFFFFFF</color>
+    <zIndex>501</zIndex>
+    <opacity>0</opacity>
+    <opacity if="{system.hardwareType} == 'pinball'">1</opacity>
+    <text>PINBALL</text>
+</text>
+
+<image name="orb_port" extra="true">
+    <path>./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb/port.png</path>
+    <origin>0 0</origin>
+    <pos>0.008 0.496</pos>
+    <maxSize>0.023 0.07</maxSize>
+    <zIndex>500</zIndex>
+    <linearSmooth>true</linearSmooth>
+    <saturation>0</saturation>
+    <saturation if="{system.hardwareType} == 'port'">1</saturation>
+</image>
+
+<text name="orb_text_port" extra="true">
+    <pos>0.040 0.496</pos>
+    <origin>0 0</origin>
+    <size>0.22 0.03</size>
+    <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
+    <fontSize>0.020</fontSize>
+    <color>#FFFFFFFF</color>
+    <zIndex>501</zIndex>
+    <opacity>0</opacity>
+    <opacity if="{system.hardwareType} == 'port'">1</opacity>
+    <text>PORTS</text>
+</text>
+
+<image name="orb_portable" extra="true">
+    <path>./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb/portable.png</path>
+    <origin>0 0</origin>
+    <pos>0.008 0.540</pos>
+    <maxSize>0.023 0.07</maxSize>
+    <zIndex>500</zIndex>
+    <linearSmooth>true</linearSmooth>
+    <saturation>0</saturation>
+    <saturation if="{system.hardwareType} == 'portable'">1</saturation>
+</image>
+
+<text name="orb_text_portable" extra="true">
+    <pos>0.040 0.540</pos>
+    <origin>0 0</origin>
+    <size>0.22 0.03</size>
+    <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
+    <fontSize>0.020</fontSize>
+    <color>#FFFFFFFF</color>
+    <zIndex>501</zIndex>
+    <opacity>0</opacity>
+    <opacity if="{system.hardwareType} == 'portable'">1</opacity>
+    <text>PORTABLE</text>
+</text>
+
+<image name="orb_system" extra="true">
+    <path>./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb/mess.png</path>
+    <origin>0 0</origin>
+    <pos>0.008 0.584</pos>
+    <maxSize>0.023 0.07</maxSize>
+    <zIndex>500</zIndex>
+    <linearSmooth>true</linearSmooth>
+    <saturation>0</saturation>
+    <saturation if="{system.sortedBy} == 'System'">1</saturation>
+</image>
+
+<text name="orb_text_system" extra="true">
+    <pos>0.040 0.584</pos>
+    <origin>0 0</origin>
+    <size>0.22 0.03</size>
+    <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
+    <fontSize>0.020</fontSize>
+    <color>#FFFFFFFF</color>
+    <zIndex>501</zIndex>
+    <opacity>0</opacity>
+    <opacity if="{system.sortedBy} == 'System'">1</opacity>
+    <text>SYSTEM</text>
+</text>
+
+<image name="orb_library" extra="true">
+    <path>./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb/library.png</path>
+    <origin>0 0</origin>
+    <pos>0.008 0.628</pos>
+    <maxSize>0.023 0.07</maxSize>
+    <zIndex>500</zIndex>
+    <linearSmooth>true</linearSmooth>
+    <saturation>0</saturation>
+    <saturation if="{system.theme} == 'library'">1</saturation>
+</image>
+
+<text name="orb_text_library" extra="true">
+    <pos>0.040 0.628</pos>
+    <origin>0 0</origin>
+    <size>0.22 0.03</size>
+    <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
+    <fontSize>0.020</fontSize>
+    <color>#FFFFFFFF</color>
+    <zIndex>501</zIndex>
+    <opacity>0</opacity>
+    <opacity if="{system.theme} == 'library'">1</opacity>
+    <text>LIBRARY</text>
+</text>
+
+<image name="orb_screenshot" extra="true">
+    <path>./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb/screenshot.png</path>
+    <origin>0 0</origin>
+    <pos>0.008 0.672</pos>
+    <maxSize>0.023 0.07</maxSize>
+    <zIndex>500</zIndex>
+    <linearSmooth>true</linearSmooth>
+    <saturation>0</saturation>
+    <saturation if="{system.theme} == 'imageviewer'">1</saturation>
+</image>
+
+<text name="orb_text_screenshot" extra="true">
+    <pos>0.040 0.672</pos>
+    <origin>0 0</origin>
+    <size>0.26 0.03</size>
+    <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
+    <fontSize>0.020</fontSize>
+    <color>#FFFFFFFF</color>
+    <zIndex>501</zIndex>
+    <opacity>0</opacity>
+    <opacity if="{system.theme} == 'imageviewer'">1</opacity>
+    <text>SCREENSHOTS</text>
+</text>
+
+<image name="orb_autocollection" extra="true">
+    <path>./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb/collection.png</path>
+    <origin>0 0</origin>
+    <pos>0.008 0.716</pos>
+    <maxSize>0.023 0.07</maxSize>
+    <zIndex>500</zIndex>
+    <linearSmooth>true</linearSmooth>
+    <saturation>0</saturation>
+    <saturation if="{system.hardwareType} == 'auto collection'">1</saturation>
+</image>
+
+<text name="orb_text_autocollection" extra="true">
+    <pos>0.040 0.716</pos>
+    <origin>0 0</origin>
+    <size>0.28 0.03</size>
+    <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
+    <fontSize>0.020</fontSize>
+    <color>#FFFFFFFF</color>
+    <zIndex>501</zIndex>
+    <opacity>0</opacity>
+    <opacity if="{system.hardwareType} == 'auto collection'">1</opacity>
+    <text>COLLECTIONS</text>
+</text>
+
+<image name="orb_customcollection" extra="true">
+    <path>./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb/collectioncust.png</path>
+    <origin>0 0</origin>
+    <pos>0.008 0.760</pos>
+    <maxSize>0.023 0.07</maxSize>
+    <zIndex>500</zIndex>
+    <linearSmooth>true</linearSmooth>
+    <saturation>0</saturation>
+    <saturation if="{system.hardwareType} == 'custom collection'">1</saturation>
+</image>
+
+<text name="orb_text_customcollection" extra="true">
+    <pos>0.040 0.760</pos>
+    <origin>0 0</origin>
+    <size>0.32 0.03</size>
+    <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
+    <fontSize>0.020</fontSize>
+    <color>#FFFFFFFF</color>
+    <zIndex>501</zIndex>
+    <opacity>0</opacity>
+    <opacity if="{system.hardwareType} == 'custom collection'">1</opacity>
+    <text>CUSTOM COLLECTIONS</text>
+</text>
+
+<image name="orb_retrobat" extra="true">
+    <path>./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb/option.png</path>
+    <origin>0 0</origin>
+    <pos>0.008 0.804</pos>
+    <maxSize>0.023 0.07</maxSize>
+    <zIndex>500</zIndex>
+    <linearSmooth>true</linearSmooth>
+    <saturation>0</saturation>
+    <saturation if="{system.theme} == 'retrobat'">1</saturation>
+</image>
+
+<text name="orb_text_retrobat" extra="true">
+    <pos>0.040 0.804</pos>
+    <origin>0 0</origin>
+    <size>0.22 0.03</size>
+    <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
+    <fontSize>0.020</fontSize>
+    <color>#FFFFFFFF</color>
+    <zIndex>501</zIndex>
+    <opacity>0</opacity>
+    <opacity if="{system.theme} == 'retrobat'">1</opacity>
+    <text>RETROBAT</text>
+</text>
+
+<!-- ################ FINE BARRA VERTICALE CATEGORIE ################ -->
 
 <image name="background"><visible>false</visible></image>
 <text name="systemDesc"><visible>false</visible></text>
@@ -47,7 +409,6 @@ version         3.0
     <zIndex>3</zIndex>
 </image>
 
-
 <image name="vignette" extra="true">
     <pos>0.5 0.5</pos>
     <origin>0.5 0.5</origin>
@@ -78,7 +439,6 @@ version         3.0
     <path>./../_coinops/_viewsyst/coinopsnext2/vagues/sky1.png</path>
     <color>#FFFFFF80</color>
     <zIndex>18</zIndex>
-
     <storyboard repeat="forever">
         <animation property="offsetX" from="0.5" to="-0.25" duration="18000" mode="Linear" autoreverse="true"/>
         <animation property="offsetX" to="-0.40" duration="18000" mode="Linear" autoreverse="true"/>
@@ -100,8 +460,61 @@ version         3.0
     </storyboard>
 </image>
 
+<image name="staticBackground4">
+    <origin>0 0</origin>
+    <pos>0 0.2</pos>
+    <size>3 0.35</size>
+    <opacity>0.8</opacity>
+    <linearSmooth>true</linearSmooth>
+
+    <path>./../../_coinops/_viewsystoption/sl-coinops/co_vagues/black1.png</path>
+
+    <zIndex>832</zIndex>
+
+    <storyboard repeatAt="1">
+        <animation property="offsetX"
+                   from="0"
+                   to="-2"
+                   duration="25005"
+                   mode="Linear"
+                   autoReverse="true"
+                   repeat="2"/>
+    </storyboard>
+</image>
+
+<image name="staticBackground5">
+    <origin>0 0</origin>
+    <pos>0 0.2</pos>
+    <size>3 0.35</size>
+    <opacity>0.5</opacity>
+    <linearSmooth>true</linearSmooth>
+
+    <path>./../../_coinops/_viewsystoption/sl-coinops/co_vagues/black2.png</path>
+
+    <zIndex>833</zIndex>
+
+    <storyboard repeatAt="1">
+        <animation property="offsetX"
+                   from="0"
+                   to="-2"
+                   duration="24005"
+                   mode="Linear"
+                   autoReverse="true"
+                   repeat="2"/>
+
+        <animation property="opacity"
+                   from="0.5"
+                   to="0.7"
+                   begin="8000"
+                   duration="3005"
+                   mode="Linear"
+                   autoReverse="true"/>
+    </storyboard>
+</image>
+
+<!-- ########### FINE ONDE COINOPS AGGIUNTIVE ########### -->
 <text name="system_manufacturer" extra="true">
-    <pos>0.32 0.045</pos>
+    <pos>0.34 0.045</pos>
     <origin>0 0</origin>
     <size>0.5 0.06</size>
     <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
@@ -111,17 +524,12 @@ version         3.0
     <zIndex>90</zIndex>
     <text>${system.manufacturer}</text>
     <storyboard repeat="forever">
-        <animation property="opacity"
-            from="0.88"
-            to="1"
-            duration="2200"
-            mode="easeInOut"
-            autoreverse="true"/>
+        <animation property="opacity" from="0.88" to="1" duration="2200" mode="easeInOut" autoreverse="true"/>
     </storyboard>
 </text>
 
 <text name="system_info" extra="true">
-    <pos>0.32 0.095</pos>
+    <pos>0.34 0.095</pos>
     <origin>0 0</origin>
     <size>0.6 0.05</size>
     <fontPath>./../_inc/fonts/Exo2-Regular.ttf</fontPath>
@@ -133,7 +541,7 @@ version         3.0
 </text>
 
 <text name="system_year" extra="true">
-    <pos>0.32 0.138</pos>
+    <pos>0.34 0.138</pos>
     <origin>0 0</origin>
     <size>0.2 0.03</size>
     <fontPath>./../_inc/fonts/Exo2-Regular.ttf</fontPath>
@@ -142,7 +550,6 @@ version         3.0
     <alignment>left</alignment>
     <zIndex>85</zIndex>
     <text>${system.releaseYear}</text>
-
 </text>
 
 <carousel name="systemcarousel">
@@ -170,7 +577,7 @@ version         3.0
 </carousel>
 
 <image name="snap_logo" extra="true">
-    <pos>0.02 0.02</pos>
+    <pos>0.08 0.02</pos>
     <origin>0 0</origin>
     <maxSize>0.45 0.32</maxSize>
     <zIndex>80</zIndex>
@@ -178,30 +585,10 @@ version         3.0
     <path>./../_inc/images/wheel/${system.theme}.png</path>
     <path>./../_inc/images/wheel/${system.theme}-it.png</path>
     <storyboard repeat="forever">
-        <animation property="opacity"
-            from="1"
-            to="0.88"
-            duration="900"
-            mode="easeInOut"
-            autoreverse="true"/>
-        <animation property="offsetX"
-            from="0"
-            to="0.003"
-            duration="2800"
-            mode="easeInOut"
-            autoreverse="true"/>
-        <animation property="offsetY"
-            from="0"
-            to="0.002"
-            duration="3200"
-            mode="easeInOut"
-            autoreverse="true"/>
-        <animation property="scale"
-            from="1.00"
-            to="1.03"
-            duration="3800"
-            mode="easeInOut"
-            autoreverse="true"/>
+        <animation property="opacity" from="1" to="0.88" duration="900" mode="easeInOut" autoreverse="true"/>
+        <animation property="offsetX" from="0" to="0.003" duration="2800" mode="easeInOut" autoreverse="true"/>
+        <animation property="offsetY" from="0" to="0.002" duration="3200" mode="easeInOut" autoreverse="true"/>
+        <animation property="scale" from="1.00" to="1.03" duration="3800" mode="easeInOut" autoreverse="true"/>
     </storyboard>
 </image>
 
