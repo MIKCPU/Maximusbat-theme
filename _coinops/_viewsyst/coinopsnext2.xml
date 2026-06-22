@@ -9,8 +9,6 @@ version         3.0
 
 <view name="system">
 
-<!-- ################ BARRA VERTICALE CATEGORIE - INSERITA DIRETTAMENTE ################ -->
-
 <image name="orb_arcade" extra="true">
     <path>./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb/arcade.png</path>
     <origin>0 0</origin>
@@ -370,8 +368,6 @@ version         3.0
     <opacity if="{system.theme} == 'retrobat'">1</opacity>
     <text>RETROBAT</text>
 </text>
-
-<!-- ################ FINE BARRA VERTICALE CATEGORIE ################ -->
 
 <image name="background"><visible>false</visible></image>
 <text name="systemDesc"><visible>false</visible></text>

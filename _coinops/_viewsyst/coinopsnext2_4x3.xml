@@ -7,9 +7,6 @@ version         3.0
 <theme>
    <formatVersion>7</formatVersion>
 <view name="system">
-
-<!-- ################ BARRA VERTICALE CATEGORIE - 4:3 ################ -->
-
 <image name="orb_arcade" extra="true">
     <path>./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb/arcade.png</path>
     <origin>0 0</origin>
@@ -22,7 +19,7 @@ version         3.0
 </image>
 
 <text name="orb_text_arcade" extra="true">
-    <pos>0.060 0.188</pos>
+    <pos>0.040 0.188</pos>
     <origin>0 0</origin>
     <size>0.22 0.03</size>
     <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
@@ -46,7 +43,7 @@ version         3.0
 </image>
 
 <text name="orb_text_computer" extra="true">
-    <pos>0.060 0.232</pos>
+    <pos>0.040 0.232</pos>
     <origin>0 0</origin>
     <size>0.22 0.03</size>
     <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
@@ -70,7 +67,7 @@ version         3.0
 </image>
 
 <text name="orb_text_handheld" extra="true">
-    <pos>0.060 0.276</pos>
+    <pos>0.040 0.276</pos>
     <origin>0 0</origin>
     <size>0.28 0.03</size>
     <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
@@ -94,7 +91,7 @@ version         3.0
 </image>
 
 <text name="orb_text_console" extra="true">
-    <pos>0.060 0.320</pos>
+    <pos>0.040 0.320</pos>
     <origin>0 0</origin>
     <size>0.22 0.03</size>
     <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
@@ -118,7 +115,7 @@ version         3.0
 </image>
 
 <text name="orb_text_extension" extra="true">
-    <pos>0.060 0.364</pos>
+    <pos>0.040 0.364</pos>
     <origin>0 0</origin>
     <size>0.26 0.03</size>
     <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
@@ -142,7 +139,7 @@ version         3.0
 </image>
 
 <text name="orb_text_mess" extra="true">
-    <pos>0.060 0.408</pos>
+    <pos>0.040 0.408</pos>
     <origin>0 0</origin>
     <size>0.22 0.03</size>
     <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
@@ -166,7 +163,7 @@ version         3.0
 </image>
 
 <text name="orb_text_pinball" extra="true">
-    <pos>0.060 0.452</pos>
+    <pos>0.040 0.452</pos>
     <origin>0 0</origin>
     <size>0.22 0.03</size>
     <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
@@ -190,7 +187,7 @@ version         3.0
 </image>
 
 <text name="orb_text_port" extra="true">
-    <pos>0.060 0.496</pos>
+    <pos>0.040 0.496</pos>
     <origin>0 0</origin>
     <size>0.22 0.03</size>
     <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
@@ -214,7 +211,7 @@ version         3.0
 </image>
 
 <text name="orb_text_portable" extra="true">
-    <pos>0.060 0.540</pos>
+    <pos>0.040 0.540</pos>
     <origin>0 0</origin>
     <size>0.22 0.03</size>
     <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
@@ -238,7 +235,7 @@ version         3.0
 </image>
 
 <text name="orb_text_system" extra="true">
-    <pos>0.060 0.584</pos>
+    <pos>0.040 0.584</pos>
     <origin>0 0</origin>
     <size>0.22 0.03</size>
     <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
@@ -262,7 +259,7 @@ version         3.0
 </image>
 
 <text name="orb_text_library" extra="true">
-    <pos>0.060 0.628</pos>
+    <pos>0.040 0.628</pos>
     <origin>0 0</origin>
     <size>0.22 0.03</size>
     <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
@@ -286,7 +283,7 @@ version         3.0
 </image>
 
 <text name="orb_text_screenshot" extra="true">
-    <pos>0.060 0.672</pos>
+    <pos>0.040 0.672</pos>
     <origin>0 0</origin>
     <size>0.26 0.03</size>
     <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
@@ -310,7 +307,7 @@ version         3.0
 </image>
 
 <text name="orb_text_autocollection" extra="true">
-    <pos>0.060 0.716</pos>
+    <pos>0.040 0.716</pos>
     <origin>0 0</origin>
     <size>0.28 0.03</size>
     <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
@@ -334,7 +331,7 @@ version         3.0
 </image>
 
 <text name="orb_text_customcollection" extra="true">
-    <pos>0.060 0.760</pos>
+    <pos>0.040 0.760</pos>
     <origin>0 0</origin>
     <size>0.32 0.03</size>
     <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
@@ -358,7 +355,7 @@ version         3.0
 </image>
 
 <text name="orb_text_retrobat" extra="true">
-    <pos>0.060 0.804</pos>
+    <pos>0.040 0.804</pos>
     <origin>0 0</origin>
     <size>0.22 0.03</size>
     <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
@@ -369,8 +366,6 @@ version         3.0
     <opacity if="{system.theme} == 'retrobat'">1</opacity>
     <text>RETROBAT</text>
 </text>
-
-<!-- ################ FINE BARRA VERTICALE CATEGORIE ################ -->
 
 <image name="background">
     <visible>false</visible>

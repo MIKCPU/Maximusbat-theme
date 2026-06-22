@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+   <formatVersion>7</formatVersion>
+
+   <view name="system">
+
+      <image name="orb_arcade">
+         <path>./orb2/arcade.png</path>
+      </image>
+
+      <image name="orb_computer">
+         <path>./orb2/computer.png</path>
+      </image>
+
+      <image name="orb_handheld">
+         <path>./orb2/handheld.png</path>
+      </image>
+
+      <image name="orb_console">
+         <path>./orb2/console.png</path>
+      </image>
+
+      <image name="orb_extension">
+         <path>./orb2/consoleretro.png</path>
+      </image>
+
+      <image name="orb_mess">
+         <path>./orb2/mess.png</path>
+      </image>
+
+      <image name="orb_pinball">
+         <path>./orb2/pinball.png</path>
+      </image>
+
+      <image name="orb_port">
+         <path>./orb2/port.png</path>
+      </image>
+
+      <image name="orb_portable">
+         <path>./orb2/portable.png</path>
+      </image>
+
+      <image name="orb_system">
+         <path>./orb2/mess.png</path>
+      </image>
+
+      <image name="orb_library">
+         <path>./orb2/library.png</path>
+      </image>
+
+      <image name="orb_screenshot">
+         <path>./orb2/screenshot.png</path>
+      </image>
+
+      <image name="orb_autocollection">
+         <path>./orb2/collection.png</path>
+      </image>
+
+      <image name="orb_customcollection">
+         <path>./orb2/collectioncust.png</path>
+      </image>
+
+      <image name="orb_retrobat">
+         <path>./orb2/option.png</path>
+      </image>
+
+   </view>
+</theme>

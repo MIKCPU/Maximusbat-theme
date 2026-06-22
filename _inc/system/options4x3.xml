@@ -11,6 +11,8 @@ version         3.0
    <include subset="view" name="Wheel" displayName="Wheel">./view/wheel4x3.xml</include>
    <include subset="view" name="CoinOpsNext" displayName="CoinOps Next">./../../_coinops/_viewsyst/coinopsnext_4x3.xml</include>
    <include subset="view" name="CoinOpsNext2" displayName="CoinOps Next 2">./../../_coinops/_viewsyst/coinopsnext2_4x3.xml</include>
+   <include subset="orbicons" name="Default" displayName="Barra Icone: Default">./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb_default.xml</include>
+   <include subset="orbicons" name="Orb2" displayName="Barra Icone: Orb 2">./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb2.xml</include>
    <include subset="color" name="White"  displayName="Bianco / White">./styles/white.xml</include>
    <include subset="color" name="Blue"   displayName="Blu / Blue">./styles/blue.xml</include>
    <include subset="color" name="Orange"  displayName="Arancione / Orange">./styles/orange.xml</include>
