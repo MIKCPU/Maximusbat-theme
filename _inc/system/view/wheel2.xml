@@ -28,14 +28,13 @@ version         3.0
          <zIndex>2</zIndex>
       </image>
 
-      <image name="bg_overlay" extra="true">
-         <origin>0.5 0.5</origin>
-         <pos>0.5 0.5</pos>
-         <size>1 1</size>
-         <path>./../_inc/images/blackfade.png</path>
-         <opacity>0.22</opacity>
-         <zIndex>3</zIndex>
-      </image>
+<image name="carouselColumn" extra="true">
+   <path>./../_inc/images/column.png</path>
+   <origin>0.5 0.5</origin>
+   <pos>0.90 0.48</pos>
+   <size>0.36 0.89</size>
+   <zIndex>90</zIndex>
+</image>
 
       <carousel name="systemcarousel">
          <type>vertical</type>
@@ -44,7 +43,7 @@ version         3.0
          <size>0.24 0.82</size>
          <logoScale>1.15</logoScale>
          <logoSize>0.12 0.12</logoSize>
-         <maxLogoCount>9</maxLogoCount>
+         <maxLogoCount>7</maxLogoCount>
          <zIndex>100</zIndex>
       </carousel>
 
