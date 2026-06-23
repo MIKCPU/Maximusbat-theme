@@ -8,7 +8,7 @@ version         3.0
    <formatVersion>7</formatVersion>
 
    <include subset="view" name="Carousel" displayName="Carousel">./view/carousel.xml</include>
-   <include subset="view" name="Carousel" displayName="Carousel">./view/carousel2.xml</include>
+   <include subset="view" name="Carousel2" displayName="Carousel">./view/carousel2.xml</include>
    <include subset="view" name="Wheel" displayName="Wheel">./view/wheel.xml</include>
    <include subset="view" name="Wheel2" displayName="Wheel 2">./view/wheel2.xml</include>
    <include subset="view" name="CoinOpsNext" displayName="CoinOps Next">./../../_coinops/_viewsyst/coinopsnext.xml</include>
