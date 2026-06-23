@@ -1,0 +1,54 @@
+<!--
+theme name:     Maximusbat
+version         3.0
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+   <formatVersion>7</formatVersion>
+
+<view name="system">
+
+<text name="system_title"><visible>false</visible></text>
+
+<text name="system_manufacturer" extra="true">
+    <pos>0.02 0.045</pos>
+    <origin>0 0</origin>
+    <size>0.5 0.06</size>
+    <fontPath>./../_inc/fonts/Exo2-Bold.ttf</fontPath>
+    <fontSize>0.040</fontSize>
+    <color>#FFFFFFCC</color>
+    <alignment>left</alignment>
+    <zIndex>90</zIndex>
+    <text>${system.manufacturer}</text>
+    <storyboard repeat="forever">
+        <animation property="opacity" from="0.88" to="1" duration="2200" mode="easeInOut" autoreverse="true"/>
+    </storyboard>
+</text>
+
+<text name="system_info" extra="true">
+    <pos>0.02 0.095</pos>
+    <origin>0 0</origin>
+    <size>0.6 0.05</size>
+    <fontPath>./../_inc/fonts/Exo2-Regular.ttf</fontPath>
+    <fontSize>0.030</fontSize>
+    <color>#FFFFFFFF</color>
+    <alignment>left</alignment>
+    <zIndex>90</zIndex>
+    <text>${system.fullName}</text>
+</text>
+
+<text name="system_year" extra="true">
+    <pos>0.02 0.138</pos>
+    <origin>0 0</origin>
+    <size>0.2 0.03</size>
+    <fontPath>./../_inc/fonts/Exo2-Regular.ttf</fontPath>
+    <fontSize>0.020</fontSize>
+    <color>#FFFFFF88</color>
+    <alignment>left</alignment>
+    <zIndex>85</zIndex>
+    <text>${system.releaseYear}</text>
+</text>
+
+</view>
+</theme>

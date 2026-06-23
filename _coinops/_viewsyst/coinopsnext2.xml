@@ -508,7 +508,6 @@ version         3.0
     </storyboard>
 </image>
 
-<!-- ########### FINE ONDE COINOPS AGGIUNTIVE ########### -->
 <text name="system_manufacturer" extra="true">
     <pos>0.34 0.045</pos>
     <origin>0 0</origin>
