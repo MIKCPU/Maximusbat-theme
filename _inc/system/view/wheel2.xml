@@ -9,13 +9,7 @@ version         3.0
 
    <view name="system">
 
-      <image name="background">
-         <origin>0 0</origin>
-         <pos>0 0</pos>
-         <size>1 1</size>
-         <path>./../_inc/images/backgroundmenu2.png</path>
-         <zIndex>1</zIndex>
-      </image>
+<image name="background"><visible>false</visible></image>
 
       <image name="dynamic_background" extra="true">
          <path>./../_inc/images/art_images/${system.theme}.jpg</path>
@@ -24,7 +18,6 @@ version         3.0
          <size>1.15 1.15</size>
          <linearSmooth>true</linearSmooth>
          <opacity>0.52</opacity>
-         <color>#F0F0F0</color>
          <zIndex>2</zIndex>
       </image>
 

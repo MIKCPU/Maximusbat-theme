@@ -13,15 +13,17 @@ version         3.0
    <include subset="view" name="Wheel2" displayName="Wheel 2">./view/wheel2.xml</include>
    <include subset="view" name="CoinOpsNext" displayName="CoinOps Next">./../../_coinops/_viewsyst/coinopsnext.xml</include>
    <include subset="view" name="CoinOpsNext2" displayName="CoinOps Next 2">./../../_coinops/_viewsyst/coinopsnext2.xml</include>
-   <include subset="orbicons" name="Default" displayName="Barra Icone: Default">./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb_default.xml</include>
-   <include subset="orbicons" name="Orb2" displayName="Barra Icone: Orb 2">./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb2.xml</include>
+   <include subset="orb icons" name="Default" displayName="Barra Icone: Default">./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb_default.xml</include>
+   <include subset="orb icons" name="Orb2" displayName="Barra Icone: Orb 2">./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb2.xml</include>
+   <include subset="bg filter" name="Off" displayName="Sfondo Naturale">./bgfilter/off.xml</include>
+   <include subset="bg filter" name="On" displayName="Sfondo Filtrato">./bgfilter/on.xml</include>
    <include subset="color" name="White"  displayName="Bianco / White">./styles/white.xml</include>
    <include subset="color" name="Blue"   displayName="Blu / Blue">./styles/blue.xml</include>
    <include subset="color" name="Orange"  displayName="Arancione / Orange">./styles/orange.xml</include>
    <include subset="color" name="Gold"   displayName="Oro / Gold">./styles/gold.xml</include>
    <include subset="color" name="Silver" displayName="Argento / Silver">./styles/silver.xml</include>
-   <include subset="mediamode" name="Video" displayName="Video + Image">./mediamode/video.xml</include>
-   <include subset="mediamode" name="Image" displayName="Solo Immagine">./mediamode/image.xml</include>
+   <include subset="media mode" name="Video" displayName="Video + Image">./mediamode/video.xml</include>
+   <include subset="media mode" name="Image" displayName="Solo Immagine">./mediamode/image.xml</include>
    <include subset="controller" name="On" displayName="Controller ON">./controller/on.xml</include>
    <include subset="controller" name="Off" displayName="Controller OFF">./controller/off.xml</include>
    <include subset="device" name="On" displayName="Device ON">./device/on.xml</include>
@@ -29,20 +31,20 @@ version         3.0
    <include subset="layout" name="Default" displayName="Layout Default">./layout/default.xml</include>
    <include subset="layout" name="Minimal" displayName="Layout Minimal">./layout/minimal.xml</include>
    <include subset="layout" name="Arcade" displayName="Layout Arcade">./layout/arcade.xml</include>
-   <include subset="buttonicons" name="Default"     displayName="Icone: Default">./../help/default.xml</include>
-   <include subset="buttonicons" name="6Buttons"     displayName="Icone: 6 Pulsanti">./../help/6buttons.xml</include>
-   <include subset="buttonicons" name="8Buttons"     displayName="Icone: 8 Pulsanti">./../help/8buttons.xml</include>
-   <include subset="buttonicons" name="Arcade"     displayName="Icone: Arcade">./../help/arcadebuttons.xml</include>
-   <include subset="buttonicons" name="Nintendo"     displayName="Icone: Nintendo">./../help/nintendo.xml</include>
-   <include subset="buttonicons" name="Oculus"     displayName="Icone: Oculus">./../help/oculus.xml</include>
-   <include subset="buttonicons" name="PS5"     displayName="Icone: PS5">./../help/ps5buttons.xml</include>
-   <include subset="buttonicons" name="PlayStation"     displayName="Icone: PlayStation">./../help/psxbuttons.xml</include>
-   <include subset="buttonicons" name="PlayStation Color"     displayName="Icone: PlayStation Color">./../help/psxbuttons_color.xml</include>
-   <include subset="buttonicons" name="Xbox"     displayName="Icone: Xbox">./../help/xboxbuttons.xml</include>
-   <include subset="buttonicons" name="Xbox Color"     displayName="Icone: Xbox Color">./../help/xboxbuttons_color.xml</include>
-   <include subset="buttonicons" name="Keyboard"     displayName="Icone: Keyboard">./../help/keyboard.xml</include>
-   <include subset="gamescount" name="On" displayName="Numero Giochi ON">./gamescount/on.xml</include>
-   <include subset="gamescount" name="Off" displayName="Numero Giochi OFF">./gamescount/off.xml</include>
+   <include subset="buttons icons" name="Default"     displayName="Icone: Default">./../help/default.xml</include>
+   <include subset="buttons icons" name="6Buttons"     displayName="Icone: 6 Pulsanti">./../help/6buttons.xml</include>
+   <include subset="buttons icons" name="8Buttons"     displayName="Icone: 8 Pulsanti">./../help/8buttons.xml</include>
+   <include subset="buttons icons" name="Arcade"     displayName="Icone: Arcade">./../help/arcadebuttons.xml</include>
+   <include subset="buttons icons" name="Nintendo"     displayName="Icone: Nintendo">./../help/nintendo.xml</include>
+   <include subset="buttons icons" name="Oculus"     displayName="Icone: Oculus">./../help/oculus.xml</include>
+   <include subset="buttons icons" name="PS5"     displayName="Icone: PS5">./../help/ps5buttons.xml</include>
+   <include subset="buttons icons" name="PlayStation"     displayName="Icone: PlayStation">./../help/psxbuttons.xml</include>
+   <include subset="buttons icons" name="PlayStation Color"     displayName="Icone: PlayStation Color">./../help/psxbuttons_color.xml</include>
+   <include subset="buttons icons" name="Xbox"     displayName="Icone: Xbox">./../help/xboxbuttons.xml</include>
+   <include subset="buttons icons" name="Xbox Color"     displayName="Icone: Xbox Color">./../help/xboxbuttons_color.xml</include>
+   <include subset="buttons icons" name="Keyboard"     displayName="Icone: Keyboard">./../help/keyboard.xml</include>
+   <include subset="games count" name="On" displayName="Numero Giochi ON">./gamescount/on.xml</include>
+   <include subset="games count" name="Off" displayName="Numero Giochi OFF">./gamescount/off.xml</include>
 
 </theme>
 
