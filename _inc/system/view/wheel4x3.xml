@@ -33,6 +33,7 @@ version         3.0
     </image>
 <image name="systemsnap_wheel" extra="true">
    <path>./../_inc/images/wheel/${system.theme}.png</path>
+   <path>./../_inc/images/wheel/${system.theme}-it.png</path>
    <origin>0.5 0.5</origin>
    <pos>0.20 0.50</pos>
    <maxSize>0.46 0.44</maxSize>
