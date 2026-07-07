@@ -279,19 +279,21 @@ version         3.0
 <image name="md_image">
    <origin>0.5 0.5</origin>
    <pos>0.164 0.46</pos>
-   <maxSize>0.22 0.32</maxSize>
+   <maxSize>0.205 0.30</maxSize>
+   <zIndex>10</zIndex>
 </image>
-      <video name="md_video">
-         <origin>0.5 0.5</origin>
-         <pos>0.164 0.46</pos>
-         <maxSize>0.22 0.32</maxSize>
-		 <effect>none</effect>
-		 <delay>1.5</delay>
-         <default>./_inc/videos/static.mp4</default>
-         <showSnapshotNoVideo>true</showSnapshotNoVideo>
-         <showSnapshotDelay>true</showSnapshotDelay>
-         <snapshotSource>image</snapshotSource>
-      </video>
+<video name="md_video">
+   <origin>0.5 0.5</origin>
+   <pos>0.164 0.46</pos>
+   <maxSize>0.22 0.32</maxSize>
+   <zIndex>20</zIndex>
+   <effect>none</effect>
+   <delay>1.5</delay>
+   <default>./_inc/videos/static.mp4</default>
+   <showSnapshotNoVideo>true</showSnapshotNoVideo>
+   <showSnapshotDelay>true</showSnapshotDelay>
+   <snapshotSource>image</snapshotSource>
+</video>
       <image name="md_marquee">
          <pos>0.1 0.035</pos>
          <origin>0 0</origin>
