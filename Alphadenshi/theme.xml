@@ -9,23 +9,23 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Here is a collection of all the games created by Alpha Denshi and featured on this machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+         <text>Here is a collection of all the games created by Alpha Denshi and featured on this machine. - Alpha Denshi Corporation (アルファ電子株式会社?), also known as Alpha Denshi Kabushiki, was a Japanese video game development company founded in 1980 and which went bankrupt in 2003. The company specialized in the production of arcade games and home console games. -<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Alpha Denshi e presenti su questa macchina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Alpha Denshi e presenti su questa macchina. - Alpha Denshi Corporation (アルファ電子株式会社?), nota anche come Alpha Denshi Kabushiki, era una software-house giapponese dedita allo sviluppo di videogiochi, fondata nel 1980 e fallita nel 2003.  L'azienda era specializzata nella produzione di videogiochi arcade e videogiochi per console domestiche. -<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="fr">Voici une collection de tous les jeux créés par Alpha Denshi et disponibles sur cette machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="fr">Voici une collection de tous les jeux créés par Alpha Denshi et disponibles sur cette machine. - Alpha Denshi Corporation (アルファ電子株式会社 ?), également connue sous le nom d'Alpha Denshi Kabushiki, était une société japonaise de développement de jeux vidéo fondée en 1980 et qui a fait faillite en 2003. L'entreprise s'est spécialisée dans la production de jeux d'arcade et de jeux pour consoles de salon. -<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="de">Hier ist eine Sammlung aller von Alpha Denshi entwickelten und auf dieser Maschine enthaltenen Spiele.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="de">Hier ist eine Sammlung aller von Alpha Denshi entwickelten und auf dieser Maschine enthaltenen Spiele. Alpha Denshi Corporation (アルファ電子株式会社?), auch bekannt als Alpha Denshi Kabushiki, war ein japanisches Videospielentwicklungsunternehmen, das 1980 gegründet wurde und 2003 in Konkurs ging. Das Unternehmen spezialisierte sich auf die Produktion von Arcade-Spielen und Heimkonsolenspielen. -<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="es">Aquí tenéis una recopilación de todos los juegos creados por Alpha Denshi e incluidos en esta máquina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="es">Aquí tenéis una recopilación de todos los juegos creados por Alpha Denshi e incluidos en esta máquina. Alpha Denshi Corporation (アルファ電子株式会社?), también conocida como Alpha Denshi Kabushiki, fue una empresa japonesa de desarrollo de videojuegos fundada en 1980 y que quebró en 2003. La empresa se especializó en la producción de juegos arcade y consolas domésticas. -<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>       

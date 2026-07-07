@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -8,5 +8,35 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Here is a collection of all the games created by Activision and featured on this machine. - Founded on October 1, 1979, it was the first independent company to develop and publish video games for consoles (previously made by the console manufacturers themselves). Its first products were cartridges for the Atari 2600 console, released between July 1980 (on the US market) and August 1981 (in the UK).[4] Today it is one of the largest video game publishers in the world, second only to Electronic Arts, after having topped the sales charts in the US in 2007. -<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dall' Activision e presenti su questa macchina. - Fondata il 1º ottobre 1979, è stata la prima azienda indipendente a sviluppare e pubblicare videogiochi per console (in precedenza realizzati dai produttori delle console stesse). I suoi primi prodotti furono cartucce per la console Atari 2600, pubblicati tra il luglio 1980 (sul mercato USA) e l'agosto 1981 (nel Regno Unito)[4]. Oggi è una delle più grandi editrici di videogiochi al mondo, dietro solo a Electronic Arts, dopo essere stata in cima alle classifiche di vendita negli USA nel 2007 -<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Voici une collection de tous les jeux créés par Activision et disponibles sur cette machine. - Fondée le 1er octobre 1979, elle fut la première entreprise indépendante à développer et à éditer des jeux vidéo pour consoles (auparavant produits par les constructeurs de consoles eux-mêmes). Ses premiers produits étaient des cartouches pour la console Atari 2600, commercialisées entre juillet 1980 (aux États-Unis) et août 1981 (au Royaume-Uni).[4] Aujourd'hui, elle figure parmi les plus grands éditeurs de jeux vidéo au monde, juste derrière Electronic Arts, après avoir dominé les ventes aux États-Unis en 2007. -<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Hier ist eine Sammlung aller von Activision entwickelten und auf dieser Maschine enthaltenen Spiele. -Das Unternehmen wurde am 1. Oktober 1979 gegründet und war die erste unabhängige Firma, die Videospiele für Konsolen entwickelte und veröffentlichte (zuvor wurden diese von den Konsolenherstellern selbst produziert). Die ersten Produkte waren Cartridges für die Atari 2600-Konsole, die zwischen Juli 1980 (in den USA) und August 1981 (in Großbritannien) erschienen.[4] Heute ist es einer der größten Videospielverlage der Welt und steht nach Electronic Arts an zweiter Stelle, nachdem es 2007 die US-Verkaufscharts anführte. -<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Aquí tenéis una recopilación de todos los juegos creados por Activision e incluidos en esta máquina. - Fundada el 1 de octubre de 1979, fue la primera empresa independiente en desarrollar y publicar videojuegos para consolas (anteriormente fabricados por los propios fabricantes de consolas). Sus primeros productos fueron cartuchos para la consola Atari 2600, lanzados entre julio de 1980 (en el mercado estadounidense) y agosto de 1981 (en el Reino Unido).[4] Hoy en día es una de las mayores editoras de videojuegos del mundo, solo superada por Electronic Arts, tras haber liderado las listas de ventas en Estados Unidos en 2007. -<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 	</view>
 </theme>
+
+
+
+
