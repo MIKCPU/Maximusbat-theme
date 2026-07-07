@@ -9,23 +9,23 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Here is a collection of all the games created by Acclaim and featured on this machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+         <text>Here is a collection of all the games created by Acclaim and featured on this machine. - Acclaim Entertainment is an American company dedicated to the development and publishing of computer and console video games, founded in 1987 in Glen Cove, New York, and which went bankrupt in 2004. Among the most well-known titles are the Mortal Kombat, Burnout, Turok, and NBA Jam series. Following its bankruptcy, Acclaim Games was founded in 2006, which also went bankrupt in 2010. Acclaim was reinstated in March 2025, Alex Josef (Graffiti Games) was elected CEO,[2] on September 10, 2025, it announced various projects in development. -<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="it">Ecco una raccolta di tutti i giochi creati dall' Acclaim e presenti su questa macchina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dall' Acclaim e presenti su questa macchina. - Acclaim Entertainment è un'azienda statunitense dedita allo sviluppo e alla pubblicazione di videogiochi per computer e console, fondata nel 1987 a Glen Cove (New York) e fallita nel 2004. Tra i titoli più noti le serie di Mortal Kombat, Burnout, Turok, NBA jam. A seguito del suo fallimento è stata fondata nel 2006 la Acclaim Games, anch'essa caduta in bancarotta nel 2010. Acclaim è stata ricostituita nel marzo 2025, Alex Josef (Graffiti Games) è stato eletto a CEO,[2] il 10 settembre 2025 ha presentato vari progetti in sviluppo. -<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="fr">Voici une collection de tous les jeux créés par Acclaim et disponibles sur cette machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="fr">Voici une collection de tous les jeux créés par Acclaim et disponibles sur cette machine. - Acclaim Entertainment est une société américaine spécialisée dans le développement et l'édition de jeux vidéo pour ordinateurs et consoles. Fondée en 1987 à Glen Cove, dans l'État de New York, elle a fait faillite en 2004. Parmi ses titres les plus connus figurent les séries Mortal Kombat, Burnout, Turok et NBA Jam. Suite à cette faillite, Acclaim Games a été créée en 2006, mais a également fait faillite en 2010. Acclaim a été relancée en mars 2025 et Alex Josef (Graffiti Games) a été nommé PDG[2]. Le 10 septembre 2025, la société a annoncé plusieurs projets en développement. -<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="de">Hier ist eine Sammlung aller von Acclaim entwickelten und auf dieser Maschine enthaltenen Spiele.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="de">Hier ist eine Sammlung aller von Acclaim entwickelten und auf dieser Maschine enthaltenen Spiele. -Acclaim Entertainment ist ein US-amerikanisches Unternehmen, das sich der Entwicklung und Veröffentlichung von Computer- und Konsolenspielen widmet. Es wurde 1987 in Glen Cove, New York, gegründet und ging 2004 in Konkurs. Zu den bekanntesten Titeln zählen die Reihen Mortal Kombat, Burnout, Turok und NBA Jam. Nach der Insolvenz wurde 2006 Acclaim Games gegründet, das 2010 ebenfalls Konkurs anmelden musste. Acclaim wurde im März 2025 wiedergegründet, Alex Josef (Graffiti Games) zum CEO gewählt[2] und am 10. September 2025 verschiedene Projekte in Entwicklung angekündigt. -<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="es">Aquí tenéis una recopilación de todos los juegos creados por Acclaim e incluidos en esta máquina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="es">Aquí tenéis una recopilación de todos los juegos creados por Acclaim e incluidos en esta máquina. - Acclaim Entertainment es una compañía estadounidense dedicada al desarrollo y publicación de videojuegos para ordenador y consola, fundada en 1987 en Glen Cove, Nueva York, y que se declaró en bancarrota en 2004. Entre sus títulos más conocidos se encuentran las series Mortal Kombat, Burnout, Turok y NBA Jam. Tras su bancarrota, se fundó Acclaim Games en 2006, que también se declaró en bancarrota en 2010. Acclaim fue reactivada en marzo de 2025, Alex Josef (Graffiti Games) fue elegido director ejecutivo,[2] y el 10 de septiembre de 2025 anunció varios proyectos en desarrollo. -<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>       
