@@ -9,23 +9,23 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Here is a collection of all the games created by Capcom and featured on this machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+         <text>Here is a collection of all the games created by Capcom and featured on this machine. - Capcom Co., Ltd. (株式会社カプコン, Kabushiki-gaisha Kapukon), short for Capsule Computers (formerly known as Japan Capsule Computers or simply Capcom), is a Japanese video game development and publishing company based in Chūō-ku, Osaka. Founded by Kenzo Tsujimoto in 1979, it has spawned a multitude of media franchises with millions of copies sold worldwide. According to Metacritic's 11th Annual Game Publishers, Capcom was ranked the third-ranked video game publisher of 2021. -<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Capcom e presenti su questa macchina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Capcom e presenti su questa macchina. - Capcom Co., Ltd. (株式会社カプコン, Kabushiki-gaisha Kapukon), acronimo di Capsule Computers (precedentemente nota come Japan Capsule Computers o detto semplicemente Capcom), è un'azienda giapponese che produce e pubblica videogiochi con sede a Chūō-ku, Osaka. Fondata da Kenzo Tsujimoto nel 1979 ha generato una moltitudine di serie di media franchise con milioni di copie vendute in tutto il mondo. Ai Metacritic's 11th Annual Game Publisher, Capcom si classifica come terza compagnia di pubblicazione videogiochi dell'anno 2021. -<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="fr">Voici une collection de tous les jeux créés par Capcom et disponibles sur cette machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="fr">Voici une collection de tous les jeux créés par Capcom et disponibles sur cette machine. - Capcom Co., Ltd. (株式会社カプコン, Kabushiki-gaisha Kapukon), abréviation de Capsule Computers (anciennement Japan Capsule Computers ou simplement Capcom), est une société japonaise de développement et d'édition de jeux vidéo basée à Chūō-ku, Osaka. Fondée par Kenzo Tsujimoto en 1979, elle a donné naissance à de nombreuses franchises et vendu des millions d'exemplaires à travers le monde. Selon le 11e classement annuel des éditeurs de jeux vidéo de Metacritic, Capcom occupait la troisième place du classement des éditeurs de jeux vidéo en 2021. -<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="de">Hier ist eine Sammlung aller von Capcom entwickelten und auf dieser Maschine enthaltenen Spiele.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="de">Hier ist eine Sammlung aller von Capcom entwickelten und auf dieser Maschine enthaltenen Spiele. - Capcom Co., Ltd. (株式会社カプコン, Kabushiki-gaisha Kapukon), kurz für Capsule Computers (früher bekannt als Japan Capsule Computers oder einfach Capcom), ist ein japanisches Videospielentwicklungs- und -veröffentlichungsunternehmen mit Sitz in Chūō-ku, Osaka. Gegründet 1979 von Kenzo Tsujimoto, hat es eine Vielzahl von Medien-Franchises mit millionenfach verkauften Exemplaren weltweit hervorgebracht. Laut Metacritic's 11. Annual Game Publishers Ranking belegte Capcom 2021 den dritten Platz unter den Videospielverlagen. -<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="es">Aquí tenéis una recopilación de todos los juegos creados por Capcom e incluidos en esta máquina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="es">Aquí tenéis una recopilación de todos los juegos creados por Capcom e incluidos en esta máquina. - Capcom Co., Ltd. (株式会社カプコン, Kabushiki-gaisha Kapukon), abreviatura de Capsule Computers (anteriormente conocida como Japan Capsule Computers o simplemente Capcom), es una empresa japonesa de desarrollo y publicación de videojuegos con sede en Chūō-ku, Osaka. Fundada por Kenzo Tsujimoto en 1979, ha dado origen a numerosas franquicias multimedia con millones de copias vendidas en todo el mundo. Según la undécima edición anual de la clasificación de editores de videojuegos de Metacritic, Capcom ocupó el tercer puesto entre los editores de videojuegos de 2021. -<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>       
