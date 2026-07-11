@@ -6,7 +6,7 @@
                    <origin>0.5 0.5</origin>
                    <pos>0.5 0.5</pos>
                    <maxSize>0.8 0.7</maxSize>
-                   <path>./_inc/systemsnap.png</path>
+                   <path>./_inc/systemsnap-it.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
          <text>A four-player game is a multiplayer game that can be played by up to four players simultaneously. Here is a collection of your games that support four-player game.<multiLine ifSubset="view:Carousel">false</multiLine>
