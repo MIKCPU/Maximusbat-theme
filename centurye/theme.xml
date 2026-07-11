@@ -9,23 +9,23 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Here is a collection of all the games created by Century Electronics and featured on this machine. - In the 1980s, Century Electronics Ltd., based in the United Kingdom, was a well-known manufacturer of coin-operated arcade machines and video games. -<multiLine ifSubset="view:Carousel">false</multiLine>
+         <text>Here is a collection of all the games created by Century Electronics and featured on this machine.                                                             In the 1980s, Century Electronics Ltd., based in the United Kingdom, was a well-known manufacturer of coin-operated arcade machines and video games.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Century Electronics e presenti su questa macchina. - Negli anni '80, Century Electronics Ltd. con sede nel Regno Unito, era un noto produttore di macchine arcade e videogiochi a gettoni. -<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Century Electronics e presenti su questa macchina.                                                             Negli anni '80, Century Electronics Ltd. con sede nel Regno Unito, era un noto produttore di macchine arcade e videogiochi a gettoni.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="fr">Voici une collection de tous les jeux créés par Sega et disponibles sur cette machine. - Dans les années 1980, Century Electronics Ltd., basée au Royaume-Uni, était un fabricant bien connu de machines d'arcade et de jeux vidéo à pièces. -<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Sega et disponibles sur cette machine.                                                             Dans les anne'es 1980, Century Electronics Ltd., base'e au Royaume-Uni, e'tait un fabricant bien connu de machines d'arcade et de jeux vide'o a' pie'ces.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="de">Hier ist eine Sammlung aller von Sega entwickelten und auf dieser Maschine enthaltenen Spiele. In den 1980er Jahren war Century Electronics Ltd. mit Sitz in Großbritannien ein bekannter Hersteller von münzbetriebenen Arcade-Automaten und Videospielen. -<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="de">Hier ist eine Sammlung aller von Sega entwickelten und auf dieser Maschine enthaltenen Spiele.                                                             In den 1980er Jahren war Century Electronics Ltd. mit Sitz in Großbritannien ein bekannter Hersteller von münzbetriebenen Arcade-Automaten und Videospielen.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="es">Aquí tenéis una recopilación de todos los juegos creados por Sega e incluidos en esta máquina. - En la década de 1980, Century Electronics Ltd., con sede en el Reino Unido, era un conocido fabricante de máquinas recreativas y videojuegos que funcionaban con monedas. -<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Sega e incluidos en esta máquina.                                                             En la de'cada de 1980, Century Electronics Ltd., con sede en el Reino Unido, era un conocido fabricante de máquinas recreativas y videojuegos que funcionaban con monedas.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>       
@@ -36,6 +36,7 @@
       </text>
 	</view>
 </theme>
+
 
 
 

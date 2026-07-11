@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -8,5 +8,36 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Here is a collection of all the games created by Incredible Technologies and featured on this machine.                                                             Incredible Technologies is an American company founded in 1985 and internationally known for the design and manufacture of arcade cabinets and casino games. Its most successful product is the Golden Tee Golf series of sports simulation games, launched in 1989. The company operates from its headquarters in Vernon Hills, Illinois.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dall' Incredible Technologies e presenti su questa macchina.                                                             Incredible Technologies e' un'azienda statunitense fondata nel 1985 e nota a livello internazionale per la progettazione e produzione di cabinati arcade e giochi da casino'. Il suo prodotto di maggior successo e' la serie di simulazioni sportive Golden Tee Golf, lanciata nel 1989. L'azienda gestisce le proprie operazioni dalla sede di Vernon Hills, in Illinois.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Incredible Technologies et disponibles sur cette machine.                                                             Incredible Technologies est une socie'te' ame'ricaine fonde'e en 1985 et reconnue internationalement pour la conception et la fabrication de bornes d'arcade et de jeux de casino. Son produit phare est la se'rie de jeux de simulation de golf Golden Tee, lance'e en 1989. Son sie'ge social est situe' a' Vernon Hills, dans l'Illinois.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Hier ist eine Sammlung aller von Incredible Technologies entwickelten und auf dieser Maschine enthaltenen Spiele.                                                             Incredible Technologies ist ein 1985 gegründetes US-amerikanisches Unternehmen, das international für die Entwicklung und Herstellung von Arcade-Automaten und Casinospielen bekannt ist. Sein erfolgreichstes Produkt ist die 1989 eingeführte Sportsimulationsspielreihe Golden Tee Golf. Der Firmensitz befindet sich in Vernon Hills, Illinois.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Incredible Technologies e incluidos en esta máquina.                                                             Incredible Technologies es una empresa estadounidense fundada en 1985 y reconocida internacionalmente por el diseño y la fabricación de máquinas recreativas y juegos de casino. Su producto más exitoso es la serie de juegos de simulación deportiva Golden Tee Golf, lanzada en 1989. La empresa opera desde su sede en Vernon Hills, Illinois.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 	</view>
 </theme>
+
+
+
+
+

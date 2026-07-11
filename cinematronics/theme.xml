@@ -9,23 +9,23 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Here is a collection of all the games created by Cinematronics and featured on this machine. - Cinematronics was an American company that produced arcade video games; in particular, it was the first to produce titles using vector graphics, and introduced the first video games on laserdisc. -<multiLine ifSubset="view:Carousel">false</multiLine>
+         <text>Here is a collection of all the games created by Cinematronics and featured on this machine.                                                             Cinematronics was an American company that produced arcade video games; in particular, it was the first to produce titles using vector graphics, and introduced the first video games on laserdisc.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Cinematronics e presenti su questa macchina. - Cinematronics è stata un'azienda statunitense produttrice di videogiochi arcade; in particolare ha per prima prodotto titoli che utilizzano la grafica vettoriale, e ha introdotto i primi videogiochi su laserdisc. -<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Cinematronics e presenti su questa macchina.                                                             Cinematronics e' stata un'azienda statunitense produttrice di videogiochi arcade; in particolare ha per prima prodotto titoli che utilizzano la grafica vettoriale, e ha introdotto i primi videogiochi su laserdisc.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="fr">Voici une collection de tous les jeux créés par Cinematronics et disponibles sur cette machine. - Cinematronics était une société américaine qui produisait des jeux vidéo d'arcade ; elle fut notamment la première à produire des titres utilisant des graphismes vectoriels et à introduire les premiers jeux vidéo sur laserdisc. -<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Cinematronics et disponibles sur cette machine.                                                             Cinematronics e'tait une socie'te' ame'ricaine qui produisait des jeux vide'o d'arcade ; elle fut notamment la premie're a' produire des titres utilisant des graphismes vectoriels et a' introduire les premiers jeux vide'o sur laserdisc.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="de">Hier ist eine Sammlung aller von Cinematronics entwickelten und auf dieser Maschine enthaltenen Spiele. - Cinematronics war ein amerikanisches Unternehmen, das Arcade-Videospiele herstellte; insbesondere war es das erste, das Titel mit Vektorgrafiken produzierte und die ersten Videospiele auf Laserdisc einführte. -<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="de">Hier ist eine Sammlung aller von Cinematronics entwickelten und auf dieser Maschine enthaltenen Spiele.                                                             Cinematronics war ein amerikanisches Unternehmen, das Arcade-Videospiele herstellte; insbesondere war es das erste, das Titel mit Vektorgrafiken produzierte und die ersten Videospiele auf Laserdisc einführte.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="es">Aquí tenéis una recopilación de todos los juegos creados por Cinematronics e incluidos en esta máquina. - Cinematronics era una empresa estadounidense que producía videojuegos arcade; en particular, fue la primera en producir títulos utilizando gráficos vectoriales e introdujo los primeros videojuegos en laserdisc. -<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Cinematronics e incluidos en esta máquina.                                                             Cinematronics era una empresa estadounidense que producía videojuegos arcade; en particular, fue la primera en producir títulos utilizando gráficos vectoriales e introdujo los primeros videojuegos en laserdisc.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>       
@@ -36,6 +36,7 @@
       </text>
 	</view>
 </theme>
+
 
 
 

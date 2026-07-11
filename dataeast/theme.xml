@@ -9,23 +9,23 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Here is a collection of all the games created by Data East and featured on this machine. - Data East or Data East Corporation (Kabushiki-gaisha Dēta Īsuto Kōporēshon, also known initially as DECO (acronym for Data East COrporation), was a Japanese software house active between 1976 and 2003 and specialized in video games, both arcade and for the home market, and pinball machines. -<multiLine ifSubset="view:Carousel">false</multiLine>
+         <text>Here is a collection of all the games created by Data East and featured on this machine.                                                             Data East or Data East Corporation (Kabushiki-gaisha Dēta Īsuto Kōporēshon, also known initially as DECO (acronym for Data East COrporation), was a Japanese software house active between 1976 and 2003 and specialized in video games, both arcade and for the home market, and pinball machines.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Data East e presenti su questa macchina. - La Data East o Data East Corporation (Kabushiki-gaisha Dēta Īsuto Kōporēshon, conosciuta inizialmente anche come DECO (acronimo di Data East COrporation), fu una software house giapponese attiva tra il 1976 e il 2003 e specializzata in videogiochi, sia arcade sia per il mercato domestico, e flipper. -<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Data East e presenti su questa macchina.                                                             La Data East o Data East Corporation (Kabushiki-gaisha Dēta Īsuto Kōporēshon, conosciuta inizialmente anche come DECO (acronimo di Data East COrporation), fu una software house giapponese attiva tra il 1976 e il 2003 e specializzata in videogiochi, sia arcade sia per il mercato domestico, e flipper.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="fr">Voici une collection de tous les jeux créés par Data East et disponibles sur cette machine. - Data East ou Data East Corporation (Kabushiki-gaisha Dēta Īsuto Kōporēshon, également connue initialement sous le nom de DECO (acronyme de Data East COrporation), était une société de logiciels japonaise active entre 1976 et 2003 et spécialisée dans les jeux vidéo, à la fois d'arcade et pour le marché domestique, et les flippers. -<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Data East et disponibles sur cette machine.                                                             Data East ou Data East Corporation (Kabushiki-gaisha Dēta Īsuto Kōporēshon, e'galement connue initialement sous le nom de DECO (acronyme de Data East COrporation), e'tait une socie'te' de logiciels japonaise active entre 1976 et 2003 et spe'cialise'e dans les jeux vide'o, a' la fois d'arcade et pour le marche' domestique, et les flippers.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="de">Hier ist eine Sammlung aller von Data East entwickelten und auf dieser Maschine enthaltenen Spiele. - Data East oder Data East Corporation (Kabushiki-gaisha Dēta Īsuto Kōporēshon, ursprünglich auch bekannt als DECO (Akronym für Data East Corporation)) war ein japanisches Softwarehaus, das zwischen 1976 und 2003 aktiv war und sich auf Videospiele, sowohl für Spielhallen als auch für den Heimmarkt, und Flipperautomaten spezialisiert hatte. -<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="de">Hier ist eine Sammlung aller von Data East entwickelten und auf dieser Maschine enthaltenen Spiele.                                                             Data East oder Data East Corporation (Kabushiki-gaisha Dēta Īsuto Kōporēshon, ursprünglich auch bekannt als DECO (Akronym für Data East Corporation)) war ein japanisches Softwarehaus, das zwischen 1976 und 2003 aktiv war und sich auf Videospiele, sowohl für Spielhallen als auch für den Heimmarkt, und Flipperautomaten spezialisiert hatte.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="es">Aquí tenéis una recopilación de todos los juegos creados por Data East e incluidos en esta máquina. - Data East o Data East Corporation (Kabushiki-gaisha Dēta Īsuto Kōporēshon, también conocida inicialmente como DECO (acrónimo de Data East Corporation)), fue una empresa japonesa de software activa entre 1976 y 2003, especializada en videojuegos, tanto arcade como para el mercado doméstico, y máquinas de pinball. -<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Data East e incluidos en esta máquina.                                                             Data East o Data East Corporation (Kabushiki-gaisha Dēta Īsuto Kōporēshon, tambie'n conocida inicialmente como DECO (acrónimo de Data East Corporation)), fue una empresa japonesa de software activa entre 1976 y 2003, especializada en videojuegos, tanto arcade como para el mercado dome'stico, y máquinas de pinball.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>       
@@ -36,6 +36,7 @@
       </text>
 	</view>
 </theme>
+
 
 
 

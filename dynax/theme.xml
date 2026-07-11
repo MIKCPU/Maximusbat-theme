@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -8,5 +8,36 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Here is a collection of all the games created by Dynax Inc and featured on this machine.                                                              Dynax Inc. is a Japanese software house, founded in 1981, famous for having developed numerous arcade games, many of which are based on the Mahjong and Hanafuda genres.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Dynax Inc e presenti su questa macchina.                                                             Dynax Inc. e' una software house giapponese, fondata nel 1981, celebre per aver sviluppato numerosi giochi arcade, molti dei quali basati sul genere Mahjong e Hanafuda.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Dynax Inc et disponibles sur cette machine.                                                             Dynax Inc. est une socie'te' de de'veloppement de logiciels japonaise, fonde'e en 1981, ce'le'bre pour avoir de'veloppe' de nombreux jeux d'arcade, dont beaucoup sont base's sur les genres Mahjong et Hanafuda.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Hier ist eine Sammlung aller von Dynax Inc entwickelten und auf dieser Maschine enthaltenen Spiele.                                                             Dynax Inc. ist ein japanisches Softwarehaus, gegründet 1981, das für die Entwicklung zahlreicher Arcade-Spiele bekannt ist, von denen viele auf den Genres Mahjong und Hanafuda basieren.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Dynax Inc e incluidos en esta máquina.                                                             Dynax Inc. es una empresa de software japonesa, fundada en 1981, famosa por haber desarrollado numerosos juegos arcade, muchos de los cuales se basan en los ge'neros Mahjong y Hanafuda.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 	</view>
 </theme>
+
+
+
+
+

@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -8,5 +8,36 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Here is a collection of all the games created by Jaleco Ltd  and featured on this machine.                                                             Jaleco Ltd (ジャレコ?, Ja-Re-ko) (later Emcom Holdings) is a Japanese video game developer and publisher, founded in 1974. It is headquartered on the 22nd floor of the New Otani Garden Court in Chiyoda, Tokyo.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Jaleco Ltd  e presenti su questa macchina.                                                             Jaleco Ltd (ジャレコ?, Ja-Re-ko) (in seguito Emcom Holdings) e' una societa' giapponese che si occupa di sviluppare e pubblicare videogiochi, fondata nel 1974. Ha le sue sedi centrali al ventiduesimo piano del New Otani Garden Court a Chiyoda, Tokyo.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Jaleco Ltd  et disponibles sur cette machine.                                                             Jaleco Ltd (ジャレコ?, Ja-Re-ko) (plus tard Emcom Holdings) est un de'veloppeur et e'diteur japonais de jeux vide'o, fonde' en 1974. Son sie'ge social se trouve au 22e e'tage du New Otani Garden Court a' Chiyoda, Tokyo.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Hier ist eine Sammlung aller von Jaleco Ltd  entwickelten und auf dieser Maschine enthaltenen Spiele.                                                            Jaleco Ltd (ジャレコ?, Ja-Re-ko) (später Emcom Holdings) ist ein japanischer Videospielentwickler und -verleger, gegründet 1974. Der Hauptsitz befindet sich im 22. Stock des New Otani Garden Court in Chiyoda, Tokio.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Jaleco Ltd  e incluidos en esta máquina.                                                             Jaleco Ltd (ジャレコ?, Ja-Re-ko) (más tarde Emcom Holdings) es una desarrolladora y editora japonesa de videojuegos, fundada en 1974. Su sede central se encuentra en el piso 22 del New Otani Garden Court en Chiyoda, Tokio.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 	</view>
 </theme>
+
+
+
+
+
