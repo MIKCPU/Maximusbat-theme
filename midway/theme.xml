@@ -9,23 +9,23 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Here is a collection of all the games created by Midway and featured on this machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+         <text>Here is a collection of all the games created by Midway and featured on this machine.                                                Midway Games, Inc. was an American video game developer and publisher founded in 1958 and declared bankruptcy in 2009. It is best remembered for producing arcade games such as Mortal Kombat and for distributing successful titles such as Space Invaders and Pac-Man in the West (under license from the respective publishers Taito and Namco). In 1996, it acquired the rights to Atari Games. Initially a manufacturer of mechanical games, Midway was one of the first companies to develop arcade games, having begun production in 1973 after seeing the success of Atari, Inc.'s Pong machines.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Midway e presenti su questa macchina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Midway e presenti su questa macchina.                                                Midway Games, Inc. e' stata un'azienda statunitense dedita allo sviluppo e alla pubblicazione di videogiochi, fondata nel 1958 e fallita nel 2009. e' principalmente ricordata per aver prodotto videogiochi arcade come Mortal Kombat e per aver distribuito in occidente titoli di successo quali Space Invaders e Pac-Man (su licenza dei rispettivi produttori Taito e Namco). Nel 1996 entro' in possesso dei diritti di Atari Games. Inizialmente produttrice di giochi meccanici, la Midway e' stata una delle prime aziende a sviluppare videogiochi arcade, avendo iniziato la loro produzione nel 1973, dopo aver visto il successo delle macchine Pong di Atari, Inc.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="fr">Voici une collection de tous les jeux créés par Midway et disponibles sur cette machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Midway et disponibles sur cette machine.                                                Midway Games, Inc., socie'te' ame'ricaine de de'veloppement et d'e'dition de jeux vide'o fonde'e en 1958 et ayant fait faillite en 2009, est surtout connue pour ses jeux d'arcade tels que Mortal Kombat et pour la distribution en Occident de titres a' succe's comme Space Invaders et Pac-Man (sous licence des e'diteurs respectifs Taito et Namco). En 1996, elle a acquis les droits d'Atari Games. Initialement fabricant de jeux me'caniques, Midway fut l'une des premie'res entreprises a' de'velopper des jeux d'arcade, ayant de'bute' sa production en 1973 suite au succe's des bornes Pong d'Atari, Inc.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="de">Hier ist eine Sammlung aller von Midway entwickelten und auf dieser Maschine enthaltenen Spiele.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="de">Hier ist eine Sammlung aller von Midway entwickelten und auf dieser Maschine enthaltenen Spiele.                                                Midway Games, Inc. war ein US-amerikanischer Videospielentwickler und -verleger, der 1958 gegründet wurde und 2009 Insolvenz anmeldete. Das Unternehmen ist vor allem für Arcade-Spiele wie Mortal Kombat und den Vertrieb erfolgreicher Titel wie Space Invaders und Pac-Man im Westen (unter Lizenz der jeweiligen Publisher Taito und Namco) bekannt. 1996 erwarb Midway die Rechte an Atari Games. Ursprünglich Hersteller von mechanischen Spielautomaten, gehörte Midway zu den ersten Unternehmen, die Arcade-Spiele entwickelten und begann 1973 mit der Produktion, nachdem die Pong-Automaten von Atari, Inc. erfolgreich waren.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="es">Aquí tenéis una recopilación de todos los juegos creados por Midway e incluidos en esta máquina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Midway e incluidos en esta máquina.                                                Midway Games, Inc. fue una desarrolladora y editora estadounidense de videojuegos fundada en 1958 y declarada en bancarrota en 2009. Se la recuerda principalmente por producir juegos arcade como Mortal Kombat y por distribuir títulos exitosos como Space Invaders y Pac-Man en Occidente (bajo licencia de las editoras Taito y Namco, respectivamente). En 1996, adquirió los derechos de Atari Games. Inicialmente fabricante de juegos mecánicos, Midway fue una de las primeras compañías en desarrollar juegos arcade, habiendo comenzado su producción en 1973 tras el e'xito de las máquinas Pong de Atari, Inc.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>       
@@ -36,6 +36,7 @@
       </text>
 	</view>
 </theme>
+
 
 
 

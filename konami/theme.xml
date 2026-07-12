@@ -9,23 +9,23 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Here is a collection of all the games created by Konami and featured on this machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+         <text>Here is a collection of all the games created by Konami and featured on this machine.                                                            Konami Group Corporation (コナミグループ株式会社, Konami Gurūpu Kabushiki-gaisha) is a video game design and development company founded in Japan on March 21, 1969. Its best-selling video game is the Winning Eleven/Pro Evolution Soccer series, with nearly 90 million units sold.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Konami e presenti su questa macchina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Konami e presenti su questa macchina.                                                            Konami Group Corporation (コナミグループ株式会社, Konami Gurūpu Kabushiki-gaisha) e' una societa' di progettazione e sviluppo di videogiochi fondata in Giappone nel 21 marzo 1969. Il suo videogioco piU' venduto e' la serie calcistica Winning Eleven/Pro Evolution Soccer, con un ammontare di quasi 90 milioni di unita' vendute.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="fr">Voici une collection de tous les jeux créés par Konami et disponibles sur cette machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Konami et disponibles sur cette machine.                                                            Konami Group Corporation (コナミグループ株式会社, Konami Gurūpu Kabushiki-gaisha) est une socie'te' de conception et de de'veloppement de jeux vide'o fonde'e au Japon le 21 mars 1969. Son jeu vide'o le plus vendu est la se'rie Winning Eleven/Pro Evolution Soccer, avec pre's de 90 millions d'unite's vendues.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="de">Hier ist eine Sammlung aller von Konami entwickelten und auf dieser Maschine enthaltenen Spiele.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="de">Hier ist eine Sammlung aller von Konami entwickelten und auf dieser Maschine enthaltenen Spiele.                                                            Konami Group Corporation (コナミグループ株式会社, Konami Gurūpu Kabushiki-gaisha) ist ein Videospieldesign- und -entwicklungsunternehmen, das am 21. März 1969 in Japan gegründet wurde. Das meistverkaufte Videospiel ist die Winning Eleven/Pro Evolution Soccer-Serie mit fast 90 Millionen verkauften Einheiten.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="es">Aquí tenéis una recopilación de todos los juegos creados por Konami e incluidos en esta máquina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Konami e incluidos en esta máquina.                                                            Konami Group Corporation (コナミグループ株式会社, Konami Gurūpu Kabushiki-gaisha) es una empresa de diseño y desarrollo de videojuegos fundada en Japón el 21 de marzo de 1969. Su videojuego más vendido es la serie Winning Eleven/Pro Evolution Soccer, con casi 90 millones de unidades vendidas.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>       
@@ -36,6 +36,7 @@
       </text>
 	</view>
 </theme>
+
 
 
 

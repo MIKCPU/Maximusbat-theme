@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -8,5 +8,36 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Here is a collection of all the games created by Kaneko and featured on this machine.                                                             Kaneko Seisakusho (金子製作所), also known as Kaneko Co. Ltd. (カネコ株式会社?) and stylized as KANE O in the company logo, was a Japanese video game publisher and developer founded in 1980 in Suginami by Hiroshi Kaneko. It published several video games under its own imprint and/or for other video game companies, including Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n, and the Gals Panic series.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Kaneko e presenti su questa macchina.                                                             Kaneko Seisakusho (金子製作所), nota anche come Kaneko Co. Ltd. (カネコ株式会社?) e stilizzata come KANE O nel logo societario, e' stata un'azienda giapponese editrice e sviluppatrice di videogiochi, fondata nel 1980 a Suginami da Hiroshi Kaneko. Ha pubblicato con il proprio marchio e/o per altre aziende videoludiche diversi videogiochi, tra cui Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n e la serie Gals Panic.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Kaneko et disponibles sur cette machine.                                                             Kaneko Seisakusho (金子製作所), e'galement connue sous le nom de Kaneko Co. Ltd. (カネコ株式会社?) et stylise' KANE O dans son logo, e'tait un e'diteur et de'veloppeur japonais de jeux vide'o fonde' en 1980 a' Suginami par Hiroshi Kaneko. Elle a publie' plusieurs jeux vide'o sous son propre label et/ou pour d'autres socie'te's du secteur, notamment Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n et la se'rie Gals Panic.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Hier ist eine Sammlung aller von Kaneko entwickelten und auf dieser Maschine enthaltenen Spiele.                                                             Kaneko Seisakusho (金子製作所), auch bekannt als Kaneko Co. Ltd. (カネコ株式会社?) und im Firmenlogo als KANE O stilisiert, war ein japanischer Videospiel-Publisher und -Entwickler, der 1980 in Suginami von Hiroshi Kaneko gegründet wurde. Das Unternehmen veröffentlichte zahlreiche Videospiele unter eigenem Namen und/oder für andere Videospielunternehmen, darunter Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n und die Gals Panic-Reihe.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Kaneko e incluidos en esta máquina.                                                             Kaneko Seisakusho (金子製作所), tambie'n conocida como Kaneko Co. Ltd. (カネコ株式会社?) y estilizada como KANE O en el logotipo de la empresa, fue una editora y desarrolladora japonesa de videojuegos fundada en 1980 en Suginami por Hiroshi Kaneko. Publicó varios videojuegos bajo su propio sello y/o para otras compañías de videojuegos, incluyendo Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n y la serie Gals Panic.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 	</view>
 </theme>
+
+
+
+
+

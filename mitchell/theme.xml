@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -8,5 +8,36 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Here is a collection of all the games created by Mitchell Corporation and featured on this machine.                               Mitchell Corporation (株式会社ミッチェル) was a Japanese video game developer based in the Suginami ward of Tokyo. Roy Ozaki served as president, and Koichi Niida served as vice-president. Some employees were former Capcom and TAD Corporation employees. Mitchell Corporation developed titles for home consoles, handhelds, Japanese mobile phones, the arcade[1] and interactive kiosks located in restaurants and other places. Mitchell also distributed printed circuit boards for the arcade/coin-op market. The company also developed video games for other publishers. Starting in 2004, they started developing games only for Nintendo hardware.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Mitchell Corporation e presenti su questa macchina.                               Mitchell Corporation (株式会社ミッチェル) era una societa' giapponese di sviluppo di videogiochi con sede nel quartiere di Suginami a Tokyo. Roy Ozaki ricopriva la carica di presidente e Koichi Niida quella di vicepresidente. Alcuni dipendenti erano ex dipendenti di Capcom e TAD Corporation. Mitchell Corporation sviluppava titoli per console domestiche, dispositivi portatili, telefoni cellulari giapponesi, sale giochi[1] e chioschi interattivi situati in ristoranti e altri luoghi. Mitchell distribuiva anche schede a circuito stampato per il mercato delle sale giochi/cocktail. L'azienda sviluppava videogiochi anche per altri editori. A partire dal 2004, inizio' a sviluppare giochi esclusivamente per hardware Nintendo.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Mitchell Corporation et disponibles sur cette machine.                               Mitchell Corporation (株式会社ミッチェル) e'tait un de'veloppeur de jeux vide'o japonais base' dans l'arrondissement de Suginami a' Tokyo. Roy Ozaki en e'tait le pre'sident et Koichi Niida le vice-pre'sident. Certains employe's e'taient d'anciens employe's de Capcom et de TAD Corporation. Mitchell Corporation de'veloppait des jeux pour consoles de salon, consoles portables, te'le'phones mobiles japonais, bornes d'arcade[1] et bornes interactives installe'es dans des restaurants et autres lieux publics. Mitchell distribuait e'galement des cartes de circuits imprime's pour le marche' des bornes d'arcade. L'entreprise de'veloppait aussi des jeux vide'o pour d'autres e'diteurs. a' partir de 2004, elle s'est consacre'e exclusivement au de'veloppement de jeux pour les consoles Nintendo.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Hier ist eine Sammlung aller von Mitchell Corporation entwickelten und auf dieser Maschine enthaltenen Spiele.                               Die Mitchell Corporation (株式会社ミッチェル) war ein japanischer Videospielentwickler mit Sitz im Tokioter Stadtbezirk Suginami. Roy Ozaki war Präsident, Koichi Niida Vizepräsident. Einige Mitarbeiter waren zuvor bei Capcom und der TAD Corporation angestellt. Die Mitchell Corporation entwickelte Spiele für Heimkonsolen, Handhelds, japanische Mobiltelefone, Spielhallen[1] und interaktive Kioske in Restaurants und anderen Orten. Mitchell vertrieb außerdem Leiterplatten für den Arcade-Markt. Das Unternehmen entwickelte auch Videospiele für andere Publisher. Ab 2004 konzentrierte sich Mitchell auf die Entwicklung von Spielen ausschließlich für Nintendo-Hardware.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Mitchell Corporation e incluidos en esta máquina.                               Mitchell Corporation (株式会社ミッチェル) fue una desarrolladora japonesa de videojuegos con sede en el distrito de Suginami, Tokio. Roy Ozaki fue presidente y Koichi Niida vicepresidente. Algunos empleados eran antiguos empleados de Capcom y TAD Corporation. Mitchell Corporation desarrolló títulos para consolas dome'sticas, portátiles, tele'fonos móviles japoneses, máquinas recreativas[1] y quioscos interactivos ubicados en restaurantes y otros lugares. Mitchell tambie'n distribuía placas de circuito impreso para el mercado de máquinas recreativas. La compañía tambie'n desarrolló videojuegos para otras editoras. A partir de 2004, comenzaron a desarrollar juegos exclusivamente para hardware de Nintendo.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 	</view>
 </theme>
+
+
+
+
+

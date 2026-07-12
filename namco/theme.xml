@@ -9,23 +9,23 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Here is a collection of all the games created by Namco and featured on this machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+         <text>Here is a collection of all the games created by Namco and featured on this machine.                                                    Namco Ltd (株式会社ナムコ, Kabushiki Gaisha Namuko) is a Japanese video game developer founded in 1955 by Masaya Nakamura. It has been part of the Bandai Namco holding company since 2005 and was absorbed into the company in 2006.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Namco e presenti su questa macchina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Namco e presenti su questa macchina.                                                    Namco Ltd (株式会社ナムコ?, Kabushiki Gaisha Namuko) e' una software house giapponese produttrice di videogiochi, fondata nel 1955 da Masaya Nakamura. Dal 2005 e' parte della holding Bandai Namco e dal 2006 e' stata assorbita.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="fr">Voici une collection de tous les jeux créés par Namco et disponibles sur cette machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Namco et disponibles sur cette machine.                                                    Namco Ltd (株式会社ナムコ, Kabushiki Gaisha Namuko) est un de'veloppeur de jeux vide'o japonais fonde' en 1955 par Masaya Nakamura. Elle fait partie de la socie'te' holding Bandai Namco depuis 2005 et a e'te' absorbe'e par la socie'te' en 2006.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="de">Hier ist eine Sammlung aller von Namco entwickelten und auf dieser Maschine enthaltenen Spiele.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="de">Hier ist eine Sammlung aller von Namco entwickelten und auf dieser Maschine enthaltenen Spiele.                                                    Namco Ltd (株式会社ナムコ, Kabushiki Gaisha Namuko) ist ein japanischer Videospielentwickler, der 1955 von Masaya Nakamura gegründet wurde. Seit 2005 ist es Teil der Bandai Namco Holding und wurde 2006 in das Unternehmen übernommen.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="es">Aquí tenéis una recopilación de todos los juegos creados por Namco e incluidos en esta máquina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Namco e incluidos en esta máquina.                                                    Namco Ltd (株式会社ナムコ, Kabushiki Gaisha Namuko) es un desarrollador de videojuegos japone's fundado en 1955 por Masaya Nakamura. Forma parte del holding Bandai Namco desde 2005 y fue absorbida por la empresa en 2006.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>       
@@ -36,6 +36,7 @@
       </text>
 	</view>
 </theme>
+
 
 
 
