@@ -6,7 +6,7 @@
                    <origin>0.5 0.5</origin>
                    <pos>0.5 0.5</pos>
                    <maxSize>0.8 0.7</maxSize>
-                   <path>./_inc/systemsnap.png</path>
+                   <path>./_inc/systemsnap-it.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
          <text>Library is a collection of magazines, advertising banners, catalogs, posters and all other documents related to retro gaming. It has a built-in file browser, so you can use the controller to browse your collection.<multiLine ifSubset="view:Carousel">false</multiLine>
