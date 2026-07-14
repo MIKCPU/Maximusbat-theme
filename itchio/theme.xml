@@ -9,23 +9,23 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Here is a collection of all the games of this genre, from all the systems you have on this machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+         <text>itch.io (stylized in all lowercase) is a website for users to host, sell and download indie video games, indie role-playing games, game assets, comics, zines and music. Launched in March 2013 by Leaf Corcoran, the service hosts over 1,000,000 products as of November 2024. Itch.io allows users to host game jams, events where participants have limited time to create a game, though Itch.io allows jams for other types of media. Itch.io also allows multiple users to sell their products together in "bundles".<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="it">Ecco una raccolta di tutti i giochi di questo genere, da tutti i sistemi presenti su questa macchina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="it">itch.io (stilizzato in minuscolo) è un sito web che permette agli utenti di ospitare, vendere e scaricare videogiochi indie, giochi di ruolo indie, risorse di gioco, fumetti, fanzine e musica. Lanciato nel marzo 2013 da Leaf Corcoran, il servizio ospita oltre 1.000.000 di prodotti a novembre 2024. Itch.io consente agli utenti di organizzare game jam, eventi in cui i partecipanti hanno un tempo limitato per creare un gioco, ma permette anche di organizzare jam per altri tipi di media. Itch.io consente inoltre a più utenti di vendere i propri prodotti insieme in "bundle".<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="fr">Voici une collection de tous les jeux de ce genre, de tous les syste'mes sur cette machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="fr">itch.io (stylisé en minuscules) est un site web permettant aux utilisateurs d'héberger, de vendre et de télécharger des jeux vidéo indépendants, des jeux de rôle indépendants, des ressources pour jeux, des bandes dessinées, des fanzines et de la musique. Lancé en mars 2013 par Leaf Corcoran, le service hébergeait plus d'un million de produits en novembre 2024. Itch.io permet aux utilisateurs d'organiser des game jams, des événements où les participants disposent d'un temps limité pour créer un jeu, bien qu'Itch.io autorise également les game jams pour d'autres types de médias. Itch.io permet aussi à plusieurs utilisateurs de vendre leurs produits ensemble sous forme de « bundles ».<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="de">Hier ist eine Sammlung aller Spiele dieses Genres von allen Systemen auf diesem Rechner.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="de">itch.io (stilisiert in Kleinbuchstaben) ist eine Website, auf der Nutzer Indie-Videospiele, Indie-Rollenspiele, Spielressourcen, Comics, Fanzines und Musik anbieten, verkaufen und herunterladen können. Der Dienst wurde im März 2013 von Leaf Corcoran ins Leben gerufen und bot im November 2024 über 1.000.000 Produkte an. Auf itch.io können Nutzer Game Jams veranstalten – Events, bei denen die Teilnehmer nur begrenzt Zeit haben, ein Spiel zu entwickeln. Itch.io ermöglicht aber auch Jams für andere Medienformate. Außerdem können mehrere Nutzer ihre Produkte gemeinsam in sogenannten „Bundles“ verkaufen.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="es">Aquí tienes una recopilación de todos los juegos de este ge'nero, de todos los sistemas de esta máquina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="es">itch.io (estilizado en minúsculas) es un sitio web donde los usuarios pueden alojar, vender y descargar videojuegos independientes, juegos de rol independientes, recursos para juegos, cómics, fanzines y música. Lanzado en marzo de 2013 por Leaf Corcoran, el servicio cuenta con más de 1.000.000 de productos a fecha de noviembre de 2024. Itch.io permite a los usuarios organizar game jams, eventos donde los participantes tienen un tiempo limitado para crear un juego, aunque también permite jams para otros tipos de contenido multimedia. Además, Itch.io permite que varios usuarios vendan sus productos juntos en "paquetes".<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>       
