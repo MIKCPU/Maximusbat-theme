@@ -9,23 +9,23 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Here is a collection of all the games created by Sega and featured on this machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+         <text>Here is a collection of all the games created by Sega and featured on this machine.                                                             Sega (株式会社セガ, Kabushiki gaisha Sega, Sega Corporation), an acronym for Service Games, is a Japanese multinational corporation that develops and publishes video games, both for arcades and home platforms, headquartered in Tokyo. It also developed and published consoles under its own brand from 1983 to 2001, but after an internal corporate restructuring announced on January 31, 2001, it discontinued all console production. Arcade production has continued since then, but the reorganization led the company to focus on developing video games for third-party consoles.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Sega e presenti su questa macchina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Sega e presenti su questa macchina.                                                             Sega (株式会社セガ, Kabushiki gaisha Sega, Sega Corporation), acronimo di Service Games, e' una societa' multinazionale giapponese che sviluppa e pubblica videogiochi, sia arcade sia per piattaforme domestiche, con sede a Tokyo. Ha sviluppato e pubblicato anche console con il proprio marchio dal 1983 al 2001, ma dopo una ristrutturazione aziendale interna annunciata il 31 gennaio 2001 ha decretato la fine della produzione di ogni console. Da allora la produzione di arcade e' continuata, ma la riorganizzazione ha portato la compagnia a focalizzarsi nello sviluppo di videogiochi destinati a console di terze parti.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="fr">Voici une collection de tous les jeux créés par Sega et disponibles sur cette machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Sega et disponibles sur cette machine.                                                             Sega (株式会社セガ, Kabushiki gaisha Sega, Sega Corporation), acronyme de Service Games, est une multinationale japonaise base'e a' Tokyo qui de'veloppe et e'dite des jeux vide'o pour bornes d'arcade et consoles de salon. De 1983 a' 2001, elle a e'galement de'veloppe' et commercialise' des consoles sous sa propre marque. Cependant, suite a' une restructuration interne annonce'e le 31 janvier 2001, elle a cesse' toute production de consoles. La production de jeux d'arcade s'est poursuivie depuis, mais cette re'organisation a conduit l'entreprise a' se concentrer sur le de'veloppement de jeux vide'o pour consoles tierces.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="de">Hier ist eine Sammlung aller von Sega entwickelten und auf dieser Maschine enthaltenen Spiele.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="de">Hier ist eine Sammlung aller von Sega entwickelten und auf dieser Maschine enthaltenen Spiele.                                                             Sega (株式会社セガ, Kabushiki gaisha Sega, Sega Corporation), ein Akronym für Service Games, ist ein japanischer multinationaler Konzern mit Hauptsitz in Tokio, der Videospiele für Spielhallen und Heimkonsolen entwickelt und veröffentlicht. Von 1983 bis 2001 entwickelte und veröffentlichte das Unternehmen auch Konsolen unter eigener Marke. Nach einer internen Umstrukturierung, die am 31. Januar 2001 angekündigt wurde, stellte Sega die Konsolenproduktion jedoch vollständig ein. Die Produktion von Arcade-Spielen wurde seitdem fortgesetzt, die Umstrukturierung führte jedoch dazu, dass sich das Unternehmen auf die Entwicklung von Videospielen für Konsolen von Drittanbietern konzentrierte.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="es">Aquí tenéis una recopilación de todos los juegos creados por Sega e incluidos en esta máquina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Sega e incluidos en esta máquina.                                                             Sega (株式会社セガ, Kabushiki gaisha Sega, Sega Corporation), acrónimo de Service Games, es una multinacional japonesa con sede en Tokio que desarrolla y publica videojuegos para máquinas recreativas y consolas dome'sticas. Entre 1983 y 2001, tambie'n desarrolló y publicó consolas bajo su propia marca, pero tras una reestructuración interna anunciada el 31 de enero de 2001, cesó toda la producción de consolas. Si bien la producción de máquinas recreativas ha continuado desde entonces, la reorganización llevó a la compañía a centrarse en el desarrollo de videojuegos para consolas de terceros.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>       
@@ -36,6 +36,7 @@
       </text>
 	</view>
 </theme>
+
 
 
 

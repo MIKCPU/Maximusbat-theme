@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -8,5 +8,36 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Here is a collection of all the games created by NMK and featured on this machine.                                                             Nihon Maicom Kaihatsu, better known as NMK, was a Japanese video game developer that created various arcade games and shoot 'em ups. Japanese publisher Hamster Corporation owns the rights to its intellectual property after purchasing it since it went defunct. In 2017, several NMK games began appearing on their Arcade Archives series of re-releases, beginning with Zed Blade. From 2021 onwards, other titles from the company, such as Thunder Dragon, Saboten Bombers, Hacha Mecha Fighter, Gunnail, Thunder Dragon 2 and Bomb Jack Twin started appearing afterwards.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla NMK e presenti su questa macchina.                                                             Nihon Maicom Kaihatsu, meglio conosciuta come NMK, era una casa di sviluppo di videogiochi giapponese che creava vari giochi arcade e sparatutto. L'editore giapponese Hamster Corporation detiene i diritti sulla sua proprieta' intellettuale dopo averla acquistata in seguito al suo fallimento. Nel 2017, diversi giochi NMK hanno iniziato ad apparire nella loro serie di riedizioni Arcade Archives, a partire da Zed Blade. Dal 2021 in poi, altri titoli della compagnia, come Thunder Dragon, Saboten Bombers, Hacha Mecha Fighter, Gunnail, Thunder Dragon 2 e Bomb Jack Twin, hanno iniziato ad apparire successivamente.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par NMK et disponibles sur cette machine.                                                             Nihon Maicom Kaihatsu, plus connu sous le nom de NMK, e'tait un de'veloppeur japonais de jeux vide'o ayant cre'e' divers jeux d'arcade et shoot'em up. L'e'diteur japonais Hamster Corporation de'tient les droits de sa proprie'te' intellectuelle depuis son rachat apre's la disparition de l'entreprise. En 2017, plusieurs jeux NMK ont commence' a' apparaître dans leur collection de re'e'ditions Arcade Archives, a' commencer par Zed Blade. a' partir de 2021, d'autres titres du studio, tels que Thunder Dragon, Saboten Bombers, Hacha Mecha Fighter, Gunnail, Thunder Dragon 2 et Bomb Jack Twin, ont suivi.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Hier ist eine Sammlung aller von NMK entwickelten und auf dieser Maschine enthaltenen Spiele.                                                             Nihon Maicom Kaihatsu, plus connu sous le nom de NMK, e'tait un de'veloppeur japonais de jeux vide'o ayant cre'e' divers jeux d'arcade et shoot'em up. L'e'diteur japonais Hamster Corporation de'tient les droits de sa proprie'te' intellectuelle depuis son rachat apre's la disparition de l'entreprise. En 2017, plusieurs jeux NMK ont commence' a' apparaître dans leur collection de re'e'ditions Arcade Archives, a' commencer par Zed Blade. a' partir de 2021, d'autres titres du studio, tels que Thunder Dragon, Saboten Bombers, Hacha Mecha Fighter, Gunnail, Thunder Dragon 2 et Bomb Jack Twin, ont suivi.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por NMK e incluidos en esta máquina.                                                            Nihon Maicom Kaihatsu, más conocida como NMK, fue una desarrolladora japonesa de videojuegos que creó diversos juegos arcade y de disparos. La editorial japonesa Hamster Corporation posee los derechos de su propiedad intelectual tras adquirirla despue's de su desaparición. En 2017, varios juegos de NMK comenzaron a aparecer en su serie de reediciones Arcade Archives, empezando por Zed Blade. A partir de 2021, otros títulos de la compañía, como Thunder Dragon, Saboten Bombers, Hacha Mecha Fighter, Gunnail, Thunder Dragon 2 y Bomb Jack Twin, comenzaron a aparecer posteriormente.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 	</view>
 </theme>
+
+
+
+
+

@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -8,5 +8,36 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Here is a collection of all the games created by SemiCom and featured on this machine.                                                             Semicom (or SemiCom) was a South Korean video game company active in the 1990s and early 2000s, best known for developing popular arcade titles such as Magic Ball Fighting, Hyper Pacman, and Wyvern Wings. Originally founded as Cheil Computer System in 1993, the company changed its name to First Amusement and finally to Semicom in 1994. The company initially focused on action and puzzle games reminiscent of classics of the genre (such as Pac-Man and Tetris) and party games in the Bishi Bashi style. Later, it specialized in two main genres: - Shoot 'em up: The most famous is Wyvern Wings (2001), a popular vertically scrolling shooter with detailed graphics. - Gambling cabinets: Starting in 2001, Semicom gradually abandoned the development of traditional video games to focus on slot machines and poker games, a common practice among Korean arcade manufacturers at the time.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla SemiCom e presenti su questa macchina.                                                             Semicom (o SemiCom) e' stata un'azienda sudcoreana di videogiochi attiva negli anni '90 e nei primi anni 2000, nota soprattutto per lo sviluppo di popolari titoli arcade come Magic Ball Fighting, Hyper Pacman e Wyvern Wings. Fondata originariamente come Cheil Computer System nel 1993, l'azienda cambio' nome in First Amusement e infine in Semicom nel 1994. L'azienda si concentro' inizialmente su giochi d'azione e puzzle game che ricordavano grandi classici del genere (come Pac-Man e Tetris) e su party game in stile Bishi Bashi. Successivamente, si distinse per due generi principali:  - Shoot 'em up: Il piU' famoso e' Wyvern Wings (2001), un apprezzato sparatutto a scorrimento verticale con grafica dettagliata. - Cabinetti da gioco d'azzardo: A partire dal 2001, Semicom ha gradualmente abbandonato lo sviluppo di videogiochi tradizionali per dedicarsi a slot machine e giochi di poker, una pratica comune tra i produttori arcade coreani dell'epoca.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par SemiCom et disponibles sur cette machine.                                                             Semicom (ou SemiCom) e'tait une socie'te' sud-core'enne de jeux vide'o active dans les anne'es 1990 et au de'but des anne'es 2000, surtout connue pour ses titres d'arcade populaires tels que Magic Ball Fighting, Hyper Pacman et Wyvern Wings. Fonde'e initialement sous le nom de Cheil Computer System en 1993, la socie'te' changea de nom pour devenir First Amusement, puis Semicom en 1994. Elle se concentra d'abord sur les jeux d'action et de re'flexion rappelant les classiques du genre (comme Pac-Man et Tetris) et les jeux de socie'te' de type Bishi Bashi. Par la suite, elle se spe'cialisa dans deux genres principaux : les shoot 'em up, dont le plus ce'le'bre est Wyvern Wings (2001), un shoot 'em up a' de'filement vertical aux graphismes de'taille's ; et les bornes d'arcade. a' partir de 2001, Semicom abandonna progressivement le de'veloppement de jeux vide'o traditionnels pour se concentrer sur les machines a' sous et les jeux de poker, une pratique courante chez les fabricants d'arcade core'ens de l'e'poque.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Hier ist eine Sammlung aller von SemiCom entwickelten und auf dieser Maschine enthaltenen Spiele.                                                             Semicom (oder SemiCom) war ein südkoreanisches Videospielunternehmen, das in den 1990er und frühen 2000er Jahren aktiv war und vor allem für die Entwicklung beliebter Arcade-Titel wie Magic Ball Fighting, Hyper Pacman und Wyvern Wings bekannt ist. Ursprünglich 1993 als Cheil Computer System gegründet, änderte das Unternehmen seinen Namen in First Amusement und schließlich 1994 in Semicom. Anfangs konzentrierte sich das Unternehmen auf Action- und Puzzlespiele, die an Klassiker des Genres (wie Pac-Man und Tetris) erinnerten, sowie auf Partyspiele im Bishi-Bashi-Stil. Später spezialisierte es sich auf zwei Hauptgenres: Shoot 'em ups: Das bekannteste Beispiel ist Wyvern Wings (2001), ein beliebter vertikal scrollender Shooter mit detaillierter Grafik. Spielautomaten: Ab 2001 gab Semicom die Entwicklung traditioneller Videospiele schrittweise auf und konzentrierte sich auf Spielautomaten und Pokerspiele – eine damals gängige Praxis unter koreanischen Arcade-Herstellern.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por SemiCom e incluidos en esta máquina.                                                             Semicom (o SemiCom) fue una compañía surcoreana de videojuegos activa en la de'cada de 1990 y principios de la de 2000, conocida principalmente por desarrollar títulos arcade populares como Magic Ball Fighting, Hyper Pacman y Wyvern Wings. Fundada originalmente como Cheil Computer System en 1993, la compañía cambió su nombre a First Amusement y finalmente a Semicom en 1994. Inicialmente, la compañía se centró en juegos de acción y rompecabezas que recordaban a los clásicos del ge'nero (como Pac-Man y Tetris) y juegos de fiesta al estilo Bishi Bashi. Más tarde, se especializó en dos ge'neros principales: - Shoot 'em up: El más famoso es Wyvern Wings (2001), un popular shooter de desplazamiento vertical con gráficos detallados. - Máquinas recreativas: A partir de 2001, Semicom abandonó gradualmente el desarrollo de videojuegos tradicionales para centrarse en máquinas tragamonedas y juegos de póker, una práctica común entre los fabricantes de arcade coreanos de la e'poca.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 	</view>
 </theme>
+
+
+
+
+

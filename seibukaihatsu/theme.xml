@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -8,5 +8,36 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Here is a collection of all the games created by Seibu Kaihatsu and featured on this machine.                                                             Seibu Kaihatsu, originally called Seibu Denshi and often abbreviated to Seibu, was a Japanese software house specializing in the production of arcade video games. Founded in 1982, it began its activity in 1983 with the science fiction game Stinger, a video game heavily inspired by Sega's Zaxxon. In the 1980s, it churned out a series of decent-quality games (some of them licensed from Taito), most notably Dynamite Duke (1989), also famous for its ports to Sega consoles. But it was the following year, 1990, that Seibu Kaihatsu achieved its breakthrough with its most famous game, Raiden, which subsequently spawned seven more games, including sequels and spin-offs, becoming one of the best arcade shooters. Seibu also managed to establish itself in the field of soccer video games with the 1991 title Seibu Cup Soccer, a huge hit in Europe at least until the mid-1990s.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Seibu Kaihatsu e presenti su questa macchina.                                                            La Seibu Kaihatsu, inizialmente chiamata Seibu Denshi e spesso abbreviata in Seibu, e' stata una software house giapponese specializzata nella produzione di videogiochi arcade. Fondata nel 1982, inizio' la sua attivita' nel 1983 con il gioco fantascientifico Stinger, videogioco fortemente ispirato a Zaxxon della SEGA. Negli anni ottanta sforno' una serie di giochi di discreto valore (alcuni di questi sotto licenza dalla Taito) tra i quali spicca Dynamite Duke del 1989, celebre anche per i porting su console SEGA. Ma fu l'anno dopo, il 1990, che la Seibu Kaihatsu venne consacrata dal proprio gioco piU' celebre, quel Raiden che successivamente dara' alla luce altri sette videogiochi tra sequel e spin-off, diventando cosi' uno dei migliori sparatutto arcade. La Seibu riusci' ad affermarsi anche nel campo dei videogiochi di calcio con il titolo Seibu Cup Soccer del 1991, molto gettonato in Europa almeno fino alla meta' degli anni novanta.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Seibu Kaihatsu et disponibles sur cette machine.                                                             Seibu Kaihatsu, anciennement Seibu Denshi et souvent abre'ge' en Seibu, e'tait un studio de de'veloppement de jeux vide'o japonais spe'cialise' dans les jeux d'arcade. Fonde' en 1982, il de'buta son activite' en 1983 avec le jeu de science-fiction Stinger, fortement inspire' de Zaxxon de Sega. Dans les anne'es 1980, il produisit une se'rie de jeux de qualite' correcte (dont certains sous licence Taito), notamment Dynamite Duke (1989), e'galement ce'le'bre pour ses adaptations sur consoles Sega. Mais c'est l'anne'e suivante, en 1990, que Seibu Kaihatsu connut son ve'ritable succe's avec son jeu le plus connu, Raiden, qui donna naissance a' sept autres titres, dont des suites et des spin-offs, et devint l'un des meilleurs shoot'em up d'arcade. Seibu s'imposa e'galement dans le domaine des jeux vide'o de football avec Seibu Cup Soccer (1991), un immense succe's en Europe au moins jusqu'au milieu des anne'es 1990.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Hier ist eine Sammlung aller von Seibu Kaihatsu entwickelten und auf dieser Maschine enthaltenen Spiele.                                                             Seibu Kaihatsu, ursprünglich Seibu Denshi und oft nur Seibu genannt, war ein japanisches Softwarehaus, das sich auf die Produktion von Arcade-Videospielen spezialisiert hatte. Gegründet 1982, nahm das Unternehmen seine Tätigkeit 1983 mit dem Science-Fiction-Spiel Stinger auf, einem Videospiel, das stark von Segas Zaxxon inspiriert war. In den 1980er-Jahren veröffentlichte Seibu eine Reihe von Spielen mit guter Qualität (einige davon in Lizenz von Taito), allen voran Dynamite Duke (1989), das auch für seine Portierungen auf Sega-Konsolen bekannt ist. Der Durchbruch gelang Seibu Kaihatsu jedoch erst im Jahr 1990 mit seinem berühmtesten Spiel Raiden, das in der Folge sieben weitere Spiele, darunter Fortsetzungen und Ableger, nach sich zog und zu einem der besten Arcade-Shooter wurde. Auch im Bereich der Fußball-Videospiele etablierte sich Seibu mit dem 1991 erschienenen Titel Seibu Cup Soccer, der zumindest bis Mitte der 1990er-Jahre in Europa ein großer Erfolg war.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Seibu Kaihatsu e incluidos en esta máquina.                                                             Seibu Kaihatsu, originalmente llamada Seibu Denshi y a menudo abreviada como Seibu, fue una compañía japonesa de software especializada en la producción de videojuegos arcade. Fundada en 1982, comenzó su actividad en 1983 con el juego de ciencia ficción Stinger, un videojuego fuertemente inspirado en Zaxxon de Sega. En la de'cada de 1980, produjo una serie de juegos de buena calidad (algunos de ellos con licencia de Taito), entre los que destaca Dynamite Duke (1989), tambie'n famoso por sus adaptaciones a las consolas Sega. Pero fue al año siguiente, 1990, cuando Seibu Kaihatsu alcanzó el e'xito con su juego más famoso, Raiden, que posteriormente dio lugar a siete juegos más, incluyendo secuelas y spin-offs, convirtie'ndose en uno de los mejores juegos de disparos arcade. Seibu tambie'n logró establecerse en el campo de los videojuegos de fútbol con el título Seibu Cup Soccer de 1991, un gran e'xito en Europa al menos hasta mediados de la de'cada de 1990.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 	</view>
 </theme>
+
+
+
+
+

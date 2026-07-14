@@ -9,23 +9,23 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Here is a collection of all the games created by SNK and featured on this machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+         <text>Here is a collection of all the games created by SNK and featured on this machine.                                                             SNK Corporation (SNK Playmore from 2003 to 2016) is a Japanese video game company, initially producing arcade games, becoming a key player in the golden age of arcades, and later home consoles. Founded on July 22, 1978, as Shin Nihon Kikaku (新日本企画? New Japanese Project) by Eikichi Kawasaki, it rose to fame over the years with its Neo Geo video games and consoles and the Metal Slug, The King of Fighters, Samurai Shodown, and Fatal Fury arcade series.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla SNK e presenti su questa macchina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla SNK e presenti su questa macchina.                                                             SNK Corporation (dal 2003 al 2016 SNK Playmore) e' un'azienda giapponese produttrice di videogiochi, inizialmente arcade, diventando una protagonista del periodo d'oro delle sale giochi, e successivamente per console casalinghe. Fondata nel 22 luglio 1978 come Shin Nihon Kikaku (新日本企画? Nuovo Progetto Giapponese) da Eikichi Kawasaki, e' diventata famosa nel corso degli anni grazie ai videogiochi e console Neo Geo e alle serie di giochi arcade Metal Slug, The King of Fighters, Samurai Shodown e Fatal Fury.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="fr">Voici une collection de tous les jeux créés par SNK et disponibles sur cette machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par SNK et disponibles sur cette machine.                                                             SNK Corporation (SNK Playmore de 2003 a' 2016) est une socie'te' japonaise de jeux vide'o, initialement spe'cialise'e dans les jeux d'arcade. Acteur majeur de l'âge d'or des salles d'arcade, elle s'est ensuite illustre'e sur les consoles de salon. Fonde'e le 22 juillet 1978 sous le nom de Shin Nihon Kikaku (新日本企画, Nouveau Projet Japonais) par Eikichi Kawasaki, elle a acquis une grande notorie'te' grâce a' ses jeux et consoles Neo Geo, ainsi qu'aux se'ries d'arcade Metal Slug, The King of Fighters, Samurai Shodown et Fatal Fury.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="de">Hier ist eine Sammlung aller von SNK entwickelten und auf dieser Maschine enthaltenen Spiele.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="de">Hier ist eine Sammlung aller von SNK entwickelten und auf dieser Maschine enthaltenen Spiele.                                                             SNK Corporation (von 2003 bis 2016 SNK Playmore) ist ein japanisches Videospielunternehmen, das zunächst Arcade-Spiele produzierte und sich zu einem der wichtigsten Akteure im goldenen Zeitalter der Spielhallen und später auch im Bereich der Heimkonsolen entwickelte. Gegründet wurde es am 22. Juli 1978 als Shin Nihon Kikaku (新日本企画, Neues Japanisches Projekt) von Eikichi Kawasaki und erlangte im Laufe der Jahre mit seinen Neo-Geo-Videospielen und -Konsolen sowie den Arcade-Serien Metal Slug, The King of Fighters, Samurai Shodown und Fatal Fury Berühmtheit.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="es">Aquí tenéis una recopilación de todos los juegos creados por SNK e incluidos en esta máquina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por SNK e incluidos en esta máquina.                                                             SNK Corporation (SNK Playmore de 2003 a 2016) es una compañía japonesa de videojuegos que, inicialmente, producía juegos arcade, convirtie'ndose en un actor clave en la e'poca dorada de las máquinas recreativas y, posteriormente, de las consolas dome'sticas. Fundada el 22 de julio de 1978 como Shin Nihon Kikaku (新日本企画? Nuevo Proyecto Japone's) por Eikichi Kawasaki, alcanzó la fama con el paso de los años gracias a sus videojuegos y consolas Neo Geo y a las series arcade Metal Slug, The King of Fighters, Samurai Shodown y Fatal Fury.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>       
@@ -36,6 +36,7 @@
       </text>
 	</view>
 </theme>
+
 
 
 

@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -8,5 +8,36 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Here is a collection of all the games created by Video System and featured on this machine.                                                             Video System Co., Ltd. (ビデオシステム株式会社?), also known as V-System, was a Japanese software company specializing in the production of arcade and home console video games. Founded in Kyoto in December 1984 by software designer Koji Furukawa, formerly of Visco, Video System later opened a subsidiary in the United States, which changed its name to McO'River, Inc. in 1992, before reverting to Video System U.S.A., Inc. in 1997. After initially producing mahjong-themed video games, its peak production came in the early 1990s with notable titles such as the Aero Fighters, Super Volleyball, and F-1 Grand Prix series, which featured elements inspired by real military aircraft, athletes, and racing teams of the time. Weakened by several spin-offs, including the departure of the Aero Fighters staff who went on to found Psikyo (1992) and that of another group of programmers who created Hamster (1999), Video System was unable to adequately address the crisis in arcade video games and the innovation of console video games, and from 2001 it no longer produced video games. In 2007 it closed due to bankruptcy.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Video System e presenti su questa macchina.                                                             La Video System Co., Ltd. (ビデオシステム株式会社?), conosciuta anche come V-System, fu una software house giapponese specializzata nella produzione di videogiochi arcade e videogiochi per console domestiche. Fondata a Kyoto nel dicembre 1984 dal software designer Koji Furukawa, precedentemente legato alla Visco, la Video System successivamente inauguro' una filiale negli Stati Uniti d'America, filiale che nel 1992 cambio' nome in McO'River, Inc per poi tornare nel 1997 sotto il nome Video System U.S.A., Inc. Dopo un inizio all'insegna di videogiochi inerenti al mahjong, l'apice della sua produzione e' avvenuto nei primi anni novanta con titoli di rilievo come le serie Aero Fighters, Super Volleyball e F-1 Grand Prix, caratterizzate dall'utilizzo di elementi ispirati da reali aerei militari, atleti e scuderie automobilistiche note al tempo. Indebolita da diversi scorpori, tra questi l'allontanamento dello staff di Aero Fighters che ando' a fondare la Psikyo (1992) e quello di un altro gruppo di programmatori che crearono la Hamster (1999), la Video System non riusci' ad affrontare adeguatamente la crisi dei videogiochi arcade e l'innovazione dei videogiochi su console, e dal 2001 non produsse piU' videogiochi. Nel 2007 chiuse per bancarotta.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Video System et disponibles sur cette machine.                                                             Video System Co., Ltd. (ビデオシステム株式会社), e'galement connue sous le nom de V-System, e'tait une socie'te' japonaise de de'veloppement de jeux vide'o spe'cialise'e dans la production de jeux d'arcade et de consoles de salon. Fonde'e a' Kyoto en de'cembre 1984 par le concepteur de logiciels Koji Furukawa, ancien employe' de Visco, Video System a ensuite ouvert une filiale aux e'tats-Unis, qui a pris le nom de McO'River, Inc. en 1992, avant de redevenir Video System U.S.A., Inc. en 1997. Apre's avoir initialement produit des jeux vide'o sur le the'me du mah-jong, sa production a atteint son apoge'e au de'but des anne'es 1990 avec des titres notables tels que les se'ries Aero Fighters, Super Volleyball et F-1 Grand Prix, qui inte'graient des e'le'ments inspire's des avions militaires, des athle'tes et des e'curies de course de l'e'poque. Affaiblie par plusieurs de'parts, notamment celui de l'e'quipe d'Aero Fighters qui fonda Psikyo (1992) et celui d'un autre groupe de programmeurs a' l'origine d'Hamster (1999), Video System ne put faire face a' la crise des jeux d'arcade ni a' l'innovation des jeux sur consoles, et cessa toute production de jeux vide'o en 2001. Elle ferma ses portes en 2007 suite a' une faillite.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Hier ist eine Sammlung aller von Video System entwickelten und auf dieser Maschine enthaltenen Spiele.                                                             Video System Co., Ltd. (ビデオシステム株式会社?), auch bekannt als V-System, war ein japanisches Softwareunternehmen, das sich auf die Produktion von Arcade- und Heimkonsolen-Videospielen spezialisiert hatte. Gegründet wurde es im Dezember 1984 in Kyoto von dem Softwareentwickler Koji Furukawa, zuvor bei Visco tätig. Video System eröffnete später eine Tochtergesellschaft in den Vereinigten Staaten, die 1992 in McO'River, Inc. umbenannt wurde, bevor sie 1997 wieder den Namen Video System U.S.A., Inc. annahm. Nach anfänglicher Produktion von Mahjong-Videospielen erreichte das Unternehmen seinen Produktionshöhepunkt in den frühen 1990er Jahren mit bekannten Titeln wie den Serien Aero Fighters, Super Volleyball und F-1 Grand Prix, die Elemente enthielten, die von realen Militärflugzeugen, Athleten und Rennteams der damaligen Zeit inspiriert waren. Geschwächt durch mehrere Ausgründungen, darunter der Weggang der Aero Fighters-Mitarbeiter, die Psikyo (1992) gründeten, und der einer anderen Programmierergruppe, die Hamster (1999) entwickelte, konnte Video System der Krise der Arcade-Videospiele und den Innovationen im Konsolenbereich nicht mehr angemessen begegnen und stellte ab 2001 die Videospielproduktion ein. 2007 musste das Unternehmen aufgrund von Insolvenz schließen.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Video System e incluidos en esta máquina.                                                             Video System Co., Ltd. (ビデオシステム株式会社?), tambie'n conocida como V-System, fue una empresa de software japonesa especializada en la producción de videojuegos para máquinas recreativas y consolas dome'sticas. Fundada en Kioto en diciembre de 1984 por el diseñador de software Koji Furukawa, anteriormente de Visco, Video System abrió posteriormente una filial en Estados Unidos, que cambió su nombre a McO'River, Inc. en 1992, antes de volver a llamarse Video System U.S.A., Inc. en 1997. Tras producir inicialmente videojuegos con temática de mahjong, su producción máxima se produjo a principios de la de'cada de 1990 con títulos notables como las series Aero Fighters, Super Volleyball y F-1 Grand Prix, que presentaban elementos inspirados en aviones militares, atletas y equipos de carreras reales de la e'poca. Debilitada por varias empresas derivadas, entre ellas la marcha del personal de Aero Fighters, que fundó Psikyo (1992), y la de otro grupo de programadores que creó Hamster (1999), Video System no pudo hacer frente adecuadamente a la crisis de los videojuegos arcade ni a la innovación de los videojuegos para consolas, y a partir de 2001 dejó de producir videojuegos. En 2007 cerró sus puertas por bancarrota.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 	</view>
 </theme>
+
+
+
+
+

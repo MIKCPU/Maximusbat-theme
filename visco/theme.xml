@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -8,5 +8,36 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Here is a collection of all the games created by Visco Corporation and featured on this machine.                                                             Visco Corporation (株式会社ビスコ) is a Japanese video game company founded in 1982 by Tetsuo Akiyama (秋山 哲雄, Akiyama Tetsuo) and later incorporated on August 8, 1983. It originally developed video games for various platforms, including the NES, Nintendo 64, and Neo Geo. When Visco became one of Taito's subsidiaries, some of its titles were distributed under the Taito brand. It also collaborated with Seta and Sammy in developing arcade games for the SSV system (named after the initials of the three companies: Sammy, Seta, and Visco), until Sammy merged with SEGA in 2004 (thus creating a new company, Sega Sammy Holdings). Aruze, which controlled Seta, announced in December 2008 that it was closing down after 23 years of operation. Since then, the SSV system has ceased production. Starting in 2008, Visco switched to producing slot machines for casinos, primarily in Southeast Asia. Visco also produced LCD televisions, sold in large retail chains such as Walmart.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Visco Corporation e presenti su questa macchina.                                                             Visco Corporation (株式会社ビスコ) e' un'azienda videoludica giapponese, fondata nel 1982 da Tetsuo Akiyama (秋山 哲雄, Akiyama Tetsuo) e in seguito costituita in forma societaria l'8 agosto 1983. In origine sviluppava videogiochi per diverse piattaforme, tra cui NES, Nintendo 64 e Neo Geo. Quando Visco divenne una delle aziende satelliti della Taito, alcuni dei suoi titoli vennero distribuiti con il marchio Taito. Inoltre ha collaborato con Seta e Sammy nello sviluppo di giochi arcade per il sistema SSV (cosi' chiamato per via delle iniziali delle tre aziende: Sammy, Seta e Visco), fino a quando Sammy si fuse con SEGA nel 2004 (creando cosi' una nuova azienda, la Sega Sammy Holdings), mentre la Aruze, che controllava Seta, annuncio' nel dicembre 2008 la chiusura di quest'ultima dopo 23 anni di attivita'; da allora, il sistema SSV cesso' di essere prodotto. A partire dal 2008, Visco si converti' alla produzione di slot machine per i casino', principalmente nel Sud-est asiatico. Visco ha prodotto anche televisori LCD, venduti nelle grandi catene di distribuzione come Walmart.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Visco Corporation et disponibles sur cette machine.                                                             Visco Corporation (株式会社ビスコ) est une socie'te' japonaise de jeux vide'o fonde'e en 1982 par Tetsuo Akiyama (秋山 哲雄) et constitue'e en socie'te' le 8 août 1983. Elle de'veloppait initialement des jeux vide'o pour diverses plateformes, dont la NES, la Nintendo 64 et la Neo Geo. Lorsque Visco est devenue une filiale de Taito, certains de ses titres ont e'te' distribue's sous la marque Taito. Elle a e'galement collabore' avec Seta et Sammy au de'veloppement de jeux d'arcade pour le syste'me SSV (nomme' d'apre's les initiales des trois socie'te's : Sammy, Seta et Visco), jusqu'a' la fusion de Sammy avec SEGA en 2004 (donnant naissance a' Sega Sammy Holdings). Aruze, qui contrôlait Seta, a annonce' en de'cembre 2008 sa fermeture apre's 23 ans d'activite'. Depuis, la production du syste'me SSV a cesse'. a' partir de 2008, Visco s'est reconvertie dans la production de machines a' sous pour les casinos, principalement en Asie du Sud-Est. Visco produisait e'galement des te'le'viseurs LCD, vendus dans de grandes chaînes de distribution comme Walmart.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Hier ist eine Sammlung aller von Visco Corporation entwickelten und auf dieser Maschine enthaltenen Spiele.                                                             Visco Corporation (株式会社ビスコ) ist ein japanisches Videospielunternehmen, das 1982 von Tetsuo Akiyama (秋山 哲雄, Akiyama Tetsuo) gegründet und am 8. August 1983 in eine Aktiengesellschaft umgewandelt wurde. Ursprünglich entwickelte das Unternehmen Videospiele für verschiedene Plattformen, darunter NES, Nintendo 64 und Neo Geo. Nachdem Visco zu einer Tochtergesellschaft von Taito wurde, wurden einige Titel unter der Marke Taito vertrieben. Visco arbeitete außerdem mit Seta und Sammy an der Entwicklung von Arcade-Spielen für das SSV-System (benannt nach den Initialen der drei Unternehmen: Sammy, Seta und Visco), bis Sammy 2004 mit SEGA fusionierte (wodurch die neue Firma Sega Sammy Holdings entstand). Aruze, die Muttergesellschaft von Seta, kündigte im Dezember 2008 nach 23 Jahren Betrieb die Schließung an. Seitdem wurde die Produktion des SSV-Systems eingestellt. Ab 2008 verlagerte Visco seinen Schwerpunkt auf die Produktion von Spielautomaten für Casinos, vorwiegend in Südostasien. Visco produzierte außerdem LCD-Fernseher, die in großen Einzelhandelsketten wie Walmart verkauft wurden.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Visco Corporation e incluidos en esta máquina.                                                             Visco Corporation (株式会社ビスコ) es una compañía japonesa de videojuegos fundada en 1982 por Tetsuo Akiyama (秋山 哲雄, Akiyama Tetsuo) y posteriormente constituida como sociedad anónima el 8 de agosto de 1983. Originalmente desarrolló videojuegos para diversas plataformas, incluyendo la NES, Nintendo 64 y Neo Geo. Cuando Visco se convirtió en una de las subsidiarias de Taito, algunos de sus títulos se distribuyeron bajo la marca Taito. Tambie'n colaboró ​​con Seta y Sammy en el desarrollo de juegos arcade para el sistema SSV (nombrado por las iniciales de las tres compañías: Sammy, Seta y Visco), hasta que Sammy se fusionó con SEGA en 2004 (creando así una nueva compañía, Sega Sammy Holdings). Aruze, que controlaba Seta, anunció en diciembre de 2008 su cierre tras 23 años de actividad. Desde entonces, el sistema SSV ha cesado su producción. A partir de 2008, Visco se dedicó a la producción de máquinas tragamonedas para casinos, principalmente en el sudeste asiático. Visco tambie'n fabricaba televisores LCD, que se vendían en grandes cadenas minoristas como Walmart.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 	</view>
 </theme>
+
+
+
+
+

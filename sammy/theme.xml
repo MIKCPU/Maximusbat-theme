@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -8,5 +8,36 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Here is a collection of all the games created by Sammy Corporation and featured on this machine.                                                             Sammy Corporation is a Japanese developer and retailer of video game and gambling products and subsidiary of Sega Sammy Holdings, headquartered in Shinagawa, Tokyo. Sammy manufactures pachinko and pachislot machines, and it expanded into video game development in the 1990s with games such as Viewpoint, Survival Arts, and The Rumble Fish. Sammy was founded as Sammy Industry on November 1, 1975 as a spin-off of the arcade division of Satomi Corporation. The company primarily dealt with slot machines and arcade cabinets in Japan. Sammy largely left the video game industry by the late 1990s to focus on its pachinko and arcade management operations. In 2004, the company merged with video game developer and publisher Sega to form Sega Sammy Holdings.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Sammy Corporation e presenti su questa macchina.                                                             Sammy Corporation e' un'azienda giapponese che sviluppa e vende videogiochi e prodotti per il gioco d'azzardo, nonche' una filiale di Sega Sammy Holdings, con sede a Shinagawa, Tokyo. Sammy produce macchine pachinko e pachislot e si e' espansa nello sviluppo di videogiochi negli anni '90 con titoli come Viewpoint, Survival Arts e The Rumble Fish. Sammy e' stata fondata come Sammy Industry il 1° novembre 1975, come spin-off della divisione arcade di Satomi Corporation. L'azienda si occupava principalmente di slot machine e cabinati arcade in Giappone. Sammy ha in gran parte abbandonato il settore dei videogiochi verso la fine degli anni '90 per concentrarsi sulle attivita' di pachinko e sulla gestione di sale giochi. Nel 2004, l'azienda si e' fusa con lo sviluppatore e editore di videogiochi Sega per formare Sega Sammy Holdings.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Sammy Corporation et disponibles sur cette machine.                                                             Sammy Corporation est un de'veloppeur et distributeur japonais de jeux vide'o et de produits de jeux d'argent, filiale de Sega Sammy Holdings, dont le sie'ge social est situe' a' Shinagawa, Tokyo. Sammy fabrique des machines a' pachinko et a' pachislot et s'est diversifie'e dans le de'veloppement de jeux vide'o dans les anne'es 1990 avec des titres tels que Viewpoint, Survival Arts et The Rumble Fish. Fonde'e le 1er novembre 1975 sous le nom de Sammy Industry, la socie'te' est issue de la division arcade de Satomi Corporation. Elle se concentrait alors principalement sur les machines a' sous et les bornes d'arcade au Japon. a' la fin des anne'es 1990, Sammy s'est largement retire'e du secteur du jeu vide'o pour se recentrer sur ses activite's de gestion de pachinko et d'arcade. En 2004, elle a fusionne' avec l'e'diteur et de'veloppeur de jeux vide'o Sega pour former Sega Sammy Holdings.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Hier ist eine Sammlung aller von Sammy Corporation entwickelten und auf dieser Maschine enthaltenen Spiele.                                                             Die Sammy Corporation ist ein japanischer Entwickler und Händler von Videospielen und Glücksspielprodukten und eine Tochtergesellschaft der Sega Sammy Holdings mit Hauptsitz in Shinagawa, Tokio. Sammy produziert Pachinko- und Pachislot-Automaten und expandierte in den 1990er-Jahren mit Spielen wie Viewpoint, Survival Arts und The Rumble Fish in die Videospielentwicklung. Sammy wurde am 1. November 1975 als Sammy Industry als Ausgründung der Arcade-Sparte der Satomi Corporation gegründet. Das Unternehmen handelte hauptsächlich mit Spielautomaten und Arcade-Automaten in Japan. Ende der 1990er-Jahre zog sich Sammy weitgehend aus der Videospielbranche zurück, um sich auf das Pachinko- und Arcade-Management zu konzentrieren. 2004 fusionierte das Unternehmen mit dem Videospielentwickler und -publisher Sega zur Sega Sammy Holdings.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Sammy Corporation e incluidos en esta máquina.                                                             Sammy Corporation es una empresa japonesa desarrolladora y distribuidora de videojuegos y productos de juego, filial de Sega Sammy Holdings, con sede en Shinagawa, Tokio. Sammy fabrica máquinas de pachinko y pachislot, y en la de'cada de 1990 se expandió al desarrollo de videojuegos con títulos como Viewpoint, Survival Arts y The Rumble Fish. Sammy se fundó como Sammy Industry el 1 de noviembre de 1975, como una escisión de la división de máquinas recreativas de Satomi Corporation. La empresa se dedicaba principalmente a las máquinas tragamonedas y los gabinetes de arcade en Japón. A finales de la de'cada de 1990, Sammy abandonó en gran medida la industria de los videojuegos para centrarse en sus operaciones de pachinko y gestión de salones recreativos. En 2004, la empresa se fusionó con la desarrolladora y editora de videojuegos Sega para formar Sega Sammy Holdings.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 	</view>
 </theme>
+
+
+
+
+

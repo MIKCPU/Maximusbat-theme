@@ -9,23 +9,23 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Here is a collection of all the games created by Tecmo and featured on this machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+         <text>Here is a collection of all the games created by Tecmo and featured on this machine.                                                             Tecmo, Ltd. (テクモ?, Tekumo), formerly known as Tehkan Ltd, is a Japanese video game developer, producing games including Ninja Gaiden, Dead or Alive, Deception, Monster Rancher, Rygar, Tecmo Super Bowl, Project Zero, and Gallop Racer. Tecmo's American division, U.S. Tehkan Inc., was launched in March 1981. A month later, its first video game, Pleiads, was released in Japan and distributed in the United States by Centuri. On January 8, 1986, Tehkan officially changed its name to Tecmo. In 2010, Tecmo merged with Koei to form a new development division, Koei Tecmo Games, marking the company's final dissolution.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Tecmo e presenti su questa macchina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Tecmo e presenti su questa macchina.                                                             La Tecmo, Ltd. (テクモ?, Tekumo), precedentemente conosciuta come Tehkan Ltd, e' una societa' giapponese che si occupa dello sviluppo di videogiochi, fra i quali Ninja Gaiden, Dead or Alive, Deception, Monster Rancher, Rygar, Tecmo Super Bowl, Project Zero e Gallop Racer. La divisione americana della Tecmo, la U.S. Tehkan Inc., fu inaugurata nel mese di marzo 1981. Un mese dopo, fu pubblicato in Giappone il suo primo videogioco chiamato Pleiads, distribuito in America dalla Centuri. L'8 gennaio 1986 la Tehkan cambio' ufficialmente il suo nome in Tecmo. Nel 2010 la Tecmo e' stata unita alla Koei per fondare la una nuova divisione di sviluppo, la Koei Tecmo Games, definendo lo scioglimento definitivo della societa'.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="fr">Voici une collection de tous les jeux créés par Tecmo et disponibles sur cette machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Tecmo et disponibles sur cette machine.                                                             Tecmo, Ltd. (テクモ, Tekumo), anciennement Tehkan Ltd, est un de'veloppeur japonais de jeux vide'o, a' l'origine de titres tels que Ninja Gaiden, Dead or Alive, Deception, Monster Rancher, Rygar, Tecmo Super Bowl, Project Zero et Gallop Racer. Sa filiale ame'ricaine, U.S. Tehkan Inc., a e'te' cre'e'e en mars 1981. Un mois plus tard, son premier jeu, Pleiads, est sorti au Japon et distribue' aux e'tats-Unis par Centuri. Le 8 janvier 1986, Tehkan a officiellement change' de nom pour devenir Tecmo. En 2010, Tecmo a fusionne' avec Koei pour former une nouvelle division de de'veloppement, Koei Tecmo Games, marquant ainsi la dissolution de'finitive de l'entreprise.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="de">Hier ist eine Sammlung aller von Tecmo entwickelten und auf dieser Maschine enthaltenen Spiele.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="de">Hier ist eine Sammlung aller von Tecmo entwickelten und auf dieser Maschine enthaltenen Spiele.                                                             Tecmo, Ltd. (テクモ, Tekumo), ehemals Tehkan Ltd., ist ein japanischer Videospielentwickler, der Spiele wie Ninja Gaiden, Dead or Alive, Deception, Monster Rancher, Rygar, Tecmo Super Bowl, Project Zero und Gallop Racer produzierte. Die amerikanische Niederlassung von Tecmo, U.S. Tehkan Inc., wurde im März 1981 gegründet. Einen Monat später erschien ihr erstes Videospiel, Pleiads, in Japan und wurde in den USA von Centuri vertrieben. Am 8. Januar 1986 änderte Tehkan seinen Namen offiziell in Tecmo. Im Jahr 2010 fusionierte Tecmo mit Koei zu einer neuen Entwicklungsabteilung, Koei Tecmo Games, was die endgültige Auflösung des Unternehmens bedeutete.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="es">Aquí tenéis una recopilación de todos los juegos creados por Tecmo e incluidos en esta máquina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Tecmo e incluidos en esta máquina.                                                             Tecmo, Ltd. (テクモ?, Tekumo), anteriormente conocida como Tehkan Ltd, fue una desarrolladora japonesa de videojuegos, creadora de títulos como Ninja Gaiden, Dead or Alive, Deception, Monster Rancher, Rygar, Tecmo Super Bowl, Project Zero y Gallop Racer. La división estadounidense de Tecmo, U.S. Tehkan Inc., se fundó en marzo de 1981. Un mes despue's, su primer videojuego, Pleiads, se lanzó en Japón y fue distribuido en Estados Unidos por Centuri. El 8 de enero de 1986, Tehkan cambió oficialmente su nombre a Tecmo. En 2010, Tecmo se fusionó con Koei para formar una nueva división de desarrollo, Koei Tecmo Games, lo que marcó la disolución definitiva de la compañía.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>       
@@ -36,6 +36,7 @@
       </text>
 	</view>
 </theme>
+
 
 
 

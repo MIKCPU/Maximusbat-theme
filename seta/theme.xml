@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -8,5 +8,36 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Here is a collection of all the games created by Seta and featured on this machine.                                                             SETA Corporation[a] was a Japanese video game developer and publisher based in Kōtō, Tokyo. SETA developed and published games for various gaming platforms since the original NES and the Super NES. It produced games primarily in Japan, but also in North America, focusing on golf and puzzles. SETA is commonly recognized for developing a variety of custom hardware to enhance games for Nintendo consoles, including enhancement chips, a modem, and a bio sensor. It created development tools for Nintendo's consoles. SETA also developed the Aleck 64 arcade system, based on the Nintendo 64 console. Additionally, SETA assisted in the production of the SSV arcade system, collaborating with Sammy and Visco.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Seta e presenti su questa macchina.                                                             SETA Corporation[a] era uno sviluppatore e editore giapponese di videogiochi con sede a Kōtō, Tokyo. SETA sviluppo' e pubblico' giochi per varie piattaforme fin dal NES originale e dal Super NES. Produsse giochi principalmente in Giappone, ma anche in Nord America, concentrandosi su golf e puzzle. SETA e' comunemente nota per aver sviluppato una varieta' di hardware personalizzato per migliorare i giochi per le console Nintendo, tra cui chip di potenziamento, un modem e un sensore biometrico. Creo' strumenti di sviluppo per le console Nintendo. SETA sviluppo' anche il sistema arcade Aleck 64, basato sulla console Nintendo 64. Inoltre, SETA contribui' alla produzione del sistema arcade SSV, collaborando con Sammy e Visco.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Seta et disponibles sur cette machine.                                                             SETA Corporation e'tait un de'veloppeur et e'diteur japonais de jeux vide'o base' a' Kōtō, Tokyo. Depuis la NES et la Super NES, SETA a de'veloppe' et e'dite' des jeux pour diverses plateformes. La socie'te' produisait principalement des jeux au Japon, mais aussi en Ame'rique du Nord, avec une spe'cialisation dans les jeux de golf et de re'flexion. SETA est surtout connue pour avoir de'veloppe' divers mate'riels personnalise's destine's a' ame'liorer les jeux des consoles Nintendo, notamment des puces d'ame'lioration, un modem et un biocapteur. Elle a e'galement cre'e' des outils de de'veloppement pour les consoles Nintendo. SETA a aussi de'veloppe' le syste'me d'arcade Aleck 64, base' sur la console Nintendo 64. De plus, SETA a participe' a' la production du syste'me d'arcade SSV, en collaboration avec Sammy et Visco.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Hier ist eine Sammlung aller von Seta entwickelten und auf dieser Maschine enthaltenen Spiele.                                                             SETA Corporation[a] war ein japanischer Videospielentwickler und -publisher mit Sitz in Kōtō, Tokio. SETA entwickelte und veröffentlichte Spiele für verschiedene Spieleplattformen seit dem ursprünglichen NES und dem Super NES. Die Spiele wurden hauptsächlich in Japan, aber auch in Nordamerika produziert, wobei der Fokus auf Golf- und Puzzlespielen lag. SETA ist bekannt für die Entwicklung diverser Hardware-Komponenten zur Verbesserung von Spielen für Nintendo-Konsolen, darunter Erweiterungschips, ein Modem und ein Biosensor. Das Unternehmen entwickelte außerdem Entwicklungswerkzeuge für Nintendos Konsolen. SETA entwickelte auch das Arcade-System Aleck 64, basierend auf der Nintendo 64-Konsole. Darüber hinaus war SETA an der Entwicklung des Arcade-Systems SSV beteiligt und arbeitete dabei mit Sammy und Visco zusammen.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Seta e incluidos en esta máquina.                                                             SETA Corporation[a] fue una desarrolladora y editora japonesa de videojuegos con sede en Kōtō, Tokio. SETA desarrolló y publicó juegos para diversas plataformas desde la NES original y la Super NES. Produjo juegos principalmente en Japón, pero tambie'n en Norteame'rica, centrándose en el golf y los puzles. SETA es conocida por desarrollar una variedad de hardware personalizado para mejorar los juegos de las consolas Nintendo, incluyendo chips de mejora, un módem y un biosensor. Creó herramientas de desarrollo para las consolas de Nintendo. SETA tambie'n desarrolló el sistema arcade Aleck 64, basado en la consola Nintendo 64. Además, SETA colaboró ​​en la producción del sistema arcade SSV, junto con Sammy y Visco.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 	</view>
 </theme>
+
+
+
+
+

@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -8,5 +8,36 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Here is a collection of all the games created by Nichibutsu and featured on this machine.                                                             Founded as Nihon Bussan Co. Ltd., Nichibutsu was a historic Japanese video game company based in Osaka, active since 1978. It is famous for creating milestones of the arcade era such as Crazy Climber, Moon Cresta, and Terra Cresta. In 2014, much of its catalog was transferred to the software house Hamster.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dall' Nichibutsu e presenti su questa macchina.                                                             Nata come Nihon Bussan Co. Ltd., Nichibutsu e' stata una storica azienda giapponese di videogiochi con sede a Osaka, attiva dal 1978. e' celebre per aver creato pietre miliari dell'era arcade come Crazy Climber, Moon Cresta e Terra Cresta. Nel 2014 gran parte del suo catalogo e' passata alla software house Hamster.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Nichibutsu et disponibles sur cette machine.                                                             Fonde'e sous le nom de Nihon Bussan Co. Ltd., Nichibutsu e'tait une entreprise japonaise historique de jeux vide'o base'e a' Osaka et active depuis 1978. Elle est ce'le'bre pour avoir cre'e' des titres emble'matiques de l'e're des jeux d'arcade tels que Crazy Climber, Moon Cresta et Terra Cresta. En 2014, une grande partie de son catalogue a e'te' transfe're'e a' l'e'diteur de logiciels Hamster.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Hier ist eine Sammlung aller von Nichibutsu entwickelten und auf dieser Maschine enthaltenen Spiele.                                                             Nichibutsu, ursprünglich als Nihon Bussan Co. Ltd. gegründet, war ein traditionsreiches japanisches Videospielunternehmen mit Sitz in Osaka, das seit 1978 aktiv war. Es ist bekannt für Meilensteine ​​der Arcade-Ära wie Crazy Climber, Moon Cresta und Terra Cresta. 2014 wurde ein Großteil des Spielekatalogs an das Softwarehaus Hamster übertragen.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Nichibutsu e incluidos en esta máquina.                                                             Fundada como Nihon Bussan Co. Ltd., Nichibutsu fue una histórica compañía japonesa de videojuegos con sede en Osaka, activa desde 1978. Es famosa por crear títulos emblemáticos de la era arcade como Crazy Climber, Moon Cresta y Terra Cresta. En 2014, gran parte de su catálogo fue transferido a la empresa de software Hamster.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 	</view>
 </theme>
+
+
+
+
+

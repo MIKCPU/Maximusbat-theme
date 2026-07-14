@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -8,5 +8,36 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Here is a collection of all the games created by Universal Entertainment and featured on this machine.                                                             Universal Entertainment Corporation (formerly Aruze Corporation) is a leading Japanese gaming and entertainment company, primarily known for the development and production of pachislot and pachinko machines. Founded in 1969 by Kazuo Okada, it is headquartered in Tokyo and listed on the Japan Stock Exchange.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dall' Universal Entertainment e presenti su questa macchina.                                                             La Universal Entertainment Corporation (precedentemente nota come Aruze Corporation) e' un'azienda giapponese leader nel settore del gioco d'azzardo e dell'intrattenimento, nota principalmente per lo sviluppo e la produzione di macchine Pachislot e Pachinko. Fondata nel 1969 da Kazuo Okada, ha la sua sede principale a Tokyo ed e' quotata alla borsa valori giapponese.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Universal Entertainment et disponibles sur cette machine.                                                             Universal Entertainment Corporation (anciennement Aruze Corporation) est une entreprise japonaise leader dans le secteur des jeux et du divertissement, principalement connue pour le de'veloppement et la production de machines a' sous (pachislot et pachinko). Fonde'e en 1969 par Kazuo Okada, elle a son sie'ge social a' Tokyo et est cote'e a' la Bourse de Tokyo.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Hier ist eine Sammlung aller von Universal Entertainment entwickelten und auf dieser Maschine enthaltenen Spiele.                                                             Universal Entertainment Corporation (ehemals Aruze Corporation) ist ein führendes japanisches Glücksspiel- und Unterhaltungsunternehmen, das vor allem für die Entwicklung und Produktion von Pachislot- und Pachinko-Automaten bekannt ist. Das 1969 von Kazuo Okada gegründete Unternehmen hat seinen Hauptsitz in Tokio und ist an der japanischen Börse notiert.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Universal Entertainment e incluidos en esta máquina.                                                             Universal Entertainment Corporation (anteriormente Aruze Corporation) es una empresa japonesa líder en juegos y entretenimiento, conocida principalmente por el desarrollo y la producción de máquinas pachislot y pachinko. Fundada en 1969 por Kazuo Okada, tiene su sede en Tokio y cotiza en la Bolsa de Valores de Japón.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 	</view>
 </theme>
+
+
+
+
+

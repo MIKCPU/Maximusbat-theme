@@ -9,23 +9,23 @@
                    <path>./_inc/systemsnap.png</path>
                 </image>
  		<text name="systemDesc" extra="true">
-         <text>Here is a collection of all the games created by Taito and featured on this machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+         <text>Here is a collection of all the games created by Taito and featured on this machine.                                                             Taito Corporation (タイトー株式会社?, Taitō Kabushikigaisha) is a Japanese video game and arcade machine developer founded in Tokyo in 1953 by Ukrainian Michael Kogan under the name Taito Trading Company (株式会社太東貿易?, kabushikigaisha taitō bōeki). The name "Taito" (台東?, "far east") comes from the eponymous special district where the company was founded. In 2005, the company was acquired by Square Enix.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Taito e presenti su questa macchina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Taito e presenti su questa macchina.                                                             La Taito Corporation (タイトー株式会社?, Taitō Kabushikigaisha) e' una azienda giapponese che sviluppa videogiochi e macchine arcade, fondata a Tokyo nel 1953 dall'ucraino Michael Kogan con il nome di Taito Trading Company (株式会社太東貿易?, kabushikigaisha taitō bōeki). Il nome "Taito" (台東? "lontano est") viene dall'omonimo quartiere speciale in cui e' stata fondata la societa'. Nel 2005, l'azienda e' stata acquistata dalla Square Enix.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="fr">Voici une collection de tous les jeux créés par Taito et disponibles sur cette machine.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Taito et disponibles sur cette machine.                                                             Taito Corporation (タイトー株式会社?, Taitō Kabushikigaisha) est un de'veloppeur japonais de jeux vide'o et de machines d'arcade fonde' a' Tokyo en 1953 par l'Ukrainien Michael Kogan sous le nom de Taito Trading Company (株式会社太東貿易?, kabushikigaisha taitō bōeki). Le nom « Taito » (台東 ?, « Extrême-Orient ») vient du district spe'cial e'ponyme oU' l'entreprise a e'te' fonde'e. En 2005, la socie'te' a e'te' rachete'e par Square Enix.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="de">Hier ist eine Sammlung aller von Taito entwickelten und auf dieser Maschine enthaltenen Spiele.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="de">Hier ist eine Sammlung aller von Taito entwickelten und auf dieser Maschine enthaltenen Spiele.                                                             Taito Corporation (タイトー株式会社?, Taitō Kabushikigaisha) ist ein japanischer Entwickler von Videospielen und Arcade-Automaten, der 1953 in Tokio vom Ukrainer Michael Kogan unter dem Namen Taito Trading Company (株式会社太東貿易?, kabushikigaisha taitō bōeki) gegründet wurde. Der Name „Taito“ (台東?, „ferner Osten“) stammt vom gleichnamigen Sonderbezirk, in dem das Unternehmen gegründet wurde. Im Jahr 2005 wurde das Unternehmen von Square Enix übernommen.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>
-			<text lang="es">Aquí tenéis una recopilación de todos los juegos creados por Taito e incluidos en esta máquina.<multiLine ifSubset="view:Carousel">false</multiLine>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Taito e incluidos en esta máquina.                                                             Taito Corporation (タイトー株式会社?, Taitō Kabushikigaisha) es un desarrollador japone's de videojuegos y máquinas recreativas fundado en Tokio en 1953 por el ucraniano Michael Kogan bajo el nombre de Taito Trading Company (株式会社太東貿易?, kabushikigaisha taitō bōeki). El nombre "Taito" (台東?, "lejano Oriente") proviene del distrito especial del mismo nombre donde se fundó la empresa. En 2005, la empresa fue adquirida por Square Enix.<multiLine ifSubset="view:Carousel">false</multiLine>
 <autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
 <singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
       </text>       
@@ -36,6 +36,7 @@
       </text>
 	</view>
 </theme>
+
 
 
 

@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -8,5 +8,36 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Here is a collection of all the games created by Technos and featured on this machine.                                                             Technos Japan Corporation (テクノスジャパン?) was a Japanese video game software company with an American subsidiary (American Technos Inc.). Its best-known games were the Kunio-kun series (which includes Renegade and River City Ransom) and Double Dragon.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Technos e presenti su questa macchina.                                                             La Technos Japan Corporation (テクノスジャパン?) e' stata una software house giapponese di videogiochi, con una sussidiaria americana (la American Technos Inc.). I suoi giochi piU' conosciuti sono stati la serie Kunio-kun (della quale fanno parte Renegade e River City Ransom) e Double Dragon.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Technos et disponibles sur cette machine.                                                             Technos Japan Corporation (テクノスジャパン ?) e'tait une socie'te' japonaise de logiciels de jeux vide'o avec une filiale ame'ricaine (American Technos Inc.). Ses jeux les plus connus e'taient la se'rie Kunio-kun (qui comprend Renegade et River City Ransom) et Double Dragon.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Hier ist eine Sammlung aller von Technos entwickelten und auf dieser Maschine enthaltenen Spiele.                                                             Technos Japan Corporation (テクノスジャパン?) war ein japanisches Unternehmen für Videospielsoftware mit einer amerikanischen Tochtergesellschaft (American Technos Inc.). Seine bekanntesten Spiele waren die Kunio-kun-Serie (zu der Renegade und River City Ransom gehören) und Double Dragon.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Technos e incluidos en esta máquina.                                                             Technos Japan Corporation (テクノスジャパン?) era una empresa japonesa de software de videojuegos con una filial estadounidense (American Technos Inc.). Sus juegos más conocidos fueron la serie Kunio-kun (que incluye Renegade y River City Ransom) y Double Dragon.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 	</view>
 </theme>
+
+
+
+
+

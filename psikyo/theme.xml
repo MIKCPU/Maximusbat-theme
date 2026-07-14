@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -8,5 +8,36 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Here is a collection of all the games created by Psikyo and featured on this machine.                                                             Psikyo (彩京, Saikyō) was a Japanese video game developer and publisher known for its shoot 'em ups. It was founded in 1992 by former Video System staff who worked on the Aero Fighters series. Psikyo was mainly an arcade game developer, and ported some of their games to home consoles as well. Psikyo was acquired by X-Nauts in 2002. In 2003, it was reported that Psikyo was shutting down. Shortly afterwards, X-Nauts stated this news was wrong, and that games would continue to be developed by its Psikyo division. In 2007, Psikyo programming veteran Keiyuki Haragami started a company called Zerodiv to handle distribution of Psikyo's catalog. In March 2019, Zerodiv was acquired by City Connection, but in February 2025, Edia, the current owner of Telenet Japan IPs, purchased Zerodiv from City Connection by a value of one million yen.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Ecco una raccolta di tutti i giochi creati dalla Psikyo e presenti su questa macchina.                                                             Psikyo (彩京, Saikyō) era uno sviluppatore e editore giapponese di videogiochi, noto per i suoi sparatutto. Fu fondata nel 1992 da ex membri dello staff di Video System che avevano lavorato alla serie Aero Fighters. Psikyo era principalmente uno sviluppatore di giochi arcade e ne converti' alcuni anche per console domestiche. Psikyo fu acquisita da X-Nauts nel 2002. Nel 2003, fu annunciata la chiusura di Psikyo. Poco dopo, X-Nauts dichiaro' che la notizia era falsa e che i giochi avrebbero continuato a essere sviluppati dalla sua divisione Psikyo. Nel 2007, Keiyuki Haragami, veterano della programmazione di Psikyo, fondo' una societa' chiamata Zerodiv per gestire la distribuzione del catalogo di Psikyo. Nel marzo 2019, Zerodiv e' stata acquisita da City Connection, ma nel febbraio 2025, Edia, l'attuale proprietaria degli IP di Telenet Japan, ha acquistato Zerodiv da City Connection per un valore di un milione di yen.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Voici une collection de tous les jeux cre'e's par Psikyo et disponibles sur cette machine.                                                             Psikyo (彩京, Saikyō) e'tait un de'veloppeur et e'diteur japonais de jeux vide'o, connu pour ses shoot 'em up. Fonde' en 1992 par d'anciens employe's de Video System ayant travaille' sur la se'rie Aero Fighters, Psikyo de'veloppait principalement des jeux d'arcade, tout en portant certains de ses titres sur consoles de salon. Rachete' par X-Nauts en 2002, Psikyo fit l'objet de rumeurs de fermeture en 2003. Peu apre's, X-Nauts de'mentit l'information, confirmant la poursuite du de'veloppement de jeux par sa division Psikyo. En 2007, Keiyuki Haragami, programmeur ve'te'ran de Psikyo, cre'a Zerodiv, une socie'te' charge'e de la distribution du catalogue du studio. En mars 2019, Zerodiv a e'te' rachete'e par City Connection, mais en fe'vrier 2025, Edia, l'actuel proprie'taire des adresses IP de Telenet Japan, a rachete' Zerodiv a' City Connection pour un montant d'un million de yens.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Hier ist eine Sammlung aller von Psikyo entwickelten und auf dieser Maschine enthaltenen Spiele.                                                             Psikyo (彩京, Saikyō) war ein japanischer Videospielentwickler und -publisher, bekannt für seine Shoot 'em ups. Das Unternehmen wurde 1992 von ehemaligen Mitarbeitern von Video System gegründet, die an der Aero Fighters-Reihe gearbeitet hatten. Psikyo entwickelte hauptsächlich Arcade-Spiele und portierte einige seiner Titel auch auf Heimkonsolen. 2002 wurde Psikyo von X-Nauts übernommen. 2003 wurde berichtet, dass Psikyo den Betrieb einstellen würde. Kurz darauf dementierte X-Nauts diese Meldung und erklärte, dass die Spieleentwicklung durch die Psikyo-Abteilung fortgesetzt würde. 2007 gründete der erfahrene Psikyo-Programmierer Keiyuki Haragami die Firma Zerodiv, um den Vertrieb des Psikyo-Katalogs zu übernehmen. Im März 2019 wurde Zerodiv von City Connection übernommen, aber im Februar 2025 kaufte Edia, der damalige Inhaber der Telenet Japan IPs, Zerodiv für eine Million Yen von City Connection zurück.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Aquí tene'is una recopilación de todos los juegos creados por Psikyo e incluidos en esta máquina.                                                             Psikyo (彩京, Saikyō) fue una desarrolladora y editora japonesa de videojuegos conocida por sus juegos de disparos. Fue fundada en 1992 por antiguos empleados de Video System que trabajaron en la serie Aero Fighters. Psikyo se dedicaba principalmente al desarrollo de juegos arcade y tambie'n adaptó algunos de sus juegos a consolas dome'sticas. Psikyo fue adquirida por X-Nauts en 2002. En 2003, se informó del cierre de Psikyo. Poco despue's, X-Nauts declaró que esta noticia era falsa y que su división Psikyo continuaría desarrollando juegos. En 2007, Keiyuki Haragami, veterano programador de Psikyo, fundó una empresa llamada Zerodiv para gestionar la distribución del catálogo de Psikyo. En marzo de 2019, Zerodiv fue adquirida por City Connection, pero en febrero de 2025, Edia, actual propietaria de las IP de Telenet Japan, compró Zerodiv a City Connection por un valor de un millón de yenes.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 	</view>
 </theme>
+
+
+
+
+
