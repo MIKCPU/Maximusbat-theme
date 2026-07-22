@@ -31,18 +31,18 @@ version         3.0
    <include subset="layout" name="Default" displayName="Layout Default">./layout/default.xml</include>
    <include subset="layout" name="Minimal" displayName="Layout Minimal">./layout/minimal.xml</include>
    <include subset="layout" name="Arcade" displayName="Layout Arcade">./layout/arcade.xml</include>
-   <include subset="buttons icons" name="Default"     displayName="Icone: Default">./../help/default.xml</include>
-   <include subset="buttons icons" name="6Buttons"     displayName="Icone: 6 Pulsanti">./../help/6buttons.xml</include>
-   <include subset="buttons icons" name="8Buttons"     displayName="Icone: 8 Pulsanti">./../help/8buttons.xml</include>
-   <include subset="buttons icons" name="Arcade"     displayName="Icone: Arcade">./../help/arcadebuttons.xml</include>
-   <include subset="buttons icons" name="Nintendo"     displayName="Icone: Nintendo">./../help/nintendo.xml</include>
-   <include subset="buttons icons" name="Oculus"     displayName="Icone: Oculus">./../help/oculus.xml</include>
-   <include subset="buttons icons" name="PS5"     displayName="Icone: PS5">./../help/ps5buttons.xml</include>
-   <include subset="buttons icons" name="PlayStation"     displayName="Icone: PlayStation">./../help/psxbuttons.xml</include>
-   <include subset="buttons icons" name="PlayStation Color"     displayName="Icone: PlayStation Color">./../help/psxbuttons_color.xml</include>
-   <include subset="buttons icons" name="Xbox"     displayName="Icone: Xbox">./../help/xboxbuttons.xml</include>
-   <include subset="buttons icons" name="Xbox Color"     displayName="Icone: Xbox Color">./../help/xboxbuttons_color.xml</include>
-   <include subset="buttons icons" name="Keyboard"     displayName="Icone: Keyboard">./../help/keyboard.xml</include>
+   <include subset="buttons icons" name="Default"     displayName="Default">./../help/default.xml</include>
+   <include subset="buttons icons" name="6Buttons"     displayName="6 Pulsanti">./../help/6buttons.xml</include>
+   <include subset="buttons icons" name="8Buttons"     displayName="8 Pulsanti">./../help/8buttons.xml</include>
+   <include subset="buttons icons" name="Arcade"     displayName="Arcade">./../help/arcadebuttons.xml</include>
+   <include subset="buttons icons" name="Nintendo"     displayName="Nintendo">./../help/nintendo.xml</include>
+   <include subset="buttons icons" name="Oculus"     displayName="Oculus">./../help/oculus.xml</include>
+   <include subset="buttons icons" name="PS5"     displayName="PS5">./../help/ps5buttons.xml</include>
+   <include subset="buttons icons" name="PlayStation"     displayName="PlayStation">./../help/psxbuttons.xml</include>
+   <include subset="buttons icons" name="PlayStation Color"     displayName="PlayStation Color">./../help/psxbuttons_color.xml</include>
+   <include subset="buttons icons" name="Xbox"     displayName="Xbox">./../help/xboxbuttons.xml</include>
+   <include subset="buttons icons" name="Xbox Color"     displayName="Xbox Color">./../help/xboxbuttons_color.xml</include>
+   <include subset="buttons icons" name="Keyboard"     displayName="Keyboard">./../help/keyboard.xml</include>
    <include subset="games count" name="On" displayName="Contatore Giochi ON">./gamescount/on.xml</include>
    <include subset="games count" name="Off" displayName="Contatore Giochi OFF">./gamescount/off.xml</include>
 
