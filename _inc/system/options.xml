@@ -22,7 +22,8 @@ version         3.0
    <include subset="color" name="Orange"  displayName="Arancione / Orange">./styles/orange.xml</include>
    <include subset="color" name="Gold"   displayName="Oro / Gold">./styles/gold.xml</include>
    <include subset="color" name="Silver" displayName="Argento / Silver">./styles/silver.xml</include>
-   <include subset="media mode" name="Video" displayName="Video + Image">./mediamode/video.xml</include>
+   <include subset="media mode" name="Default" displayName="Video + Image">./mediamode/default.xml</include>
+   <include subset="media mode" name="Video" displayName="Solo Video">./mediamode/video.xml</include>
    <include subset="media mode" name="Image" displayName="Solo Immagine">./mediamode/image.xml</include>
    <include subset="controller" name="On" displayName="Controller ON">./controller/on.xml</include>
    <include subset="controller" name="Off" displayName="Controller OFF">./controller/off.xml</include>
