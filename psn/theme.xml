@@ -1,0 +1,43 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <text>PlayStation Network (PSN) is a digital multimedia content distribution and online gaming service provided by Sony Interactive Entertainment for use with PlayStation 3, PlayStation 4, PlayStation 5, PlayStation Portable, and PlayStation Vita consoles. It enables downloading digital content and playing online multiplayer games (on PS4, access to online multiplayer requires a paid PlayStation Plus subscription). In 2011, PSN suffered a major security breach that potentially affected 77 million user accounts, leading to a service shutdown that lasted about a month. As of July 2013, PlayStation Network had more than 110 million registered users worldwide. On September 15, 2014, PSN discontinued support for the PlayStation Portable. In February 2025, Sony reported that PSN had 129 million monthly active users. In August 2025, during an investor meeting, Sony Senior Vice President Sadahiko Hayakawa stated that - PlayStation is shifting from a hardware-focused business to one centered on community engagement.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">PlayStation Network (PSN) es un servicio de distribución de contenido multimedia digital y juegos en línea proporcionado por Sony Interactive Entertainment para su uso con las consolas PlayStation 3, PlayStation 4, PlayStation 5, PlayStation Portable y PlayStation Vita. Permite descargar contenido digital y jugar juegos multijugador en línea (en PS4, el acceso al multijugador en línea requiere una suscripción de pago a PlayStation Plus). En 2011, PSN sufrió una importante brecha de seguridad que afectó potencialmente a 77 millones de cuentas de usuario, lo que provocó el cierre del servicio durante aproximadamente un mes. En julio de 2013, PlayStation Network tenía más de 110 millones de usuarios registrados en todo el mundo. El 15 de septiembre de 2014, PSN dejó de dar soporte a PlayStation Portable. En febrero de 2025, Sony informó que PSN tenía 129 millones de usuarios activos mensuales. En agosto de 2025, durante una reunión con inversores, el vicepresidente se'nior de Sony, Sadahiko Hayakawa, declaró que PlayStation está pasando de un negocio centrado en el hardware a uno centrado en la participación de la comunidad.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">PlayStation Network (PSN) ist ein digitaler Multimedia-Content-Distributions- und Online-Gaming-Dienst von Sony Interactive Entertainment für die Konsolen PlayStation 3, PlayStation 4, PlayStation 5, PlayStation Portable und PlayStation Vita. Er ermöglicht das Herunterladen digitaler Inhalte und das Spielen von Online-Multiplayer-Spielen (auf der PS4 ist für den Online-Multiplayer eine kostenpflichtige PlayStation Plus-Mitgliedschaft erforderlich). Im Jahr 2011 erlitt PSN einen schwerwiegenden Sicherheitsverstoß, der potenziell 77 Millionen Benutzerkonten betraf und zu einer etwa einmonatigen Abschaltung des Dienstes führte. Im Juli 2013 verzeichnete PlayStation Network weltweit über 110 Millionen registrierte Nutzer. Am 15. September 2014 stellte PSN den Support für die PlayStation Portable ein. Im Februar 2025 gab Sony bekannt, dass PSN 129 Millionen monatlich aktive Nutzer hatte. Im August 2025 erklärte Sadahiko Hayakawa, Senior Vice President von Sony, auf einer Investorenkonferenz: „PlayStation wandelt sich von einem hardwareorientierten Unternehmen zu einem, das die Community in den Mittelpunkt stellt.“<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Le PlayStation Network (PSN) est un service de distribution de contenu multime'dia nume'rique et de jeu en ligne propose' par Sony Interactive Entertainment pour les consoles PlayStation 3, PlayStation 4, PlayStation 5, PlayStation Portable et PlayStation Vita. Il permet de te'le'charger du contenu nume'rique et de jouer a' des jeux multijoueurs en ligne (sur PS4, l'acce's au multijoueur en ligne ne'cessite un abonnement PlayStation Plus payant). En 2011, le PSN a subi une importante faille de se'curite' qui a potentiellement affecte' 77 millions de comptes utilisateurs, entraînant une interruption de service d'environ un mois. En juillet 2013, le PlayStation Network comptait plus de 110 millions d'utilisateurs inscrits dans le monde. Le 15 septembre 2014, le PSN a cesse' de prendre en charge la PlayStation Portable. En fe'vrier 2025, Sony a annonce' que le PSN comptait 129 millions d'utilisateurs actifs mensuels. En août 2025, lors d'une re'union avec les investisseurs, Sadahiko Hayakawa, vice-pre'sident senior de Sony, a de'clare' que PlayStation e'voluait d'un mode'le e'conomique axe' sur le mate'riel vers un mode'le centre' sur l'engagement communautaire.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">PlayStation Network (PSN) e' un servizio di distribuzione di contenuti multimediali digitali e di gioco online fornito da Sony Interactive Entertainment per l'utilizzo con le console PlayStation 3, PlayStation 4, PlayStation 5, PlayStation Portable e PlayStation Vita. Consente di scaricare contenuti digitali e giocare online in modalita' multiplayer (su PS4, l'accesso al multiplayer online richiede un abbonamento a pagamento a PlayStation Plus). Nel 2011, PSN ha subito una grave violazione della sicurezza che ha potenzialmente interessato 77 milioni di account utente, portando a un'interruzione del servizio durata circa un mese. A luglio 2013, PlayStation Network contava oltre 110 milioni di utenti registrati in tutto il mondo. Il 15 settembre 2014, PSN ha interrotto il supporto per PlayStation Portable. A febbraio 2025, Sony ha riferito che PSN aveva 129 milioni di utenti attivi mensili. Ad agosto 2025, durante un incontro con gli investitori, il vicepresidente senior di Sony, Sadahiko Hayakawa, ha dichiarato che PlayStation si sta spostando da un modello di business incentrato sull'hardware a uno incentrato sul coinvolgimento della community.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+	</view>
+</theme>
+
+
+
+
+
