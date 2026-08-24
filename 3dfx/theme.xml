@@ -1,0 +1,39 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <text>3dfx Interactive was a California-based company founded in 1994 by Gordon Campbell, Gary Tarolli, Scott Sellers, and Ross Smith, former Silicon Graphics engineers. With just over 200 employees, 3dfx was the leading developer (and, following its purchase of STB Systems in 1998, manufacturer) of GPUs and 3D-accelerated graphics cards for most of the second half of the 1990s. It was one of the first companies to develop a 3D-accelerated GPU (with the Voodoo series) and the first to develop a dedicated graphics chipset for 3D, but it lacked 2D support (and therefore required a 2D card to function). 3dfx went bankrupt on December 15, 2000, and most of its intellectual property was acquired by nVidia.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">La 3dfx Interactive e' stata un'azienda californiana fondata nel 1994 da Gordon Campell, Gary Tarolli, Scott Sellers e Ross Smith, ex ingegneri della Silicon Graphics. Con poco più di 200 dipendenti, 3dfx e' stata la maggior sviluppatrice (e in seguito all'acquisto di STB Systems, alla fine nel 1998, produttrice) di GPU e schede video con accelerazione 3D per quasi tutta la seconda meta' degli anni novanta. E' stata una tra le prime aziende a sviluppare una GPU con accelerazione 3D (con la serie Voodoo) e la prima a sviluppare un chipset grafico dedicato per il 3D, ma privo di supporto 2D (che necessitava quindi della presenza di una scheda 2D per funzionare). 3dfx è fallita il 15 dicembre 2000, e la maggior parte delle sue proprietà intellettuali è stata acquisita da nVidia.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">3dfx Interactive était une société californienne fondée en 1994 par Gordon Campbell, Gary Tarolli, Scott Sellers et Ross Smith, anciens ingénieurs de Silicon Graphics. Avec un peu plus de 200 employés, 3dfx a été le principal développeur (et, après l'acquisition de STB Systems en 1998, fabricant) de GPU et de cartes graphiques 3D pendant la majeure partie de la seconde moitié des années 1990. Elle fut l'une des premières entreprises à développer un GPU 3D (avec la série Voodoo) et la première à concevoir un chipset graphique dédié à la 3D, mais celui-ci ne prenait pas en charge la 2D (et nécessitait donc une carte graphique 2D pour fonctionner). 3dfx a fait faillite le 15 décembre 2000 et la majeure partie de sa propriété intellectuelle a été rachetée par nVidia.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">3dfx Interactive war ein kalifornisches Unternehmen, das 1994 von den ehemaligen Silicon-Graphics-Ingenieuren Gordon Campbell, Gary Tarolli, Scott Sellers und Ross Smith gegründet wurde. Mit etwas über 200 Mitarbeitern war 3dfx in der zweiten Hälfte der 1990er-Jahre der führende Entwickler (und nach der Übernahme von STB Systems im Jahr 1998 auch Hersteller) von GPUs und 3D-beschleunigten Grafikkarten. Das Unternehmen gehörte zu den ersten, die eine 3D-beschleunigte GPU (mit der Voodoo-Serie) entwickelten, und war das erste, das einen dedizierten Grafikchipsatz für 3D entwickelte. Dieser bot jedoch keine 2D-Unterstützung und benötigte daher eine 2D-Grafikkarte. 3dfx meldete am 15. Dezember 2000 Insolvenz an, und ein Großteil des geistigen Eigentums wurde von nVidia übernommen.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">3dfx Interactive fue una empresa con sede en California fundada en 1994 por Gordon Campbell, Gary Tarolli, Scott Sellers y Ross Smith, antiguos ingenieros de Silicon Graphics. Con poco más de 200 empleados, 3dfx fue el principal desarrollador (y, tras la adquisición de STB Systems en 1998, fabricante) de GPU y tarjetas gráficas con aceleración 3D durante la mayor parte de la segunda mitad de la década de 1990. Fue una de las primeras empresas en desarrollar una GPU con aceleración 3D (con la serie Voodoo) y la primera en desarrollar un chipset gráfico dedicado para 3D, pero carecía de soporte para 2D (y, por lo tanto, requería una tarjeta 2D para funcionar). 3dfx quebró el 15 de diciembre de 2000 y la mayor parte de su propiedad intelectual fue adquirida por nVidia.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+	</view>
+</theme>
+
