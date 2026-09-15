@@ -1,0 +1,40 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <text>The Amiga is a family of personal computers released by Commodore International, aimed at the home computer market. The A1200 was launched a few months after the Amiga 600, using a similar slimline design that replaced the earlier Amiga 500 Plus and Amiga 500. Whereas the A600 used the 16-bit Motorola 68000 of earlier Amigas, the A1200 was built around the 32-bit Motorola 68EC020. Physically, the A1200 is an all-in-one design incorporating the CPU, keyboard, and disk drives (including the option of an internal 2.5" hard disk drive) in one physical unit. The A1200 has a similar hardware architecture to Commodore's Amiga CD32 game console.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">L'Amiga 1200, o A1200 (nome in codice "Channel Z"), e' un personal computer della famiglia Amiga rilasciato da Commodore International, destinato al mercato dei computer domestici. L'A1200 e' stato lanciato pochi mesi dopo l'Amiga 600, utilizzando un design sottile simile che ha sostituito i precedenti Amiga 500 Plus e Amiga 500. Mentre l'A600 utilizzava il Motorola 68000 a 16 bit dei precedenti Amiga, l'A1200 era costruito attorno al Motorola 68EC020 a 32 bit. Fisicamente, l'A1200 è un progetto all-in-one che incorpora la CPU, la tastiera e le unità disco (inclusa l'opzione di un disco rigido interno da 2,5") in un'unica unità fisica. L'A1200 ha un'architettura hardware simile a quella della console per videogiochi Amiga CD32 di Commodore.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">L'Amiga 1200, ou A1200 (nom de code "Channel Z"), est un ordinateur personnel de la famille Amiga commercialisé par Commodore International, destiné au marché des ordinateurs domestiques. L'A1200 a été lancé quelques mois après l'Amiga 600, utilisant un design mince similaire qui a remplacé les précédents Amiga 500 Plus et Amiga 500. Alors que l'A600 utilisait le Motorola 68000 16 bits des Amiga précédents, l'A1200 était construit autour du Motorola 68EC020 32 bits. Physiquement, l'A1200 est un modèle tout-en-un incorporant l'unité centrale, le clavier et les lecteurs de disques (y compris l'option d'un disque dur interne de 2,5 pouces) en une seule unité physique. L'architecture matérielle de l'A1200 est similaire à celle de la console de jeu Amiga CD32 de Commodore.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Der Amiga 1200 oder A1200 (Codename "Channel Z") ist ein Personal Computer der Amiga-Computerfamilie von Commodore International, der für den Heimcomputermarkt bestimmt ist. Der A1200 wurde einige Monate nach dem Amiga 600 auf den Markt gebracht, wobei ein ähnliches, schlankes Design verwendet wurde, das den früheren Amiga 500 Plus und Amiga 500 ersetzte. Während der A600 den 16-Bit-Motorola 68000 der früheren Amigas verwendete, wurde der A1200 auf dem 32-Bit-Motorola 68EC020 aufgebaut. Physisch ist der A1200 ein All-in-One-Design, das die CPU, die Tastatur und die Festplattenlaufwerke (einschließlich der Option eines internen 2,5"-Festplattenlaufwerks) in einer physischen Einheit vereint. Der A1200 hat eine ähnliche Hardware-Architektur wie die Amiga CD32-Spielkonsole von Commodore.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">El Amiga es un ordenador personal de la familia Amiga lanzado por Commodore International, dirigido al mercado de ordenadores domésticos.
+El A1200 se lanzó unos meses después que el Amiga 600, con un diseño estilizado similar que sustituyó a los anteriores Amiga 500 Plus y Amiga 500. Mientras que el A600 utilizaba el Motorola 68000 de 16 bits de los anteriores Amigas, el A1200 se basaba en el Motorola 68EC020 de 32 bits. Físicamente, el A1200 es un diseño todo en uno que incorpora la CPU, el teclado y las unidades de disco (incluida la opción de un disco duro interno de 2,5") en una sola unidad física. La A1200 tiene una arquitectura de hardware similar a la de la videoconsola Amiga CD32 de Commodore.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+	</view>
+</theme>
+

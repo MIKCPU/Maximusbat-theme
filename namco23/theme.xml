@@ -1,0 +1,39 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <text>The Sega Channel was an online game service developed by Sega for the Sega Genesis video game console, serving as a content delivery system. Launched on December 12, 1994, the Sega Channel was provided to the public by TCI and Time Warner Cable through cable television services by way of coaxial cable. It was a pay to play service, through which customers could access Genesis games online, play game demos, and get cheat codes. Lasting until July 31, 1998, the Sega Channel operated three years after the release of Sega's next generation console, the Sega Saturn. Though criticized for its poorly timed launch and costly subscription fee, the Sega Channel has been praised for its innovations in downloadable content and impact on online game services.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Il Sega Channel era un servizio di gioco online sviluppato da Sega per la console Sega Genesis, che fungeva da sistema di distribuzione di contenuti. Lanciato il 12 dicembre 1994, il Sega Channel veniva offerto al pubblico da TCI e Time Warner Cable tramite i servizi di televisione via cavo, utilizzando un cavo coassiale. Si trattava di un servizio a pagamento che permetteva agli utenti di accedere online ai giochi per Genesis, giocare alle demo e ottenere codici cheat. Attivo fino al 31 luglio 1998, il Sega Channel rimase in funzione per tre anni dopo l'uscita della console di nuova generazione di Sega, il Sega Saturn. Sebbene criticato per il lancio in un momento inopportuno e per l'elevato costo dell'abbonamento, il Sega Channel è stato elogiato per le sue innovazioni nei contenuti scaricabili e per l'impatto sui servizi di gioco online.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Le Sega Channel était un service de jeux en ligne développé par Sega pour la console de jeux vidéo Sega Genesis, servant de plateforme de distribution de contenu. Lancé le 12 décembre 1994, le Sega Channel était proposé au public par TCI et Time Warner Cable via le câble coaxial. Ce service payant permettait aux abonnés d'accéder à des jeux Genesis en ligne, de jouer à des démos et d'obtenir des codes de triche. Il a fonctionné jusqu'au 31 juillet 1998, soit trois ans après la sortie de la console de nouvelle génération de Sega, la Sega Saturn. Bien que critiqué pour son lancement malencontreux et son abonnement onéreux, le Sega Channel a été salué pour ses innovations en matière de contenu téléchargeable et son impact sur les services de jeux en ligne.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Der Sega Channel war ein Online-Spieledienst von Sega für die Videospielkonsole Sega Genesis und diente als Content-Delivery-System. Er startete am 12. Dezember 1994 und wurde von TCI und Time Warner Cable über Kabelfernsehen via Koaxialkabel angeboten. Der kostenpflichtige Dienst ermöglichte es Kunden, online auf Genesis-Spiele zuzugreifen, Demos zu spielen und Cheat-Codes zu erhalten. Der Sega Channel existierte bis zum 31. Juli 1998 und war damit drei Jahre nach dem Erscheinen der nächsten Konsolengeneration, dem Sega Saturn, verfügbar. Obwohl er für seinen ungünstigen Startzeitpunkt und die hohen Abonnementgebühren kritisiert wurde, wurde der Sega Channel für seine Innovationen im Bereich herunterladbarer Inhalte und seinen Einfluss auf Online-Spieledienste gelobt.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Sega Channel fue un servicio de juegos en línea desarrollado por Sega para la consola Sega Genesis, que funcionaba como un sistema de distribución de contenido. Lanzado el 12 de diciembre de 1994, Sega Channel fue ofrecido al público por TCI y Time Warner Cable a través de servicios de televisión por cable coaxial. Era un servicio de pago por uso, mediante el cual los clientes podían acceder a juegos de Genesis en línea, jugar demos y obtener códigos de trucos. Sega Channel estuvo en funcionamiento hasta el 31 de julio de 1998, tres años después del lanzamiento de la consola de siguiente generación de Sega, la Sega Saturn. Aunque fue criticado por su lanzamiento inoportuno y su costosa suscripción, Sega Channel ha sido elogiado por sus innovaciones en contenido descargable y su impacto en los servicios de juegos en línea.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+	</view>
+</theme>
+
