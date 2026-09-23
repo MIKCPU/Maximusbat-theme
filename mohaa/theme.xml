@@ -1,0 +1,38 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Medal of Honor: Allied Assault is one of the first Spieler, released in 2015 by Inc. and Electronic Arts. The first game of the Medal of Honor series is available for Windows and can be ported for Linux. According to the first three titles, the Medal of Honor: Spearhead and the Medal of Honor: Breakthrough: The first mission in the Ardennen and Berlin was awarded to the Red Army after the second mission of the American Offensive in North Africa. und anschließend vernichtet Italian. The Protagonist of the Spiels is the Lieutenant Mike Powell, an OSS Soldier, the während of the American Wahlkampfs in Europe at the Tag of D-Day in the Ardennen-Offensive in the Gast war.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Medal of Honor: Allied Assault è uno sparatutto in prima persona sviluppato da 2015, Inc e pubblicato da Electronic Arts. È stato il primo gioco della serie Medal of Honor sviluppato per Windows e primo porting per Linux.  Sono disponibili due espansioni, Medal of Honor: Spearhead e Medal of Honor: Breakthrough: la prima aggiunge 3 missioni, ambientate nelle Ardenne e a Berlino prima dell'avanzata dell'armata rossa, la seconda invece aggiunge missioni ambientate durante l'offensiva americana nel Nord-Africa e il successivo sbarco in Italia.Il protagonista del gioco è il tenente Mike Powell, soldato dell'OSS, ed è ambientato durante la campagna americana in Europa dai giorni del D-day sino all'offensiva delle Ardenne.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Medal of Honor: Allied Assault est un jeu de tir à la première personne développé par 2015, Inc. et édité par Electronic Arts. Premier opus de la série Medal of Honor développé pour Windows, il fut également le premier à être porté sur Linux. Deux extensions sont disponibles : Medal of Honor: Spearhead et Medal of Honor: Breakthrough. La première ajoute trois missions se déroulant dans les Ardennes et à Berlin avant l'avancée de l'Armée rouge, tandis que la seconde propose des missions se déroulant pendant l'offensive américaine en Afrique du Nord et le débarquement en Italie. Le protagoniste du jeu est le lieutenant Mike Powell, un soldat de l'OSS, et l'histoire se déroule durant la campagne américaine en Europe, du Jour J à l'offensive des Ardennes.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Medal of Honor: Allied Assault ist ein Ego-Shooter, entwickelt von 2015, Inc. und veröffentlicht von Electronic Arts. Es war das erste Spiel der Medal-of-Honor-Reihe für Windows und das erste, das für Linux portiert wurde. Zwei Erweiterungen sind erhältlich: Medal of Honor: Spearhead und Medal of Honor: Breakthrough. Erstere fügt drei Missionen hinzu, die in den Ardennen und in Berlin vor dem Vormarsch der Roten Armee spielen, während zweite Missionen während der amerikanischen Offensive in Nordafrika und der anschließenden Landung in Italien bietet. Der Protagonist des Spiels ist Lieutenant Mike Powell, ein OSS-Soldat. Die Handlung spielt während des amerikanischen Feldzugs in Europa vom D-Day bis zur Ardennenoffensive.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Medal of Honor: Allied Assault es un juego de disparos en primera persona desarrollado por 2015, Inc. y publicado por Electronic Arts. Fue el primer juego de la serie Medal of Honor desarrollado para Windows y el primero en ser adaptado a Linux. Hay dos expansiones disponibles: Medal of Honor: Spearhead y Medal of Honor: Breakthrough. La primera añade tres misiones ambientadas en las Ardenas y Berlín antes del avance del Ejército Rojo, mientras que la segunda añade misiones ambientadas durante la ofensiva estadounidense en el norte de África y el posterior desembarco en Italia. El protagonista del juego es el teniente Mike Powell, un soldado de la OSS, y la historia se desarrolla durante la campaña estadounidense en Europa, desde el Día D hasta la Ofensiva de las Ardenas.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+	</view>
+</theme>

@@ -1,0 +1,38 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Tomb Raider II is an action-adventure video game, the second part of the current Tomb Raider and Tomb Raider Fortress. It was developed by Core Design and in 1997 by Eidos Interactive for Windows, Mac OS and PlayStation. The creation of "Golden Mask" dates back to 1999. 2009 was the game on the PlayStation Network and for PlayStation Portable, 2011 on the Mac App Store and 2012 on Steam. In the Hauptspiel sucht die Archäologin und Abenteurerin Lara Croft nach einem mythischen Chinesischen Artefakt, dem Dolch von Xian, während sie in "Golden Mask" nach einem mythischen Inuit-Artefakt, der Maske von Tornarsuk, sucht.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Tomb Raider II è un videogioco del genere avventura dinamica, secondo capitolo della serie classica di Tomb Raider, e sequel di Tomb Raider. Fu sviluppato da Core Design e pubblicato da Eidos Interactive nel 1997 per Windows, Mac OS e PlayStation. Nel 1999 ne venne pubblicata un'espansione intitolata Golden Mask. Nel 2009 fu pubblicato su PlayStation Network e per PlayStation Portable, nel 2011 su Mac App Store, e nel 2012 su Steam. Nel gioco principale, l'archeologa avventuriera Lara Croft è alla ricerca di un mitico manufatto cinese, il Pugnale di Xian, mentre in Golden Mask è alla ricerca di un mitico manufatto inuit, la Maschera di Tornarsuk.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Tomb Raider II est un jeu vidéo d'action-aventure, le deuxième opus de la série originale Tomb Raider et la suite de Tomb Raider. Il a été développé par Core Design et édité par Eidos Interactive en 1997 sur Windows, Mac OS et PlayStation. Une extension intitulée Golden Mask est sortie en 1999. Le jeu est ensuite sorti sur le PlayStation Network et PlayStation Portable en 2009, sur le Mac App Store en 2011 et sur Steam en 2012. Dans le jeu principal, l'archéologue et aventurière Lara Croft recherche un artefact mythique chinois, la Dague de Xian, tandis que dans Golden Mask, elle recherche un artefact mythique inuit, le Masque de Tornarsuk.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Tomb Raider II ist ein Action-Adventure-Videospiel, der zweite Teil der ursprünglichen Tomb-Raider-Reihe und die Fortsetzung von Tomb Raider. Es wurde von Core Design entwickelt und 1997 von Eidos Interactive für Windows, Mac OS und PlayStation veröffentlicht. Die Erweiterung „Golden Mask“ erschien 1999. 2009 wurde das Spiel im PlayStation Network und für PlayStation Portable, 2011 im Mac App Store und 2012 auf Steam veröffentlicht. Im Hauptspiel sucht die Archäologin und Abenteurerin Lara Croft nach einem mythischen chinesischen Artefakt, dem Dolch von Xian, während sie in „Golden Mask“ nach einem mythischen Inuit-Artefakt, der Maske von Tornarsuk, sucht.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Tomb Raider II es un videojuego de acción y aventura, la segunda entrega de la serie original de Tomb Raider y la secuela de Tomb Raider. Fue desarrollado por Core Design y publicado por Eidos Interactive en 1997 para Windows, Mac OS y PlayStation. Una expansión titulada Golden Mask fue lanzada en 1999. Fue lanzado en PlayStation Network y PlayStation Portable en 2009, en Mac App Store en 2011 y en Steam en 2012. En el juego principal, la arqueóloga y aventurera Lara Croft busca un artefacto mítico chino, la Daga de Xian, mientras que en Golden Mask busca un artefacto mítico inuit, la Máscara de Tornarsuk.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+	</view>
+</theme>

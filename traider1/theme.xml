@@ -1,0 +1,38 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Tomb Raider is a video game developed by Core Design and published by Eidos Interactive, and it is the inaugural title in the series of the same name. The game stars Lara Croft, an English archaeologist in search of ancient treasures who bears a passing resemblance to Indiana Jones. Originally released in 1996 for the Sega Saturn and later ported to PC and PlayStation, the game was critically acclaimed and proved influential for the entire subsequent generation of adventure games.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Tomb Raider è un videogioco sviluppato da Core Design e pubblicato da Eidos Interactive, ed è il titolo inaugurale dell'omonima serie. Il videogioco ha come protagonista Lara Croft, un'archeologa inglese alla ricerca di antichi tesori, che può vagamente ricordare Indiana Jones. Originariamente commercializzato nel 1996 per Sega Saturn e convertito in seguito su PC e PlayStation, il gioco è stato acclamato dalla critica ed è risultato influente per tutta la generazione di giochi d'avventura seguenti.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Tomb Raider est un jeu vidéo développé par Core Design et édité par Eidos Interactive. Premier opus de la série Tomb Raider, il met en scène Lara Croft, une archéologue anglaise à la recherche de trésors antiques, rappelant vaguement Indiana Jones. Sorti initialement en 1996 sur Sega Saturn, puis porté sur PC et PlayStation, le jeu a été acclamé par la critique et a exercé une influence considérable sur toute une génération de jeux d'aventure.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Tomb Raider ist ein Videospiel, entwickelt von Core Design und veröffentlicht von Eidos Interactive, und der erste Teil der Tomb-Raider-Reihe. Im Spiel schlüpft man in die Rolle von Lara Croft, einer englischen Archäologin, die – ähnlich wie Indiana Jones – nach antiken Schätzen sucht. Ursprünglich 1996 für den Sega Saturn erschienen und später auf PC und PlayStation portiert, wurde das Spiel von der Kritik hochgelobt und prägte die gesamte nachfolgende Generation von Abenteuerspielen.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Tomb Raider es un videojuego desarrollado por Core Design y publicado por Eidos Interactive, y es el título inaugural de la saga Tomb Raider. El juego está protagonizado por Lara Croft, una arqueóloga inglesa que busca tesoros antiguos, con ciertas reminiscencias de Indiana Jones. Lanzado originalmente en 1996 para Sega Saturn y posteriormente adaptado a PC y PlayStation, el juego recibió elogios de la crítica y resultó influyente para toda la generación de juegos de aventuras que le siguió.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+	</view>
+</theme>
