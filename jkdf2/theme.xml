@@ -1,0 +1,38 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <text>OpenJKDF2 is a function-by-function reimplementation of Jedi Knight: Dark Forces II in C, with 64-bit ports to Windows 7+, macOS 10.15+, and Linux. Files are organized as closely to the original game as possible, based on symbols from the Grim Fandango Remaster Android/Linux/macOS port, as well as scattered assertions from various other games. It also contains the original versions of byacc and flex used for COG script parsing. OpenJKDF2 added quality of life improvements to the game. This means it makes it easy to run Jedi Knight on modern machines with modern aspect ratios, monitor sizes, current generation graphic cards, and operating systems. It also now natively supports JKGFXMod—all of this simply by placing the contents of a zip file into your Jedi Knight directory!<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">OpenJKDF2 è una reimplementazione funzione per funzione di Jedi Knight: Dark Forces II in C, con porting a 64 bit per Windows 7+, macOS 10.15+ e Linux. I file sono organizzati il più fedelmente possibile al gioco originale, basandosi sui simboli della versione Android/Linux/macOS di Grim Fandango Remaster, oltre a varie asserzioni sparse provenienti da altri giochi. Include inoltre le versioni originali di byacc e flex utilizzate per il parsing degli script COG. OpenJKDF2 ha introdotto miglioramenti alla qualità della vita del gioco. Questo significa che rende semplice eseguire Jedi Knight su macchine moderne con rapporti d’aspetto moderni, diverse dimensioni di monitor, schede grafiche di ultima generazione e sistemi operativi attuali. Ora supporta anche nativamente JKGFXMod — tutto semplicemente copiando il contenuto di un file ZIP nella directory di Jedi Knight.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">OpenJKDF2 est une réimplémentation fonction par fonction de Jedi Knight: Dark Forces II en C, avec des ports 64 bits pour Windows 7+, macOS 10.15+ et Linux. Les fichiers sont organisés aussi fidèlement que possible au jeu original, en s’appuyant sur les symboles du port Android/Linux/macOS de Grim Fandango Remaster, ainsi que sur diverses assertions dispersées provenant d’autres jeux. Il inclut également les versions originales de byacc et flex utilisées pour l’analyse des scripts COG. OpenJKDF2 a ajouté des améliorations de confort de jeu. Cela signifie qu’il facilite l’exécution de Jedi Knight sur des machines modernes avec des formats d’image actuels, différentes tailles d’écrans, des cartes graphiques de nouvelle génération et des systèmes d’exploitation modernes. Il prend désormais en charge nativement JKGFXMod — le tout simplement en plaçant le contenu d’un fichier ZIP dans le répertoire de Jedi Knight.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">OpenJKDF2 ist eine Funktions-für-Funktions-Neuimplementierung von Jedi Knight: Dark Forces II in C mit 64-Bit-Ports für Windows 7+, macOS 10.15+ und Linux. Die Dateien sind so nah wie möglich am Originalspiel organisiert, basierend auf Symbolen aus dem Android/Linux/macOS-Port von Grim Fandango Remaster sowie auf verstreuten Assertions aus verschiedenen anderen Spielen. Zudem enthält es die originalen Versionen von byacc und flex, die für das Parsen der COG-Skripte verwendet wurden. OpenJKDF2 hat Komfortverbesserungen (Quality-of-Life) zum Spiel hinzugefügt. Dadurch lässt sich Jedi Knight problemlos auf modernen Systemen mit aktuellen Seitenverhältnissen, verschiedenen Monitorgrößen, Grafikkarten der neuesten Generation und modernen Betriebssystemen ausführen. Außerdem wird JKGFXMod nun nativ unterstützt — alles, indem man einfach den Inhalt einer ZIP-Datei in das Jedi Knight-Verzeichnis kopiert.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">OpenJKDF2 es una reimplementación función por función de Jedi Knight: Dark Forces II en C, con versiones de 64 bits para Windows 7+, macOS 10.15+ y Linux. Los archivos están organizados lo más fielmente posible al juego original, basándose en símbolos del port Android/Linux/macOS de Grim Fandango Remaster, así como en diversas aserciones dispersas de otros juegos. También incluye las versiones originales de byacc y flex utilizadas para el análisis de scripts COG. OpenJKDF2 añadió mejoras de calidad de vida al juego. Esto facilita ejecutar Jedi Knight en equipos modernos con relaciones de aspecto actuales, distintos tamaños de monitor, tarjetas gráficas de última generación y sistemas operativos modernos. Además, ahora es compatible de forma nativa con JKGFXMod — todo ello simplemente copiando el contenido de un archivo ZIP en el directorio de Jedi Knight.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+	</view>
+</theme>
