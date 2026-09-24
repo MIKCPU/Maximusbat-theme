@@ -1,0 +1,38 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <text>The PC-6000 series is a series of 8-bit home computers introduced in November 1981 by NEC Home Electronics. There are several models in this series, such as the PC-6001, the PC-6001 MK2 and the PC-6001 MK2 SR. There is also an American version, called the NEC TREK or NEC PC-6001A. Several peripherals were available for the system in North America, including an expander with three cartridge ports (some of the cartridge-based games used two cartridges), a cassette-tape recorder, a 5.25" floppy disk drive, a printer, and a touchpad. The PC-6000 series was followed by the PC-6600 series.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">La serie PC-6000 è una famiglia di computer domestici a 8 bit introdotta nel novembre 1981 da NEC Home Electronics. Include diversi modelli come PC-6001, PC-6001 MK2 e PC-6001 MK2 SR. Esisteva anche una versione americana chiamata NEC TREK o NEC PC-6001A. In Nord America erano disponibili varie periferiche per il sistema, tra cui un’unità di espansione con tre slot per cartucce (alcuni giochi richiedevano due cartucce), un registratore a cassette, un’unità floppy da 5,25 pollici, una stampante e un touchpad. La serie PC-6000 è stata successivamente sostituita dalla serie PC-6600.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">La série PC-6000 est une gamme d’ordinateurs domestiques 8 bits introduite en novembre 1981 par NEC Home Electronics. Elle comprend plusieurs modèles tels que les PC-6001, PC-6001 MK2 et PC-6001 MK2 SR. Une version américaine existait également sous le nom de NEC TREK ou NEC PC-6001A. Plusieurs périphériques étaient disponibles en Amérique du Nord, notamment une unité d’extension avec trois ports pour cartouches (certains jeux utilisaient deux cartouches), un lecteur de cassette, un lecteur de disquettes 5,25 pouces, une imprimante et un pavé tactile. La série PC-6000 a ensuite été remplacée par la série PC-6600.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Die PC-6000-Serie ist eine Familie von 8-Bit-Heimcomputern, die im November 1981 von NEC Home Electronics eingeführt wurde. Zu dieser Serie gehören mehrere Modelle wie der PC-6001, PC-6001 MK2 und PC-6001 MK2 SR. Es gab auch eine amerikanische Version namens NEC TREK bzw. NEC PC-6001A. In Nordamerika waren verschiedene Peripheriegeräte für das System erhältlich, darunter eine Erweiterungseinheit mit drei Cartridge-Steckplätzen (einige Spiele benötigten zwei Cartridges), ein Kassettenrekorder, ein 5,25-Zoll-Diskettenlaufwerk, ein Drucker und ein Touchpad. Die PC-6000-Serie wurde später von der PC-6600-Serie abgelöst.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">La serie PC-6000 es una familia de ordenadores domésticos de 8 bits introducida en noviembre de 1981 por NEC Home Electronics. Incluye varios modelos como el PC-6001, PC-6001 MK2 y PC-6001 MK2 SR. También existió una versión estadounidense llamada NEC TREK o NEC PC-6001A. En América del Norte estaban disponibles diversos periféricos para el sistema, incluyendo una unidad de expansión con tres ranuras para cartuchos (algunos juegos requerían dos cartuchos), un grabador de casetes, una unidad de disquete de 5,25 pulgadas, una impresora y un panel táctil. La serie PC-6000 fue posteriormente reemplazada por la serie PC-6600.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+	</view>
+</theme>
