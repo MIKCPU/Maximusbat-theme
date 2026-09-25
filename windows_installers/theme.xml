@@ -1,4 +1,4 @@
-<theme>
+﻿<theme>
 	<formatVersion>4</formatVersion>
 	<include>./../theme.xml</include>
 	<view name="system">
@@ -8,5 +8,35 @@
                    <maxSize>0.8 0.7</maxSize>
                    <path>./_inc/systemsnap.png</path>
                 </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Windows Installer (formerly known as Microsoft Installer[2]) is a component developed by Microsoft for the installation, maintenance, and removal of software on Microsoft Windows operating systems. Installation information and program files are contained in packages organized as relational databases—known as "MSI files" after their file extension. Windows Installer represents a significant advancement over its predecessor, Setup API; new features—such as a framework for managing the graphical user interface, automatic generation of uninstallation sequences, and advanced deployment tools—have enabled it to compete with other standalone installation frameworks like InstallShield, WISE, and NSIS. The latest versions of these frameworks are built upon Windows Installer to ensure better synchronization with other installers and maintain the integrity of the installation database, thereby enabling operations such as rollbacks.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Windows Installer (anteriormente Microsoft Installer[2]) es un componente para instalar, mantener y eliminar software en sistemas operativos Microsoft Windows. La información de instalación y los archivos del programa se empaquetan como bases de datos relacionales en los llamados "archivos MSI", denominados así por su extensión. Windows Installer representa una mejora significativa con respecto a su predecesor, Setup API: nuevas características, como una interfaz gráfica de usuario, la generación automática de secuencias de desinstalación y herramientas de implementación avanzadas, lo han posicionado como competidor de otros marcos de instalación independientes, como InstallShield, WISE y NSIS. Las versiones más recientes de estos marcos se basan en Windows Installer para sincronizarse mejor con otros instaladores y mantener intacta la base de datos de instalación, lo que permite operaciones como la reversión.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Windows Installer (ehemals Microsoft Installer[2]) ist eine Komponente zum Installieren, Verwalten und Deinstallieren von Software unter Microsoft Windows-Betriebssystemen. Installationsinformationen und Programmdateien werden als relationale Datenbanken in sogenannten „MSI-Dateien“ verpackt, deren Name sich von ihrer Dateinamenerweiterung ableitet. Windows Installer stellt eine deutliche Verbesserung gegenüber seinem Vorgänger, der Setup-API, dar: Neue Funktionen wie eine grafische Benutzeroberfläche, die automatische Generierung einer Deinstallationssequenz und erweiterte Bereitstellungstools haben ihn in Konkurrenz zu anderen eigenständigen Installationsframeworks wie InstallShield, WISE und NSIS gebracht. Neuere Versionen dieser Frameworks basieren auf Windows Installer, um eine bessere Synchronisierung mit anderen Installationsprogrammen zu gewährleisten und die Installationsdatenbank intakt zu halten, wodurch Vorgänge wie das Rollback ermöglicht werden.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Windows Installer (anciennement Microsoft Installer[2]) est un composant permettant d'installer, de gérer et de désinstaller des logiciels sous les systèmes d'exploitation Microsoft Windows. Les informations d'installation et les fichiers programmes sont regroupés sous forme de bases de données relationnelles dans des fichiers appelés « fichiers MSI », comme leur nom l'indique. Windows Installer représente une amélioration significative par rapport à son prédécesseur, Setup API : de nouvelles fonctionnalités, telles qu'une interface graphique, la génération automatique de séquences de désinstallation et des outils de déploiement avancés, lui permettent de rivaliser avec d'autres frameworks d'installation autonomes, comme InstallShield, WISE et NSIS. Les versions plus récentes de ces frameworks s'appuient sur Windows Installer afin d'assurer une meilleure synchronisation avec les autres programmes d'installation et de préserver l'intégrité de la base de données d'installation, permettant ainsi des opérations telles que la restauration.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Windows Installer (precedentemente denominato Microsoft Installer[2]) è un componente per l'installazione, la manutenzione e la rimozione dei software nei sistemi operativi Microsoft Windows prodotto dalla Microsoft stessa. Le informazioni di installazione e i file del programma sono contenuti in pacchetti organizzati come database relazionali nei cosiddetti "file MSI", dalla loro estensione. Windows Installer è un notevole passo avanti rispetto al suo predecessore, Setup API: le nuove funzionalità, come un framework per la gestione dell'interfaccia grafica, la generazione automatica della sequenza di disinstallazione, e gli strumenti avanzati per la distribuzione, lo hanno portato in competizione con altri framework d'installazione stand-alone, come InstallShield, WISE e NSIS. Le versioni più recenti di questi framework sono basate su Windows Installer in modo da sincronizzarsi al meglio con gli altri installer e mantenere il database delle installazioni integro, per permettere operazioni come il rollback.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
 	</view>
 </theme>
+
+
+
+
