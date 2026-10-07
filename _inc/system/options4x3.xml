@@ -46,7 +46,8 @@ version         3.0
    <include subset="buttons icons" name="Keyboard"     displayName="Keyboard">./../help/keyboard.xml</include>
    <include subset="games count" name="On" displayName="Contatore Giochi ON">./gamescount/on.xml</include>
    <include subset="games count" name="Off" displayName="Contatore Giochi OFF">./gamescount/off.xml</include>
-
+   <include subset="welcome" name="On" displayName="Welcome ON"/>
+   <include subset="welcome" name="Off" displayName="Welcome OFF"/>
 
 </theme>
 
