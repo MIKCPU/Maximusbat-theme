@@ -12,6 +12,21 @@ version         3.0
     <include subset="fontbase" name="Slapstick" displayName="SF Slapstick Comic Bold">./maximusbat_slapstick.xml</include>
 
   <include>./_inc/system/options4x3.xml</include>
+
+  <view name="system">
+        <image name="maximusbat_welcome" extra="true" ifSubset="welcome:On">
+            <path>./_inc/images/welcome/en.png</path>
+            <path lang="it">./_inc/images/welcome/it.png</path>
+            <path lang="fr">./_inc/images/welcome/fr.png</path>
+            <path lang="de">./_inc/images/welcome/de.png</path>
+            <path lang="es">./_inc/images/welcome/es.png</path>
+            <pos>0.5 0.5</pos>
+            <size>1 1</size>
+            <origin>0.5 0.5</origin>
+            <zIndex>9999</zIndex>
+        </image>
+    </view>
+
   <view name="system">
    <image name="background">
    <pos>0 0</pos>
