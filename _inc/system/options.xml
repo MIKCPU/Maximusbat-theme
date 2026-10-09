@@ -7,6 +7,8 @@ version         3.0
 <theme>
    <formatVersion>7</formatVersion>
 
+   <include subset="welcome" name="On" displayName="Welcome ON"/>
+   <include subset="welcome" name="Off" displayName="Welcome OFF"/>
    <include subset="view" name="Carousel" displayName="Carousel">./view/carousel.xml</include>
    <include subset="view" name="Carousel2" displayName="Carousel2">./view/carousel2.xml</include>
    <include subset="view" name="Wheel" displayName="Wheel">./view/wheel.xml</include>
@@ -46,8 +48,6 @@ version         3.0
    <include subset="buttons icons" name="Keyboard"     displayName="Keyboard">./../help/keyboard.xml</include>
    <include subset="games count" name="On" displayName="Numero Giochi ON">./gamescount/on.xml</include>
    <include subset="games count" name="Off" displayName="Contatore Giochi OFF">./gamescount/off.xml</include>
-   <include subset="welcome" name="On" displayName="Welcome ON"/>
-   <include subset="welcome" name="Off" displayName="Welcome OFF"/>
 
 </theme>
 
