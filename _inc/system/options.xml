@@ -15,7 +15,7 @@ version         3.0
    <include subset="view" name="Wheel2" displayName="Wheel 2">./view/wheel2.xml</include>
    <include subset="view" name="CoinOpsNext" displayName="CoinOps Next">./../../_coinops/_viewsyst/coinopsnext.xml</include>
    <include subset="view" name="CoinOpsNext2" displayName="CoinOps Next 2">./../../_coinops/_viewsyst/coinopsnext2.xml</include>
-   <include subset="orb icons" name="Default" displayName="Barra Icone: Default">./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb_default.xml</include>
+   <include subset="orb icons" name="Default" displayName="Barra Icone: Default">./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb.xml</include>
    <include subset="orb icons" name="Orb2" displayName="Barra Icone: Orb 2">./../../_coinops/_viewsystoption/sl-commun/menuofficiel/orb2.xml</include>
    <include subset="bg filter" name="Off" displayName="Sfondo Naturale">./bgfilter/off.xml</include>
    <include subset="bg filter" name="On" displayName="Sfondo Filtrato">./bgfilter/on.xml</include>
