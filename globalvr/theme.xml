@@ -1,0 +1,42 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Global VR is a company based in San Jose, California, that develops arcade games. The company also previously manufactured virtual reality systems. It has also developed electronic kiosks and provides development services for mobile platforms. The company's primary business is the development of arcade games. Many of its games are PC titles adapted for arcade machines. Global VR holds licensing rights from Electronic Arts and has developed arcade games based on Madden NFL, Need for Speed, and Tiger Woods PGA Tour. Other Global VR titles are based on popular licenses, such as Aliens: Extermination and Justice League: Heroes United.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Global VR è un'azienda con sede a San Jose, in California, che sviluppa giochi arcade. In passato l'azienda produceva anche sistemi per la realtà virtuale. Ha inoltre sviluppato chioschi elettronici e offre servizi di sviluppo per piattaforme mobili. L'attività principale dell'azienda è lo sviluppo di giochi arcade. Molti dei suoi giochi sono titoli per PC adattati per i cabinati arcade. Global VR possiede i diritti di licenza di Electronic Arts e ha sviluppato giochi arcade basati su Madden NFL, Need for Speed e Tiger Woods PGA Tour. Altri titoli di Global VR sono basati su licenze popolari, come Aliens: Extermination e Justice League: Heroes United.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Global VR est une entreprise basée à San Jose, en Californie, spécialisée dans le développement de jeux d’arcade. L’entreprise fabriquait également autrefois des systèmes de réalité virtuelle. Elle a aussi développé des bornes électroniques et propose des services de développement pour les plateformes mobiles. L’activité principale de l’entreprise est le développement de jeux d’arcade. Beaucoup de ses jeux sont des titres PC adaptés aux bornes d’arcade. Global VR détient des droits de licence d’Electronic Arts et a développé des jeux d’arcade basés sur Madden NFL, Need for Speed et Tiger Woods PGA Tour. D’autres titres de Global VR reposent sur des licences populaires, comme Aliens: Extermination et Justice League: Heroes United.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Global VR ist ein Unternehmen mit Sitz in San Jose, Kalifornien, das Arcade-Spiele entwickelt. Das Unternehmen stellte früher auch Systeme für virtuelle Realität her. Darüber hinaus entwickelte es elektronische Kiosksysteme und bietet Entwicklungsdienstleistungen für mobile Plattformen an. Das Hauptgeschäft des Unternehmens ist die Entwicklung von Arcade-Spielen. Viele seiner Spiele sind PC-Titel, die für Arcade-Automaten angepasst wurden. Global VR besitzt Lizenzrechte von Electronic Arts und entwickelte Arcade-Spiele auf Grundlage von Madden NFL, Need for Speed und Tiger Woods PGA Tour. Andere Titel von Global VR basieren auf bekannten Lizenzen, darunter Aliens: Extermination und Justice League: Heroes United.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Global VR es una empresa con sede en San José, California, dedicada al desarrollo de juegos arcade. La empresa también fabricó anteriormente sistemas de realidad virtual. Además, ha desarrollado quioscos electrónicos y ofrece servicios de desarrollo para plataformas móviles. La principal actividad de la empresa es el desarrollo de juegos arcade. Muchos de sus juegos son títulos para PC adaptados para máquinas arcade. Global VR posee derechos de licencia de Electronic Arts y ha desarrollado juegos arcade basados en Madden NFL, Need for Speed y Tiger Woods PGA Tour. Otros títulos de Global VR se basan en licencias populares, como Aliens: Extermination y Justice League: Heroes United.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+	</view>
+</theme>
+
+
+
+
