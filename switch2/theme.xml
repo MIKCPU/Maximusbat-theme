@@ -1,0 +1,42 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <text>The Nintendo Switch 2 is a hybrid console developed by Nintendo, released worldwide starting June 5, 2025. The console is backward compatible with the Nintendo Switch and, like its predecessor, can be used both as a home console and as a portable device; it also utilizes cartridge-based media. It was officially revealed on January 16, 2025, via a trailer, and showcased on April 2, 2025, during a dedicated Nintendo Direct, which also included the announcement of the games available at launch.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Nintendo Switch 2 (ニンテンドースイッチ２?, Nintendō Suitchi Tsū) e' una console di natura ibrida sviluppata da Nintendo, distribuita in tutto il mondo a partire dal 5 giugno 2025. La console e' retrocompatibile con Nintendo Switch e, come il suo predecessore, puo' essere utilizzata sia come piattaforma domestica che come portatile ed è dotata di un supporto su cartuccia. E' stata rivelata ufficialmente il 16 gennaio 2025 con un trailer e presentata il 2 aprile 2025 con un Nintendo Direct dedicato, assieme alla quale sono stati annunciati i giochi in uscita al lancio.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">La Nintendo Switch 2 est une console hybride développée par Nintendo, distribuée dans le monde entier à partir du 5 juin 2025. La console est rétrocompatible avec la Nintendo Switch et, tout comme sa prédécesseure, elle peut être utilisée aussi bien comme console de salon que comme console portable ; elle utilise des cartouches comme support de jeu. Elle a été officiellement dévoilée le 16 janvier 2025 par le biais d'une bande-annonce, puis présentée le 2 avril 2025 lors d'un Nintendo Direct dédié, durant lequel les jeux disponibles au lancement ont également été annoncés.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Die Nintendo Switch 2 ist eine von Nintendo entwickelte Hybrid-Konsole, die ab dem 5. Juni 2025 weltweit vertrieben wird. Die Konsole ist abwärtskompatibel zur Nintendo Switch und lässt sich – genau wie ihr Vorgänger – sowohl als Heimkonsole als auch als tragbares Gerät nutzen; zudem verwendet sie Spielkassetten. Sie wurde am 16. Januar 2025 offiziell per Trailer angekündigt und am 2. April 2025 im Rahmen einer speziellen „Nintendo Direct“-Präsentation vorgestellt, bei der auch die zum Verkaufsstart erscheinenden Spiele bekannt gegeben wurden.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Nintendo Switch 2 (ニンテンドースイッチ２?, Nintendō Suitchi Tsū) es una consola híbrida desarrollada por Nintendo, lanzada mundialmente el 5 de junio de 2025. La consola es retrocompatible con Nintendo Switch y, al igual que su predecesora, puede usarse tanto como consola de sobremesa como portátil, y cuenta con soporte para cartuchos. Fue presentada oficialmente el 16 de enero de 2025 con un tráiler y el 2 de abril de 2025 con una presentación dedicada de Nintendo Direct, junto con el anuncio de los juegos que se lanzarían en su lanzamiento.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+	</view>
+</theme>
+
+
+
+
