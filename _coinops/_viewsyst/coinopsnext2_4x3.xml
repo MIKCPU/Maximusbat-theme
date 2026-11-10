@@ -559,31 +559,34 @@ version         3.0
     <path>./../_inc/images/wheel/${system.theme}.png</path>
     <path>./../_inc/images/wheel/${system.theme}-it.png</path>
     <storyboard repeat="forever">
-        <animation property="opacity"
-            from="1"
-            to="0.88"
-            duration="900"
-            mode="easeInOut"
-            autoreverse="true"/>
-        <animation property="offsetX"
-            from="0"
-            to="0.003"
-            duration="2800"
-            mode="easeInOut"
-            autoreverse="true"/>
-        <animation property="offsetY"
-            from="0"
-            to="0.002"
-            duration="3200"
-            mode="easeInOut"
-            autoreverse="true"/>
-        <animation property="scale"
-            from="1.00"
-            to="1.03"
-            duration="3800"
-            mode="easeInOut"
-            autoreverse="true"/>
-    </storyboard>
+    <animation property="opacity"
+        from="0.94"
+        to="1"
+        duration="1800"
+        mode="easeInOut"
+        autoreverse="true"/>
+
+    <animation property="offsetX"
+        from="0"
+        to="0.0015"
+        duration="2400"
+        mode="easeInOut"
+        autoreverse="true"/>
+
+    <animation property="offsetY"
+        from="0"
+        to="0.0015"
+        duration="2400"
+        mode="easeInOut"
+        autoreverse="true"/>
+
+    <animation property="scale"
+        from="1.00"
+        to="1.025"
+        duration="2400"
+        mode="easeInOut"
+        autoreverse="true"/>
+</storyboard>
 </image>
 
 </view>
