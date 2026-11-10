@@ -1,0 +1,42 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <text>The Nintendo eShop is an online store launched in June 2011 for the sale of video games and applications; it is available on the Nintendo 3DS, Wii U, Nintendo Switch, and Nintendo Switch 2. The store is the direct successor to the Wii Shop Channel and the Nintendo DSi Shop—which closed on January 31, 2019, and March 31, 2017, respectively—and it first debuted on the Nintendo 3DS via a software update that added the digital store's icon to the home screen. On the Wii U and Nintendo Switch, it launched alongside the release of the consoles themselves, in November 2012 and March 2017, respectively. The Nintendo eShop is accessible in Japan, many European countries, the United States, Canada, and Mexico; certain features are also available in South Africa, Russia, and Brazil.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Il Nintendo eShop e' un negozio online lanciato nel giugno 2011 per la vendita di videogiochi e applicazioni; e' presente su Nintendo 3DS, Wii U, Nintendo Switch e Nintendo Switch 2. Il negozio e' il diretto successore del Canale Wii Shop e del Nintendo DSi Shop, chiusi rispettivamente il 31 gennaio 2019 e il 31 marzo 2017, e fu lanciato per la prima volta su Nintendo 3DS, tramite un aggiornamento software che aggiungeva l'icona del negozio digitale alla home. Su Wii U e Switch, invece, fu lanciato in concomitanza con l'uscita delle console rispettivamente a novembre del 2012 e a marzo del 2017. Il Nintendo eShop e' accessibile in Giappone, in numerosi paesi dell'Europa, negli Stati Uniti d'America, in Canada e in Messico; alcune funzionalita' sono disponibili per il Sudafrica, la Russia e il Brasile.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Le Nintendo eShop est une boutique en ligne lancée en juin 2011, dédiée à la vente de jeux vidéo et d'applications ; il est disponible sur Nintendo 3DS, Wii U, Nintendo Switch et Nintendo Switch 2. Cette boutique succède directement à la Chaîne boutique Wii et au Nintendo DSi Shop — fermés respectivement le 31 janvier 2019 et le 31 mars 2017 — et a fait ses débuts sur Nintendo 3DS via une mise à jour logicielle qui a ajouté l'icône de la boutique numérique au menu principal. Sur Wii U et Switch, en revanche, elle a été lancée simultanément à la sortie des consoles, respectivement en novembre 2012 et en mars 2017. Le Nintendo eShop est accessible au Japon, dans de nombreux pays européens, aux États-Unis, au Canada et au Mexique ; certaines fonctionnalités sont également disponibles en Afrique du Sud, en Russie et au Brésil.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Der Nintendo eShop ist ein im Juni 2011 gestarteter Online-Shop für den Verkauf von Videospielen und Anwendungen; er ist auf dem Nintendo 3DS, der Wii U, der Nintendo Switch und der Nintendo Switch 2 verfügbar. Der Shop ist der direkte Nachfolger des Wii-Shop-Kanals sowie des Nintendo DSi Shops – deren Dienste am 31. Januar 2019 beziehungsweise am 31. März 2017 eingestellt wurden – und wurde erstmals auf dem Nintendo 3DS eingeführt, wobei ein Software-Update das Symbol für den digitalen Shop zum Startbildschirm hinzufügte. Auf der Wii U und der Nintendo Switch hingegen war der Shop bereits zum jeweiligen Verkaufsstart der Konsolen – im November 2012 beziehungsweise im März 2017 – verfügbar. Der Nintendo eShop ist in Japan, zahlreichen europäischen Ländern, den Vereinigten Staaten, Kanada und Mexiko zugänglich; für Südafrika, Russland und Brasilien sind zudem einige Funktionen verfügbar.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">La Nintendo eShop es una tienda en línea lanzada en junio de 2011 para la venta de videojuegos y aplicaciones; está disponible para Nintendo 3DS, Wii U, Nintendo Switch y Nintendo Switch 2. La tienda es la sucesora directa del Canal Tienda Wii y la Tienda Nintendo DSi, que cerraron el 31 de enero de 2019 y el 31 de marzo de 2017, respectivamente. Se lanzó por primera vez en Nintendo 3DS mediante una actualización de software que añadió el icono de la tienda digital a la pantalla de inicio. En Wii U y Switch, sin embargo, se lanzó junto con el lanzamiento de las consolas en noviembre de 2012 y marzo de 2017, respectivamente. La Nintendo eShop está disponible en Japón, varios países europeos, Estados Unidos, Canadá y México; algunas funciones están disponibles en Sudáfrica, Rusia y Brasil.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+	</view>
+</theme>
+
+
+
+
