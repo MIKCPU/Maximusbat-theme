@@ -33,6 +33,10 @@ version         3.0
         <logoSize>0.125 0.160</logoSize>
         <color>00000000</color>
         <maxLogoCount>5</maxLogoCount>
+        <scrollSound>./_inc/sounds/scroll-system.wav</scrollSound>
+        <storyboard>
+            <sound path="./_inc/sounds/scroll-out.wav"/>
+        </storyboard>
       </carousel>
 
 <image name="logo" ifSubset="Wheel">
@@ -124,7 +128,10 @@ version         3.0
          <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
          <fontSize>0.03</fontSize>
          <forceUppercase>1</forceUppercase>
-         <scrollSound></scrollSound>
+         <scrollSound>./_inc/sounds/scroll-game.wav</scrollSound>
+         <storyboard>
+            <sound path="./_inc/sounds/scroll-in.wav"/>
+         </storyboard>
          <alignment>center</alignment>
       </textlist>
    </view>
