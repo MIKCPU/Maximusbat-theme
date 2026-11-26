@@ -1,0 +1,42 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <text>The PSX Arcade system gathers the arcade boards built around PlayStation hardware, from 1994. Sony supplied the base (R3000A processor, the console graphics chip) and each publisher adapted it to its cabinets: more memory, sound chips, CD or memory card drives.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">El sistema PSX Arcade agrupa las placas de arcade basadas en el hardware de PlayStation, a partir de 1994. Sony proporcionaba la base (el procesador R3000A y el chip gráfico de la consola), y cada editor la adaptaba a sus propias máquinas: añadiendo más memoria, chips de sonido, o unidades de CD o de tarjetas de memoria.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Das PSX-Arcade-System umfasst Arcade-Platinen, die ab 1994 auf Basis von PlayStation-Hardware entwickelt wurden. Sony lieferte die technische Grundlage – bestehend aus dem R3000A-Prozessor und dem Grafikchip der Konsole –, während die jeweiligen Publisher diese für ihre Arcade-Automaten anpassten, etwa durch zusätzlichen Arbeitsspeicher, spezielle Soundchips oder Laufwerke für CDs beziehungsweise Speicherkarten.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Le système PSX Arcade regroupe des cartes d'arcade conçues à partir du matériel de la PlayStation, à compter de 1994. Sony fournissait la base (processeur R3000A, puce graphique de la console), que chaque éditeur adaptait ensuite à ses bornes : ajout de mémoire, puces sonores, lecteurs de CD ou emplacements pour cartes mémoire.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Il sistema PSX Arcade raggruppa le schede arcade basate sull'hardware della PlayStation, a partire dal 1994. Sony forniva la base (processore R3000A e chip grafico della console), che ogni editore adattava poi ai propri cabinati, aggiungendo ad esempio maggiore memoria, chip sonori o lettori per CD e schede di memoria.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+	</view>
+</theme>
+
+
+
+
