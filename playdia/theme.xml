@@ -1,0 +1,42 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <text>The Playdia is a home console introduced by Bandai in 1994. It features a CD-ROM drive and a wireless controller; however, its hardware was not cutting-edge, as it was based on an 8-bit processor—already outdated at the time. It was primarily intended for use as an educational gaming system. The console was released exclusively in Japan and did not achieve significant commercial success.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Playdia e' una console da tavolo presentata nel 1994 da Bandai. E' dotata di lettore CD-ROM e di joypad senza filo, ma l'hardware non era all'avanguardia ed e' basata su un processore a 8 bit, gia' antiquato all'epoca. Era orientata soprattutto all'uso come gioco educativo. La console venne distribuita unicamente in Giappone e non ebbe molto successo di vendite.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">La Playdia est une console de salon présentée en 1994 par Bandai. Elle est équipée d'un lecteur CD-ROM et d'une manette sans fil ; toutefois, son matériel n'était pas à la pointe, reposant sur un processeur 8 bits déjà obsolète à l'époque. Elle était principalement destinée à un usage éducatif. La console a été commercialisée uniquement au Japon et n'a pas rencontré un grand succès commercial.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Die Playdia ist eine stationäre Spielkonsole, die 1994 von Bandai vorgestellt wurde. Sie ist mit einem CD-ROM-Laufwerk und einem kabellosen Gamepad ausgestattet; die Hardware war jedoch nicht auf dem neuesten Stand und basierte auf einem 8-Bit-Prozessor, der schon damals veraltet war. Die Konsole war vor allem für den Einsatz als Lernspielsystem konzipiert. Sie wurde ausschließlich in Japan vertrieben und war kommerziell wenig erfolgreich.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">La Playdia es una consola de sobremesa lanzada en 1994 por Bandai. Incluye una unidad de CD-ROM y un mando inalámbrico, pero su hardware no era de última generación y se basaba en un procesador de 8 bits, ya obsoleto en aquel entonces. Su principal objetivo era el uso educativo. La consola se distribuyó únicamente en Japón y no tuvo mucho éxito comercial.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+	</view>
+</theme>
+
+
+
+
