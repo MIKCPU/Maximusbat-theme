@@ -1,0 +1,38 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <text>This page covers native PC ports of console games, such as recompilations and decompilations. No emulator is involved: RetroBat starts the port's executable directly and waits for it to close. RetroBat doesn't ship these ports. Install them with Quiver Launcher or download them from their project pages, then supply the original game data as each port requires.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">Questa pagina tratta i port nativi per PC di giochi originariamente destinati alle console, inclusi quelli ottenuti tramite ricompilazione o decompilazione. Non viene utilizzato alcun emulatore: RetroBat avvia direttamente l'eseguibile del port e attende la sua chiusura. RetroBat non include questi port al suo interno; e' necessario installarli tramite Quiver Launcher o scaricarli dalle pagine dei rispettivi progetti, fornendo poi i dati di gioco originali, come richiesto da ciascun port.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">Cette page traite des portages natifs sur PC de jeux initialement conçus pour consoles, notamment ceux issus de recompilations ou de décompilations. Aucun émulateur n'est utilisé : RetroBat lance directement le fichier exécutable du portage et attend sa fermeture. RetroBat ne fournit pas ces portages. Installez-les via Quiver Launcher ou téléchargez-les depuis les pages dédiées à chaque projet, puis ajoutez les données du jeu original, conformément aux exigences de chaque portage.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Diese Seite befasst sich mit nativen PC-Portierungen von Konsolenspielen, wie etwa durch Rekompilierung oder Dekompilierung entstandenen Versionen. Es kommt kein Emulator zum Einsatz: RetroBat startet die ausführbare Datei der Portierung direkt und wartet, bis diese beendet wird. RetroBat liefert diese Portierungen nicht selbst mit. Installieren Sie sie mithilfe des Quiver Launchers oder laden Sie sie von den jeweiligen Projektseiten herunter; stellen Sie anschließend die für die jeweilige Portierung erforderlichen Original-Spieldaten bereit.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">Esta página trata sobre adaptaciones nativas para PC de juegos de consola, tales como recompilaciones y descompilaciones. No se utiliza ningún emulador: RetroBat ejecuta directamente el archivo ejecutable de la adaptación y espera a que este se cierre. RetroBat no incluye estas adaptaciones. Instálalas mediante Quiver Launcher o descárgalas desde las páginas de sus respectivos proyectos; luego, proporciona los datos originales del juego tal como lo requiera cada adaptación.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+	</view>
+</theme>

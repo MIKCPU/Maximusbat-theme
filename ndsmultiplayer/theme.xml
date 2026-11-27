@@ -1,0 +1,38 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0.5 0.5</origin>
+                   <pos>0.5 0.5</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+ 		<text name="systemDesc" extra="true">
+         <text>Nintendo DS Multiplayer lets several players play Nintendo DS games on a single PC: 2 to 4 DS consoles are shown side by side in the same window, linked by an emulated local wireless connection, with one controller per player. This brings back multi-console games (DS Wireless Play) and DS Download Play (a single cartridge for the whole group). This system uses the melondsds_splitscreen libretro core (melonDS DS Splitscreen 1.1, modified version of melonDS DS 1.4.0). It is experimental: test release, still limited compatibility (see Known issues). To play DS games alone, use the Nintendo DS system.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="it">La modalita' multiplayer per Nintendo DS consente a piu' giocatori di utilizzare i titoli per Nintendo DS su un unico PC: da 2 a 4 console DS vengono visualizzate affiancate nella stessa finestra, collegate tramite una connessione wireless locale emulata, con un controller dedicato a ciascun giocatore. Cio' permette di sfruttare nuovamente le funzionalità multiplayer tra più console ("DS Wireless Play") e il "DS Download Play" (che richiede una sola cartuccia per l'intero gruppo). Il sistema si avvale del core libretro `melondsds_splitscreen` (melonDS DS Splitscreen 1.1, una versione modificata di melonDS DS 1.4.0). Si tratta di una soluzione sperimentale: e' una versione di prova con compatibilita' ancora limitata (consultare la sezione "Problemi noti"). Per giocare ai titoli DS in modalità singola, si prega di utilizzare il sistema Nintendo DS standard.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="fr">La fonctionnalité multijoueur pour Nintendo DS permet à plusieurs personnes de jouer à des jeux Nintendo DS sur un seul PC : 2 à 4 consoles DS sont affichées côte à côte dans une même fenêtre, reliées par une connexion sans fil locale émulée, avec une manette dédiée à chaque joueur. Cela permet de retrouver les jeux multiconsole (« DS Wireless Play ») ainsi que le mode « DS Download Play » (où une seule cartouche suffit pour tout le groupe). Ce système repose sur le cœur Libretro « melondsds_splitscreen » (melonDS DS Splitscreen 1.1, une version modifiée de melonDS DS 1.4.0). Il s'agit d'une solution expérimentale : version de test avec une compatibilité encore limitée (voir la section « Problèmes connus »). Pour jouer seul à des jeux DS, veuillez utiliser le système Nintendo DS standard.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="de">Der Nintendo-DS-Mehrspielermodus ermöglicht es mehreren Personen, Nintendo-DS-Spiele auf einem einzigen PC zu spielen: 2 bis 4 DS-Konsolen werden nebeneinander in einem gemeinsamen Fenster dargestellt und sind über eine emulierte lokale Funkverbindung miteinander verknüpft; jeder Spieler verwendet dabei einen eigenen Controller. Auf diese Weise lassen sich Spiele, die normalerweise mehrere Konsolen erfordern (DS Wireless Play), sowie „DS Download Play“ (bei dem nur ein einziges Spielmodul für die gesamte Gruppe benötigt wird) nutzen. Das System basiert auf dem „melondsds_splitscreen“-Libretro-Core (melonDS DS Splitscreen 1.1, eine modifizierte Version von melonDS DS 1.4.0). Es handelt sich um eine experimentelle Testversion mit noch eingeschränkter Kompatibilität (siehe „Bekannte Probleme“). Für das Einzelspiel von DS-Titeln sollte das reguläre Nintendo-DS-System verwendet werden.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+			<text lang="es">La función multijugador de Nintendo DS permite que varios usuarios jueguen a títulos de Nintendo DS en un mismo PC: se muestran de 2 a 4 consolas DS, una al lado de la otra en la misma ventana, conectadas mediante una conexión inalámbrica local emulada, con un mando asignado a cada jugador. Esto recupera el modo multijugador entre varias consolas («DS Wireless Play») y la función «DS Download Play» (que permite jugar a todo el grupo utilizando un solo cartucho). Este sistema emplea el núcleo (core) de Libretro «melondsds_splitscreen» (melonDS DS Splitscreen 1.1, una versión modificada de melonDS DS 1.4.0). Se trata de una función experimental: es una versión de prueba con una compatibilidad aún limitada (consulta el apartado «Problemas conocidos»). Para jugar a títulos de DS en solitario, utiliza el sistema Nintendo DS estándar.<multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>       
+      <zIndex>100</zIndex>
+		 <alignment>left</alignment>      <multiLine ifSubset="view:Carousel">false</multiLine>
+<autoScrollDelay ifSubset="view:Carousel">3000</autoScrollDelay>
+<singleLineScroll ifSubset="view:Carousel">true</singleLineScroll>
+      </text>
+	</view>
+</theme>
